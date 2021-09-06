@@ -1,0 +1,11 @@
+new entry "DEMONIC_POSSESSION"
+type "StatusData"
+data "StatusType" "CHARMED"
+data "ForGameMaster" "No"
+data "InitiateCombat" "No"
+data "DisplayName" "DEMONIC_POSSESSION_DisplayName"
+data "DisplayNameRef" "|Demonically Possessed|"
+data "Icon" "unknown"
+data "FormatColor" "Red"
+data "StatsId" "Stats_Possessed"
+

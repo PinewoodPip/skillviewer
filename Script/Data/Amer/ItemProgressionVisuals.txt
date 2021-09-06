@@ -1,0 +1,5713 @@
+new itemgroup "Swords_2H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "ebd9f89a-5633-4059-b2d6-d2d8c8579c9a",""
+add namegroup "Broken Twohander","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "a59ac111-dfe9-4dcc-8ede-9ebd757b1bfc",""
+add namegroup "Twohander","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "16600f2c-3817-42e7-be9d-5804f8ac77c8",""
+add namegroup "Twohander 2","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "16600f2c-3817-42e7-be9d-5804f8ac77c8",""
+add namegroup "Two-Handed Sword","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "3220d68f-2651-4f88-b387-5bfa36514f3b",""
+add namegroup "Serrated Twohander","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "3220d68f-2651-4f88-b387-5bfa36514f3b",""
+add namegroup "Serrated Twohander 2","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "db4bb2bb-7ffa-4d46-8dea-141b1a584155","ElvesCommon"
+add namegroup "Elven Twohander","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "94aaefe8-4843-4624-b1a0-92d63be2e5b8",""
+add namegroup "Claymore","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "a59ac111-dfe9-4dcc-8ede-9ebd757b1bfc",""
+add namegroup "Old Twohander","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "16600f2c-3817-42e7-be9d-5804f8ac77c8",""
+add namegroup "Two-Handed Sword","Cool","Item_WPN_Human_Normal_Sword_A_C"
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "3220d68f-2651-4f88-b387-5bfa36514f3b",""
+add namegroup "Serrated Twohander","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "db4bb2bb-7ffa-4d46-8dea-141b1a584155","ElvesUncommon"
+add namegroup "Elven Twohander","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "94aaefe8-4843-4624-b1a0-92d63be2e5b8",""
+add namegroup "Claymore","Cool","Item_WPN_Human_Normal_Scimitar_A_C"
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "35d453b8-52cc-4a26-8994-942b06c91bf4",""
+add namegroup "Lizard's War Scythe","Cool",""
+
+add levelgroup 15,0,"Uncommon"
+add rootgroup "90e69418-9952-47f9-8627-d28983e18e7d",""
+add namegroup "Dwarven Twohander","Cool","Item_WPN_Human_Normal_LongSword_A_B"
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "2e912f45-64c8-47d0-b3e5-8a7089d7f53f","ElvesUncommon"
+add namegroup "Elvish Flammenschwert","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "537a06a5-0619-4d57-b77d-b4c319eab3e6",""
+add namegroup "Two-Handed Sawtooth Blade","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "16600f2c-3817-42e7-be9d-5804f8ac77c8",""
+add namegroup "RG_Swords_2H_Rare_AMER","","Item_WPN_Human_Normal_Sword_A_B"
+
+add levelgroup 4,0,"Rare"
+add rootgroup "3220d68f-2651-4f88-b387-5bfa36514f3b",""
+add namegroup "RG_Swords_2H_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "db4bb2bb-7ffa-4d46-8dea-141b1a584155","ElvesRare"
+add namegroup "RG_Swords_2H_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "94aaefe8-4843-4624-b1a0-92d63be2e5b8",""
+add namegroup "RG_Swords_2H_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "35d453b8-52cc-4a26-8994-942b06c91bf4",""
+add namegroup "RG_Swords_2H_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "90e69418-9952-47f9-8627-d28983e18e7d",""
+add namegroup "RG_Swords_2H_Rare_AMER","","Item_WPN_Human_Normal_LongSword_A_B"
+
+add levelgroup 15,0,"Rare"
+add rootgroup "2e912f45-64c8-47d0-b3e5-8a7089d7f53f","ElvesRare"
+add namegroup "RG_Swords_2H_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "537a06a5-0619-4d57-b77d-b4c319eab3e6",""
+add namegroup "RG_Swords_2H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "03f8fb7a-59cf-47eb-9298-79cedaf744e5",""
+add namegroup "RG_Swords_2H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "3220d68f-2651-4f88-b387-5bfa36514f3b",""
+add namegroup "RG_Swords_2H_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "db4bb2bb-7ffa-4d46-8dea-141b1a584155","ElvesEpic"
+add namegroup "RG_Swords_2H_Epic_AMER","",""
+
+add levelgroup 7,0,"Epic"
+add rootgroup "94aaefe8-4843-4624-b1a0-92d63be2e5b8",""
+add namegroup "RG_Swords_2H_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "35d453b8-52cc-4a26-8994-942b06c91bf4",""
+add namegroup "RG_Swords_2H_Epic_AMER","",""
+
+add levelgroup 11,0,"Epic"
+add rootgroup "90e69418-9952-47f9-8627-d28983e18e7d",""
+add namegroup "RG_Swords_2H_Epic_AMER","","Item_WPN_Human_Normal_LongSword_A_C"
+
+add levelgroup 13,0,"Epic"
+add rootgroup "2e912f45-64c8-47d0-b3e5-8a7089d7f53f","ElvesEpic"
+add namegroup "RG_Swords_2H_Epic_AMER","",""
+
+add levelgroup 15,0,"Epic"
+add rootgroup "537a06a5-0619-4d57-b77d-b4c319eab3e6",""
+add namegroup "RG_Swords_2H_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "03f8fb7a-59cf-47eb-9298-79cedaf744e5",""
+add namegroup "RG_Swords_2H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "d4624be9-3db6-46db-b190-f8f5ffbd542e",""
+add namegroup "RG_Swords_2H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "3220d68f-2651-4f88-b387-5bfa36514f3b",""
+add namegroup "RG_Swords_2H_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "db4bb2bb-7ffa-4d46-8dea-141b1a584155","ElvesEpic"
+add namegroup "RG_Swords_2H_Legendary","",""
+
+add levelgroup 7,0,"Legendary"
+add rootgroup "94aaefe8-4843-4624-b1a0-92d63be2e5b8",""
+add namegroup "RG_Swords_2H_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "35d453b8-52cc-4a26-8994-942b06c91bf4",""
+add namegroup "RG_Swords_2H_Legendary","",""
+
+add levelgroup 11,0,"Legendary"
+add rootgroup "90e69418-9952-47f9-8627-d28983e18e7d",""
+add namegroup "RG_Swords_2H_Legendary","","Item_WPN_Human_Normal_LongSword_A_C"
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "2e912f45-64c8-47d0-b3e5-8a7089d7f53f","ElvesEpic"
+add namegroup "RG_Swords_2H_Legendary","",""
+
+add levelgroup 15,0,"Legendary"
+add rootgroup "537a06a5-0619-4d57-b77d-b4c319eab3e6",""
+add namegroup "RG_Swords_2H_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "03f8fb7a-59cf-47eb-9298-79cedaf744e5",""
+add namegroup "RG_Swords_2H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "d4624be9-3db6-46db-b190-f8f5ffbd542e",""
+add namegroup "RG_Swords_2H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "3220d68f-2651-4f88-b387-5bfa36514f3b",""
+add namegroup "RG_Swords_2H_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "db4bb2bb-7ffa-4d46-8dea-141b1a584155","ElvesEpic"
+add namegroup "RG_Swords_2H_Divine","",""
+
+add levelgroup 7,0,"Divine"
+add rootgroup "94aaefe8-4843-4624-b1a0-92d63be2e5b8",""
+add namegroup "RG_Swords_2H_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "35d453b8-52cc-4a26-8994-942b06c91bf4",""
+add namegroup "RG_Swords_2H_Divine","",""
+
+add levelgroup 11,0,"Divine"
+add rootgroup "90e69418-9952-47f9-8627-d28983e18e7d",""
+add namegroup "RG_Swords_2H_Divine","","Item_WPN_Human_Normal_LongSword_A_C"
+
+add levelgroup 13,0,"Divine"
+add rootgroup "2e912f45-64c8-47d0-b3e5-8a7089d7f53f","ElvesEpic"
+add namegroup "RG_Swords_2H_Divine","",""
+
+add levelgroup 15,0,"Divine"
+add rootgroup "537a06a5-0619-4d57-b77d-b4c319eab3e6",""
+add namegroup "RG_Swords_2H_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "03f8fb7a-59cf-47eb-9298-79cedaf744e5",""
+add namegroup "RG_Swords_2H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "d4624be9-3db6-46db-b190-f8f5ffbd542e",""
+add namegroup "RG_Swords_2H_Divine","",""
+
+new itemgroup "Swords_1H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "47ba6f56-85a7-4ac5-a403-b8d5768ca4d7",""
+add namegroup "Broken Sword","",""
+
+add levelgroup 2,0,"Common"
+add rootgroup "47ba6f56-85a7-4ac5-a403-b8d5768ca4d7",""
+add namegroup "Broken Sword 2","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "3dd01bc4-65e7-4468-9854-b19bc980b3f8",""
+add namegroup "TrainingSword_Lowest","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "3dd01bc4-65e7-4468-9854-b19bc980b3f8",""
+add namegroup "TrainingSword","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "f1a2347e-0a9e-4b4a-9f85-8d9afbcb2ca4",""
+add namegroup "Short Sword","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "f1a2347e-0a9e-4b4a-9f85-8d9afbcb2ca4",""
+add namegroup "Short Sword 2","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "30102727-1802-4aad-b464-02b9816c07db","ElvesCommon"
+add namegroup "Elven Sword","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "374cf6c2-3606-49a9-875b-be0adf103807",""
+add namegroup "Longsword","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "3dd01bc4-65e7-4468-9854-b19bc980b3f8",""
+add namegroup "Sword","Cool",""
+
+add rootgroup "3dd01bc4-65e7-4468-9854-b19bc980b3f8",""
+add namegroup "Sword 2","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "30102727-1802-4aad-b464-02b9816c07db","ElvesCommon"
+add namegroup "Elven Sword 2","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "f1a2347e-0a9e-4b4a-9f85-8d9afbcb2ca4",""
+add namegroup "Bastard Sword","Cool",""
+
+add levelgroup 12,0,"Uncommon"
+add rootgroup "ec4769e6-bcfc-44e0-9e9c-de62e0bdf407",""
+add namegroup "Scimitar","Cool","Item_WPN_Human_Normal_Scimitar_A_C"
+
+add rootgroup "ec4769e6-bcfc-44e0-9e9c-de62e0bdf407",""
+add namegroup "Scimitar 2","Cool","Item_WPN_Human_Normal_Scimitar_A_C"
+
+add levelgroup 16,0,"Uncommon"
+add rootgroup "374cf6c2-3606-49a9-875b-be0adf103807",""
+add namegroup "Longsword","Cool","Item_WPN_Human_Normal_LongSword_A_B"
+
+add rootgroup "374cf6c2-3606-49a9-875b-be0adf103807",""
+add namegroup "Longsword 2","Cool","Item_WPN_Human_Normal_LongSword_A_B"
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "81c2251b-097f-43b7-8138-9a70a2716788",""
+add namegroup "Gladius","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "374cf6c2-3606-49a9-875b-be0adf103807",""
+add namegroup "RG_Swords_1H_Rare_AMER","","Item_WPN_Human_Normal_LongSword_A_B"
+
+add levelgroup 4,0,"Rare"
+add rootgroup "3e9b9eb5-b6c6-4f9b-9bd2-de84fec24a09",""
+add namegroup "RG_Swords_1H_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "61fb0d87-e057-47f1-ac36-05bec12c5a24",""
+add namegroup "RG_Swords_1H_Rare_AMER","",""
+
+add levelgroup 12,0,"Rare"
+add rootgroup "3e9054c4-2d67-4f3d-92f1-460612f20e00",""
+add namegroup "RG_Swords_1H_Rare_AMER","",""
+
+add levelgroup 16,0,"Rare"
+add rootgroup "f1a18280-56f9-4e99-b9c4-867a7c5770a9","ElvesRare"
+add namegroup "RG_Swords_1H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "ec4769e6-bcfc-44e0-9e9c-de62e0bdf407",""
+add namegroup "RG_Swords_1H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "30102727-1802-4aad-b464-02b9816c07db","ElvesEpic"
+add namegroup "RG_Swords_1H_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "374cf6c2-3606-49a9-875b-be0adf103807",""
+add namegroup "RG_Swords_1H_Epic_AMER","","Item_WPN_Human_Normal_LongSword_A_C"
+
+add levelgroup 4,0,"Epic"
+add rootgroup "3e9b9eb5-b6c6-4f9b-9bd2-de84fec24a09",""
+add namegroup "RG_Swords_1H_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "f1a18280-56f9-4e99-b9c4-867a7c5770a9","ElvesEpic"
+add namegroup "RG_Swords_1H_Epic_AMER","",""
+
+add levelgroup 12,0,"Epic"
+add rootgroup "81c2251b-097f-43b7-8138-9a70a2716788",""
+add namegroup "RG_Swords_1H_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "ec4769e6-bcfc-44e0-9e9c-de62e0bdf407",""
+add namegroup "RG_Swords_1H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "23b12e7f-fc58-40ba-b577-19ea4a252b02",""
+add namegroup "RG_Swords_1H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "30102727-1802-4aad-b464-02b9816c07db","ElvesEpic"
+add namegroup "RG_Swords_1H_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "374cf6c2-3606-49a9-875b-be0adf103807",""
+add namegroup "RG_Swords_1H_Legendary","","Item_WPN_Human_Normal_LongSword_A_C"
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "3e9b9eb5-b6c6-4f9b-9bd2-de84fec24a09",""
+add namegroup "RG_Swords_1H_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "f1a18280-56f9-4e99-b9c4-867a7c5770a9","ElvesEpic"
+add namegroup "RG_Swords_1H_Legendary","",""
+
+add levelgroup 12,0,"Legendary"
+add rootgroup "81c2251b-097f-43b7-8138-9a70a2716788",""
+add namegroup "RG_Swords_1H_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "ec4769e6-bcfc-44e0-9e9c-de62e0bdf407",""
+add namegroup "RG_Swords_1H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "23b12e7f-fc58-40ba-b577-19ea4a252b02",""
+add namegroup "RG_Swords_1H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "30102727-1802-4aad-b464-02b9816c07db","ElvesEpic"
+add namegroup "RG_Swords_1H_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "374cf6c2-3606-49a9-875b-be0adf103807",""
+add namegroup "RG_Swords_1H_Divine","","Item_WPN_Human_Normal_LongSword_A_C"
+
+add levelgroup 4,0,"Divine"
+add rootgroup "3e9b9eb5-b6c6-4f9b-9bd2-de84fec24a09",""
+add namegroup "RG_Swords_1H_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "f1a18280-56f9-4e99-b9c4-867a7c5770a9","ElvesEpic"
+add namegroup "RG_Swords_1H_Divine","",""
+
+add levelgroup 12,0,"Divine"
+add rootgroup "81c2251b-097f-43b7-8138-9a70a2716788",""
+add namegroup "RG_Swords_1H_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "ec4769e6-bcfc-44e0-9e9c-de62e0bdf407",""
+add namegroup "RG_Swords_1H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "23b12e7f-fc58-40ba-b577-19ea4a252b02",""
+add namegroup "RG_Swords_1H_Divine","",""
+
+new itemgroup "MageBoots"
+
+add levelgroup 1,0,"Common"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "MageBoots","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "MageBoots2","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "369646c3-4139-4471-97ec-3a934984c977",""
+add namegroup "MageBoots3","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "a9086733-5b30-4a4d-8354-92ddfd538de5",""
+add namegroup "MageBoots4","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "MageBoots","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "MageBoots2","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "369646c3-4139-4471-97ec-3a934984c977",""
+add namegroup "MageBoots3","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "a9086733-5b30-4a4d-8354-92ddfd538de5",""
+add namegroup "MageBoots4","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "RG_MageBoots_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "RG_MageBoots_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "369646c3-4139-4471-97ec-3a934984c977",""
+add namegroup "RG_MageBoots_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "a9086733-5b30-4a4d-8354-92ddfd538de5",""
+add namegroup "RG_MageBoots_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "RG_MageBoots_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "RG_MageBoots_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "369646c3-4139-4471-97ec-3a934984c977",""
+add namegroup "RG_MageBoots_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "a9086733-5b30-4a4d-8354-92ddfd538de5",""
+add namegroup "RG_MageBoots_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "RG_MageBoots_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "RG_MageBoots_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "369646c3-4139-4471-97ec-3a934984c977",""
+add namegroup "RG_MageBoots_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "a9086733-5b30-4a4d-8354-92ddfd538de5",""
+add namegroup "RG_MageBoots_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "RG_MageBoots_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "e1af285b-01d5-4887-998d-d5f18843ad31",""
+add namegroup "RG_MageBoots_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "369646c3-4139-4471-97ec-3a934984c977",""
+add namegroup "RG_MageBoots_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "a9086733-5b30-4a4d-8354-92ddfd538de5",""
+add namegroup "RG_MageBoots_Divine","",""
+
+new itemgroup "Amulets"
+
+add levelgroup 1,0,"Common"
+add rootgroup "7cf92c3b-2a7c-4a0b-86b2-f0c5c4beaea9",""
+add namegroup "Copper Amulet","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "6de34a88-3046-4fef-8933-b4f634d794ae",""
+add namegroup "Blue Amulet","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "16fd48bc-26e0-4884-bd59-680a48b625f1",""
+add namegroup "Green Amulet","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "ab7d656c-f431-40a2-a5e6-75dbd8c31aec",""
+add namegroup "Purple Amulet","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "c0fbb1d2-c82d-4a0b-bfd9-2683ff77e706",""
+add namegroup "Red Amulet","",""
+
+add levelgroup 11,0,"Common"
+add rootgroup "27d7b02a-0df5-40fe-9ebe-4d89ec0aabd6",""
+add namegroup "Turquoise Amulet","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "e6a66686-a7a5-4a5a-bc9e-2269eda66139",""
+add namegroup "Silver Amulet","",""
+
+add levelgroup 15,0,"Common"
+add rootgroup "37f38ca0-5322-4492-963c-8ce0a44716ea",""
+add namegroup "Round Silver Amulet","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "8691db32-e103-4cc5-8470-c18a6df98650",""
+add namegroup "Gold Amulet","",""
+
+add levelgroup 19,0,"Common"
+add rootgroup "3db7da7f-e4e9-4943-ac84-51f3b4e34ac2",""
+add namegroup "Round Gold Amulet","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "e6a66686-a7a5-4a5a-bc9e-2269eda66139",""
+add namegroup "Silver Amulet","Cool",""
+
+add levelgroup 5,0,"Uncommon"
+add rootgroup "8691db32-e103-4cc5-8470-c18a6df98650",""
+add namegroup "Gold Amulet","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "b705f87e-6643-45a0-93e6-5331762a1d5e",""
+add namegroup "Wolf Amulet","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "8f5ff4ce-c64c-4471-9b55-7dc448e27b48",""
+add namegroup "Skull Amulet","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "35eb058e-384e-48b3-b1ed-da5c7b6d2c36",""
+add namegroup "Topaz Necklace","Cool",""
+
+add levelgroup 15,0,"Uncommon"
+add rootgroup "362474ac-753e-4f1f-a922-238177947e9e",""
+add namegroup "Tanzanite Necklace","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "a357d497-edae-4028-a022-eed217d42ac0",""
+add namegroup "Red Amulet","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "2196e131-c4f7-4820-82c4-77522a0f75c5",""
+add namegroup "Emerald Necklace","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "8691db32-e103-4cc5-8470-c18a6df98650",""
+add namegroup "RG_Amulets_Rare_AMER","",""
+
+add levelgroup 5,0,"Rare"
+add rootgroup "b705f87e-6643-45a0-93e6-5331762a1d5e",""
+add namegroup "RG_Amulets_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "8f5ff4ce-c64c-4471-9b55-7dc448e27b48",""
+add namegroup "RG_Amulets_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "35eb058e-384e-48b3-b1ed-da5c7b6d2c36",""
+add namegroup "RG_Amulets_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "362474ac-753e-4f1f-a922-238177947e9e",""
+add namegroup "RG_Amulets_Rare_AMER","",""
+
+add levelgroup 16,0,"Rare"
+add rootgroup "2196e131-c4f7-4820-82c4-77522a0f75c5",""
+add namegroup "RG_Amulets_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "cda3b194-f159-4c06-aa0e-9d22e058727c",""
+add namegroup "RG_Amulets_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "b705f87e-6643-45a0-93e6-5331762a1d5e",""
+add namegroup "RG_Amulets_Epic_AMER","",""
+
+add levelgroup 3,0,"Epic"
+add rootgroup "8f5ff4ce-c64c-4471-9b55-7dc448e27b48",""
+add namegroup "RG_Amulets_Epic_AMER","",""
+
+add levelgroup 5,0,"Epic"
+add rootgroup "35eb058e-384e-48b3-b1ed-da5c7b6d2c36",""
+add namegroup "RG_Amulets_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "362474ac-753e-4f1f-a922-238177947e9e",""
+add namegroup "RG_Amulets_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "2196e131-c4f7-4820-82c4-77522a0f75c5",""
+add namegroup "RG_Amulets_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "cda3b194-f159-4c06-aa0e-9d22e058727c",""
+add namegroup "RG_Amulets_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "cf880f9d-f99a-4d0b-921b-24f95ea4e21e",""
+add namegroup "RG_Amulets_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "6e60825c-969a-4e4c-bcbc-5787450bd4d3",""
+add namegroup "RG_Amulets_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "b705f87e-6643-45a0-93e6-5331762a1d5e",""
+add namegroup "RG_Amulets_Legendary","",""
+
+add levelgroup 3,0,"Legendary"
+add rootgroup "8f5ff4ce-c64c-4471-9b55-7dc448e27b48",""
+add namegroup "RG_Amulets_Legendary","",""
+
+add levelgroup 5,0,"Legendary"
+add rootgroup "35eb058e-384e-48b3-b1ed-da5c7b6d2c36",""
+add namegroup "RG_Amulets_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "362474ac-753e-4f1f-a922-238177947e9e",""
+add namegroup "RG_Amulets_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "2196e131-c4f7-4820-82c4-77522a0f75c5",""
+add namegroup "RG_Amulets_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "cda3b194-f159-4c06-aa0e-9d22e058727c",""
+add namegroup "RG_Amulets_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "cf880f9d-f99a-4d0b-921b-24f95ea4e21e",""
+add namegroup "RG_Amulets_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "6e60825c-969a-4e4c-bcbc-5787450bd4d3",""
+add namegroup "RG_Amulets_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "b705f87e-6643-45a0-93e6-5331762a1d5e",""
+add namegroup "RG_Amulets_Divine","",""
+
+add levelgroup 3,0,"Divine"
+add rootgroup "8f5ff4ce-c64c-4471-9b55-7dc448e27b48",""
+add namegroup "RG_Amulets_Divine","",""
+
+add levelgroup 5,0,"Divine"
+add rootgroup "35eb058e-384e-48b3-b1ed-da5c7b6d2c36",""
+add namegroup "RG_Amulets_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "362474ac-753e-4f1f-a922-238177947e9e",""
+add namegroup "RG_Amulets_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "2196e131-c4f7-4820-82c4-77522a0f75c5",""
+add namegroup "RG_Amulets_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "cda3b194-f159-4c06-aa0e-9d22e058727c",""
+add namegroup "RG_Amulets_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "cf880f9d-f99a-4d0b-921b-24f95ea4e21e",""
+add namegroup "RG_Amulets_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "6e60825c-969a-4e4c-bcbc-5787450bd4d3",""
+add namegroup "RG_Amulets_Divine","",""
+
+new itemgroup "Rings"
+
+add levelgroup 1,0,"Common"
+add rootgroup "24c3d50a-c377-4c09-b3e8-274f8447494b",""
+add namegroup "Green Copper Ring","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "d9c66e68-2ae3-4d27-9bb7-bc999c68b077",""
+add namegroup "Green Copper Ring","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "0beccb48-8c11-4607-a4e7-6e44a6753b89",""
+add namegroup "Orange Copper Ring","",""
+
+add levelgroup 11,0,"Common"
+add rootgroup "ecd56f0c-85ff-4faa-9f01-56fda3f83e83",""
+add namegroup "Yellow Ring","",""
+
+add levelgroup 14,0,"Common"
+add rootgroup "3c248e82-b9fa-414a-8d09-1c5a53dbc11c",""
+add namegroup "Blue Ring","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "0aac893a-378d-4784-84cd-cc8c6ed3ff1c",""
+add namegroup "Silver Ring","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "0beccb48-8c11-4607-a4e7-6e44a6753b89",""
+add namegroup "Orange Copper Ring","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "ecd56f0c-85ff-4faa-9f01-56fda3f83e83",""
+add namegroup "Yellow Ring","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "3c248e82-b9fa-414a-8d09-1c5a53dbc11c",""
+add namegroup "Blue Ring","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "0aac893a-378d-4784-84cd-cc8c6ed3ff1c",""
+add namegroup "Silver Ring","Cool",""
+
+add levelgroup 14,0,"Uncommon"
+add rootgroup "46b85b31-af19-4bae-8f34-fc6a9cc45e69",""
+add namegroup "Turquoise Ring","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "1c8c4a3d-a881-49a6-ae90-c9ab10aee804",""
+add namegroup "Green Ring","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "3c248e82-b9fa-414a-8d09-1c5a53dbc11c",""
+add namegroup "RG_Rings_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "0aac893a-378d-4784-84cd-cc8c6ed3ff1c",""
+add namegroup "RG_Rings_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "46b85b31-af19-4bae-8f34-fc6a9cc45e69",""
+add namegroup "RG_Rings_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "1c8c4a3d-a881-49a6-ae90-c9ab10aee804",""
+add namegroup "RG_Rings_Rare_AMER","",""
+
+add levelgroup 14,0,"Rare"
+add rootgroup "4e518b9f-680f-4d14-ad3c-40c759cbbab5",""
+add namegroup "RG_Rings_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "f6fd6b73-191d-4ba1-b844-cec875608fe3",""
+add namegroup "RG_Rings_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "0aac893a-378d-4784-84cd-cc8c6ed3ff1c",""
+add namegroup "RG_Rings_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "46b85b31-af19-4bae-8f34-fc6a9cc45e69",""
+add namegroup "RG_Rings_Epic_AMER","",""
+
+add levelgroup 7,0,"Epic"
+add rootgroup "1c8c4a3d-a881-49a6-ae90-c9ab10aee804",""
+add namegroup "RG_Rings_Epic_AMER","",""
+
+add levelgroup 11,0,"Epic"
+add rootgroup "4e518b9f-680f-4d14-ad3c-40c759cbbab5",""
+add namegroup "RG_Rings_Epic_AMER","",""
+
+add levelgroup 14,0,"Epic"
+add rootgroup "f6fd6b73-191d-4ba1-b844-cec875608fe3",""
+add namegroup "RG_Rings_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "fa4c97b6-4543-4346-a132-ccb8d82f23cc",""
+add namegroup "RG_Rings_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "c21de6ee-136b-45f7-b083-565d3f458726",""
+add namegroup "RG_Rings_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "0aac893a-378d-4784-84cd-cc8c6ed3ff1c",""
+add namegroup "RG_Rings_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "46b85b31-af19-4bae-8f34-fc6a9cc45e69",""
+add namegroup "RG_Rings_Legendary","",""
+
+add levelgroup 7,0,"Legendary"
+add rootgroup "1c8c4a3d-a881-49a6-ae90-c9ab10aee804",""
+add namegroup "RG_Rings_Legendary","",""
+
+add levelgroup 11,0,"Legendary"
+add rootgroup "4e518b9f-680f-4d14-ad3c-40c759cbbab5",""
+add namegroup "RG_Rings_Legendary","",""
+
+add levelgroup 14,0,"Legendary"
+add rootgroup "f6fd6b73-191d-4ba1-b844-cec875608fe3",""
+add namegroup "RG_Rings_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "fa4c97b6-4543-4346-a132-ccb8d82f23cc",""
+add namegroup "RG_Rings_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "c21de6ee-136b-45f7-b083-565d3f458726",""
+add namegroup "RG_Rings_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "0aac893a-378d-4784-84cd-cc8c6ed3ff1c",""
+add namegroup "RG_Rings_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "46b85b31-af19-4bae-8f34-fc6a9cc45e69",""
+add namegroup "RG_Rings_Divine","",""
+
+add levelgroup 7,0,"Divine"
+add rootgroup "1c8c4a3d-a881-49a6-ae90-c9ab10aee804",""
+add namegroup "RG_Rings_Divine","",""
+
+add levelgroup 11,0,"Divine"
+add rootgroup "4e518b9f-680f-4d14-ad3c-40c759cbbab5",""
+add namegroup "RG_Rings_Divine","",""
+
+add levelgroup 14,0,"Divine"
+add rootgroup "f6fd6b73-191d-4ba1-b844-cec875608fe3",""
+add namegroup "RG_Rings_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "fa4c97b6-4543-4346-a132-ccb8d82f23cc",""
+add namegroup "RG_Rings_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "c21de6ee-136b-45f7-b083-565d3f458726",""
+add namegroup "RG_Rings_Divine","",""
+
+new itemgroup "Belts"
+
+add levelgroup 1,0,"Common"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "05691bac-6fb3-4cb7-902e-c5231337db14",""
+add namegroup "RG_Belts_Common","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Epic_AMER","",""
+
+add levelgroup 7,0,"Epic"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Legendary","",""
+
+add levelgroup 7,0,"Legendary"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Divine","",""
+
+add levelgroup 7,0,"Divine"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "092b9b0d-9b22-4176-a890-07c6f6b9e3f8",""
+add namegroup "RG_Belts_Divine","",""
+
+new itemgroup "Axes_1H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "120b7167-87ef-49e2-84b2-2a94e2210e88",""
+add namegroup "Hatchet","",""
+
+add levelgroup 2,0,"Common"
+add rootgroup "120b7167-87ef-49e2-84b2-2a94e2210e88",""
+add namegroup "Hatchet 2","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "7f229a2e-dc16-4b79-baeb-203e4c00fff5",""
+add namegroup "Hatchet 3","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "7f229a2e-dc16-4b79-baeb-203e4c00fff5",""
+add namegroup "Hatchet 4","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "8bf5cd94-fb44-4589-a1d1-69f6d8852a5b",""
+add namegroup "Battle Axe","",""
+
+add levelgroup 6,0,"Common"
+add rootgroup "8bf5cd94-fb44-4589-a1d1-69f6d8852a5b",""
+add namegroup "Battle Axe 2","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "67e45b64-be99-407e-a08a-8ce60b64e289",""
+add namegroup "Human Axe","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "67e45b64-be99-407e-a08a-8ce60b64e289",""
+add namegroup "Human Axe 2","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "9f3fcf21-297a-444c-9b12-03b48592024d",""
+add namegroup "Bearded Axe","",""
+
+add levelgroup 10,0,"Common"
+add rootgroup "9f3fcf21-297a-444c-9b12-03b48592024d",""
+add namegroup "Bearded Axe 2","",""
+
+add levelgroup 11,0,"Common"
+add rootgroup "2514eb06-fdee-49ce-ab36-959510b0bf4b",""
+add namegroup "Dwarven Hand Axe","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "0bb08dec-c645-4a70-a13c-8a1115742894",""
+add namegroup "Lizard's Cleaver","",""
+
+add levelgroup 14,0,"Common"
+add rootgroup "0bb08dec-c645-4a70-a13c-8a1115742894",""
+add namegroup "Lizard's Cleaver 2","",""
+
+add levelgroup 15,0,"Common"
+add rootgroup "a9a9324f-5a1f-4b9b-8032-377ecb6d4656",""
+add namegroup "Dwarven Axe","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "090e71ab-4219-440b-9c8e-9ad47ddcfd93","ElvesCommon"
+add namegroup "Elven Axe","",""
+
+add levelgroup 19,0,"Common"
+add rootgroup "83ba2a2f-24e5-4b27-ad15-317f1d25e4ab",""
+add namegroup "Great Axe","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "7f229a2e-dc16-4b79-baeb-203e4c00fff5",""
+add namegroup "Hatchet","Cool",""
+
+add levelgroup 3,0,"Uncommon"
+add rootgroup "8bf5cd94-fb44-4589-a1d1-69f6d8852a5b",""
+add namegroup "Battle Axe","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "8bf5cd94-fb44-4589-a1d1-69f6d8852a5b",""
+add namegroup "Battle Axe 2","Cool",""
+
+add levelgroup 5,0,"Uncommon"
+add rootgroup "9f3fcf21-297a-444c-9b12-03b48592024d",""
+add namegroup "Bearded Axe","Cool",""
+
+add levelgroup 6,0,"Uncommon"
+add rootgroup "9f3fcf21-297a-444c-9b12-03b48592024d",""
+add namegroup "Bearded Axe 2","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "2514eb06-fdee-49ce-ab36-959510b0bf4b",""
+add namegroup "Dwarven Hand Axe","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "0bb08dec-c645-4a70-a13c-8a1115742894",""
+add namegroup "Lizard's Cleaver","Cool",""
+
+add levelgroup 10,0,"Uncommon"
+add rootgroup "0bb08dec-c645-4a70-a13c-8a1115742894",""
+add namegroup "Lizard's Cleaver 2","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "a9a9324f-5a1f-4b9b-8032-377ecb6d4656",""
+add namegroup "Dwarven Axe","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "090e71ab-4219-440b-9c8e-9ad47ddcfd93","ElvesUncommon"
+add namegroup "Elven Axe","Cool",""
+
+add levelgroup 15,0,"Uncommon"
+add rootgroup "83ba2a2f-24e5-4b27-ad15-317f1d25e4ab",""
+add namegroup "Great Axe","Cool","Item_WPN_Human_Normal_Axe_C_B"
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "cd7a598c-aed8-4b25-9f13-43d5e9f04a70",""
+add namegroup "Lizard's Axe","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "58a31a0e-e489-4409-9550-724fd57395a8","ElvesUncommon"
+add namegroup "Elven Labrys","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "0bb08dec-c645-4a70-a13c-8a1115742894",""
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 3,0,"Rare"
+add rootgroup "a9a9324f-5a1f-4b9b-8032-377ecb6d4656",""
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 5,0,"Rare"
+add rootgroup "090e71ab-4219-440b-9c8e-9ad47ddcfd93","ElvesRare"
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "83ba2a2f-24e5-4b27-ad15-317f1d25e4ab",""
+add namegroup "RG_Axes_1H_Rare_AMER","","Item_WPN_Human_Normal_Axe_C_C"
+
+add levelgroup 9,0,"Rare"
+add rootgroup "cd7a598c-aed8-4b25-9f13-43d5e9f04a70",""
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "58a31a0e-e489-4409-9550-724fd57395a8","ElvesRare"
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "f44fb33f-3597-4c68-abff-c248fbd4a47c","ElvesRare"
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 15,0,"Rare"
+add rootgroup "5a199e52-91be-4317-99e1-5a0b8e7c1b8b",""
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "a228207f-25aa-4570-9be6-64b33579f239",""
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "25f7cef2-de63-4e69-8190-8bd531cf4a8e",""
+add namegroup "RG_Axes_1H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "a9a9324f-5a1f-4b9b-8032-377ecb6d4656",""
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 3,0,"Epic"
+add rootgroup "090e71ab-4219-440b-9c8e-9ad47ddcfd93","ElvesEpic"
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 5,0,"Epic"
+add rootgroup "83ba2a2f-24e5-4b27-ad15-317f1d25e4ab",""
+add namegroup "RG_Axes_1H_Epic_AMER","","Item_WPN_Human_Normal_Axe_C_C"
+
+add levelgroup 7,0,"Epic"
+add rootgroup "cd7a598c-aed8-4b25-9f13-43d5e9f04a70",""
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "58a31a0e-e489-4409-9550-724fd57395a8","ElvesEpic"
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 11,0,"Epic"
+add rootgroup "f44fb33f-3597-4c68-abff-c248fbd4a47c","ElvesEpic"
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "5a199e52-91be-4317-99e1-5a0b8e7c1b8b",""
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 15,0,"Epic"
+add rootgroup "a228207f-25aa-4570-9be6-64b33579f239",""
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "25f7cef2-de63-4e69-8190-8bd531cf4a8e",""
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "391c4f03-a652-412a-89db-d0c365c5c89b",""
+add namegroup "RG_Axes_1H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "a9a9324f-5a1f-4b9b-8032-377ecb6d4656",""
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 3,0,"Legendary"
+add rootgroup "090e71ab-4219-440b-9c8e-9ad47ddcfd93","ElvesEpic"
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 5,0,"Legendary"
+add rootgroup "83ba2a2f-24e5-4b27-ad15-317f1d25e4ab",""
+add namegroup "RG_Axes_1H_Legendary","","Item_WPN_Human_Normal_Axe_C_C"
+
+add levelgroup 7,0,"Legendary"
+add rootgroup "cd7a598c-aed8-4b25-9f13-43d5e9f04a70",""
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "58a31a0e-e489-4409-9550-724fd57395a8","ElvesEpic"
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 11,0,"Legendary"
+add rootgroup "f44fb33f-3597-4c68-abff-c248fbd4a47c","ElvesEpic"
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "5a199e52-91be-4317-99e1-5a0b8e7c1b8b",""
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 15,0,"Legendary"
+add rootgroup "a228207f-25aa-4570-9be6-64b33579f239",""
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "25f7cef2-de63-4e69-8190-8bd531cf4a8e",""
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "391c4f03-a652-412a-89db-d0c365c5c89b",""
+add namegroup "RG_Axes_1H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "a9a9324f-5a1f-4b9b-8032-377ecb6d4656",""
+add namegroup "RG_Axes_1H_Divine","",""
+
+add levelgroup 3,0,"Divine"
+add rootgroup "090e71ab-4219-440b-9c8e-9ad47ddcfd93","ElvesEpic"
+add namegroup "RG_Axes_1H_Divine","",""
+
+add levelgroup 5,0,"Divine"
+add rootgroup "83ba2a2f-24e5-4b27-ad15-317f1d25e4ab",""
+add namegroup "RG_Axes_1H_Divine","","Item_WPN_Human_Normal_Axe_C_C"
+
+add levelgroup 7,0,"Divine"
+add rootgroup "cd7a598c-aed8-4b25-9f13-43d5e9f04a70",""
+add namegroup "RG_Axes_1H_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "58a31a0e-e489-4409-9550-724fd57395a8","ElvesEpic"
+add namegroup "RG_Axes_1H_Divine","",""
+
+add levelgroup 11,0,"Divine"
+add rootgroup "f44fb33f-3597-4c68-abff-c248fbd4a47c","ElvesEpic"
+add namegroup "RG_Axes_1H_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "5a199e52-91be-4317-99e1-5a0b8e7c1b8b",""
+add namegroup "RG_Axes_1H_Divine","",""
+
+add levelgroup 15,0,"Divine"
+add rootgroup "a228207f-25aa-4570-9be6-64b33579f239",""
+add namegroup "RG_Axes_1H_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "25f7cef2-de63-4e69-8190-8bd531cf4a8e",""
+add namegroup "RG_Axes_1H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "391c4f03-a652-412a-89db-d0c365c5c89b",""
+add namegroup "RG_Axes_1H_Divine","",""
+
+new itemgroup "Axes_2H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "ce53e867-76fd-4682-b784-cd0147027459",""
+add namegroup "Pickaxe","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "d446b3fb-acba-4545-a6a4-8c004f67c7c2",""
+add namegroup "Felling Axe","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "2d62d9ad-d80b-492a-abcc-b1166e834a5f",""
+add namegroup "Single-Headed Broad Axe 2H","",""
+
+add levelgroup 6,0,"Common"
+add rootgroup "44525b09-a2b1-4b45-8d52-e893d04390dd",""
+add namegroup "Scythe","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "a2a344f9-20d3-4587-9d64-c69268d653a3","ElvesCommon"
+add namegroup "Wooden Elven Axe 2H","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "a2a344f9-20d3-4587-9d64-c69268d653a3","ElvesCommon"
+add namegroup "Wooden Elven Axe 2H 2","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "5a847433-a73b-4067-9767-326738f8636e",""
+add namegroup "Single-Headed Dwarven Axe 2H","",""
+
+add levelgroup 10,0,"Common"
+add rootgroup "5a847433-a73b-4067-9767-326738f8636e",""
+add namegroup "Single-Headed Dwarven Axe 2H 2","",""
+
+add levelgroup 11,0,"Common"
+add rootgroup "6d645509-ca3e-4d8b-a9eb-4fe6d2ebb58c",""
+add namegroup "Lizard's Axe 2H","",""
+
+add levelgroup 12,0,"Common"
+add rootgroup "6d645509-ca3e-4d8b-a9eb-4fe6d2ebb58c",""
+add namegroup "Lizard's Axe 2H 2","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "22a7e83e-5b7d-423d-9028-58f8af55603d",""
+add namegroup "Wolf-Head Dwarven Axe 2H","",""
+
+add levelgroup 14,0,"Common"
+add rootgroup "22a7e83e-5b7d-423d-9028-58f8af55603d",""
+add namegroup "Wolf-Head Dwarven Axe 2H 2","",""
+
+add levelgroup 15,0,"Common"
+add rootgroup "10429204-f0f0-4e67-ac03-1bc878fe54ab","ElvesCommon"
+add namegroup "Crystal Elven Axe 2H","",""
+
+add levelgroup 16,0,"Common"
+add rootgroup "10429204-f0f0-4e67-ac03-1bc878fe54ab","ElvesCommon"
+add namegroup "Crystal Elven Axe 2H 2","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "812b0552-2c18-40f8-83eb-913a27a7118c",""
+add namegroup "Straight Human Broad Axe 2H","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "812b0552-2c18-40f8-83eb-913a27a7118c",""
+add namegroup "Straight Human Broad Axe 2H 2","",""
+
+add levelgroup 19,0,"Common"
+add rootgroup "0c96cb3f-ca83-442a-b355-3578dcdb6fc0",""
+add namegroup "Lizard's War Axe 2H","",""
+
+add levelgroup 20,0,"Common"
+add rootgroup "0c96cb3f-ca83-442a-b355-3578dcdb6fc0",""
+add namegroup "Lizard's War Axe 2H 2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "a2a344f9-20d3-4587-9d64-c69268d653a3","ElvesUncommon"
+add namegroup "Wooden Elven Axe 2H","Cool",""
+
+add levelgroup 2,0,"Uncommon"
+add rootgroup "a2a344f9-20d3-4587-9d64-c69268d653a3","ElvesUncommon"
+add namegroup "Wooden Elven Axe 2H 2","Cool",""
+
+add levelgroup 3,0,"Uncommon"
+add rootgroup "5a847433-a73b-4067-9767-326738f8636e",""
+add namegroup "Single-Headed Dwarven Axe 2H","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "5a847433-a73b-4067-9767-326738f8636e",""
+add namegroup "Single-Headed Dwarven Axe 2H 2","Cool",""
+
+add levelgroup 5,0,"Uncommon"
+add rootgroup "6d645509-ca3e-4d8b-a9eb-4fe6d2ebb58c",""
+add namegroup "Lizard's Axe 2H","Cool",""
+
+add levelgroup 6,0,"Uncommon"
+add rootgroup "6d645509-ca3e-4d8b-a9eb-4fe6d2ebb58c",""
+add namegroup "Lizard's Axe 2H 2","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "22a7e83e-5b7d-423d-9028-58f8af55603d",""
+add namegroup "Wolf-Head Dwarven Axe 2H","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "22a7e83e-5b7d-423d-9028-58f8af55603d",""
+add namegroup "Wolf-Head Dwarven Axe 2H 2","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "10429204-f0f0-4e67-ac03-1bc878fe54ab","ElvesUncommon"
+add namegroup "Crystal Elven Axe 2H","Cool",""
+
+add levelgroup 10,0,"Uncommon"
+add rootgroup "10429204-f0f0-4e67-ac03-1bc878fe54ab","ElvesUncommon"
+add namegroup "Crystal Elven Axe 2H 2","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "812b0552-2c18-40f8-83eb-913a27a7118c",""
+add namegroup "Bardiche","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "0c96cb3f-ca83-442a-b355-3578dcdb6fc0",""
+add namegroup "Lizard's War Axe 2H","Cool",""
+
+add levelgroup 14,0,"Uncommon"
+add rootgroup "0c96cb3f-ca83-442a-b355-3578dcdb6fc0",""
+add namegroup "Lizard's War Axe 2H 2","Cool",""
+
+add levelgroup 15,0,"Uncommon"
+add rootgroup "ebfbe499-7040-49b3-878b-298f7bac3c05",""
+add namegroup "Human Two-Headed War Axe 2H","Cool",""
+
+add levelgroup 16,0,"Uncommon"
+add rootgroup "ebfbe499-7040-49b3-878b-298f7bac3c05",""
+add namegroup "Human Two-Headed War Axe 2H 2","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "22a7d5b4-7ed2-4654-84f6-acb1069908ae",""
+add namegroup "Double-Headed Dwarven Axe 2H","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "22a7d5b4-7ed2-4654-84f6-acb1069908ae",""
+add namegroup "Double-Headed Dwarven Axe 2H 2","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "3c525880-f7f5-4f8c-a04b-4e2d18d63331","ElvesUncommon"
+add namegroup "Fauchard","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "22a7e83e-5b7d-423d-9028-58f8af55603d",""
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 3,0,"Rare"
+add rootgroup "10429204-f0f0-4e67-ac03-1bc878fe54ab","ElvesRare"
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 5,0,"Rare"
+add rootgroup "812b0552-2c18-40f8-83eb-913a27a7118c",""
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "0c96cb3f-ca83-442a-b355-3578dcdb6fc0",""
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "ebfbe499-7040-49b3-878b-298f7bac3c05",""
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "22a7d5b4-7ed2-4654-84f6-acb1069908ae",""
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "3c3dd66a-a8e5-4acc-b746-9a151690ffa4","ElvesRare"
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 15,0,"Rare"
+add rootgroup "40fb4266-ecfe-45dd-ab12-9ada802c66a2",""
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "2f544f23-2c81-43de-a9a8-fe0efc03c1de",""
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "5fc2994c-28fb-4222-b1e5-042f1c47b6ad",""
+add namegroup "RG_Axes_2H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "3c3dd66a-a8e5-4acc-b746-9a151690ffa4","ElvesEpic"
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 3,0,"Epic"
+add rootgroup "812b0552-2c18-40f8-83eb-913a27a7118c",""
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 5,0,"Epic"
+add rootgroup "0c96cb3f-ca83-442a-b355-3578dcdb6fc0",""
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 7,0,"Epic"
+add rootgroup "ebfbe499-7040-49b3-878b-298f7bac3c05",""
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "22a7d5b4-7ed2-4654-84f6-acb1069908ae",""
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 11,0,"Epic"
+add rootgroup "3c525880-f7f5-4f8c-a04b-4e2d18d63331","ElvesEpic"
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "40fb4266-ecfe-45dd-ab12-9ada802c66a2",""
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 15,0,"Epic"
+add rootgroup "2f544f23-2c81-43de-a9a8-fe0efc03c1de",""
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "5fc2994c-28fb-4222-b1e5-042f1c47b6ad",""
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "5c595508-ed2c-41e4-a258-36d63841f9a6",""
+add namegroup "RG_Axes_2H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "3c3dd66a-a8e5-4acc-b746-9a151690ffa4","ElvesEpic"
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 3,0,"Legendary"
+add rootgroup "812b0552-2c18-40f8-83eb-913a27a7118c",""
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 5,0,"Legendary"
+add rootgroup "0c96cb3f-ca83-442a-b355-3578dcdb6fc0",""
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 7,0,"Legendary"
+add rootgroup "ebfbe499-7040-49b3-878b-298f7bac3c05",""
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "22a7d5b4-7ed2-4654-84f6-acb1069908ae",""
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 11,0,"Legendary"
+add rootgroup "3c525880-f7f5-4f8c-a04b-4e2d18d63331","ElvesEpic"
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "40fb4266-ecfe-45dd-ab12-9ada802c66a2",""
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 15,0,"Legendary"
+add rootgroup "2f544f23-2c81-43de-a9a8-fe0efc03c1de",""
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "5fc2994c-28fb-4222-b1e5-042f1c47b6ad",""
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "5c595508-ed2c-41e4-a258-36d63841f9a6",""
+add namegroup "RG_Axes_2H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "3c3dd66a-a8e5-4acc-b746-9a151690ffa4","ElvesEpic"
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 3,0,"Divine"
+add rootgroup "812b0552-2c18-40f8-83eb-913a27a7118c",""
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 5,0,"Divine"
+add rootgroup "0c96cb3f-ca83-442a-b355-3578dcdb6fc0",""
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 7,0,"Divine"
+add rootgroup "ebfbe499-7040-49b3-878b-298f7bac3c05",""
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "22a7d5b4-7ed2-4654-84f6-acb1069908ae",""
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 11,0,"Divine"
+add rootgroup "3c525880-f7f5-4f8c-a04b-4e2d18d63331","ElvesEpic"
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "40fb4266-ecfe-45dd-ab12-9ada802c66a2",""
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 15,0,"Divine"
+add rootgroup "2f544f23-2c81-43de-a9a8-fe0efc03c1de",""
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "5fc2994c-28fb-4222-b1e5-042f1c47b6ad",""
+add namegroup "RG_Axes_2H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "5c595508-ed2c-41e4-a258-36d63841f9a6",""
+add namegroup "RG_Axes_2H_Divine","",""
+
+new itemgroup "Bows"
+
+add levelgroup 1,0,"Common"
+add rootgroup "47e31903-9ffc-4c66-800a-13ebde5eb97e",""
+add namegroup "My First Bow","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "47e31903-9ffc-4c66-800a-13ebde5eb97e",""
+add namegroup "My First Bow 2","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "053800ab-64d6-49f9-ae50-16fddd97401b",""
+add namegroup "Flatbow","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "053800ab-64d6-49f9-ae50-16fddd97401b",""
+add namegroup "Flatbow 2","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "342db202-bba6-4ef6-92d5-cfca6b4c827e","ElvesShieldCommon"
+add namegroup "Elven Bow","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "342db202-bba6-4ef6-92d5-cfca6b4c827e","ElvesShieldCommon"
+add namegroup "Elven Bow 2","",""
+
+add levelgroup 15,0,"Common"
+add rootgroup "6f6423e7-ad9b-4b17-8934-75bdbc45bc08",""
+add namegroup "Shortbow","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "6f6423e7-ad9b-4b17-8934-75bdbc45bc08",""
+add namegroup "Shortbow 2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "053800ab-64d6-49f9-ae50-16fddd97401b",""
+add namegroup "Flatbow","Cool",""
+
+add levelgroup 2,0,"Uncommon"
+add rootgroup "053800ab-64d6-49f9-ae50-16fddd97401b",""
+add namegroup "Flatbow 2","Cool",""
+
+add levelgroup 3,0,"Uncommon"
+add rootgroup "342db202-bba6-4ef6-92d5-cfca6b4c827e","ElvesShieldUncommon"
+add namegroup "Elven Bow","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "342db202-bba6-4ef6-92d5-cfca6b4c827e","ElvesShieldUncommon"
+add namegroup "Elven Bow 2","Cool",""
+
+add levelgroup 5,0,"Uncommon"
+add rootgroup "6f6423e7-ad9b-4b17-8934-75bdbc45bc08",""
+add namegroup "Shortbow 3","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "2813c594-b5b4-43f5-8605-6e4d5d8fdda1",""
+add namegroup "Composite Bow","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "99223603-5a43-4201-b3a0-c2926d413757",""
+add namegroup "Lizard's Bow","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "dcf4d193-95d1-4e4d-9341-ad2332cd52b1","ElvesShieldUncommon"
+add namegroup "Elven Longbow","Cool",""
+
+add levelgroup 12,0,"Uncommon"
+add rootgroup "dcf4d193-95d1-4e4d-9341-ad2332cd52b1","ElvesShieldUncommon"
+add namegroup "Elven Longbow 2","Cool",""
+
+add levelgroup 14,0,"Uncommon"
+add rootgroup "73426f44-a268-4aaf-9c3c-cb71497d0490",""
+add namegroup "Lizard's Bow","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "54123b91-bac5-4edb-824c-819e43f03124",""
+add namegroup "Composite Bow","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "342db202-bba6-4ef6-92d5-cfca6b4c827e","ElvesShieldRare"
+add namegroup "RG_Bows_Rare_AMER","",""
+
+add levelgroup 5,0,"Rare"
+add rootgroup "6f6423e7-ad9b-4b17-8934-75bdbc45bc08",""
+add namegroup "RG_Bows_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "2813c594-b5b4-43f5-8605-6e4d5d8fdda1",""
+add namegroup "RG_Bows_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "99223603-5a43-4201-b3a0-c2926d413757",""
+add namegroup "RG_Bows_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "dcf4d193-95d1-4e4d-9341-ad2332cd52b1","ElvesShieldRare"
+add namegroup "RG_Bows_Rare_AMER","",""
+
+add levelgroup 16,0,"Rare"
+add rootgroup "73426f44-a268-4aaf-9c3c-cb71497d0490",""
+add namegroup "RG_Bows_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "54123b91-bac5-4edb-824c-819e43f03124",""
+add namegroup "RG_Bows_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "6f6423e7-ad9b-4b17-8934-75bdbc45bc08",""
+add namegroup "RG_Bows_Epic_AMER","",""
+
+add levelgroup 5,0,"Epic"
+add rootgroup "2813c594-b5b4-43f5-8605-6e4d5d8fdda1",""
+add namegroup "RG_Bows_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "99223603-5a43-4201-b3a0-c2926d413757",""
+add namegroup "RG_Bows_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "dcf4d193-95d1-4e4d-9341-ad2332cd52b1","ElvesShieldEpic"
+add namegroup "RG_Bows_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "73426f44-a268-4aaf-9c3c-cb71497d0490",""
+add namegroup "RG_Bows_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "54123b91-bac5-4edb-824c-819e43f03124",""
+add namegroup "RG_Bows_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "6f6423e7-ad9b-4b17-8934-75bdbc45bc08",""
+add namegroup "RG_Bows_Legendary","",""
+
+add levelgroup 5,0,"Legendary"
+add rootgroup "2813c594-b5b4-43f5-8605-6e4d5d8fdda1",""
+add namegroup "RG_Bows_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "99223603-5a43-4201-b3a0-c2926d413757",""
+add namegroup "RG_Bows_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "dcf4d193-95d1-4e4d-9341-ad2332cd52b1","ElvesShieldEpic"
+add namegroup "RG_Bows_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "73426f44-a268-4aaf-9c3c-cb71497d0490",""
+add namegroup "RG_Bows_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "54123b91-bac5-4edb-824c-819e43f03124",""
+add namegroup "RG_Bows_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "6f6423e7-ad9b-4b17-8934-75bdbc45bc08",""
+add namegroup "RG_Bows_Divine","",""
+
+add levelgroup 5,0,"Divine"
+add rootgroup "2813c594-b5b4-43f5-8605-6e4d5d8fdda1",""
+add namegroup "RG_Bows_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "99223603-5a43-4201-b3a0-c2926d413757",""
+add namegroup "RG_Bows_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "dcf4d193-95d1-4e4d-9341-ad2332cd52b1","ElvesShieldEpic"
+add namegroup "RG_Bows_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "73426f44-a268-4aaf-9c3c-cb71497d0490",""
+add namegroup "RG_Bows_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "54123b91-bac5-4edb-824c-819e43f03124",""
+add namegroup "RG_Bows_Divine","",""
+
+new itemgroup "Crossbows"
+
+add levelgroup 1,0,"Common"
+add rootgroup "a5de95b6-7ce0-4cb4-a820-af76a36661a8",""
+add namegroup "Toy Crossbow","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "a0dc4072-eb9c-43fe-8164-c0724876e332",""
+add namegroup "Small Crossbow","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "a0dc4072-eb9c-43fe-8164-c0724876e332",""
+add namegroup "Small Crossbow 2","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "b8da3005-cc77-4150-b9f3-23e1d3cc92e9",""
+add namegroup "Crossbow","",""
+
+add levelgroup 6,0,"Common"
+add rootgroup "b8da3005-cc77-4150-b9f3-23e1d3cc92e9",""
+add namegroup "Crossbow 2","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "f5829ee3-3a9a-453b-b89f-c78aa2e28722","ElvesShieldCommon"
+add namegroup "Elven Crossbow","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "f5829ee3-3a9a-453b-b89f-c78aa2e28722","ElvesShieldCommon"
+add namegroup "Elven Crossbow 2","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "5745501b-8be7-49c9-9d53-4fd18f0d335d",""
+add namegroup "Dwarven Crossbow","",""
+
+add levelgroup 10,0,"Common"
+add rootgroup "5745501b-8be7-49c9-9d53-4fd18f0d335d",""
+add namegroup "Dwarven Crossbow 2","",""
+
+add levelgroup 11,0,"Common"
+add rootgroup "f90aa559-4edb-4896-b48d-0bfd773e62de",""
+add namegroup "Arbalest","",""
+
+add levelgroup 11,0,"Common"
+add rootgroup "f90aa559-4edb-4896-b48d-0bfd773e62de",""
+add namegroup "Arbalest 2","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesShieldCommon"
+add namegroup "Elven Crossbow","",""
+
+add levelgroup 15,0,"Common"
+add rootgroup "4d624e7a-39e5-4111-907d-564f05ab2e3b",""
+add namegroup "Dwarven Crossbow","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "906cdadd-fec3-487d-938c-3d3cd72df2ba",""
+add namegroup "Arbalest 3","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "a0dc4072-eb9c-43fe-8164-c0724876e332",""
+add namegroup "Small Crossbow","Cool",""
+
+add levelgroup 3,0,"Uncommon"
+add rootgroup "b8da3005-cc77-4150-b9f3-23e1d3cc92e9",""
+add namegroup "Crossbow","Cool",""
+
+add levelgroup 5,0,"Uncommon"
+add rootgroup "f5829ee3-3a9a-453b-b89f-c78aa2e28722","ElvesShieldUncommon"
+add namegroup "Elven Crossbow","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "5745501b-8be7-49c9-9d53-4fd18f0d335d",""
+add namegroup "Dwarven Crossbow","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "f90aa559-4edb-4896-b48d-0bfd773e62de",""
+add namegroup "Arbalest","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesUncommon"
+add namegroup "Elven Arbalest","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesUncommon"
+add namegroup "Elven Arbalest 2","Cool",""
+
+add levelgroup 15,0,"Uncommon"
+add rootgroup "4d624e7a-39e5-4111-907d-564f05ab2e3b",""
+add namegroup "Dwarven Crossbow","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "906cdadd-fec3-487d-938c-3d3cd72df2ba",""
+add namegroup "Arbalest","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "b8da3005-cc77-4150-b9f3-23e1d3cc92e9",""
+add namegroup "RG_Crossbows_Rare_AMER","",""
+
+add levelgroup 5,0,"Rare"
+add rootgroup "f5829ee3-3a9a-453b-b89f-c78aa2e28722",""
+add namegroup "RG_Crossbows_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "5745501b-8be7-49c9-9d53-4fd18f0d335d",""
+add namegroup "RG_Crossbows_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "f90aa559-4edb-4896-b48d-0bfd773e62de",""
+add namegroup "RG_Crossbows_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesShieldRare"
+add namegroup "RG_Crossbows_Rare_AMER","",""
+
+add levelgroup 15,0,"Rare"
+add rootgroup "4d624e7a-39e5-4111-907d-564f05ab2e3b",""
+add namegroup "RG_Crossbows_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "906cdadd-fec3-487d-938c-3d3cd72df2ba",""
+add namegroup "RG_Crossbows_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesRare"
+add namegroup "RG_Crossbows_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "f5829ee3-3a9a-453b-b89f-c78aa2e28722","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Epic_AMER","",""
+
+add levelgroup 5,0,"Epic"
+add rootgroup "5745501b-8be7-49c9-9d53-4fd18f0d335d",""
+add namegroup "RG_Crossbows_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "f90aa559-4edb-4896-b48d-0bfd773e62de",""
+add namegroup "RG_Crossbows_Epic_AMER","",""
+
+add levelgroup 11,0,"Epic"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "4d624e7a-39e5-4111-907d-564f05ab2e3b",""
+add namegroup "RG_Crossbows_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "906cdadd-fec3-487d-938c-3d3cd72df2ba",""
+add namegroup "RG_Crossbows_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "f5829ee3-3a9a-453b-b89f-c78aa2e28722","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Legendary","",""
+
+add levelgroup 5,0,"Legendary"
+add rootgroup "5745501b-8be7-49c9-9d53-4fd18f0d335d",""
+add namegroup "RG_Crossbows_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "f90aa559-4edb-4896-b48d-0bfd773e62de",""
+add namegroup "RG_Crossbows_Legendary","",""
+
+add levelgroup 11,0,"Legendary"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "4d624e7a-39e5-4111-907d-564f05ab2e3b",""
+add namegroup "RG_Crossbows_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "906cdadd-fec3-487d-938c-3d3cd72df2ba",""
+add namegroup "RG_Crossbows_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "f5829ee3-3a9a-453b-b89f-c78aa2e28722","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Divine","",""
+
+add levelgroup 5,0,"Divine"
+add rootgroup "5745501b-8be7-49c9-9d53-4fd18f0d335d",""
+add namegroup "RG_Crossbows_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "f90aa559-4edb-4896-b48d-0bfd773e62de",""
+add namegroup "RG_Crossbows_Divine","",""
+
+add levelgroup 11,0,"Divine"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "4d624e7a-39e5-4111-907d-564f05ab2e3b",""
+add namegroup "RG_Crossbows_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "906cdadd-fec3-487d-938c-3d3cd72df2ba",""
+add namegroup "RG_Crossbows_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "1bf8d23b-4f71-4e2b-ab26-8dc179968f0b","ElvesShieldEpic"
+add namegroup "RG_Crossbows_Divine","",""
+
+new itemgroup "Daggers"
+
+add levelgroup 1,0,"Common"
+add rootgroup "f1e0f3fc-c94b-48b6-a843-7d8072f87e9e",""
+add namegroup "Shiv","",""
+
+add levelgroup 2,0,"Common"
+add rootgroup "f1e0f3fc-c94b-48b6-a843-7d8072f87e9e",""
+add namegroup "Shiv 2","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "028e9d6a-92b7-494b-a7fa-62218cf63914",""
+add namegroup "Pocket Knife","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "3b74c758-6676-4dc2-b21e-7fde1479f4f9",""
+add namegroup "Kitchen Knife","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "4831370f-6403-43d8-aa10-a6f6f0b593f8",""
+add namegroup "Dagger","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "f9774adb-c1e7-4577-9d96-0113783a1cd9",""
+add namegroup "Dwarven Dagger","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "4807aa0d-a696-42fa-9653-d203b66f2bab",""
+add namegroup "Combat Dagger","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "4831370f-6403-43d8-aa10-a6f6f0b593f8",""
+add namegroup "Dagger","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "f9774adb-c1e7-4577-9d96-0113783a1cd9",""
+add namegroup "Dwarven Dagger","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "4807aa0d-a696-42fa-9653-d203b66f2bab",""
+add namegroup "Combat Dagger","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "2f7e5bf9-fd51-4747-8b20-9f1c9b5a2fd3",""
+add namegroup "Fighting Dagger","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "70f43374-543f-4c08-bc73-f739e223c10d",""
+add namegroup "Poniard","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "154665f7-70bd-47a3-907b-25c30d52b682",""
+add namegroup "Rune Dagger","Cool",""
+
+add levelgroup 15,0,"Uncommon"
+add rootgroup "3fc06a6d-4364-45cd-b7c8-873f8274cf3c",""
+add namegroup "Circle Dagger","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "710e98d9-b9e2-4563-82e6-9e9ce90118c8",""
+add namegroup "Dwarven Dagger","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "b5010438-0270-4fa5-b3ce-4e5153d1fd3b",""
+add namegroup "Combat Dagger","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "4831370f-6403-43d8-aa10-a6f6f0b593f8",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "f9774adb-c1e7-4577-9d96-0113783a1cd9",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "4807aa0d-a696-42fa-9653-d203b66f2bab",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "2f7e5bf9-fd51-4747-8b20-9f1c9b5a2fd3",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "70f43374-543f-4c08-bc73-f739e223c10d",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "154665f7-70bd-47a3-907b-25c30d52b682",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 15,0,"Rare"
+add rootgroup "b5010438-0270-4fa5-b3ce-4e5153d1fd3b",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "710e98d9-b9e2-4563-82e6-9e9ce90118c8",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "7feebe69-30e0-4ccf-9b05-c96e66e0f760",""
+add namegroup "RG_Daggers_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "4831370f-6403-43d8-aa10-a6f6f0b593f8",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "b5010438-0270-4fa5-b3ce-4e5153d1fd3b",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 7,0,"Epic"
+add rootgroup "2f7e5bf9-fd51-4747-8b20-9f1c9b5a2fd3",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "70f43374-543f-4c08-bc73-f739e223c10d",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 11,0,"Epic"
+add rootgroup "154665f7-70bd-47a3-907b-25c30d52b682",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "b5010438-0270-4fa5-b3ce-4e5153d1fd3b",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 15,0,"Epic"
+add rootgroup "710e98d9-b9e2-4563-82e6-9e9ce90118c8",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "7feebe69-30e0-4ccf-9b05-c96e66e0f760",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "3fc06a6d-4364-45cd-b7c8-873f8274cf3c",""
+add namegroup "RG_Daggers_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "4831370f-6403-43d8-aa10-a6f6f0b593f8",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "b5010438-0270-4fa5-b3ce-4e5153d1fd3b",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 7,0,"Legendary"
+add rootgroup "2f7e5bf9-fd51-4747-8b20-9f1c9b5a2fd3",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "70f43374-543f-4c08-bc73-f739e223c10d",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 11,0,"Legendary"
+add rootgroup "154665f7-70bd-47a3-907b-25c30d52b682",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "b5010438-0270-4fa5-b3ce-4e5153d1fd3b",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 15,0,"Legendary"
+add rootgroup "710e98d9-b9e2-4563-82e6-9e9ce90118c8",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "7feebe69-30e0-4ccf-9b05-c96e66e0f760",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "3fc06a6d-4364-45cd-b7c8-873f8274cf3c",""
+add namegroup "RG_Daggers_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "4831370f-6403-43d8-aa10-a6f6f0b593f8",""
+add namegroup "RG_Daggers_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "b5010438-0270-4fa5-b3ce-4e5153d1fd3b",""
+add namegroup "RG_Daggers_Divine","",""
+
+add levelgroup 7,0,"Divine"
+add rootgroup "2f7e5bf9-fd51-4747-8b20-9f1c9b5a2fd3",""
+add namegroup "RG_Daggers_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "70f43374-543f-4c08-bc73-f739e223c10d",""
+add namegroup "RG_Daggers_Divine","",""
+
+add levelgroup 11,0,"Divine"
+add rootgroup "154665f7-70bd-47a3-907b-25c30d52b682",""
+add namegroup "RG_Daggers_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "b5010438-0270-4fa5-b3ce-4e5153d1fd3b",""
+add namegroup "RG_Daggers_Divine","",""
+
+add levelgroup 15,0,"Divine"
+add rootgroup "710e98d9-b9e2-4563-82e6-9e9ce90118c8",""
+add namegroup "RG_Daggers_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "7feebe69-30e0-4ccf-9b05-c96e66e0f760",""
+add namegroup "RG_Daggers_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "3fc06a6d-4364-45cd-b7c8-873f8274cf3c",""
+add namegroup "RG_Daggers_Divine","",""
+
+new itemgroup "Maces_1H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "7fd27a9c-0cef-40a9-8b03-ae1cc4475415",""
+add namegroup "Mallet","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "2f9ecfeb-a504-49fc-9d85-174581f3589d",""
+add namegroup "Blunt Morningstar","",""
+
+add rootgroup "05c46ff4-22bc-4604-b02f-9a468e2f4c8d",""
+add namegroup "Blunt Morningstar","",""
+
+add rootgroup "11592246-d2cc-46fe-b016-a8304fc014d8",""
+add namegroup "Blunt Morningstar","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "36478220-ec9a-46ab-933b-fc1b17db1877",""
+add namegroup "Flanged Mace","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "28e56d52-2c0e-457e-a7fa-9b671beca1bc",""
+add namegroup "Morningstar","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "4549d9f6-4714-4452-8c63-e0a836eef17e","ElvesCommon"
+add namegroup "Elven Club","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "b1b01258-f0a1-45fd-b848-207a713f07d0",""
+add namegroup "Dwarven Hammer","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "b1b01258-f0a1-45fd-b848-207a713f07d0",""
+add namegroup "Dwarven Hammer","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "36478220-ec9a-46ab-933b-fc1b17db1877",""
+add namegroup "Flanged Mace","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "28e56d52-2c0e-457e-a7fa-9b671beca1bc",""
+add namegroup "Morningstar","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "4549d9f6-4714-4452-8c63-e0a836eef17e","ElvesUncommon"
+add namegroup "Elven Club","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "64c16ab4-5c4e-4615-9b51-7e5d409948da",""
+add namegroup "Lizard's Warhammer","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "7b984b05-48ba-40cb-b62d-0a517df6b35e",""
+add namegroup "Flanged Mace","Cool",""
+
+add levelgroup 15,0,"Uncommon"
+add rootgroup "dba8df57-6e95-4c05-ba36-859363478cfc",""
+add namegroup "Double Headed Hammer","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "c44a53d8-24dc-4a4f-aa6e-b6cd6624a9ba",""
+add namegroup "Lizard's Morningstar","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "10ba2d80-eddf-47bd-ac5b-30d5e32d5725","ElvesUncommon"
+add namegroup "Elven Club","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "28e56d52-2c0e-457e-a7fa-9b671beca1bc",""
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "4549d9f6-4714-4452-8c63-e0a836eef17e","ElvesRare"
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "64c16ab4-5c4e-4615-9b51-7e5d409948da",""
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "7b984b05-48ba-40cb-b62d-0a517df6b35e",""
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "dba8df57-6e95-4c05-ba36-859363478cfc",""
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "c44a53d8-24dc-4a4f-aa6e-b6cd6624a9ba",""
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 15,0,"Rare"
+add rootgroup "10ba2d80-eddf-47bd-ac5b-30d5e32d5725","ElvesRare"
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "5171258c-9816-4379-8c2f-068558505fbb",""
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "656300e1-02e8-44c5-9c4a-6d7d09edc385",""
+add namegroup "RG_Maces_1H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "4549d9f6-4714-4452-8c63-e0a836eef17e","ElvesEpic"
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "64c16ab4-5c4e-4615-9b51-7e5d409948da",""
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 7,0,"Epic"
+add rootgroup "7b984b05-48ba-40cb-b62d-0a517df6b35e",""
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "dba8df57-6e95-4c05-ba36-859363478cfc",""
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 11,0,"Epic"
+add rootgroup "c44a53d8-24dc-4a4f-aa6e-b6cd6624a9ba",""
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "10ba2d80-eddf-47bd-ac5b-30d5e32d5725","ElvesEpic"
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 15,0,"Epic"
+add rootgroup "5171258c-9816-4379-8c2f-068558505fbb",""
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "656300e1-02e8-44c5-9c4a-6d7d09edc385",""
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "d4580897-b7e2-45d9-8758-2a2727e1cd6e",""
+add namegroup "RG_Maces_1H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "4549d9f6-4714-4452-8c63-e0a836eef17e","ElvesEpic"
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "64c16ab4-5c4e-4615-9b51-7e5d409948da",""
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 7,0,"Legendary"
+add rootgroup "7b984b05-48ba-40cb-b62d-0a517df6b35e",""
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "dba8df57-6e95-4c05-ba36-859363478cfc",""
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 11,0,"Legendary"
+add rootgroup "c44a53d8-24dc-4a4f-aa6e-b6cd6624a9ba",""
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "10ba2d80-eddf-47bd-ac5b-30d5e32d5725","ElvesEpic"
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 15,0,"Legendary"
+add rootgroup "5171258c-9816-4379-8c2f-068558505fbb",""
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "656300e1-02e8-44c5-9c4a-6d7d09edc385",""
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "d4580897-b7e2-45d9-8758-2a2727e1cd6e",""
+add namegroup "RG_Maces_1H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "4549d9f6-4714-4452-8c63-e0a836eef17e","ElvesEpic"
+add namegroup "RG_Maces_1H_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "64c16ab4-5c4e-4615-9b51-7e5d409948da",""
+add namegroup "RG_Maces_1H_Divine","",""
+
+add levelgroup 7,0,"Divine"
+add rootgroup "7b984b05-48ba-40cb-b62d-0a517df6b35e",""
+add namegroup "RG_Maces_1H_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "dba8df57-6e95-4c05-ba36-859363478cfc",""
+add namegroup "RG_Maces_1H_Divine","",""
+
+add levelgroup 11,0,"Divine"
+add rootgroup "c44a53d8-24dc-4a4f-aa6e-b6cd6624a9ba",""
+add namegroup "RG_Maces_1H_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "10ba2d80-eddf-47bd-ac5b-30d5e32d5725","ElvesEpic"
+add namegroup "RG_Maces_1H_Divine","",""
+
+add levelgroup 15,0,"Divine"
+add rootgroup "5171258c-9816-4379-8c2f-068558505fbb",""
+add namegroup "RG_Maces_1H_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "656300e1-02e8-44c5-9c4a-6d7d09edc385",""
+add namegroup "RG_Maces_1H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "d4580897-b7e2-45d9-8758-2a2727e1cd6e",""
+add namegroup "RG_Maces_1H_Divine","",""
+
+new itemgroup "Maces_2H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "a3778f4f-abd4-44aa-8e4f-7f444e3c795a",""
+add namegroup "Big Piece Of Wood","",""
+
+add levelgroup 3,0,"Common"
+add rootgroup "bf111399-e209-48c2-9bfb-07c4ac61c284",""
+add namegroup "Big Mallet","",""
+
+add levelgroup 5,0,"Common"
+add rootgroup "1c8c9c8a-e4b4-4968-9b05-37a61b3cb834",""
+add namegroup "Large Hammer","",""
+
+add levelgroup 7,0,"Common"
+add rootgroup "91e5bd15-033a-418b-8fca-ea0bfe5922e6",""
+add namegroup "Big Warhammer","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "6c5f80a6-f3e4-42a1-a07e-ff713899a23d",""
+add namegroup "Big Two-Headed Warhammer","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "85a84848-d820-4e4e-8be1-a2cf78a3429b",""
+add namegroup "Big Dwarven Mace","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "91e5bd15-033a-418b-8fca-ea0bfe5922e6",""
+add namegroup "Big Warhammer","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "85a84848-d820-4e4e-8be1-a2cf78a3429b",""
+add namegroup "Big Dwarven Mace","Cool",""
+
+add levelgroup 7,0,"Uncommon"
+add rootgroup "6c5f80a6-f3e4-42a1-a07e-ff713899a23d",""
+add namegroup "Big Two-Headed Warhammer","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "4d7f58ac-90aa-4766-b42d-41a6615dbee7",""
+add namegroup "Big Lizard's Club","Cool",""
+
+add levelgroup 11,0,"Uncommon"
+add rootgroup "5b522acd-c284-4563-9a85-351575d1ed24","ElvesUncommon"
+add namegroup "Big Elven Club","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "4e80a06f-2d30-4982-a6e8-9efb661491c8",""
+add namegroup "Giant Warhammer","Cool",""
+
+add levelgroup 15,0,"Uncommon"
+add rootgroup "0057c480-420e-4931-b7fc-2519414f6dc1",""
+add namegroup "Big Dwarven Shillelagh","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "60865549-b10c-4897-bc5d-d2ff4df623b6",""
+add namegroup "Big Lizard's Club","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "689c9dac-b520-4e76-b699-bc900be1e179","ElvesUncommon"
+add namegroup "Big Elven Club","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "85a84848-d820-4e4e-8be1-a2cf78a3429b",""
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "6c5f80a6-f3e4-42a1-a07e-ff713899a23d",""
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 7,0,"Rare"
+add rootgroup "4d7f58ac-90aa-4766-b42d-41a6615dbee7",""
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "5b522acd-c284-4563-9a85-351575d1ed24","ElvesRare"
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 11,0,"Rare"
+add rootgroup "4e80a06f-2d30-4982-a6e8-9efb661491c8",""
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "0057c480-420e-4931-b7fc-2519414f6dc1",""
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 15,0,"Rare"
+add rootgroup "60865549-b10c-4897-bc5d-d2ff4df623b6",""
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "689c9dac-b520-4e76-b699-bc900be1e179","ElvesRare"
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "d9bd8aee-d515-4aab-8eb9-d8bb065a362f",""
+add namegroup "RG_Maces_2H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "4d7f58ac-90aa-4766-b42d-41a6615dbee7",""
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "5b522acd-c284-4563-9a85-351575d1ed24","ElvesEpic"
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 7,0,"Epic"
+add rootgroup "4e80a06f-2d30-4982-a6e8-9efb661491c8",""
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "0057c480-420e-4931-b7fc-2519414f6dc1",""
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 11,0,"Epic"
+add rootgroup "60865549-b10c-4897-bc5d-d2ff4df623b6",""
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "689c9dac-b520-4e76-b699-bc900be1e179","ElvesRare"
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 15,0,"Epic"
+add rootgroup "d9bd8aee-d515-4aab-8eb9-d8bb065a362f",""
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "744e15fd-aaef-48d1-949e-2bd0a6c65fb2",""
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "b9dcea5b-b7e4-4e85-8b7b-a49b2447c648",""
+add namegroup "RG_Maces_2H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "4d7f58ac-90aa-4766-b42d-41a6615dbee7",""
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "5b522acd-c284-4563-9a85-351575d1ed24","ElvesEpic"
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 7,0,"Legendary"
+add rootgroup "4e80a06f-2d30-4982-a6e8-9efb661491c8",""
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "0057c480-420e-4931-b7fc-2519414f6dc1",""
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 11,0,"Legendary"
+add rootgroup "60865549-b10c-4897-bc5d-d2ff4df623b6",""
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "689c9dac-b520-4e76-b699-bc900be1e179","ElvesRare"
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 15,0,"Legendary"
+add rootgroup "d9bd8aee-d515-4aab-8eb9-d8bb065a362f",""
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "744e15fd-aaef-48d1-949e-2bd0a6c65fb2",""
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "b9dcea5b-b7e4-4e85-8b7b-a49b2447c648",""
+add namegroup "RG_Maces_2H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "4d7f58ac-90aa-4766-b42d-41a6615dbee7",""
+add namegroup "RG_Maces_2H_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "5b522acd-c284-4563-9a85-351575d1ed24","ElvesEpic"
+add namegroup "RG_Maces_2H_Divine","",""
+
+add levelgroup 7,0,"Divine"
+add rootgroup "4e80a06f-2d30-4982-a6e8-9efb661491c8",""
+add namegroup "RG_Maces_2H_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "0057c480-420e-4931-b7fc-2519414f6dc1",""
+add namegroup "RG_Maces_2H_Divine","",""
+
+add levelgroup 11,0,"Divine"
+add rootgroup "60865549-b10c-4897-bc5d-d2ff4df623b6",""
+add namegroup "RG_Maces_2H_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "689c9dac-b520-4e76-b699-bc900be1e179","ElvesRare"
+add namegroup "RG_Maces_2H_Divine","",""
+
+add levelgroup 15,0,"Divine"
+add rootgroup "d9bd8aee-d515-4aab-8eb9-d8bb065a362f",""
+add namegroup "RG_Maces_2H_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "744e15fd-aaef-48d1-949e-2bd0a6c65fb2",""
+add namegroup "RG_Maces_2H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "b9dcea5b-b7e4-4e85-8b7b-a49b2447c648",""
+add namegroup "RG_Maces_2H_Divine","",""
+
+new itemgroup "Staves_2H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "f9395532-5efe-4561-bef1-3f603b32c082",""
+add namegroup "Improvised Staff","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "8fdeb45d-952b-464d-b717-d7d994e25ada",""
+add namegroup "Dwarven Staff","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "14ecb80a-152b-40e1-8603-49239a035b6d",""
+add namegroup "Wooden Staff","",""
+
+add levelgroup 12,0,"Common"
+add rootgroup "30f84930-88f0-48dd-8ab7-1bb6fe0b7437","ElvesShieldUncommon"
+add namegroup "Elven Staff","",""
+
+add levelgroup 16,0,"Common"
+add rootgroup "b5098fa9-5148-4460-806f-9163a7550db1",""
+add namegroup "Dwarven Staff","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "30f84930-88f0-48dd-8ab7-1bb6fe0b7437","ElvesShieldUncommon"
+add namegroup "Elven Staff","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "b5098fa9-5148-4460-806f-9163a7550db1",""
+add namegroup "Dwarven Staff","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "766827a7-c2ff-4205-a2b1-9b6803cd14ab",""
+add namegroup "Lizard's Staff","Cool",""
+
+add levelgroup 12,0,"Uncommon"
+add rootgroup "545f2dc2-1da9-4387-af90-9e866f6288a8",""
+add namegroup "Dwarven Staff","Cool",""
+
+add levelgroup 16,0,"Uncommon"
+add rootgroup "1a1ce704-9398-4670-83d0-866a604b8401","ElvesStaffBUncommon"
+add namegroup "Elven Staff","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "bdfb42c8-ab2b-4526-b43f-0a1c0f537f64",""
+add namegroup "Metal Staff","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "b5098fa9-5148-4460-806f-9163a7550db1",""
+add namegroup "RG_Staves_2H_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "766827a7-c2ff-4205-a2b1-9b6803cd14ab",""
+add namegroup "RG_Staves_2H_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "545f2dc2-1da9-4387-af90-9e866f6288a8",""
+add namegroup "RG_Staves_2H_Rare_AMER","",""
+
+add levelgroup 12,0,"Rare"
+add rootgroup "1a1ce704-9398-4670-83d0-866a604b8401","ElvesStaffBRare"
+add namegroup "RG_Staves_2H_Rare_AMER","",""
+
+add levelgroup 16,0,"Rare"
+add rootgroup "bdfb42c8-ab2b-4526-b43f-0a1c0f537f64",""
+add namegroup "RG_Staves_2H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "ebd3ea73-630b-4826-96d2-7ff6f54fe13e",""
+add namegroup "RG_Staves_2H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "766827a7-c2ff-4205-a2b1-9b6803cd14ab",""
+add namegroup "RG_Staves_2H_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "545f2dc2-1da9-4387-af90-9e866f6288a8",""
+add namegroup "RG_Staves_2H_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "1a1ce704-9398-4670-83d0-866a604b8401","ElvesStaffBEpic"
+add namegroup "RG_Staves_2H_Epic_AMER","",""
+
+add levelgroup 12,0,"Epic"
+add rootgroup "bdfb42c8-ab2b-4526-b43f-0a1c0f537f64",""
+add namegroup "RG_Staves_2H_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "ebd3ea73-630b-4826-96d2-7ff6f54fe13e",""
+add namegroup "RG_Staves_2H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "bd1e70cd-7d36-4d10-b4f7-5ee55afda913",""
+add namegroup "RG_Staves_2H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "766827a7-c2ff-4205-a2b1-9b6803cd14ab",""
+add namegroup "RG_Staves_2H_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "545f2dc2-1da9-4387-af90-9e866f6288a8",""
+add namegroup "RG_Staves_2H_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "1a1ce704-9398-4670-83d0-866a604b8401","ElvesStaffBEpic"
+add namegroup "RG_Staves_2H_Legendary","",""
+
+add levelgroup 12,0,"Legendary"
+add rootgroup "bdfb42c8-ab2b-4526-b43f-0a1c0f537f64",""
+add namegroup "RG_Staves_2H_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "ebd3ea73-630b-4826-96d2-7ff6f54fe13e",""
+add namegroup "RG_Staves_2H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "bd1e70cd-7d36-4d10-b4f7-5ee55afda913",""
+add namegroup "RG_Staves_2H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "766827a7-c2ff-4205-a2b1-9b6803cd14ab",""
+add namegroup "RG_Staves_2H_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "545f2dc2-1da9-4387-af90-9e866f6288a8",""
+add namegroup "RG_Staves_2H_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "1a1ce704-9398-4670-83d0-866a604b8401","ElvesStaffBEpic"
+add namegroup "RG_Staves_2H_Divine","",""
+
+add levelgroup 12,0,"Divine"
+add rootgroup "bdfb42c8-ab2b-4526-b43f-0a1c0f537f64",""
+add namegroup "RG_Staves_2H_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "ebd3ea73-630b-4826-96d2-7ff6f54fe13e",""
+add namegroup "RG_Staves_2H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "bd1e70cd-7d36-4d10-b4f7-5ee55afda913",""
+add namegroup "RG_Staves_2H_Divine","",""
+
+new itemgroup "Spears_2H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "be051a81-d08d-4fea-9fa4-f1c32049c13d",""
+add namegroup "Wooden Pitchfork","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "15b17f97-4354-4f6e-98e9-818f87fe95f7",""
+add namegroup "Primitive Harpoon","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "bec707cd-8340-4d4d-8cdc-edfedf7f311d","ElvesCommon"
+add namegroup "Elven Menaulion","",""
+
+add levelgroup 12,0,"Common"
+add rootgroup "bc455a48-b77a-467c-a711-e4adbc0888d8",""
+add namegroup "Spear","",""
+
+add levelgroup 16,0,"Common"
+add rootgroup "201dd810-dd24-4c1d-9b77-34b7c6c4a9b1",""
+add namegroup "Lizard's Spear","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "bec707cd-8340-4d4d-8cdc-edfedf7f311d","ElvesUncommon"
+add namegroup "Elven Menaulion","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "bc455a48-b77a-467c-a711-e4adbc0888d8",""
+add namegroup "Spear","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "201dd810-dd24-4c1d-9b77-34b7c6c4a9b1",""
+add namegroup "Lizard's Spear","Cool",""
+
+add levelgroup 12,0,"Uncommon"
+add rootgroup "2a60284a-b26f-4a74-8208-ef1e87f803c0",""
+add namegroup "Pike","Cool",""
+
+add levelgroup 16,0,"Uncommon"
+add rootgroup "3eac8df4-1a60-46ed-9d20-1a255a1209fc","ElvesUncommon"
+add namegroup "Elven Lance","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "00df5652-0176-4d7a-8725-e59bfad4163c",""
+add namegroup "Trident","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "bc455a48-b77a-467c-a711-e4adbc0888d8",""
+add namegroup "RG_Spears_2H_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "201dd810-dd24-4c1d-9b77-34b7c6c4a9b1",""
+add namegroup "RG_Spears_2H_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "2a60284a-b26f-4a74-8208-ef1e87f803c0",""
+add namegroup "RG_Spears_2H_Rare_AMER","",""
+
+add levelgroup 12,0,"Rare"
+add rootgroup "3eac8df4-1a60-46ed-9d20-1a255a1209fc","ElvesRare"
+add namegroup "RG_Spears_2H_Rare_AMER","",""
+
+add levelgroup 16,0,"Rare"
+add rootgroup "00df5652-0176-4d7a-8725-e59bfad4163c",""
+add namegroup "RG_Spears_2H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "a1f308fd-9834-4f8f-88e5-cfc69af87bff",""
+add namegroup "RG_Spears_2H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "201dd810-dd24-4c1d-9b77-34b7c6c4a9b1",""
+add namegroup "RG_Spears_2H_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "2a60284a-b26f-4a74-8208-ef1e87f803c0",""
+add namegroup "RG_Spears_2H_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "3eac8df4-1a60-46ed-9d20-1a255a1209fc","ElvesEpic"
+add namegroup "RG_Spears_2H_Epic_AMER","",""
+
+add levelgroup 12,0,"Epic"
+add rootgroup "00df5652-0176-4d7a-8725-e59bfad4163c",""
+add namegroup "RG_Spears_2H_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "a1f308fd-9834-4f8f-88e5-cfc69af87bff",""
+add namegroup "RG_Spears_2H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "460e9e66-6cf1-4609-9339-e23a0ec68b8d",""
+add namegroup "RG_Spears_2H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "201dd810-dd24-4c1d-9b77-34b7c6c4a9b1",""
+add namegroup "RG_Spears_2H_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "2a60284a-b26f-4a74-8208-ef1e87f803c0",""
+add namegroup "RG_Spears_2H_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "3eac8df4-1a60-46ed-9d20-1a255a1209fc","ElvesEpic"
+add namegroup "RG_Spears_2H_Legendary","",""
+
+add levelgroup 12,0,"Legendary"
+add rootgroup "00df5652-0176-4d7a-8725-e59bfad4163c",""
+add namegroup "RG_Spears_2H_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "a1f308fd-9834-4f8f-88e5-cfc69af87bff",""
+add namegroup "RG_Spears_2H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "460e9e66-6cf1-4609-9339-e23a0ec68b8d",""
+add namegroup "RG_Spears_2H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "201dd810-dd24-4c1d-9b77-34b7c6c4a9b1",""
+add namegroup "RG_Spears_2H_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "2a60284a-b26f-4a74-8208-ef1e87f803c0",""
+add namegroup "RG_Spears_2H_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "3eac8df4-1a60-46ed-9d20-1a255a1209fc","ElvesEpic"
+add namegroup "RG_Spears_2H_Divine","",""
+
+add levelgroup 12,0,"Divine"
+add rootgroup "00df5652-0176-4d7a-8725-e59bfad4163c",""
+add namegroup "RG_Spears_2H_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "a1f308fd-9834-4f8f-88e5-cfc69af87bff",""
+add namegroup "RG_Spears_2H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "460e9e66-6cf1-4609-9339-e23a0ec68b8d",""
+add namegroup "RG_Spears_2H_Divine","",""
+
+new itemgroup "Wands_1H"
+
+add levelgroup 1,0,"Common"
+add rootgroup "0edf88b5-f09f-473c-bae1-a992af4dba69",""
+add namegroup "Improv Wand","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "5d128228-a710-4236-8a7e-83be127e3c1d","ElvesCommon"
+add namegroup "Wand Of Nature","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "42f67e5c-6713-45ba-8449-47ced729cdf9",""
+add namegroup "Stone Wand","",""
+
+add levelgroup 12,0,"Common"
+add rootgroup "296367bb-7e26-4966-a23d-cd77550ed501",""
+add namegroup "Wand Of The Dwarf","",""
+
+add levelgroup 16,0,"Common"
+add rootgroup "6b6b8887-c68f-4784-9e3f-5458f049f8f6",""
+add namegroup "Wand Of The Lizard","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "5d128228-a710-4236-8a7e-83be127e3c1d","ElvesUncommon"
+add namegroup "Wand Of Nature","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "42f67e5c-6713-45ba-8449-47ced729cdf9",""
+add namegroup "Stone Wand","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "6b6b8887-c68f-4784-9e3f-5458f049f8f6",""
+add namegroup "Wand Of The Lizard","Cool",""
+
+add levelgroup 12,0,"Uncommon"
+add rootgroup "296367bb-7e26-4966-a23d-cd77550ed501",""
+add namegroup "Wand Of The Dwarf","Cool",""
+
+add levelgroup 16,0,"Uncommon"
+add rootgroup "e8b829e7-a27c-45a5-b8e6-cd00d4d0e8a5",""
+add namegroup "Wooden Wand","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "21699330-a7dd-44c0-8cb4-2808fe910abc","ElvesStaffBUncommon"
+add namegroup "Wand Of Nature","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "296367bb-7e26-4966-a23d-cd77550ed501",""
+add namegroup "RG_Wands_1H_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "e8b829e7-a27c-45a5-b8e6-cd00d4d0e8a5",""
+add namegroup "RG_Wands_1H_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "21699330-a7dd-44c0-8cb4-2808fe910abc","ElvesStaffBRare"
+add namegroup "RG_Wands_1H_Rare_AMER","",""
+
+add levelgroup 12,0,"Rare"
+add rootgroup "e8b829e7-a27c-45a5-b8e6-cd00d4d0e8a5",""
+add namegroup "RG_Wands_1H_Rare_AMER","",""
+
+add levelgroup 16,0,"Rare"
+add rootgroup "21699330-a7dd-44c0-8cb4-2808fe910abc","ElvesStaffBRare"
+add namegroup "RG_Wands_1H_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "93eac0a1-bc12-40d8-a6ed-8c392895b513",""
+add namegroup "RG_Wands_1H_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "93eac0a1-bc12-40d8-a6ed-8c392895b513",""
+add namegroup "RG_Wands_1H_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "325e72cc-2846-49a7-9c2a-cfea0d9103f5",""
+add namegroup "RG_Wands_1H_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "e8b829e7-a27c-45a5-b8e6-cd00d4d0e8a5",""
+add namegroup "RG_Wands_1H_Epic_AMER","",""
+
+add levelgroup 12,0,"Epic"
+add rootgroup "21699330-a7dd-44c0-8cb4-2808fe910abc","ElvesStaffBEpic"
+add namegroup "RG_Wands_1H_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "93eac0a1-bc12-40d8-a6ed-8c392895b513",""
+add namegroup "RG_Wands_1H_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "325e72cc-2846-49a7-9c2a-cfea0d9103f5",""
+add namegroup "RG_Wands_1H_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "93eac0a1-bc12-40d8-a6ed-8c392895b513",""
+add namegroup "RG_Wands_1H_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "325e72cc-2846-49a7-9c2a-cfea0d9103f5",""
+add namegroup "RG_Wands_1H_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "e8b829e7-a27c-45a5-b8e6-cd00d4d0e8a5",""
+add namegroup "RG_Wands_1H_Legendary","",""
+
+add levelgroup 12,0,"Legendary"
+add rootgroup "21699330-a7dd-44c0-8cb4-2808fe910abc","ElvesStaffBEpic"
+add namegroup "RG_Wands_1H_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "93eac0a1-bc12-40d8-a6ed-8c392895b513",""
+add namegroup "RG_Wands_1H_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "325e72cc-2846-49a7-9c2a-cfea0d9103f5",""
+add namegroup "RG_Wands_1H_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "93eac0a1-bc12-40d8-a6ed-8c392895b513",""
+add namegroup "RG_Wands_1H_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "325e72cc-2846-49a7-9c2a-cfea0d9103f5",""
+add namegroup "RG_Wands_1H_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "e8b829e7-a27c-45a5-b8e6-cd00d4d0e8a5",""
+add namegroup "RG_Wands_1H_Divine","",""
+
+add levelgroup 12,0,"Divine"
+add rootgroup "21699330-a7dd-44c0-8cb4-2808fe910abc","ElvesStaffBEpic"
+add namegroup "RG_Wands_1H_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "93eac0a1-bc12-40d8-a6ed-8c392895b513",""
+add namegroup "RG_Wands_1H_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "325e72cc-2846-49a7-9c2a-cfea0d9103f5",""
+add namegroup "RG_Wands_1H_Divine","",""
+
+new itemgroup "Shields"
+
+add levelgroup 1,0,"Common"
+add rootgroup "c2bbfbd1-6361-4f2e-bad9-a6b46880f501",""
+add namegroup "Wooden Targe","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "f14b8136-c4c6-4d7a-bc04-639d5a2397e7",""
+add namegroup "Wooden Targe","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "08854157-2996-449a-bde0-083277ca1119",""
+add namegroup "Metal Shield","",""
+
+add levelgroup 16,0,"Common"
+add rootgroup "75f01b32-1804-460a-806d-5b8209a8a47b",""
+add namegroup "Metal Shield","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "f14b8136-c4c6-4d7a-bc04-639d5a2397e7",""
+add namegroup "Wooden Targe","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "08854157-2996-449a-bde0-083277ca1119",""
+add namegroup "Metal Shield","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "75f01b32-1804-460a-806d-5b8209a8a47b",""
+add namegroup "Metal Shield","Cool",""
+
+add levelgroup 12,0,"Uncommon"
+add rootgroup "37457094-18dc-45c0-87ef-06fb8f408d67",""
+add namegroup "Metal Shield","Cool",""
+
+add levelgroup 16,0,"Uncommon"
+add rootgroup "fd5c15d3-2c7e-4ca5-9523-de29c98c6454","ElvesShieldUncommon"
+add namegroup "Elven Shield","Cool",""
+
+add levelgroup 19,0,"Uncommon"
+add rootgroup "64c5ce79-4d65-40a1-a438-b913bf1d2fd6",""
+add namegroup "Lizard's Buckler","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "37457094-18dc-45c0-87ef-06fb8f408d67",""
+add namegroup "RG_Shields_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "91010c87-420d-4842-86c3-a325058687c5",""
+add namegroup "RG_Shields_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "fd5c15d3-2c7e-4ca5-9523-de29c98c6454","ElvesShieldRare"
+add namegroup "RG_Shields_Rare_AMER","",""
+
+add levelgroup 12,0,"Rare"
+add rootgroup "75f01b32-1804-460a-806d-5b8209a8a47b",""
+add namegroup "RG_Shields_Rare_AMER","",""
+
+add levelgroup 16,0,"Rare"
+add rootgroup "91010c87-420d-4842-86c3-a325058687c5",""
+add namegroup "RG_Shields_Rare_AMER","",""
+
+add levelgroup 19,0,"Rare"
+add rootgroup "d3620dff-36af-4fc8-96ba-818ead1d4865",""
+add namegroup "RG_Shields_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "fd5c15d3-2c7e-4ca5-9523-de29c98c6454","ElvesShieldEpic"
+add namegroup "RG_Shields_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "64c5ce79-4d65-40a1-a438-b913bf1d2fd6",""
+add namegroup "RG_Shields_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "4192940d-c4bb-4893-aaf3-15641b30d04e",""
+add namegroup "RG_Shields_Epic_AMER","",""
+
+add levelgroup 12,0,"Epic"
+add rootgroup "4d8339c7-590d-42b1-aac0-8714b36d6fd7","ElvesShieldEpic"
+add namegroup "RG_Shields_Epic_AMER","",""
+
+add levelgroup 16,0,"Epic"
+add rootgroup "d3620dff-36af-4fc8-96ba-818ead1d4865",""
+add namegroup "RG_Shields_Epic_AMER","",""
+
+add levelgroup 19,0,"Epic"
+add rootgroup "b6a3ae27-09e8-49e7-b381-c53d717d67bc",""
+add namegroup "RG_Shields_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "fd5c15d3-2c7e-4ca5-9523-de29c98c6454","ElvesShieldEpic"
+add namegroup "RG_Shields_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "64c5ce79-4d65-40a1-a438-b913bf1d2fd6",""
+add namegroup "RG_Shields_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "4192940d-c4bb-4893-aaf3-15641b30d04e",""
+add namegroup "RG_Shields_Legendary","",""
+
+add levelgroup 12,0,"Legendary"
+add rootgroup "4d8339c7-590d-42b1-aac0-8714b36d6fd7","ElvesShieldEpic"
+add namegroup "RG_Shields_Legendary","",""
+
+add levelgroup 16,0,"Legendary"
+add rootgroup "d3620dff-36af-4fc8-96ba-818ead1d4865",""
+add namegroup "RG_Shields_Legendary","",""
+
+add levelgroup 19,0,"Legendary"
+add rootgroup "b6a3ae27-09e8-49e7-b381-c53d717d67bc",""
+add namegroup "RG_Shields_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "fd5c15d3-2c7e-4ca5-9523-de29c98c6454","ElvesShieldEpic"
+add namegroup "RG_Shields_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "64c5ce79-4d65-40a1-a438-b913bf1d2fd6",""
+add namegroup "RG_Shields_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "4192940d-c4bb-4893-aaf3-15641b30d04e",""
+add namegroup "RG_Shields_Divine","",""
+
+add levelgroup 12,0,"Divine"
+add rootgroup "4d8339c7-590d-42b1-aac0-8714b36d6fd7","ElvesShieldEpic"
+add namegroup "RG_Shields_Divine","",""
+
+add levelgroup 16,0,"Divine"
+add rootgroup "d3620dff-36af-4fc8-96ba-818ead1d4865",""
+add namegroup "RG_Shields_Divine","",""
+
+add levelgroup 19,0,"Divine"
+add rootgroup "b6a3ae27-09e8-49e7-b381-c53d717d67bc",""
+add namegroup "RG_Shields_Divine","",""
+
+new itemgroup "ClothHelmet"
+
+add levelgroup 1,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood_Lowest","",""
+
+add levelgroup 2,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood_Lowest2","",""
+
+add levelgroup 3,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood_Low","",""
+
+add levelgroup 4,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood_Low2","",""
+
+add levelgroup 5,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood1","",""
+
+add levelgroup 7,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood2","",""
+
+add levelgroup 9,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood3","",""
+
+add levelgroup 11,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood4","",""
+
+add levelgroup 13,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood5","",""
+
+add levelgroup 15,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood6","",""
+
+add levelgroup 17,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood7","",""
+
+add levelgroup 19,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood8","",""
+
+add levelgroup 20,0,"All"
+add rootgroup "e8d53fab-bbd8-4929-8dbe-658baf168555",""
+add namegroup "ClothHood9","",""
+
+new itemgroup "ClothGloves"
+
+add levelgroup 1,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves_Lowest","",""
+
+add levelgroup 3,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves_Lowest2","",""
+
+add levelgroup 4,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves_Low","",""
+
+add levelgroup 5,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves1","",""
+
+add levelgroup 7,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves2","",""
+
+add levelgroup 9,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves3","",""
+
+add levelgroup 11,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves4","",""
+
+add levelgroup 13,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves5","",""
+
+add levelgroup 15,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves6","",""
+
+add levelgroup 17,0,"All"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "ClothGloves7","",""
+
+new itemgroup "ClothUpperBody"
+
+add levelgroup 1,0,"All"
+add rootgroup "3ec8a86d-1df6-4923-9e7a-ce81800e9438",""
+add namegroup "CanvasShirt_Lowest","",""
+
+add levelgroup 3,0,"All"
+add rootgroup "3ec8a86d-1df6-4923-9e7a-ce81800e9438",""
+add namegroup "CanvasShirt_Lowest2","",""
+
+add levelgroup 4,0,"All"
+add rootgroup "7d06c230-340a-4cae-b5f1-142a48114e07",""
+add namegroup "CanvasShirt_Low","",""
+
+add levelgroup 5,0,"All"
+add rootgroup "7d06c230-340a-4cae-b5f1-142a48114e07",""
+add namegroup "CanvasShirt_Low2","",""
+
+add levelgroup 5,0,"All"
+add rootgroup "3ec8a86d-1df6-4923-9e7a-ce81800e9438",""
+add namegroup "CanvasShirt1","",""
+
+add levelgroup 7,0,"All"
+add rootgroup "3ec8a86d-1df6-4923-9e7a-ce81800e9438",""
+add namegroup "CanvasShirt2","",""
+
+add levelgroup 9,0,"All"
+add rootgroup "3ec8a86d-1df6-4923-9e7a-ce81800e9438",""
+add namegroup "CanvasShirt3","",""
+
+add levelgroup 11,0,"All"
+add rootgroup "3ec8a86d-1df6-4923-9e7a-ce81800e9438",""
+add namegroup "CanvasShirt4","",""
+
+add levelgroup 13,0,"All"
+add rootgroup "3ec8a86d-1df6-4923-9e7a-ce81800e9438",""
+add namegroup "CanvasShirt5","",""
+
+add levelgroup 15,0,"All"
+add rootgroup "3ec8a86d-1df6-4923-9e7a-ce81800e9438",""
+add namegroup "CanvasShirt6","",""
+
+add levelgroup 17,0,"All"
+add rootgroup "7d06c230-340a-4cae-b5f1-142a48114e07",""
+add namegroup "CanvasShirt7","",""
+
+new itemgroup "ClothLowerBody"
+
+add levelgroup 1,0,"All"
+add rootgroup "98b2a268-6bc4-4357-8cb6-c33bdf6aaa63",""
+add namegroup "CanvasPants_Lowest","",""
+
+add levelgroup 3,0,"All"
+add rootgroup "c1c8ae30-fb37-41d8-8582-25b4ca1a8d33",""
+add namegroup "CanvasPants_Lowest2","",""
+
+add levelgroup 4,0,"All"
+add rootgroup "c1c8ae30-fb37-41d8-8582-25b4ca1a8d33",""
+add namegroup "CanvasPants_Low","",""
+
+add levelgroup 5,0,"All"
+add rootgroup "98b2a268-6bc4-4357-8cb6-c33bdf6aaa63",""
+add namegroup "CanvasPants_Low2","",""
+
+add levelgroup 6,0,"All"
+add rootgroup "98b2a268-6bc4-4357-8cb6-c33bdf6aaa63",""
+add namegroup "CanvasPants1","",""
+
+add levelgroup 7,0,"All"
+add rootgroup "c1c8ae30-fb37-41d8-8582-25b4ca1a8d33",""
+add namegroup "CanvasPants2","",""
+
+add levelgroup 8,0,"All"
+add rootgroup "98b2a268-6bc4-4357-8cb6-c33bdf6aaa63",""
+add namegroup "CanvasPants3","",""
+
+add levelgroup 9,0,"All"
+add rootgroup "98b2a268-6bc4-4357-8cb6-c33bdf6aaa63",""
+add namegroup "CanvasPants4","",""
+
+add levelgroup 10,0,"All"
+add rootgroup "c1c8ae30-fb37-41d8-8582-25b4ca1a8d33",""
+add namegroup "CanvasPants5","",""
+
+add levelgroup 12,0,"All"
+add rootgroup "98b2a268-6bc4-4357-8cb6-c33bdf6aaa63",""
+add namegroup "CanvasPants6","",""
+
+add levelgroup 14,0,"All"
+add rootgroup "c1c8ae30-fb37-41d8-8582-25b4ca1a8d33",""
+add namegroup "CanvasPants7","",""
+
+add levelgroup 16,0,"All"
+add rootgroup "98b2a268-6bc4-4357-8cb6-c33bdf6aaa63",""
+add namegroup "CanvasPants8","",""
+
+add levelgroup 18,0,"All"
+add rootgroup "c1c8ae30-fb37-41d8-8582-25b4ca1a8d33",""
+add namegroup "CanvasPants9","",""
+
+add levelgroup 20,0,"All"
+add rootgroup "c1c8ae30-fb37-41d8-8582-25b4ca1a8d33",""
+add namegroup "CanvasPants10","",""
+
+new itemgroup "ClothBoots"
+
+add levelgroup 1,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes_Lowest","",""
+
+add levelgroup 3,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes_Lowest2","",""
+
+add levelgroup 4,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes_Low","",""
+
+add levelgroup 5,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes_Low2","",""
+
+add levelgroup 6,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes1","",""
+
+add levelgroup 7,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes2","",""
+
+add levelgroup 8,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes3","",""
+
+add levelgroup 9,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes4","",""
+
+add levelgroup 10,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes5","",""
+
+add levelgroup 12,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes6","",""
+
+add levelgroup 14,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes7","",""
+
+add levelgroup 16,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes8","",""
+
+add levelgroup 18,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes9","",""
+
+add levelgroup 20,0,"All"
+add rootgroup "043055d0-f5fc-400c-ae2e-29fb3a20902c",""
+add namegroup "CivilianShoes10","",""
+
+new itemgroup "LightHelmet"
+
+add levelgroup 1,0,"Common"
+add rootgroup "bcc6e4a3-d8b5-43ac-848e-fb456e78276b",""
+add namegroup "LightHelmet","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "ebeab7a2-9ed4-4c84-9a68-2ac6d4614b6d",""
+add namegroup "LightHelmet2","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "6bbd09df-f19c-463a-a12a-ab8ac2111b47",""
+add namegroup "ChainmailHelmet","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "b33cfc65-c121-4804-b60b-6aa82517a46e",""
+add namegroup "LightHelmet2","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "fa3f2b84-46da-43b7-afb3-0a4481290dab",""
+add namegroup "ChainmailHelmet2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "bcc6e4a3-d8b5-43ac-848e-fb456e78276b",""
+add namegroup "LightHelmet2","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "ebeab7a2-9ed4-4c84-9a68-2ac6d4614b6d",""
+add namegroup "LightHelmet2","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "6bbd09df-f19c-463a-a12a-ab8ac2111b47",""
+add namegroup "ChainmailHelmet3","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "b33cfc65-c121-4804-b60b-6aa82517a46e",""
+add namegroup "LightHelmet2","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "fa3f2b84-46da-43b7-afb3-0a4481290dab",""
+add namegroup "ChainmailHelmet4","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "bcc6e4a3-d8b5-43ac-848e-fb456e78276b",""
+add namegroup "RG_LightHelmet_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "ebeab7a2-9ed4-4c84-9a68-2ac6d4614b6d",""
+add namegroup "RG_LightHelmet_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "6bbd09df-f19c-463a-a12a-ab8ac2111b47",""
+add namegroup "RG_LightHelmet_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "b33cfc65-c121-4804-b60b-6aa82517a46e",""
+add namegroup "RG_LightHelmet_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "fa3f2b84-46da-43b7-afb3-0a4481290dab",""
+add namegroup "RG_LightHelmet_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "bcc6e4a3-d8b5-43ac-848e-fb456e78276b",""
+add namegroup "RG_LightHelmet_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "ebeab7a2-9ed4-4c84-9a68-2ac6d4614b6d",""
+add namegroup "RG_LightHelmet_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "6bbd09df-f19c-463a-a12a-ab8ac2111b47",""
+add namegroup "RG_LightHelmet_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "b33cfc65-c121-4804-b60b-6aa82517a46e",""
+add namegroup "RG_LightHelmet_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "fa3f2b84-46da-43b7-afb3-0a4481290dab",""
+add namegroup "RG_LightHelmet_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "bcc6e4a3-d8b5-43ac-848e-fb456e78276b",""
+add namegroup "RG_LightHelmet_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "ebeab7a2-9ed4-4c84-9a68-2ac6d4614b6d",""
+add namegroup "RG_LightHelmet_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "6bbd09df-f19c-463a-a12a-ab8ac2111b47",""
+add namegroup "RG_LightHelmet_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "b33cfc65-c121-4804-b60b-6aa82517a46e",""
+add namegroup "RG_LightHelmet_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "fa3f2b84-46da-43b7-afb3-0a4481290dab",""
+add namegroup "RG_LightHelmet_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "bcc6e4a3-d8b5-43ac-848e-fb456e78276b",""
+add namegroup "RG_LightHelmet_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "ebeab7a2-9ed4-4c84-9a68-2ac6d4614b6d",""
+add namegroup "RG_LightHelmet_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "6bbd09df-f19c-463a-a12a-ab8ac2111b47",""
+add namegroup "RG_LightHelmet_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "b33cfc65-c121-4804-b60b-6aa82517a46e",""
+add namegroup "RG_LightHelmet_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "fa3f2b84-46da-43b7-afb3-0a4481290dab",""
+add namegroup "RG_LightHelmet_Divine","",""
+
+new itemgroup "LightGloves"
+
+add levelgroup 1,0,"Common"
+add rootgroup "9d919a7d-f09b-469e-8783-574f77204dc9",""
+add namegroup "LeatherGloves","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "LeatherGloves2","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "ChainmailGloves","",""
+
+add levelgroup 11,0,"Common"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "ChainmailGloves2","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "LeatherGloves3","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "ChainmailGloves3","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "9d919a7d-f09b-469e-8783-574f77204dc9",""
+add namegroup "LeatherGloves4","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "LeatherGloves","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "ChainmailGloves4","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "LeatherGloves5","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "ChainmailGloves5","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "9d919a7d-f09b-469e-8783-574f77204dc9",""
+add namegroup "RG_LightGloves_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "RG_LightGloves_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "RG_LightGloves_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "RG_LightGloves_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "RG_LightGloves_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "9d919a7d-f09b-469e-8783-574f77204dc9",""
+add namegroup "RG_LightGloves_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "RG_LightGloves_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "RG_LightGloves_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "RG_LightGloves_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "RG_LightGloves_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "9d919a7d-f09b-469e-8783-574f77204dc9",""
+add namegroup "RG_LightGloves_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "RG_LightGloves_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "RG_LightGloves_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "RG_LightGloves_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "RG_LightGloves_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "9d919a7d-f09b-469e-8783-574f77204dc9",""
+add namegroup "RG_LightGloves_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "RG_LightGloves_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "RG_LightGloves_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "fe0754e3-5f0b-409e-a856-31e646201ee4",""
+add namegroup "RG_LightGloves_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "86081ffc-a8a9-4a40-82c7-27439f862ee1",""
+add namegroup "RG_LightGloves_Divine","",""
+
+new itemgroup "LightUpperBody"
+
+add levelgroup 1,0,"Common"
+add rootgroup "a667c7d2-a104-4aca-891f-6839f1d0d134",""
+add namegroup "LeatherArmour","",""
+
+add rootgroup "fa1fab93-fad8-4c76-89e2-bb52753e7b88",""
+add namegroup "LeatherArmour","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "067a9f39-482e-49aa-b1b3-bc12f774b851",""
+add namegroup "LeatherArmour2","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "e43cdc17-ef9a-4b69-ba3b-02ca3ac4f7a0",""
+add namegroup "ChainmailArmour","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "90197584-35a2-4a18-9e5c-3804da9d969f",""
+add namegroup "LeatherArmour3","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "b98d7ffa-3a8d-45c0-a560-48666c058a42",""
+add namegroup "ChainmailArmour2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "a667c7d2-a104-4aca-891f-6839f1d0d134",""
+add namegroup "LeatherArmour2","Cool",""
+
+add rootgroup "fa1fab93-fad8-4c76-89e2-bb52753e7b88",""
+add namegroup "LeatherArmour2","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "1768a62a-f91c-4ddf-96e1-857b85dc4945",""
+add namegroup "LeatherArmour3","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "9ffce0ea-5d02-47fe-ae49-63b19b8f6f36",""
+add namegroup "ChainmailArmour2","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "fb5dd286-ab9b-40d1-a9c7-2d40fcc20aa4",""
+add namegroup "LeatherArmour4","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "ffab2872-74b2-4f89-adb4-5f8f239d33c3",""
+add namegroup "ChainmailArmour3","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "a667c7d2-a104-4aca-891f-6839f1d0d134",""
+add namegroup "RG_LightArmour_Rare_AMER","",""
+
+add rootgroup "fa1fab93-fad8-4c76-89e2-bb52753e7b88",""
+add namegroup "RG_LightArmour_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "1768a62a-f91c-4ddf-96e1-857b85dc4945",""
+add namegroup "RG_LightArmour_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "9ffce0ea-5d02-47fe-ae49-63b19b8f6f36",""
+add namegroup "RG_LightArmour_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "fb5dd286-ab9b-40d1-a9c7-2d40fcc20aa4",""
+add namegroup "RG_LightArmour_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "ffab2872-74b2-4f89-adb4-5f8f239d33c3",""
+add namegroup "RG_LightArmour_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "a667c7d2-a104-4aca-891f-6839f1d0d134",""
+add namegroup "RG_LightArmour_Epic_AMER","",""
+
+add rootgroup "fa1fab93-fad8-4c76-89e2-bb52753e7b88",""
+add namegroup "RG_LightArmour_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "5b6b9527-f023-4547-9679-160ba00eed9c",""
+add namegroup "RG_LightArmour_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "75245765-2fcb-4ca5-b62b-65a47b900d7e",""
+add namegroup "RG_LightArmour_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "546d6785-ceb2-4bdc-8e7d-8bb3b36f7392",""
+add namegroup "RG_LightArmour_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "22423218-f210-4a79-92e3-c17b0c148a4e",""
+add namegroup "RG_LightArmour_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "a667c7d2-a104-4aca-891f-6839f1d0d134",""
+add namegroup "RG_LightArmour_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "5b6b9527-f023-4547-9679-160ba00eed9c",""
+add namegroup "RG_LightArmour_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "75245765-2fcb-4ca5-b62b-65a47b900d7e",""
+add namegroup "RG_LightArmour_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "546d6785-ceb2-4bdc-8e7d-8bb3b36f7392",""
+add namegroup "RG_LightArmour_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "22423218-f210-4a79-92e3-c17b0c148a4e",""
+add namegroup "RG_LightArmour_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "a667c7d2-a104-4aca-891f-6839f1d0d134",""
+add namegroup "RG_LightArmour_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "5b6b9527-f023-4547-9679-160ba00eed9c",""
+add namegroup "RG_LightArmour_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "75245765-2fcb-4ca5-b62b-65a47b900d7e",""
+add namegroup "RG_LightArmour_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "546d6785-ceb2-4bdc-8e7d-8bb3b36f7392",""
+add namegroup "RG_LightArmour_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "22423218-f210-4a79-92e3-c17b0c148a4e",""
+add namegroup "RG_LightArmour_Divine","",""
+
+new itemgroup "LightLowerBody"
+
+add levelgroup 1,0,"Common"
+add rootgroup "255b3e98-9ed5-4710-924c-84425b11648e",""
+add namegroup "LeatherPants","",""
+
+add rootgroup "255b3e98-9ed5-4710-924c-84425b11648e",""
+add namegroup "LeatherPants2","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "LeatherPants3","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "ChainmailPants","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "LeatherPants4","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "ChainmailPants2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "255b3e98-9ed5-4710-924c-84425b11648e",""
+add namegroup "LeatherPants2","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "LeatherPants3","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "ChainmailPants2","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "LeatherPants4","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "ChainmailPants3","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "255b3e98-9ed5-4710-924c-84425b11648e",""
+add namegroup "RG_LightPants_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "RG_LightPants_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "RG_LightPants_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "RG_LightPants_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "RG_LightPants_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "255b3e98-9ed5-4710-924c-84425b11648e",""
+add namegroup "RG_LightPants_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "RG_LightPants_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "RG_LightPants_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "RG_LightPants_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "RG_LightPants_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "255b3e98-9ed5-4710-924c-84425b11648e",""
+add namegroup "RG_LightPants_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "RG_LightPants_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "RG_LightPants_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "RG_LightPants_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "RG_LightPants_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "255b3e98-9ed5-4710-924c-84425b11648e",""
+add namegroup "RG_LightPants_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "RG_LightPants_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "RG_LightPants_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "5d6862f9-6963-40bf-9acb-42ec7fb0e1a1",""
+add namegroup "RG_LightPants_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "11557f45-1e3d-42a7-9bce-5af921f05385",""
+add namegroup "RG_LightPants_Divine","",""
+
+new itemgroup "LightBoots"
+
+add levelgroup 1,0,"Common"
+add rootgroup "1f64742e-476b-4511-86cd-347655c35ad9",""
+add namegroup "LeatherBoots","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "LeatherBoots","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "ChainmailBoots","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "LeatherBoots","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "ChainmailBoots2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "1f64742e-476b-4511-86cd-347655c35ad9",""
+add namegroup "LeatherBoots","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "LeatherBoots","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "ChainmailBoots2","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "LeatherBoots","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "ChainmailBoots3","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "1f64742e-476b-4511-86cd-347655c35ad9",""
+add namegroup "RG_LightBoots_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "RG_LightBoots_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "RG_LightBoots_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "RG_LightBoots_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "RG_LightBoots_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "1f64742e-476b-4511-86cd-347655c35ad9",""
+add namegroup "RG_LightBoots_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "RG_LightBoots_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "RG_LightBoots_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "RG_LightBoots_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "RG_LightBoots_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "1f64742e-476b-4511-86cd-347655c35ad9",""
+add namegroup "RG_LightBoots_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "RG_LightBoots_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "RG_LightBoots_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "RG_LightBoots_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "RG_LightBoots_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "1f64742e-476b-4511-86cd-347655c35ad9",""
+add namegroup "RG_LightBoots_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "RG_LightBoots_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "RG_LightBoots_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "125974b5-0322-4167-bce5-264f251f9d5f",""
+add namegroup "RG_LightBoots_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "3fb4868e-c72f-40e7-9530-3aa62451291c",""
+add namegroup "RG_LightBoots_Divine","",""
+
+new itemgroup "HeavyHelmet"
+
+add levelgroup 1,0,"Common"
+add rootgroup "591b91ae-cabf-4d49-8bc3-f053462162ef",""
+add namegroup "ClosedScaleMailHelmet","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "d0736bc1-2145-4f52-8333-ced8ea214919",""
+add namegroup "ClosedScaleMailHelmet2","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "021e8706-a45f-4521-a7ff-100f53aabbe3",""
+add namegroup "ClosedFeatheredPlateHelmet","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "7a093ec5-ea07-45d6-a0d4-709f34022ba3",""
+add namegroup "ClosedScaleMailHelmet3","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "2a660a28-25c5-44bc-b31c-df9ab7de3e82",""
+add namegroup "ClosedFeatheredPlateHelmet2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "591b91ae-cabf-4d49-8bc3-f053462162ef",""
+add namegroup "ClosedScaleMailHelmet","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "d0736bc1-2145-4f52-8333-ced8ea214919",""
+add namegroup "ClosedScaleMailHelmet2","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "021e8706-a45f-4521-a7ff-100f53aabbe3",""
+add namegroup "ClosedFeatheredPlateHelmet3","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "7a093ec5-ea07-45d6-a0d4-709f34022ba3",""
+add namegroup "ClosedScaleMailHelmet4","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "2a660a28-25c5-44bc-b31c-df9ab7de3e82",""
+add namegroup "ClosedFeatheredPlateHelmet4","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "591b91ae-cabf-4d49-8bc3-f053462162ef",""
+add namegroup "RG_HeavyHelmet_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "d0736bc1-2145-4f52-8333-ced8ea214919",""
+add namegroup "RG_HeavyHelmet_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "021e8706-a45f-4521-a7ff-100f53aabbe3",""
+add namegroup "RG_HeavyHelmet_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "7a093ec5-ea07-45d6-a0d4-709f34022ba3",""
+add namegroup "RG_HeavyHelmet_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "2a660a28-25c5-44bc-b31c-df9ab7de3e82",""
+add namegroup "RG_HeavyHelmet_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "591b91ae-cabf-4d49-8bc3-f053462162ef",""
+add namegroup "RG_HeavyHelmet_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "d0736bc1-2145-4f52-8333-ced8ea214919",""
+add namegroup "RG_HeavyHelmet_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "021e8706-a45f-4521-a7ff-100f53aabbe3",""
+add namegroup "RG_HeavyHelmet_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "7a093ec5-ea07-45d6-a0d4-709f34022ba3",""
+add namegroup "RG_HeavyHelmet_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "2a660a28-25c5-44bc-b31c-df9ab7de3e82",""
+add namegroup "RG_HeavyHelmet_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "591b91ae-cabf-4d49-8bc3-f053462162ef",""
+add namegroup "RG_HeavyHelmet_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "d0736bc1-2145-4f52-8333-ced8ea214919",""
+add namegroup "RG_HeavyHelmet_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "021e8706-a45f-4521-a7ff-100f53aabbe3",""
+add namegroup "RG_HeavyHelmet_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "7a093ec5-ea07-45d6-a0d4-709f34022ba3",""
+add namegroup "RG_HeavyHelmet_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "2a660a28-25c5-44bc-b31c-df9ab7de3e82",""
+add namegroup "RG_HeavyHelmet_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "591b91ae-cabf-4d49-8bc3-f053462162ef",""
+add namegroup "RG_HeavyHelmet_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "d0736bc1-2145-4f52-8333-ced8ea214919",""
+add namegroup "RG_HeavyHelmet_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "021e8706-a45f-4521-a7ff-100f53aabbe3",""
+add namegroup "RG_HeavyHelmet_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "7a093ec5-ea07-45d6-a0d4-709f34022ba3",""
+add namegroup "RG_HeavyHelmet_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "2a660a28-25c5-44bc-b31c-df9ab7de3e82",""
+add namegroup "RG_HeavyHelmet_Divine","",""
+
+new itemgroup "HeavyGloves"
+
+add levelgroup 1,0,"Common"
+add rootgroup "aa507e5f-58a4-4a8b-90e4-24144727d391",""
+add namegroup "ScaleMailGloves","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "ScaleMailGloves2","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "PlateGloves","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "ScaleMailGloves3","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "PlateGloves2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "aa507e5f-58a4-4a8b-90e4-24144727d391",""
+add namegroup "ScaleMailGloves2","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "ScaleMailGloves3","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "PlateGloves2","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "ScaleMailGloves4","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "PlateGloves3","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "aa507e5f-58a4-4a8b-90e4-24144727d391",""
+add namegroup "RG_HeavyGloves_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "RG_HeavyGloves_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "RG_HeavyGloves_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "RG_HeavyGloves_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "RG_HeavyGloves_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "aa507e5f-58a4-4a8b-90e4-24144727d391",""
+add namegroup "RG_HeavyGloves_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "RG_HeavyGloves_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "RG_HeavyGloves_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "RG_HeavyGloves_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "RG_HeavyGloves_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "aa507e5f-58a4-4a8b-90e4-24144727d391",""
+add namegroup "RG_HeavyGloves_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "RG_HeavyGloves_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "RG_HeavyGloves_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "RG_HeavyGloves_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "RG_HeavyGloves_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "aa507e5f-58a4-4a8b-90e4-24144727d391",""
+add namegroup "RG_HeavyGloves_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "RG_HeavyGloves_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "RG_HeavyGloves_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "53b04451-f45d-4c4b-abb0-35d90b49bbe7",""
+add namegroup "RG_HeavyGloves_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "6100deb9-451b-4f7c-89ab-b1dd39a4ebec",""
+add namegroup "RG_HeavyGloves_Divine","",""
+
+new itemgroup "HeavyUpperBody"
+
+add levelgroup 1,0,"Common"
+add rootgroup "0bc9fcfa-1f27-421b-893e-feaa8b0a217e",""
+add namegroup "ScaleArmour","",""
+
+add rootgroup "cc947984-4643-4fdd-b8ee-cad9e37809d8",""
+add namegroup "ScaleArmour2","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "2641e906-2d1b-44d9-a0c1-7ac6ef578278",""
+add namegroup "ScaleArmour3","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "244b9246-5a87-45cb-9f61-387c639d680a",""
+add namegroup "FullPlateArmour","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "a9d7856f-2d15-4865-8fb0-5f8b3eaef295",""
+add namegroup "ScaleArmour4","",""
+
+add levelgroup 16,0,"Common"
+add rootgroup "a9d7856f-2d15-4865-8fb0-5f8b3eaef295",""
+add namegroup "ScaleArmour5","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "3115a285-1ee1-4e2c-9882-e87cbeb0c36c",""
+add namegroup "FullPlateArmour2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "0bc9fcfa-1f27-421b-893e-feaa8b0a217e",""
+add namegroup "ScaleArmour2","Cool",""
+
+add rootgroup "cc947984-4643-4fdd-b8ee-cad9e37809d8",""
+add namegroup "ScaleArmour3","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "e15082e3-c4e7-47b3-9bb5-aced86a98ec8",""
+add namegroup "ScaleArmour4","Cool",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "6c87a50e-f238-43ef-b0a0-45fd64850219",""
+add namegroup "FullPlateArmour2","Cool",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "c874efcf-ecf4-4281-a178-41beee8a08d7",""
+add namegroup "ScaleArmour5","Cool",""
+
+add levelgroup 16,0,"Uncommon"
+add rootgroup "c874efcf-ecf4-4281-a178-41beee8a08d7",""
+add namegroup "ScaleArmour6","Cool",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "1bf5d328-f4e8-40d8-bf1b-0577adb7cdbb",""
+add namegroup "FullPlateArmour3","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "0bc9fcfa-1f27-421b-893e-feaa8b0a217e",""
+add namegroup "RG_HeavyArmour_Rare_AMER","",""
+
+add rootgroup "cc947984-4643-4fdd-b8ee-cad9e37809d8",""
+add namegroup "RG_HeavyArmour_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "e15082e3-c4e7-47b3-9bb5-aced86a98ec8",""
+add namegroup "RG_HeavyArmour_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "6c87a50e-f238-43ef-b0a0-45fd64850219",""
+add namegroup "RG_HeavyArmour_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "c874efcf-ecf4-4281-a178-41beee8a08d7",""
+add namegroup "RG_HeavyArmour_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "1bf5d328-f4e8-40d8-bf1b-0577adb7cdbb",""
+add namegroup "RG_HeavyArmour_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "0bc9fcfa-1f27-421b-893e-feaa8b0a217e",""
+add namegroup "RG_HeavyArmour_Epic_AMER","",""
+
+add rootgroup "cc947984-4643-4fdd-b8ee-cad9e37809d8",""
+add namegroup "RG_HeavyArmour_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "0f2fb511-cef5-49be-a14e-44367112a881",""
+add namegroup "RG_HeavyArmour_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "75fb16fd-41e3-488f-8516-1a64c7659fe4",""
+add namegroup "RG_HeavyArmour_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "d9971deb-aef6-448b-a4a3-ab71dd3abe90",""
+add namegroup "RG_HeavyArmour_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "942180e8-da0c-4e49-b6bb-0afdb18c13d7",""
+add namegroup "RG_HeavyArmour_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "0bc9fcfa-1f27-421b-893e-feaa8b0a217e",""
+add namegroup "RG_HeavyArmour_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "0f2fb511-cef5-49be-a14e-44367112a881",""
+add namegroup "RG_HeavyArmour_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "75fb16fd-41e3-488f-8516-1a64c7659fe4",""
+add namegroup "RG_HeavyArmour_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "d9971deb-aef6-448b-a4a3-ab71dd3abe90",""
+add namegroup "RG_HeavyArmour_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "942180e8-da0c-4e49-b6bb-0afdb18c13d7",""
+add namegroup "RG_HeavyArmour_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "0bc9fcfa-1f27-421b-893e-feaa8b0a217e",""
+add namegroup "RG_HeavyArmour_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "0f2fb511-cef5-49be-a14e-44367112a881",""
+add namegroup "RG_HeavyArmour_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "75fb16fd-41e3-488f-8516-1a64c7659fe4",""
+add namegroup "RG_HeavyArmour_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "d9971deb-aef6-448b-a4a3-ab71dd3abe90",""
+add namegroup "RG_HeavyArmour_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "942180e8-da0c-4e49-b6bb-0afdb18c13d7",""
+add namegroup "RG_HeavyArmour_Divine","",""
+
+new itemgroup "HeavyLowerBody"
+
+add levelgroup 1,0,"Common"
+add rootgroup "0afe5bc4-4013-4118-a288-302781307fc0",""
+add namegroup "ScalePants","",""
+
+add rootgroup "0afe5bc4-4013-4118-a288-302781307fc0",""
+add namegroup "ScalePants2","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "ScalePants3","",""
+
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "ScalePants4","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "PlateEnforcedPants","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "ScalePants5","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "PlateEnforcedPants2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "0afe5bc4-4013-4118-a288-302781307fc0",""
+add namegroup "ScalePants2","",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "ScalePants6","",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "PlateEnforcedPants3","",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "ScalePants7","",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "PlateEnforcedPants4","",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "0afe5bc4-4013-4118-a288-302781307fc0",""
+add namegroup "RG_HeavyPants_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "RG_HeavyPants_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "RG_HeavyPants_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "RG_HeavyPants_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "RG_HeavyPants_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "0afe5bc4-4013-4118-a288-302781307fc0",""
+add namegroup "RG_HeavyPants_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "RG_HeavyPants_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "RG_HeavyPants_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "RG_HeavyPants_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "RG_HeavyPants_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "0afe5bc4-4013-4118-a288-302781307fc0",""
+add namegroup "RG_HeavyPants_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "RG_HeavyPants_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "RG_HeavyPants_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "RG_HeavyPants_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "RG_HeavyPants_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "0afe5bc4-4013-4118-a288-302781307fc0",""
+add namegroup "RG_HeavyPants_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "RG_HeavyPants_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "RG_HeavyPants_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "f2df8b49-eac9-4e1f-84c6-e0cb19c38ad1",""
+add namegroup "RG_HeavyPants_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "c7d42c37-1401-4df0-9a38-e053c35e67c2",""
+add namegroup "RG_HeavyPants_Divine","",""
+
+new itemgroup "HeavyBoots"
+
+add levelgroup 1,0,"Common"
+add rootgroup "fcc760be-7d43-4b91-9be0-111e53744319",""
+add namegroup "ScaleShoes","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "ScaleShoes2","",""
+
+add levelgroup 8,0,"Common"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "FullPlateShoes","",""
+
+add levelgroup 13,0,"Common"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "ScaleShoes3","",""
+
+add levelgroup 18,0,"Common"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "FullPlateShoes2","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "fcc760be-7d43-4b91-9be0-111e53744319",""
+add namegroup "ScaleShoes4","",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "ScaleShoes5","",""
+
+add levelgroup 8,0,"Uncommon"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "FullPlateShoes3","",""
+
+add levelgroup 13,0,"Uncommon"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "ScaleShoes6","",""
+
+add levelgroup 18,0,"Uncommon"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "FullPlateShoes4","",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "fcc760be-7d43-4b91-9be0-111e53744319",""
+add namegroup "RG_HeavyShoes_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "RG_HeavyShoes_Rare_AMER","",""
+
+add levelgroup 8,0,"Rare"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "RG_HeavyShoes_Rare_AMER","",""
+
+add levelgroup 13,0,"Rare"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "RG_HeavyShoes_Rare_AMER","",""
+
+add levelgroup 18,0,"Rare"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "RG_HeavyShoes_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "fcc760be-7d43-4b91-9be0-111e53744319",""
+add namegroup "RG_HeavyShoes_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "RG_HeavyShoes_Epic_AMER","",""
+
+add levelgroup 8,0,"Epic"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "RG_HeavyShoes_Epic_AMER","",""
+
+add levelgroup 13,0,"Epic"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "RG_HeavyShoes_Epic_AMER","",""
+
+add levelgroup 18,0,"Epic"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "RG_HeavyShoes_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "fcc760be-7d43-4b91-9be0-111e53744319",""
+add namegroup "RG_HeavyShoes_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "RG_HeavyShoes_Legendary","",""
+
+add levelgroup 8,0,"Legendary"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "RG_HeavyShoes_Legendary","",""
+
+add levelgroup 13,0,"Legendary"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "RG_HeavyShoes_Legendary","",""
+
+add levelgroup 18,0,"Legendary"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "RG_HeavyShoes_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "fcc760be-7d43-4b91-9be0-111e53744319",""
+add namegroup "RG_HeavyShoes_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "RG_HeavyShoes_Divine","",""
+
+add levelgroup 8,0,"Divine"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "RG_HeavyShoes_Divine","",""
+
+add levelgroup 13,0,"Divine"
+add rootgroup "efa4d3dc-dab6-4c50-9421-cbb96ffb968a",""
+add namegroup "RG_HeavyShoes_Divine","",""
+
+add levelgroup 18,0,"Divine"
+add rootgroup "f91a2518-7f51-4c92-96a9-17ef41c0928f",""
+add namegroup "RG_HeavyShoes_Divine","",""
+
+new itemgroup "MageHelmet"
+
+add levelgroup 1,0,"Common"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "MageHood","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "MageHood2","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "e72aa8b5-344b-419a-ae41-6f56d279dd4e",""
+add namegroup "MageHood3","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "e9d1587f-3da8-4386-8991-7ca77c9efa60",""
+add namegroup "MageHood4","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "MageHood3","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "MageHood4","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "e72aa8b5-344b-419a-ae41-6f56d279dd4e",""
+add namegroup "MageHood5","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "e9d1587f-3da8-4386-8991-7ca77c9efa60",""
+add namegroup "MageHood6","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "RG_MageHood_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "RG_MageHood_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "e72aa8b5-344b-419a-ae41-6f56d279dd4e",""
+add namegroup "RG_MageHood_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "e9d1587f-3da8-4386-8991-7ca77c9efa60",""
+add namegroup "RG_MageHood_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "RG_MageHood_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "RG_MageHood_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "e72aa8b5-344b-419a-ae41-6f56d279dd4e",""
+add namegroup "RG_MageHood_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "e9d1587f-3da8-4386-8991-7ca77c9efa60",""
+add namegroup "RG_MageHood_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "RG_MageHood_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "RG_MageHood_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "e72aa8b5-344b-419a-ae41-6f56d279dd4e",""
+add namegroup "RG_MageHood_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "e9d1587f-3da8-4386-8991-7ca77c9efa60",""
+add namegroup "RG_MageHood_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "RG_MageHood_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "8b19add8-2cd8-4c20-b7e2-1d750a90c91c",""
+add namegroup "RG_MageHood_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "e72aa8b5-344b-419a-ae41-6f56d279dd4e",""
+add namegroup "RG_MageHood_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "e9d1587f-3da8-4386-8991-7ca77c9efa60",""
+add namegroup "RG_MageHood_Divine","",""
+
+new itemgroup "MageGloves"
+
+add levelgroup 1,0,"Common"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "MageGloves","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "MageGloves2","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "MageGloves3","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "38975d28-1198-4970-829f-b5c02b4f1f7d",""
+add namegroup "MageGloves4","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "MageGloves2","",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "MageGloves3","",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "MageGloves4","",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "38975d28-1198-4970-829f-b5c02b4f1f7d",""
+add namegroup "MageGloves5","",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "RG_MageGloves_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "RG_MageGloves_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "RG_MageGloves_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "38975d28-1198-4970-829f-b5c02b4f1f7d",""
+add namegroup "RG_MageGloves_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "RG_MageGloves_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "RG_MageGloves_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "RG_MageGloves_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "38975d28-1198-4970-829f-b5c02b4f1f7d",""
+add namegroup "RG_MageGloves_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "RG_MageGloves_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "RG_MageGloves_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "RG_MageGloves_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "38975d28-1198-4970-829f-b5c02b4f1f7d",""
+add namegroup "RG_MageGloves_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "RG_MageGloves_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "384e3766-653d-4c4a-8ca5-0b9091a75fbc",""
+add namegroup "RG_MageGloves_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "5fa1ada8-e9fe-4b35-b3e2-e6770ed5e8ed",""
+add namegroup "RG_MageGloves_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "38975d28-1198-4970-829f-b5c02b4f1f7d",""
+add namegroup "RG_MageGloves_Divine","",""
+
+new itemgroup "MageUpperBody"
+
+add levelgroup 1,0,"Common"
+add rootgroup "ba4a4757-1879-4226-856c-34c0e6d010a6",""
+add namegroup "MageRobe","",""
+
+add rootgroup "bd0f441a-4361-420c-8bab-fe0204446be4",""
+add namegroup "MageRobe2","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "4e83a968-857a-4d08-9ca5-9a9fb239a6a4",""
+add namegroup "MageRobe3","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "648d501c-2d8e-4464-acfb-6e6f061305f6",""
+add namegroup "MageRobe4","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "8f702276-a27f-421e-8f84-ce927c89fea9",""
+add namegroup "MageRobe5","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "ba4a4757-1879-4226-856c-34c0e6d010a6",""
+add namegroup "MageRobe6","",""
+
+add rootgroup "bd0f441a-4361-420c-8bab-fe0204446be4",""
+add namegroup "MageRobe7","",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "4e83a968-857a-4d08-9ca5-9a9fb239a6a4",""
+add namegroup "MageRobe8","",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "648d501c-2d8e-4464-acfb-6e6f061305f6",""
+add namegroup "MageRobe9","",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "8f702276-a27f-421e-8f84-ce927c89fea9",""
+add namegroup "MageRobe10","",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "ba4a4757-1879-4226-856c-34c0e6d010a6",""
+add namegroup "RG_MageRobe_Rare_AMER","",""
+
+add rootgroup "bd0f441a-4361-420c-8bab-fe0204446be4",""
+add namegroup "RG_MageRobe_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "4e83a968-857a-4d08-9ca5-9a9fb239a6a4",""
+add namegroup "RG_MageRobe_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "648d501c-2d8e-4464-acfb-6e6f061305f6",""
+add namegroup "RG_MageRobe_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "8f702276-a27f-421e-8f84-ce927c89fea9",""
+add namegroup "RG_MageRobe_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "ba4a4757-1879-4226-856c-34c0e6d010a6",""
+add namegroup "RG_MageRobe_Epic_AMER","",""
+
+add rootgroup "bd0f441a-4361-420c-8bab-fe0204446be4",""
+add namegroup "RG_MageRobe_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "4e83a968-857a-4d08-9ca5-9a9fb239a6a4",""
+add namegroup "RG_MageRobe_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "648d501c-2d8e-4464-acfb-6e6f061305f6",""
+add namegroup "RG_MageRobe_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "8f702276-a27f-421e-8f84-ce927c89fea9",""
+add namegroup "RG_MageRobe_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "ba4a4757-1879-4226-856c-34c0e6d010a6",""
+add namegroup "RG_MageRobe_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "4e83a968-857a-4d08-9ca5-9a9fb239a6a4",""
+add namegroup "RG_MageRobe_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "648d501c-2d8e-4464-acfb-6e6f061305f6",""
+add namegroup "RG_MageRobe_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "8f702276-a27f-421e-8f84-ce927c89fea9",""
+add namegroup "RG_MageRobe_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "ba4a4757-1879-4226-856c-34c0e6d010a6",""
+add namegroup "RG_MageRobe_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "4e83a968-857a-4d08-9ca5-9a9fb239a6a4",""
+add namegroup "RG_MageRobe_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "648d501c-2d8e-4464-acfb-6e6f061305f6",""
+add namegroup "RG_MageRobe_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "8f702276-a27f-421e-8f84-ce927c89fea9",""
+add namegroup "RG_MageRobe_Divine","",""
+
+new itemgroup "MageLowerBody"
+
+add levelgroup 1,0,"Common"
+add rootgroup "f253c37b-898a-4598-81a6-266997587360",""
+add namegroup "MagePants","",""
+
+add rootgroup "24a645ea-87b2-4a48-8cf9-c7edcffae852",""
+add namegroup "MagePants2","",""
+
+add levelgroup 4,0,"Common"
+add rootgroup "b27fe93e-cbd3-42c8-b5d9-f16afe6b974a",""
+add namegroup "MagePants3","",""
+
+add levelgroup 9,0,"Common"
+add rootgroup "d5b4aa5a-e451-47d0-bf7c-bec324ba2465",""
+add namegroup "MagePants4","",""
+
+add levelgroup 17,0,"Common"
+add rootgroup "0e62c379-f54b-4407-950f-5f16c06c0096",""
+add namegroup "MagePants5","",""
+
+add levelgroup 1,0,"Uncommon"
+add rootgroup "f253c37b-898a-4598-81a6-266997587360",""
+add namegroup "MagePants3","Cool",""
+
+add rootgroup "24a645ea-87b2-4a48-8cf9-c7edcffae852",""
+add namegroup "MagePants4","Cool",""
+
+add levelgroup 4,0,"Uncommon"
+add rootgroup "b27fe93e-cbd3-42c8-b5d9-f16afe6b974a",""
+add namegroup "MagePants5","Cool",""
+
+add levelgroup 9,0,"Uncommon"
+add rootgroup "d5b4aa5a-e451-47d0-bf7c-bec324ba2465",""
+add namegroup "MagePants6","Cool",""
+
+add levelgroup 17,0,"Uncommon"
+add rootgroup "0e62c379-f54b-4407-950f-5f16c06c0096",""
+add namegroup "MagePants7","Cool",""
+
+add levelgroup 1,0,"Rare"
+add rootgroup "f253c37b-898a-4598-81a6-266997587360",""
+add namegroup "RG_MagePants_Rare_AMER","",""
+
+add rootgroup "24a645ea-87b2-4a48-8cf9-c7edcffae852",""
+add namegroup "RG_MagePants_Rare_AMER","",""
+
+add levelgroup 4,0,"Rare"
+add rootgroup "b27fe93e-cbd3-42c8-b5d9-f16afe6b974a",""
+add namegroup "RG_MagePants_Rare_AMER","",""
+
+add levelgroup 9,0,"Rare"
+add rootgroup "d5b4aa5a-e451-47d0-bf7c-bec324ba2465",""
+add namegroup "RG_MagePants_Rare_AMER","",""
+
+add levelgroup 17,0,"Rare"
+add rootgroup "0e62c379-f54b-4407-950f-5f16c06c0096",""
+add namegroup "RG_MagePants_Rare_AMER","",""
+
+add levelgroup 1,0,"Epic"
+add rootgroup "f253c37b-898a-4598-81a6-266997587360",""
+add namegroup "RG_MagePants_Epic_AMER","",""
+
+add rootgroup "24a645ea-87b2-4a48-8cf9-c7edcffae852",""
+add namegroup "RG_MagePants_Epic_AMER","",""
+
+add levelgroup 4,0,"Epic"
+add rootgroup "b27fe93e-cbd3-42c8-b5d9-f16afe6b974a",""
+add namegroup "RG_MagePants_Epic_AMER","",""
+
+add levelgroup 9,0,"Epic"
+add rootgroup "d5b4aa5a-e451-47d0-bf7c-bec324ba2465",""
+add namegroup "RG_MagePants_Epic_AMER","",""
+
+add levelgroup 17,0,"Epic"
+add rootgroup "0e62c379-f54b-4407-950f-5f16c06c0096",""
+add namegroup "RG_MagePants_Epic_AMER","",""
+
+add levelgroup 1,0,"Legendary"
+add rootgroup "f253c37b-898a-4598-81a6-266997587360",""
+add namegroup "RG_MagePants_Legendary","",""
+
+add levelgroup 4,0,"Legendary"
+add rootgroup "b27fe93e-cbd3-42c8-b5d9-f16afe6b974a",""
+add namegroup "RG_MagePants_Legendary","",""
+
+add levelgroup 9,0,"Legendary"
+add rootgroup "d5b4aa5a-e451-47d0-bf7c-bec324ba2465",""
+add namegroup "RG_MagePants_Legendary","",""
+
+add levelgroup 17,0,"Legendary"
+add rootgroup "0e62c379-f54b-4407-950f-5f16c06c0096",""
+add namegroup "RG_MagePants_Legendary","",""
+
+add levelgroup 1,0,"Divine"
+add rootgroup "f253c37b-898a-4598-81a6-266997587360",""
+add namegroup "RG_MagePants_Divine","",""
+
+add levelgroup 4,0,"Divine"
+add rootgroup "b27fe93e-cbd3-42c8-b5d9-f16afe6b974a",""
+add namegroup "RG_MagePants_Divine","",""
+
+add levelgroup 9,0,"Divine"
+add rootgroup "d5b4aa5a-e451-47d0-bf7c-bec324ba2465",""
+add namegroup "RG_MagePants_Divine","",""
+
+add levelgroup 17,0,"Divine"
+add rootgroup "0e62c379-f54b-4407-950f-5f16c06c0096",""
+add namegroup "RG_MagePants_Divine","",""
+
+new itemgroup "AMER_UNI_Absence"
+
+add levelgroup 1,0,"All"
+add rootgroup "f2d18e71-1385-4c05-a274-d18026fa2b29",""
+add namegroup "AMER_UNI_Absence","",""
+
+new itemgroup "AMER_UNI_Abyss"
+
+add levelgroup 1,0,"All"
+add rootgroup "51ba6c46-8e3d-4365-9272-bdd1f43c988a",""
+add namegroup "AMER_UNI_Abyss","",""
+
+new itemgroup "AMER_UNI_Adamant"
+
+add levelgroup 1,0,"All"
+add rootgroup "9949e5e6-ec79-40a3-8a7b-008155822346",""
+add namegroup "AMER_UNI_Adamant","",""
+
+new itemgroup "AMER_UNI_AmaranthineBulwark"
+
+add levelgroup 1,0,"All"
+add rootgroup "8544e38f-b611-4632-96ea-4b2e6ca68064",""
+add namegroup "AMER_UNI_AmaranthineBulwark","",""
+
+new itemgroup "AMER_UNI_AngelsEgg"
+
+add levelgroup 1,0,"All"
+add rootgroup "b7511c4a-2e74-4fe7-a6d8-6af4aa366a23",""
+add namegroup "AMER_UNI_AngelsEgg","",""
+
+new itemgroup "AMER_UNI_AntediluvianCarapace"
+
+add levelgroup 1,0,"All"
+add rootgroup "42559c79-82af-48b1-8b0c-16ccf6f5fc90",""
+add namegroup "AMER_UNI_AntediluvianCarapace","",""
+
+new itemgroup "AMER_UNI_ApothecarysGuile"
+
+add levelgroup 1,0,"All"
+add rootgroup "70ce1774-ba67-4e76-a1cc-5f67c803f1bd",""
+add namegroup "AMER_UNI_ApothecarysGuile","",""
+
+new itemgroup "AMER_UNI_Arcturus"
+
+add levelgroup 1,0,"All"
+add rootgroup "129a3b30-c934-49fb-ba9f-76d8d9bf815e",""
+add namegroup "AMER_UNI_Arcturus","",""
+
+new itemgroup "AMER_UNI_Austerity"
+
+add levelgroup 1,0,"All"
+add rootgroup "9fceb5ad-e02d-4eb4-8098-cdf795d51adf",""
+add namegroup "AMER_UNI_Austerity","",""
+
+new itemgroup "AMER_UNI_BlackglassBrand"
+
+add levelgroup 1,0,"All"
+add rootgroup "6b8aefdb-13f5-4cf3-8ea2-d9e0760b3eea",""
+add namegroup "AMER_UNI_BlackglassBrand","",""
+
+new itemgroup "AMER_UNI_Bloodforge"
+
+add levelgroup 1,0,"All"
+add rootgroup "48f6c263-6234-41a3-a3de-170f82df0abf",""
+add namegroup "AMER_UNI_Bloodforge","",""
+
+new itemgroup "AMER_UNI_BountyHunter"
+
+add levelgroup 1,0,"All"
+add rootgroup "d4dafdc1-3ec0-44ed-ba20-b5e33aac1c01",""
+add namegroup "AMER_UNI_BountyHunter","",""
+
+new itemgroup "AMER_UNI_Carnality"
+
+add levelgroup 1,0,"All"
+add rootgroup "35eef736-fc2c-40d7-be95-80bda21a00a6",""
+add namegroup "AMER_UNI_Carnality","",""
+
+new itemgroup "AMER_UNI_Cataclysm"
+
+add levelgroup 1,0,"All"
+add rootgroup "ddf6fe71-ebbf-4876-9b20-bba2e3c53d81",""
+add namegroup "AMER_UNI_Cataclysm","",""
+
+new itemgroup "AMER_UNI_Charity"
+
+add levelgroup 1,0,"All"
+add rootgroup "308ca2bc-a602-475f-8e2f-ecbbfcbc39db",""
+add namegroup "AMER_UNI_Charity","",""
+
+new itemgroup "AMER_UNI_Consecration"
+
+add levelgroup 1,0,"All"
+add rootgroup "b14f13be-bdbc-4268-bf8a-ea4eb5dd4b58",""
+add namegroup "AMER_UNI_Consecration","",""
+
+new itemgroup "AMER_UNI_Convergence"
+
+add levelgroup 1,0,"All"
+add rootgroup "89cc3edd-af46-4432-ab21-b25034b08e3c",""
+add namegroup "AMER_UNI_Convergence","",""
+
+new itemgroup "AMER_UNI_CoruscatingSilks"
+
+add levelgroup 1,0,"All"
+add rootgroup "1e7c7a0f-541f-4b01-9beb-2313e133a159",""
+add namegroup "AMER_UNI_CoruscatingSilks","",""
+
+new itemgroup "AMER_UNI_Deck"
+
+add levelgroup 1,0,"All"
+add rootgroup "94902e34-3693-460c-a7a4-81f27cfc5ec7",""
+add namegroup "AMER_UNI_Deck","",""
+
+new itemgroup "AMER_UNI_Desperation"
+
+add levelgroup 1,0,"All"
+add rootgroup "8e94d381-c195-4bad-942e-7f52df58d6c8",""
+add namegroup "AMER_UNI_Desperation","",""
+
+new itemgroup "AMER_UNI_Dominion"
+
+add levelgroup 1,0,"All"
+add rootgroup "dc75d6e0-c900-443d-ab42-8b0904f1d626",""
+add namegroup "AMER_UNI_Dominion","",""
+
+new itemgroup "AMER_UNI_Dread"
+
+add levelgroup 1,0,"All"
+add rootgroup "52e6d2a2-9699-4c36-8bc7-9059a22f1624",""
+add namegroup "AMER_UNI_Dread","",""
+
+new itemgroup "AMER_UNI_DrogsLuck"
+
+add levelgroup 1,0,"All"
+add rootgroup "c1e3e38a-de97-466e-bdc2-f916e7622e57",""
+add namegroup "AMER_UNI_DrogsLuck","",""
+
+new itemgroup "AMER_UNI_Eclipse"
+
+add levelgroup 1,0,"All"
+add rootgroup "13660086-f745-48d1-9d3a-c1560372f426",""
+add namegroup "AMER_UNI_Eclipse","",""
+
+new itemgroup "AMER_UNI_EmpyreanVestments"
+
+add levelgroup 1,0,"All"
+add rootgroup "6826cfad-fc09-40ec-827e-3b26dabdc804",""
+add namegroup "AMER_UNI_EmpyreanVestments","",""
+
+new itemgroup "AMER_UNI_EtherTide"
+
+add levelgroup 1,0,"All"
+add rootgroup "a27989b8-9d1f-4bf1-b2b6-877820cbf595",""
+add namegroup "AMER_UNI_EtherTide","",""
+
+new itemgroup "AMER_UNI_Exaltation"
+
+add levelgroup 1,0,"All"
+add rootgroup "8ce4fe8a-41cb-479a-b1ab-c2305bd3f840",""
+add namegroup "AMER_UNI_Exaltation","",""
+
+new itemgroup "AMER_UNI_Expedition"
+
+add levelgroup 1,0,"All"
+add rootgroup "0e3e575b-2a18-45ac-a6e6-670248e80650",""
+add namegroup "AMER_UNI_Expedition","",""
+
+new itemgroup "AMER_UNI_EyeOfTheStorm"
+
+add levelgroup 1,0,"All"
+add rootgroup "05822cb2-cd54-46fb-9218-4a2c1fcd09db",""
+add namegroup "AMER_UNI_EyeOfTheStorm","",""
+
+new itemgroup "AMER_UNI_FaceOfTheFallen"
+
+add levelgroup 1,0,"All"
+add rootgroup "c3201b00-ed7e-4321-93a1-386e1ec1508b",""
+add namegroup "AMER_UNI_FaceOfTheFallen","",""
+
+new itemgroup "AMER_UNI_Famine"
+
+add levelgroup 1,0,"All"
+add rootgroup "0cbdd629-416e-4305-b22e-e3288963f4b6",""
+add namegroup "AMER_UNI_Famine","",""
+
+new itemgroup "AMER_UNI_Fecundity"
+
+add levelgroup 1,0,"All"
+add rootgroup "9a31f366-784d-416d-9f7d-d5f052135e1c",""
+add namegroup "AMER_UNI_Fecundity","",""
+
+new itemgroup "AMER_UNI_FistOfDecay"
+
+add levelgroup 1,0,"All"
+add rootgroup "c0391cd2-9012-452b-8b59-2104be881804",""
+add namegroup "AMER_UNI_FistOfDecay","",""
+
+new itemgroup "AMER_UNI_Ghostflame"
+
+add levelgroup 1,0,"All"
+add rootgroup "6ad56825-75af-4248-af1c-43200ec25caf",""
+add namegroup "AMER_UNI_Ghostflame","",""
+
+new itemgroup "AMER_UNI_GiantsSkull"
+
+add levelgroup 1,0,"All"
+add rootgroup "1db0b5be-fa13-4c93-ae53-0552f67e1075",""
+add namegroup "AMER_UNI_GiantsSkull","",""
+
+new itemgroup "AMER_UNI_Glacier"
+
+add levelgroup 1,0,"All"
+add rootgroup "39f36e1b-e3c6-41a7-bb36-6ac9091121e6",""
+add namegroup "AMER_UNI_Glacier","",""
+
+new itemgroup "AMER_UNI_Gluttony"
+
+add levelgroup 1,0,"All"
+add rootgroup "684ae15d-cd97-4d94-bb5a-3136a57bcc82",""
+add namegroup "AMER_UNI_Gluttony","",""
+
+new itemgroup "AMER_UNI_Godspeed"
+
+add levelgroup 1,0,"All"
+add rootgroup "57faf828-ca32-44db-a450-88bdfd3a2e19",""
+add namegroup "AMER_UNI_Godspeed","",""
+
+new itemgroup "AMER_UNI_Goldforge"
+
+add levelgroup 1,0,"All"
+add rootgroup "40cce3a4-dd7f-4992-a0d9-3b0a27246a4d",""
+add namegroup "AMER_UNI_Goldforge","",""
+
+new itemgroup "AMER_UNI_Golem"
+
+add levelgroup 1,0,"All"
+add rootgroup "fa4b9d59-e1d8-46e8-9883-ae08cb618983",""
+add namegroup "AMER_UNI_Golem","",""
+
+new itemgroup "AMER_UNI_GramSwordOfGrief"
+
+add levelgroup 1,0,"All"
+add rootgroup "5e44d043-b9d1-466b-a7a2-997b928dcc5e",""
+add namegroup "AMER_UNI_GramSwordOfGrief","",""
+
+new itemgroup "AMER_UNI_Hibernaculum"
+
+add levelgroup 1,0,"All"
+add rootgroup "affbe035-7553-4151-a013-0fb12142c54b",""
+add namegroup "AMER_UNI_Hibernaculum","",""
+
+new itemgroup "AMER_UNI_Impetus"
+
+add levelgroup 1,0,"All"
+add rootgroup "fff1dafe-0988-446a-947f-04d0fa179207",""
+add namegroup "AMER_UNI_Impetus","",""
+
+new itemgroup "AMER_UNI_InfernalContract"
+
+add levelgroup 1,0,"All"
+add rootgroup "96afb247-fe97-4b48-b1c9-d6cfb1671570",""
+add namegroup "AMER_UNI_InfernalContract","",""
+
+new itemgroup "AMER_UNI_IronMaiden"
+
+add levelgroup 1,0,"All"
+add rootgroup "bf18ca16-f822-48e7-8c65-022dd125b928",""
+add namegroup "AMER_UNI_IronMaiden","",""
+
+new itemgroup "AMER_UNI_Judgement"
+
+add levelgroup 1,0,"All"
+add rootgroup "43b7cfe8-3a5a-48a5-9b39-7f27229ba36b",""
+add namegroup "AMER_UNI_Judgement","",""
+
+new itemgroup "AMER_UNI_Kudzu"
+
+add levelgroup 1,0,"All"
+add rootgroup "cc36a70b-4260-489f-9196-4572ce20ae47",""
+add namegroup "AMER_UNI_Kudzu","",""
+
+new itemgroup "AMER_UNI_LambentBlade"
+
+add levelgroup 1,0,"All"
+add rootgroup "0a182fe3-639f-4bfc-99f3-b8e863139f50",""
+add namegroup "AMER_UNI_LambentBlade","",""
+
+new itemgroup "AMER_UNI_Leper"
+
+add levelgroup 1,0,"All"
+add rootgroup "62bd59bc-b662-4d13-9b97-9f121edd01ca",""
+add namegroup "AMER_UNI_Leper","",""
+
+new itemgroup "AMER_UNI_Leviathan"
+
+add levelgroup 1,0,"All"
+add rootgroup "2b0eb17a-b644-47fb-b65a-85ca8e727cfb",""
+add namegroup "AMER_UNI_Leviathan","",""
+
+new itemgroup "AMER_UNI_Lightspire"
+
+add levelgroup 1,0,"All"
+add rootgroup "ed3b3d6f-25c2-48e3-b053-7d14034348ea",""
+add namegroup "AMER_UNI_Lightspire","",""
+
+new itemgroup "AMER_UNI_Malice"
+
+add levelgroup 1,0,"All"
+add rootgroup "8425ffd0-5236-4dee-bd98-ceb9fd4d12d0",""
+add namegroup "AMER_UNI_Malice","",""
+
+new itemgroup "AMER_UNI_MalleusMaleficarum"
+
+add levelgroup 1,0,"All"
+add rootgroup "61684e0f-7d5b-4c86-8df8-c9d0afc4e7ae",""
+add namegroup "AMER_UNI_MalleusMaleficarum","",""
+
+new itemgroup "AMER_UNI_Mirage"
+
+add levelgroup 1,0,"All"
+add rootgroup "0d2dbc57-d91f-4e10-bc2c-932686b92dc0",""
+add namegroup "AMER_UNI_Mirage","",""
+
+new itemgroup "AMER_UNI_Misery"
+
+add levelgroup 1,0,"All"
+add rootgroup "4ff8d1bf-fa0b-4f44-9854-43147ed4cae4",""
+add namegroup "AMER_UNI_Misery","",""
+
+new itemgroup "AMER_UNI_Momentum"
+
+add levelgroup 1,0,"All"
+add rootgroup "834fff08-cd43-4e24-8610-1a6d6a7f4705",""
+add namegroup "AMER_UNI_Momentum","",""
+
+new itemgroup "AMER_UNI_Mountain"
+
+add levelgroup 1,0,"All"
+add rootgroup "76820f36-7915-4bac-8b2b-9fc654f452f9",""
+add namegroup "AMER_UNI_Mountain","",""
+
+new itemgroup "AMER_UNI_NecromancersRaiment"
+
+add levelgroup 1,0,"All"
+add rootgroup "e96386e8-db7f-4267-aa92-6caff9ae2f7b",""
+add namegroup "AMER_UNI_NecromancersRaiment","",""
+
+new itemgroup "AMER_UNI_Nemesis"
+
+add levelgroup 1,0,"All"
+add rootgroup "0339fe72-2c9c-404f-9499-7083985dfaac",""
+add namegroup "AMER_UNI_Nemesis","",""
+
+new itemgroup "AMER_UNI_Nightmare"
+
+add levelgroup 1,0,"All"
+add rootgroup "5a551e28-f20a-427f-98f3-3ab3e7e6e76b",""
+add namegroup "AMER_UNI_Nightmare","",""
+
+new itemgroup "AMER_UNI_Nihility"
+
+add levelgroup 1,0,"All"
+add rootgroup "ae72ebc1-446a-4808-980f-bb06997929f0",""
+add namegroup "AMER_UNI_Nihility","",""
+
+new itemgroup "AMER_UNI_Obelisk"
+
+add levelgroup 1,0,"All"
+add rootgroup "f123abbe-84ef-4f7b-a599-72825e41ae96",""
+add namegroup "AMER_UNI_Obelisk","",""
+
+new itemgroup "AMER_UNI_Occam"
+
+add levelgroup 1,0,"All"
+add rootgroup "4c5b5543-ca6e-407e-9278-66c8e27be0a4",""
+add namegroup "AMER_UNI_Occam","",""
+
+new itemgroup "AMER_UNI_Onslaught"
+
+add levelgroup 1,0,"All"
+add rootgroup "285a972f-b30c-4424-9867-b527c8b8c47d",""
+add namegroup "AMER_UNI_Onslaught","",""
+
+new itemgroup "AMER_UNI_Ouroboros"
+
+add levelgroup 1,0,"All"
+add rootgroup "e2d1edf3-4a1c-4a7b-9ab5-12cad07db2ee",""
+add namegroup "AMER_UNI_Ouroboros","",""
+
+new itemgroup "AMER_UNI_Paragon"
+
+add levelgroup 1,0,"All"
+add rootgroup "ddbd0267-2770-43d0-b5cf-f5a2f935ae9c",""
+add namegroup "AMER_UNI_Paragon","",""
+
+new itemgroup "AMER_UNI_Pariah"
+
+add levelgroup 1,0,"All"
+add rootgroup "6951c90b-fbeb-447b-bf6e-f4422696c2c1",""
+add namegroup "AMER_UNI_Pariah","",""
+
+new itemgroup "AMER_UNI_Pestilence"
+
+add levelgroup 1,0,"All"
+add rootgroup "788d8c42-d4f2-4da0-8293-1074453ad8e6",""
+add namegroup "AMER_UNI_Pestilence","",""
+
+new itemgroup "AMER_UNI_PrismaticBarrier"
+
+add levelgroup 1,0,"All"
+add rootgroup "ac8122a2-9900-4b14-87da-bc1c5e3a9300",""
+add namegroup "AMER_UNI_PrismaticBarrier","",""
+
+new itemgroup "AMER_UNI_Prophecy"
+
+add levelgroup 1,0,"All"
+add rootgroup "94a7c392-b364-4d4d-a7e2-89e0374269ae",""
+add namegroup "AMER_UNI_Prophecy","",""
+
+new itemgroup "AMER_UNI_Pyre"
+
+add levelgroup 1,0,"All"
+add rootgroup "0d32f7a0-0a08-43a6-83ce-0fb31b2d4fb4",""
+add namegroup "AMER_UNI_Pyre","",""
+
+new itemgroup "AMER_UNI_Rapture"
+
+add levelgroup 1,0,"All"
+add rootgroup "5410e049-81a6-49cb-b4cb-61dd35123be4",""
+add namegroup "AMER_UNI_Rapture","",""
+
+new itemgroup "AMER_UNI_RedOrison"
+
+add levelgroup 1,0,"All"
+add rootgroup "48f6188d-6e85-4526-a8bb-58eb1fd3c7ef",""
+add namegroup "AMER_UNI_RedOrison","",""
+
+new itemgroup "AMER_UNI_RodOfAbeyance"
+
+add levelgroup 1,0,"All"
+add rootgroup "dccb9e34-1c3c-4faa-99e6-1e7fdceded1d",""
+add namegroup "AMER_UNI_RodOfAbeyance","",""
+
+new itemgroup "AMER_UNI_RodOfCommand"
+
+add levelgroup 1,0,"All"
+add rootgroup "9a3a2a71-787f-442c-a7c0-d8e5d5d4253b",""
+add namegroup "AMER_UNI_RodOfCommand","",""
+
+new itemgroup "AMER_UNI_RodOfConviction"
+
+add levelgroup 1,0,"All"
+add rootgroup "707a1cfa-2b4f-4855-beb4-49136bccf117",""
+add namegroup "AMER_UNI_RodOfConviction","",""
+
+new itemgroup "AMER_UNI_Salamander"
+
+add levelgroup 1,0,"All"
+add rootgroup "b08e0423-a41f-4275-ad20-5844cd8b2431",""
+add namegroup "AMER_UNI_Salamander","",""
+
+new itemgroup "AMER_UNI_SanguineHarvest"
+
+add levelgroup 1,0,"All"
+add rootgroup "6cfa99c4-85d2-450b-9f44-aa56f1997921",""
+add namegroup "AMER_UNI_SanguineHarvest","",""
+
+new itemgroup "AMER_UNI_Seraph"
+
+add levelgroup 1,0,"All"
+add rootgroup "db8f2b31-e409-415c-89c5-d42c91a0f04f",""
+add namegroup "AMER_UNI_Seraph","",""
+
+new itemgroup "AMER_UNI_Serenity"
+
+add levelgroup 1,0,"All"
+add rootgroup "cc3d0fcc-45c1-48ad-9095-3090ebf64e20",""
+add namegroup "AMER_UNI_Serenity","",""
+
+new itemgroup "AMER_UNI_Silkclimb"
+
+add levelgroup 1,0,"All"
+add rootgroup "74feda94-2651-4cdc-8cde-26885f41a31c",""
+add namegroup "AMER_UNI_Silkclimb","",""
+
+new itemgroup "AMER_UNI_Smother"
+
+add levelgroup 1,0,"All"
+add rootgroup "5419e1f2-c51b-45ac-96cb-767c56f8a33a",""
+add namegroup "AMER_UNI_Smother","",""
+
+new itemgroup "AMER_UNI_TheButchersDisciple"
+
+add levelgroup 1,0,"All"
+add rootgroup "daf7209a-0915-42d4-9925-5f18e0a4407a",""
+add namegroup "AMER_UNI_TheButchersDisciple","",""
+
+new itemgroup "AMER_UNI_TheButchersWill"
+
+add levelgroup 1,0,"All"
+add rootgroup "717fa35a-ae08-47a1-bd80-3fa3a784ad4b",""
+add namegroup "AMER_UNI_TheButchersWill","",""
+
+new itemgroup "AMER_UNI_TheCannibal"
+
+add levelgroup 1,0,"All"
+add rootgroup "98fce942-7931-4041-81bb-7bd848a45eb8",""
+add namegroup "AMER_UNI_TheCannibal","",""
+
+new itemgroup "AMER_UNI_TheChthonian"
+
+add levelgroup 1,0,"All"
+add rootgroup "ab669c08-fcf6-4751-9a86-64af7dd2863b",""
+add namegroup "AMER_UNI_TheChthonian","",""
+
+new itemgroup "AMER_UNI_TheCrucible"
+
+add levelgroup 1,0,"All"
+add rootgroup "a5b39108-850b-426f-bc85-40cfc4cd95f2",""
+add namegroup "AMER_UNI_TheCrucible","",""
+
+new itemgroup "AMER_UNI_TheJaguar"
+
+add levelgroup 1,0,"All"
+add rootgroup "5bd63bb6-707f-45dd-b6a6-d587a8babd3c",""
+add namegroup "AMER_UNI_TheJaguar","",""
+
+new itemgroup "AMER_UNI_TheLocustCrown"
+
+add levelgroup 1,0,"All"
+add rootgroup "f75b90f0-b2f9-4a19-aca2-1fe9458fbe9d",""
+add namegroup "AMER_UNI_TheLocustCrown","",""
+
+new itemgroup "AMER_UNI_TheSavage"
+
+add levelgroup 1,0,"All"
+add rootgroup "389ca9d6-17b6-4f17-aa4e-036efc1521b9",""
+add namegroup "AMER_UNI_TheSavage","",""
+
+new itemgroup "AMER_UNI_TheVault"
+
+add levelgroup 1,0,"All"
+add rootgroup "fdabbaea-89d6-4ee0-ac5f-8c96d2345ea3",""
+add namegroup "AMER_UNI_TheVault","",""
+
+new itemgroup "AMER_UNI_Thirst"
+
+add levelgroup 1,0,"All"
+add rootgroup "d381f754-9bbb-4418-a9ee-69ae699b00cf",""
+add namegroup "AMER_UNI_Thirst","",""
+
+new itemgroup "AMER_UNI_ThornHalo"
+
+add levelgroup 1,0,"All"
+add rootgroup "90484ec1-abd2-47a1-abb6-1fe300bc5baa",""
+add namegroup "AMER_UNI_ThornHalo","",""
+
+new itemgroup "AMER_UNI_Trample"
+
+add levelgroup 1,0,"All"
+add rootgroup "36352ab1-d9f6-418e-b7e0-8a6834195358",""
+add namegroup "AMER_UNI_Trample","",""
+
+new itemgroup "AMER_UNI_Tundra"
+
+add levelgroup 1,0,"All"
+add rootgroup "2031aad5-0c48-4288-926e-ffb802373f4c",""
+add namegroup "AMER_UNI_Tundra","",""
+
+new itemgroup "AMER_UNI_Urgency"
+
+add levelgroup 1,0,"All"
+add rootgroup "b64d339a-9cc3-4c33-8f15-ad86a8f82245",""
+add namegroup "AMER_UNI_Urgency","",""
+
+new itemgroup "AMER_UNI_Vertigo"
+
+add levelgroup 1,0,"All"
+add rootgroup "6ab20ae4-1ede-4544-ace1-0bc0ac14a72a",""
+add namegroup "AMER_UNI_Vertigo","",""
+
+new itemgroup "AMER_UNI_Vortex"
+
+add levelgroup 1,0,"All"
+add rootgroup "aa5f6f9f-af2d-493b-83f3-5958ed0eeb09",""
+add namegroup "AMER_UNI_Vortex","",""
+
+new itemgroup "AMER_UNI_Wendigo"
+
+add levelgroup 1,0,"All"
+add rootgroup "c059b343-ec4e-4b03-a784-e9796d038f93",""
+add namegroup "AMER_UNI_Wendigo","",""
+
+new itemgroup "AMER_UNI_WintersGrasp"
+
+add levelgroup 1,0,"All"
+add rootgroup "2d3b1b8f-063b-429a-a6be-b79736614f61",""
+add namegroup "AMER_UNI_WintersGrasp","",""
+
+new itemgroup "AMER_UNI_Wraith"
+
+add levelgroup 1,0,"All"
+add rootgroup "ca4acd8a-3886-4e62-8387-e4cbdcf85495",""
+add namegroup "AMER_UNI_Wraith","",""
+
+new itemgroup "AMER_UNI_Zeal"
+
+add levelgroup 1,0,"All"
+add rootgroup "316082cd-5f2d-49d3-b910-a87abc2bd7fc",""
+add namegroup "AMER_UNI_Zeal","",""
+
+new itemgroup "AMER_UNI_Zenith"
+
+add levelgroup 1,0,"All"
+add rootgroup "3d5974ab-a600-4e6f-9b07-a7aa5e0333bc",""
+add namegroup "AMER_UNI_Zenith","",""
+
+new itemgroup "AMER_UNI_Zodiac"
+
+add levelgroup 1,0,"All"
+add rootgroup "278345a9-3f2d-49a9-b1a2-05b68d91d86a",""
+add namegroup "AMER_UNI_Zodiac","",""
+
+new itemgroup "AMER_Dummy_Overhead"
+
+add levelgroup 0,0,"All"
+add rootgroup "438d22a4-263b-44e1-8ad7-447f9092dbf9",""
+

@@ -1,0 +1,10 @@
+new entry "Stats_ProtectionCircle"
+type "Potion"
+data "Act" "1"
+data "Act part" "0"
+data "FireResistance" "20"
+data "EarthResistance" "20"
+data "WaterResistance" "20"
+data "AirResistance" "20"
+data "PoisonResistance" "20"
+

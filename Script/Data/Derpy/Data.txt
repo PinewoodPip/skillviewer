@@ -1,0 +1,5 @@
+key "DamageToThrownWeightRatio","0"
+
+key "CarryWeightBase","300000"
+
+key "TalentCivilAbilityPointsBonus","2"

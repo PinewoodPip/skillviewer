@@ -1,0 +1,8 @@
+requirement "ExtraStatPoints","Level 4"
+
+requirement "ExtraSkillPoints","Level 4"
+
+requirement "QuickStep",""
+
+requirement "Executioner",""
+

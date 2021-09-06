@@ -1,0 +1,10 @@
+new entry "JUMP_FLIGHT"
+type "StatusData"
+data "StatusType" "THROWN"
+data "ForGameMaster" "No"
+data "InitiateCombat" "No"
+data "DisplayName" "JUMP_FLIGHT_DisplayName"
+data "DisplayNameRef" "|Flight|"
+data "StackId" "Stack_EquipItem"
+data "Items" "ARM_Wings"
+

@@ -1,0 +1,174 @@
+key "SurfaceDurationFromCharacterBleeding","12"
+
+key "SurfaceDurationBlessedCursed","12"
+
+key "SurfaceDurationAfterDecay","12"
+
+key "SkillAbilityLifeStealPerPoint","1"
+
+key "VitalityExponentialGrowth","1"
+
+key "VitalityLinearGrowth","15"
+
+key "VitalityStartingAmount","10"
+
+key "VitalityToDamageRatio","5"
+
+key "VitalityToDamageRatioGrowth","0"
+
+key "ThirdVitalityLeapLevel","998"
+
+key "ThirdVitalityLeapGrowth","1"
+
+key "SecondVitalityLeapGrowth","1"
+
+key "SecondVitalityLeapLevel","997"
+
+key "FirstVitalityLeapLevel","996"
+
+key "FirstVitalityLeapGrowth","1"
+
+key "FourthVitalityLeapLevel","99"
+
+key "FourthVitalityLeapGrowth","1"
+
+key "MonsterDamageBoostPerLevel","0.025"
+
+key "GlobalGoldValueMultiplier","0.5"
+
+key "TalentExecutionerActionPointBonus","4"
+
+key "TalentAttributePointsBonus","5"
+
+key "TalentCombatAbilityPointsBonus","3"
+
+key "TalentMemoryBonus","8"
+
+key "TalentQuickStepPartialApBonus","1.5"
+
+key "DualWieldingAPPenalty","4"
+
+key "End Of Combat SightRange Multiplier","4.5"
+
+key "Sneak Damage Multiplier","1"
+
+key "SneakDefaultAPCost","4"
+
+key "PriceModCasualDifficulty","3.1"
+
+key "PriceModClassicDifficulty","3.5"
+
+key "PriceModHardcoreDifficulty","4.5"
+
+key "SkillAbilityCritMultiplierPerPoint","0"
+
+key "SkillAbilityAirDamageBoostPerPoint","0"
+
+key "SkillAbilityFireDamageBoostPerPoint","0"
+
+key "SkillAbilityMovementSpeedPerPoint","20"
+
+key "SkillAbilityPhysicalDamageBoostPerPoint","0"
+
+key "SkillAbilityPoisonAndEarthDamageBoostPerPoint","0"
+
+key "SkillAbilityWaterDamageBoostPerPoint","0"
+
+key "SmokeDurationAfterDecay","0"
+
+key "TalentWhatARushThreshold","70"
+
+key "SummoningAbilityBonus","5"
+
+key "DamageBoostFromAttribute","0"
+
+key "MagicArmourBoostFromAttribute","0"
+
+key "PhysicalArmourBoostFromAttribute","0"
+
+key "DodgingBoostFromAttribute","0.005"
+
+key "SkillAbilityDamageToPhysicalArmorPerPoint","0"
+
+key "SkillAbilityDamageToMagicArmorPerPoint","0"
+
+key "SkillAbilityVitalityRestoredPerPoint","3"
+
+key "PriceBarterCoefficient","0.3"
+
+key "MaximumSummonsInCombat","4"
+
+key "LeadershipRange","13"
+
+key "FirstItemTypeShift","998"
+
+key "SecondItemTypeShift","999"
+
+key "SkillAbilityHighGroundBonusPerPoint","0"
+
+key "AbilityPerseveranceArmorPerPoint","0"
+
+key "SoftLevelCap","30"
+
+key "ArmorRegenPercentageGrowth","100"
+
+key "MagicArmorRegenPercentageGrowth","100"
+
+key "LoneWolfMagicArmorBoostPercentage","0"
+
+key "LoneWolfArmorBoostPercentage","0"
+
+key "LoneWolfVitalityBoostPercentage","0"
+
+key "LoneWolfAPBonus","4"
+
+key "LoneWolfMaxAPBonus","4"
+
+key "CombatAbilityDodgingBonus","2"
+
+key "CombatAbilityDamageBonus","3"
+
+key "SurfaceAbsorbBoostPerTilesCount","7"
+
+key "Ally Joins Ally SightRange Multiplier","4"
+
+key "Flanked penalty","10"
+
+key "IncarnateSummoningLevel","999"
+
+key "SkillAbilityArmorRestoredPerPoint","3"
+
+key "TalentResistDeathVitalityPercentage","30"
+
+key "PickpocketGoldValuePerPoint","63"
+
+key "PickpocketWeightPerPoint","2000"
+
+key "PickpocketExperienceLevelsPerPoint","4"
+
+key "HighGroundBaseDamageBonus","0.1"
+
+key "HighGroundRangeMultiplier","1.5"
+
+key "LowGroundBaseDamagePenalty","-0.1"
+
+key "RangeBoostedGlobalCap","30"
+
+key "DeflectProjectileRange","0"
+
+key "CombatAbilityCritMultiplierBonus","1.5"
+
+key "TalentHumanCriticalMultiplier","5"
+
+key "LeadershipAllResBonus","2"
+
+key "FleeDistance","0"
+
+key "VitalityBoostFromAttribute","0.06"
+
+key "CriticalBonusFromWits","0"
+
+key "TorturerDamageStatusTurnIncrease","0"
+
+key "TalentSneakingDamageBonus","0"
+

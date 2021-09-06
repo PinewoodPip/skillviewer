@@ -1,0 +1,214 @@
+new itemcolor "AMER_Dye_Void","FF000000","FF000000","FF000000"
+
+new itemcolor "AMER_Dye_Stealth","FF000000","FF000000","FF392613"
+
+new itemcolor "AMER_Dye_Earth","FF392613","FF86592d","FF86592d"
+
+new itemcolor "AMER_Dye_Fog","FF006699","FF669999","FF669999"
+
+new itemcolor "AMER_Dye_Seafoam","FFccffe6","FFb3ffd9","FFccffe6"
+
+new itemcolor "AMER_Dye_Smoke","FF9494b8","FFe6ccb3","FFe6ccb3"
+
+new itemcolor "AMER_Dye_Verdure","FF006622","FFadebad","FFadebad"
+
+new itemcolor "AMER_Dye_Coral","FFcc3300","FFcc3300","FFff8c66"
+
+new itemcolor "AMER_Dye_Clay","FF993300","FF993300","FFffc6b3"
+
+new itemcolor "AMER_Dye_Saffron","FF996600","FF996600","FFcc9900"
+
+new itemcolor "AMER_Dye_Midnight","FF1a000d","FF4d0026","FF4d0026"
+
+new itemcolor "AMER_Dye_Abyss","FF000000","FF993300","FF993300"
+
+new itemcolor "AMER_Dye_Nemesis","FF993300","FF94b8b8","FF94b8b8"
+
+new itemcolor "AMER_Dye_Red","FFA52A2A","FFDC143C","FF800000"
+
+new itemcolor "AMER_Dye_Lichen","FF999966","FF999966","FFEBEBE0"
+
+new itemcolor "AMER_TESTCOLOR_","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_TESTCOLOR","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Zodiac","FF9DB87B","FFCE4B0A","FFE7E8AF"
+
+new itemcolor "AMER_UNI_Zenith","FF7FFFD4","FFE78031","FFE0421F"
+
+new itemcolor "AMER_UNI_Zeal","FF3D2029","FFCC9E60","FFFAF7D2"
+
+new itemcolor "AMER_UNI_Wraith","FF75567A","FFEA4821","FFE2E6F6"
+
+new itemcolor "AMER_UNI_WintersGrasp","FFA0D3F6","FF2D88E5","FF44A7EC"
+
+new itemcolor "AMER_UNI_Vortex","FF964E71","FF69576E","FFE5838D"
+
+new itemcolor "AMER_UNI_Vertigo","FF706C34","FF94CFD6","FF81A3A3"
+
+new itemcolor "AMER_UNI_Urgency","FFB54939","FFE7BAB5","FF997280"
+
+new itemcolor "AMER_UNI_Tundra","FF999DBA","FF86B3B7","FF3046CE"
+
+new itemcolor "AMER_UNI_Trample","FFD13F3E","FF71484C","FFE0B194"
+
+new itemcolor "AMER_UNI_Thirst","FFF2612E","FFC0DAEF","FF9CABB0"
+
+new itemcolor "AMER_UNI_TheVault","FFF0AB55","FFB54D00","FF976629"
+
+new itemcolor "AMER_UNI_TheLocustCrown","FF5F566E","FF919A70","FFA0C2AA"
+
+new itemcolor "AMER_UNI_TheJaguar","FF9E6938","FFE0A483","FFA55108"
+
+new itemcolor "AMER_UNI_TheCrucible","FFB03B2F","FFED654E","FF613E4C"
+
+new itemcolor "AMER_UNI_TheCannibal","FF591614","FFF7463A","FF8F2B1E"
+
+new itemcolor "AMER_UNI_TheButchersWill","FF8D0F09","FF9D281E","FFD67658"
+
+new itemcolor "AMER_UNI_Smother","FF4F3A63","FF383C46","FFDA9276"
+
+new itemcolor "AMER_UNI_Silkclimb","FFC6918D","FFDE8EC4","FFF7F5F2"
+
+new itemcolor "AMER_UNI_Serenity","FF82CCCB","FF0924AB","FFC7F1F5"
+
+new itemcolor "AMER_UNI_Salamander","FFE03716","FF2E1C1A","FFFA9B76"
+
+new itemcolor "AMER_UNI_RodOfConviction","FFB04B28","FFB57C6A","FFFFD7AD"
+
+new itemcolor "AMER_UNI_RodOfCommand","FF816129","FFFF5908","FFD0A179"
+
+new itemcolor "AMER_UNI_RodOfAbeyance","FF685C3C","FF80D1F9","FFADB28C"
+
+new itemcolor "AMER_UNI_RedOrison","FFA61A0D","FF730E0B","FFFF4F4F"
+
+new itemcolor "AMER_UNI_Rapture","FFFFE3BD","FFFFE8F2","FFF07FA8"
+
+new itemcolor "AMER_UNI_Pyre","FFD62C0A","FFA81409","FFD9692B"
+
+new itemcolor "AMER_UNI_PrismaticBarrier","FF3CC79D","FFF7C38A","FFE54756"
+
+new itemcolor "AMER_UNI_Pestilence","FFDEF7B5","FFC0D999","FF9BB25E"
+
+new itemcolor "AMER_UNI_Ouroboros","FF5A3C21","FF785A39","FFDEB273"
+
+new itemcolor "AMER_UNI_Onslaught","FFC6826B","FFAD5245","FF8C3226"
+
+new itemcolor "AMER_UNI_Nihility","FF413C55","FF312D3C","FF917678"
+
+new itemcolor "AMER_UNI_Nightmare","FFA58AB5","FFC9A5B9","FF593E55"
+
+new itemcolor "AMER_UNI_Nemesis","FF472426","FF607573","FF87210A"
+
+new itemcolor "AMER_UNI_NecromancersRaiment","FF7A485D","FF626260","FFAA808F"
+
+new itemcolor "AMER_UNI_Mountain","FFAD5D1F","FF7A4A28","FFA38A64"
+
+new itemcolor "AMER_UNI_Momentum","FF625231","FFEF9263","FF916A0A"
+
+new itemcolor "AMER_UNI_Misery","FF315A4C","FF296142","FF52869C"
+
+new itemcolor "AMER_UNI_MalleusMaleficarum","FFD69E08","FFDED7BD","FF844910"
+
+new itemcolor "AMER_UNI_Malice","FF9B1F09","FFFF5921","FF8C5565"
+
+new itemcolor "AMER_UNI_Lightspire","FFE7D38C","FF8EA8A4","FFC3ECFA"
+
+new itemcolor "AMER_UNI_Leviathan","FF5A754A","FF3A966C","FF7EC2B3"
+
+new itemcolor "AMER_UNI_LambentBlade","FFA5187B","FFD6AA63","FFE7B4ED"
+
+new itemcolor "AMER_UNI_Kudzu","FF3E7134","FF5AA26B","FF47775A"
+
+new itemcolor "AMER_UNI_Judgement","FFB03627","FF7FFFD4","FF8C5220"
+
+new itemcolor "AMER_UNI_IronMaiden","FF8E8784","FFC6514A","FF8C7973"
+
+new itemcolor "AMER_UNI_Impetus","FF445A73","FF6B4963","FFBDD3EF"
+
+new itemcolor "AMER_UNI_Hibernaculum","FF6B4963","FFB5C7B5","FF445A73"
+
+new itemcolor "AMER_UNI_GramSwordOfGrief","FFF7AA8C","FFADCB63","FF523039"
+
+new itemcolor "AMER_UNI_Golem","FFF77910","FFF75508","FFFFDF94"
+
+new itemcolor "AMER_UNI_Goldforge","FFE7AA5A","FFFFE37B","FFA17857"
+
+new itemcolor "AMER_UNI_Godspeed","FF426165","FF8CF3EF","FFDEA694"
+
+new itemcolor "AMER_UNI_Glacier","FF6D6E83","FFC6FFFF","FF90BEEA"
+
+new itemcolor "AMER_UNI_GiantsSkull","FF528180","FFC65139","FFCE969C"
+
+new itemcolor "AMER_UNI_FistOfDecay","FF94C79C","FF57AC70","FF57766D"
+
+new itemcolor "AMER_UNI_Expedition","FFC6C79C","FF9AAA8E","FF89022C"
+
+new itemcolor "AMER_UNI_EtherTide","FF522F52","FF42204A","FFF7C3DE"
+
+new itemcolor "AMER_UNI_EmpyreanVestments","FF6BD7E7","FFD0F1F9","FF185984"
+
+new itemcolor "AMER_UNI_Eclipse","FFAC5E4D","FFF74942","FF84495A"
+
+new itemcolor "AMER_UNI_Dominion","FFA14A47","FFFF4500","FF99C5CB"
+
+new itemcolor "AMER_UNI_Desperation","FF8B7541","FFBD9A42","FFF7F78C"
+
+new itemcolor "AMER_UNI_CoruscatingSilks","FFF7FBE7","FFCEBEDE","FF394584"
+
+new itemcolor "AMER_UNI_Convergence","FFBD3C10","FFAD8E52","FF443626"
+
+new itemcolor "AMER_UNI_Consecration","FF63827B","FFFFE4C4","FFFFFBD6"
+
+new itemcolor "AMER_UNI_Charity","FFF5F5DC","FFBDFFEF","FFFFEBCD"
+
+new itemcolor "AMER_UNI_BountyHunter","FF5A404C","FF42636E","FF846973"
+
+new itemcolor "AMER_UNI_Bloodforge","FF9E1309","FF696969","FFEF3C10"
+
+new itemcolor "AMER_UNI_ApothecarysGuile","FF414C3E","FF696969","FF1B672E"
+
+new itemcolor "AMER_UNI_AntediluvianCarapace","FFC66131","FF3F1D10","FFFFBE6B"
+
+new itemcolor "AMER_UNI_AmaranthineBulwark","FF18C3DE","FFBDFFFF","FFD6F7FF"
+
+new itemcolor "AMER_UNI_Abyss","FFFF4139","FFFF7F50","FF000000"
+
+new itemcolor "AMER_UNI_Absence","FF3B5057","FFD0F6FD","FF8FBEBF"
+
+new itemcolor "AMER_UNI_TheChthonian","FF4F270B","FF7FFFD4","FFF0A569"
+
+new itemcolor "AMER_UNI_Cataclysm","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_ThornHalo","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Leper","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_BlackglassBrand","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Savage","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_SanguineHarvest","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Pariah","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_InfernalContract","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_TheButchersDisciple","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_FaceOfTheFallen","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Adamant","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Gluttony","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Famine","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Obelisk","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Mirage","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Occam","FFFF0000","FF00FF7F","FF0000FF"
+
+new itemcolor "AMER_UNI_Paragon","FF800080","FF00FF7F","FF0000FF"
+

@@ -1,0 +1,3099 @@
+new namegroup "RG_Swords_1H_Epic_AMER"
+add name "Deathblade",""
+
+add name "Doomblade",""
+
+add name "Demonfury",""
+
+add name "Northrose",""
+
+add name "Fallowblade",""
+
+add name "Fulltongue",""
+
+add name "Sawsword",""
+
+add name "Slider",""
+
+add name "Chainbreaker",""
+
+add name "Clansever",""
+
+add name "Mooncut",""
+
+add name "The Liberator",""
+
+add name "Kriegmesser",""
+
+add name "Everloyal",""
+
+new namegroup "RG_Swords_1H_Rare_AMER"
+add name "Defender",""
+
+add name "Protector",""
+
+add name "Slicer",""
+
+add name "Marauder",""
+
+add name "Annihilator",""
+
+add name "Decapitator",""
+
+add name "Bladefinger",""
+
+add name "Trailing Edge",""
+
+add name "Blade of Fury",""
+
+add name "Chainbreaker",""
+
+add name "Clansever",""
+
+add name "Mooncut",""
+
+add name "The Liberator",""
+
+new namegroup "RG_Swords_1H_Legendary"
+add name "Blackrazor",""
+
+add name "Kriegmesser",""
+
+add name "Everloyal",""
+
+add name "Vaporblade",""
+
+add name "Skullrazor",""
+
+add name "The Measure of Kings",""
+
+new namegroup "RG_Swords_1H_Divine"
+add name "Blackrazor",""
+
+add name "Kriegmesser",""
+
+add name "Everloyal",""
+
+add name "Vaporblade",""
+
+add name "Skullrazor",""
+
+add name "The Measure of Kings",""
+
+add name "Raum's Honor",""
+
+add name "Wolfhart's Fruition",""
+
+new namegroup "RG_Swords_2H_Rare_AMER"
+add name "Exterminator",""
+
+add name "Mutilator",""
+
+add name "Ravager",""
+
+add name "Destroyer",""
+
+add name "Mailseverer",""
+
+add name "Scumkiller",""
+
+add name "Eviscerator",""
+
+add name "Hollower",""
+
+add name "The Corrector",""
+
+add name "The Prover",""
+
+add name "Knightmeasure",""
+
+add name "Limbslicer",""
+
+add name "Gutrend",""
+
+new namegroup "RG_Swords_2H_Epic_AMER"
+add name "Nightwing",""
+
+add name "Bloodlust",""
+
+add name "Reaver",""
+
+add name "Stormbringer",""
+
+add name "Reaper",""
+
+add name "Harrowblade",""
+
+add name "The Collector",""
+
+add name "The Corrector",""
+
+add name "The Prover",""
+
+add name "Knightmeasure",""
+
+add name "Limbslicer",""
+
+add name "Gutrend",""
+
+add name "Iron Edict",""
+
+new namegroup "RG_Swords_2H_Legendary"
+add name "Iron Edict",""
+
+add name "Steelcentury",""
+
+add name "Bleak Absolution",""
+
+add name "The Inexorable Era",""
+
+add name "Legionbreaker",""
+
+add name "Essencedrinker",""
+
+new namegroup "RG_Swords_2H_Divine"
+add name "Rhadamanthus' Justice",""
+
+add name "Steelcentury",""
+
+add name "Bleak Absolution",""
+
+add name "The Inexorable Era",""
+
+add name "Legionbreaker",""
+
+add name "Essencedrinker",""
+
+add name "Blade of Ancestral Brutalism",""
+
+new namegroup "RG_Axes_1H_Rare_AMER"
+add name "Slasher",""
+
+add name "Splitter",""
+
+add name "Hacker",""
+
+add name "Slicer",""
+
+add name "Dicer",""
+
+add name "Mailsplitter",""
+
+add name "Sweet Blessings",""
+
+add name "Woodcutter",""
+
+add name "Butcher's Blade",""
+
+add name "Biter",""
+
+add name "Waning Moon",""
+
+add name "Bonesaw",""
+
+add name "Blighthour",""
+
+add name "Dreamrender",""
+
+add name "The Lathe",""
+
+add name "Brightbleeder",""
+
+new namegroup "RG_Axes_1H_Epic_AMER"
+add name "Heartbane",""
+
+add name "Battleborn",""
+
+add name "Bloodrage",""
+
+add name "Huntsman",""
+
+add name "Hardarse",""
+
+add name "Dead Ringer",""
+
+add name "The Gnarling",""
+
+add name "Havoc",""
+
+add name "Waning Moon",""
+
+add name "Bonesaw",""
+
+add name "Blighthour",""
+
+add name "Dreamrender",""
+
+add name "The Lathe",""
+
+add name "Brightbleeder",""
+
+add name "Mirroredge",""
+
+add name "Cairnsickle",""
+
+new namegroup "RG_Axes_1H_Legendary"
+add name "Mirroredge",""
+
+add name "Cairnsickle",""
+
+add name "Blood Moon",""
+
+add name "The Flayer",""
+
+add name "Phantombleeder",""
+
+add name "Biledredge",""
+
+add name "Gloryharvest",""
+
+add name "Hellkeen",""
+
+new namegroup "RG_Axes_1H_Divine"
+add name "Volsung's Grief",""
+
+add name "The Ancestor's Scorn",""
+
+add name "Blood Moon",""
+
+add name "The Flayer",""
+
+add name "Phantombleeder",""
+
+add name "Biledredge",""
+
+add name "Gloryharvest",""
+
+add name "Hellkeen",""
+
+new namegroup "RG_Axes_2H_Rare_AMER"
+add name "Devastator",""
+
+add name "Butcher",""
+
+add name "Thrasher",""
+
+add name "The Final Word",""
+
+add name "Peacebringer",""
+
+add name "Despatcher",""
+
+add name "Deathdealer",""
+
+add name "World's End",""
+
+add name "Earthmover",""
+
+add name "The Minotaur",""
+
+add name "The Hungerer",""
+
+add name "Blackmaim",""
+
+add name "Direhone",""
+
+new namegroup "RG_Axes_2H_Epic_AMER"
+add name "Mangler",""
+
+add name "Eradicator",""
+
+add name "Bonesplitter",""
+
+add name "Steel Ruler",""
+
+add name "Enforcer",""
+
+add name "Hackbiter",""
+
+add name "Earthmover",""
+
+add name "The Minotaur",""
+
+add name "The Hungerer",""
+
+add name "Blackmaim",""
+
+add name "Direhone",""
+
+add name "Mirroredge",""
+
+add name "Jade Decapitator",""
+
+new namegroup "RG_Axes_2H_Legendary"
+add name "Mirroredge",""
+
+add name "Oblivionhew",""
+
+add name "Jade Decapitator",""
+
+add name "Bloodnexus",""
+
+add name "Kingslayer",""
+
+add name "Moonstone Cleaver",""
+
+add name "Deathless Execration",""
+
+new namegroup "RG_Axes_2H_Divine"
+add name "Blade of Ancestral Brutalism",""
+
+add name "Oblivionhew",""
+
+add name "Rhadamanthus' Justice",""
+
+add name "Bloodnexus",""
+
+add name "Kingslayer",""
+
+add name "Moonstone Cleaver",""
+
+add name "Deathless Execration",""
+
+new namegroup "RG_Bows_Rare_AMER"
+add name "Slayer",""
+
+add name "Yew Longbow",""
+add namecool "Magical Yew Longbow",""
+
+add name "Hazel Bow",""
+
+add name "Ashwood Bow",""
+
+add name "Birchwood Bow",""
+
+add name "Intruder",""
+
+add name "Challenger",""
+
+add name "Wrecker",""
+
+add name "Hunter's Charm",""
+
+add name "Bear-Spine Bow",""
+
+add name "The Poacher",""
+
+add name "Deadeye",""
+
+add name "Eyebite",""
+
+add name "Thornfletch",""
+
+add name "Wrathpluck",""
+
+new namegroup "RG_Bows_Epic_AMER"
+add name "Peacekeeper",""
+
+add name "Heartseeker",""
+
+add name "Sharpshooter",""
+
+add name "Dark Whisperer",""
+
+add name "Sweet Whisperer",""
+
+add name "Heartsinker",""
+
+add name "Elven Vengeance",""
+
+add name "Whisperer",""
+
+add name "The Poacher",""
+
+add name "Deadeye",""
+
+add name "Eyebite",""
+
+add name "Thornfletch",""
+
+add name "Wrathpluck",""
+
+add name "Blackwind",""
+
+add name "Fatehunter",""
+
+new namegroup "RG_Bows_Legendary"
+add name "Blackwind",""
+
+add name "Fatehunter",""
+
+add name "Fossegrim",""
+
+add name "Warp Ambush",""
+
+add name "Cliffslaughter",""
+
+add name "Eldritch Arch",""
+
+add name "Woundsalt Sower",""
+
+new namegroup "RG_Bows_Divine"
+add name "Grimaldi's Fiendharp",""
+
+add name "Etienne's Hailstorm",""
+
+add name "Fossegrim",""
+
+add name "Warp Ambush",""
+
+add name "Cliffslaughter",""
+
+add name "Eldritch Arch",""
+
+add name "Woundsalt Sower",""
+
+new namegroup "RG_Crossbows_Rare_AMER"
+add name "Punisher",""
+
+add name "Provoker",""
+
+add name "Creaking Death",""
+
+add name "Silent Violence",""
+
+add name "Deathsknell",""
+
+add name "Gravedigger",""
+
+add name "Bloodbane",""
+
+add name "The Poacher",""
+
+add name "Perforator",""
+
+add name "Skyshriek",""
+
+add name "Needlewood",""
+
+add name "Quillflux",""
+
+new namegroup "RG_Crossbows_Epic_AMER"
+add name "Agitator",""
+
+add name "Repulser",""
+
+add name "Willowed Death's Touch",""
+
+add name "Exactor",""
+
+add name "Wrathchild",""
+
+add name "Vowkeeper",""
+
+add name "The Poacher",""
+
+add name "Perforator",""
+
+add name "Skyshriek",""
+
+add name "Needlewood",""
+
+add name "Quillflux",""
+
+add name "Blackwind",""
+
+add name "Aviary Scourge",""
+
+new namegroup "RG_Crossbows_Legendary"
+add name "Doomdraw",""
+
+add name "Blackwind",""
+
+add name "Aviary Scourge",""
+
+add name "Anguish String",""
+
+add name "Eclipse Crow",""
+
+add name "Plaguecaster",""
+
+add name "Carrion Summons",""
+
+new namegroup "RG_Crossbows_Divine"
+add name "Doomdraw",""
+
+add name "Chelub's Creed",""
+
+add name "Tombal's Promised End",""
+
+add name "Anguish String",""
+
+add name "Eclipse Crow",""
+
+add name "Plaguecaster",""
+
+add name "Carrion Summons",""
+
+new namegroup "RG_Shields_Epic_AMER"
+add name "The Barricade",""
+
+add name "Aegis",""
+
+add name "Honour Guard",""
+
+add name "Divine Protector",""
+
+add name "Guardian Angel",""
+
+add name "Seven's Saviour",""
+
+add name "Hedgehog",""
+
+add name "Razorback",""
+
+add name "The Ban",""
+
+add name "Bladeturn",""
+
+add name "The Gate",""
+
+add name "Stormhold",""
+
+add name "Sternwatch",""
+
+add name "Emperor's Watch",""
+
+add name "Besieged Valor",""
+
+new namegroup "RG_Shields_Rare_AMER"
+add name "Lionkeeper",""
+
+add name "Heroic Buffer",""
+
+add name "The Wall",""
+
+add name "Siege Breaker",""
+
+add name "Bastion",""
+
+add name "The Fortress",""
+
+add name "Overlord",""
+
+add name "Carapace",""
+
+add name "The Barrier",""
+
+add name "The Ban",""
+
+add name "Bladeturn",""
+
+add name "The Gate",""
+
+add name "Stormhold",""
+
+add name "Sternwatch",""
+
+new namegroup "RG_Shields_Legendary"
+add name "Seventh Sun Mirror",""
+
+add name "Exultant Portcullis",""
+
+add name "Void Inoculated Aegis",""
+
+add name "White Firmament Ward",""
+
+add name "Entropic Barrier",""
+
+add name "Emperor's Watch",""
+
+add name "Besieged Valor",""
+
+new namegroup "RG_Shields_Divine"
+add name "Bressau's Rampart",""
+
+add name "Exultant Portcullis",""
+
+add name "Void Inoculated Aegis",""
+
+add name "White Firmament Ward",""
+
+add name "Entropic Barrier",""
+
+add name "Gregor's Evolution",""
+
+new namegroup "RG_Wands_1H_Rare_AMER"
+add name "Nightbane",""
+
+add name "Grand Scepter",""
+
+add name "Obliterator",""
+
+add name "War Cane",""
+
+add name "The Dag",""
+
+add name "Blackfinger",""
+
+add name "The Wyre",""
+
+add name "Woe Tine",""
+
+add name "The Pest",""
+
+add name "The Doctor",""
+
+add name "The Conjuror",""
+
+add name "Seastar",""
+
+add name "Wastrel",""
+
+add name "Gull's Snipe",""
+
+new namegroup "RG_Wands_1H_Epic_AMER"
+add name "Ashwood Branch",""
+
+add name "Death's Last Stand",""
+
+add name "Roundwind",""
+
+add name "Bearwindle",""
+
+add name "Spinewinder",""
+
+add name "Kiss of Death",""
+
+add name "The Pest",""
+
+add name "The Doctor",""
+
+add name "The Conjuror",""
+
+add name "Seastar",""
+
+add name "Wastrel",""
+
+add name "Gull's Snipe",""
+
+add name "Welkinfluke",""
+
+add name "The Elemental Clash",""
+
+new namegroup "RG_Wands_1H_Legendary"
+add name "Mindflay",""
+
+add name "Soulfocus",""
+
+add name "Hatespindle",""
+
+add name "Ghostbone Key",""
+
+add name "Siren's Expanse",""
+
+add name "Dire Proboscis",""
+
+add name "Welkinfluke",""
+
+add name "The Elemental Clash",""
+
+new namegroup "RG_Wands_1H_Divine"
+add name "Mindflay",""
+
+add name "Soulfocus",""
+
+add name "Hatespindle",""
+
+add name "Ghostbone Key",""
+
+add name "Siren's Expanse",""
+
+add name "Dire Proboscis",""
+
+add name "Prospero's Enigma",""
+
+add name "Oorn's Endless Night",""
+
+new namegroup "RG_Spears_2H_Rare_AMER"
+add name "Impaler",""
+
+add name "Skewer",""
+
+add name "Spike",""
+
+add name "Crippler",""
+
+add name "Deathspike",""
+
+add name "Killfinger",""
+
+add name "Darmian's Prong",""
+
+add name "Tallneedle",""
+
+add name "Shadowhook",""
+
+add name "Grimgaff",""
+
+add name "Furypike",""
+
+add name "Stakescion",""
+
+new namegroup "RG_Spears_2H_Epic_AMER"
+add name "Piercer",""
+
+add name "Guardian's Polearm",""
+
+add name "Lucian's Needle",""
+
+add name "Ear-piercer",""
+
+add name "Fear-piercer",""
+
+add name "Tallneedle",""
+
+add name "Shadowhook",""
+
+add name "Grimgaff",""
+
+add name "Furypike",""
+
+add name "Stakescion",""
+
+add name "The Pinion",""
+
+add name "Bloodspike",""
+
+new namegroup "RG_Spears_2H_Legendary"
+add name "Cryptic Lance",""
+
+add name "Coffinseal",""
+
+add name "Shadowsurge",""
+
+add name "Diamond Invader",""
+
+add name "Heartglutton",""
+
+add name "The Pinion",""
+
+add name "Bloodspike",""
+
+new namegroup "RG_Spears_2H_Divine"
+add name "Cryptic Lance",""
+
+add name "Coffinseal",""
+
+add name "Shadowsurge",""
+
+add name "Diamond Invader",""
+
+add name "Heartglutton",""
+
+add name "Aeonscourge",""
+
+add name "Hadron's Banisher",""
+
+new namegroup "RG_Staves_2H_Rare_AMER"
+add name "Compelling Rod",""
+
+add name "Grand Staff",""
+
+add name "War Staff",""
+
+add name "Shadow Whisperer",""
+
+add name "Conqueror",""
+
+add name "Voice of Dread",""
+
+add name "Destiny of Souls",""
+
+add name "Spirewinder",""
+
+add name "Spiritbane",""
+
+add name "Nightsire",""
+
+add name "North Star Rule",""
+
+add name "Fatescale",""
+
+new namegroup "RG_Staves_2H_Epic_AMER"
+add name "Dragonsoul",""
+
+add name "Dagon's Oath",""
+
+add name "Doomgaze",""
+
+add name "Starstruck",""
+
+add name "Plenitude",""
+
+add name "Dark Rainbow",""
+
+add name "Spirewinder",""
+
+add name "Spiritbane",""
+
+add name "Nightsire",""
+
+add name "North Star Rule",""
+
+add name "Fatescale",""
+
+add name "Magistrate's Admonition",""
+
+add name "Limpid Rift",""
+
+new namegroup "RG_Staves_2H_Legendary"
+add name "Spire of Exultation",""
+
+add name "Empyrean Pinnacle",""
+
+add name "Ghosthelix",""
+
+add name "Atlantean Ire",""
+
+add name "Elder Heart",""
+
+add name "Magistrate's Admonition",""
+
+add name "Limpid Rift",""
+
+new namegroup "RG_Staves_2H_Divine"
+add name "Spire of Exultation",""
+
+add name "Empyrean Pinnacle",""
+
+add name "Ghosthelix",""
+
+add name "Atlantean Ire",""
+
+add name "Elder Heart",""
+
+add name "Hadron's Banisher",""
+
+add name "Bloodbond Oscillator",""
+
+new namegroup "RG_Maces_2H_Rare_AMER"
+add name "Breaker",""
+
+add name "Splintermaul",""
+
+add name "Faceshatter",""
+
+add name "Pulverizer",""
+
+add name "The Brute",""
+
+add name "Foehammer",""
+
+add name "Stoneoak",""
+
+add name "Spirebender",""
+
+add name "Brigand Kneebreaker",""
+
+add name "The Rail Driver",""
+
+add name "Pacifist's Doom",""
+
+add name "The Rib Cracker",""
+
+new namegroup "RG_Maces_2H_Epic_AMER"
+add name "Brineweight Anchor",""
+
+add name "New Dawn",""
+
+add name "Scarab Splitter",""
+
+add name "Stoneoak",""
+
+add name "Spirebender",""
+
+add name "Brigand Kneebreaker",""
+
+add name "The Rail Driver",""
+
+add name "Pacifist's Doom",""
+
+add name "The Rib Cracker",""
+
+add name "Atlas Crusher",""
+
+add name "Landslide",""
+
+new namegroup "RG_Maces_2H_Legendary"
+add name "Dwarfsun",""
+
+add name "Soulcrusher",""
+
+add name "The Leveler",""
+
+add name "The Avalanche",""
+
+add name "Heart Collapser",""
+
+add name "Oceancarver",""
+
+add name "Atlas Crusher",""
+
+add name "Landslide",""
+
+new namegroup "RG_Maces_2H_Divine"
+add name "Dwarfsun",""
+
+add name "Soulcrusher",""
+
+add name "The Leveler",""
+
+add name "The Avalanche",""
+
+add name "Heart Collapser",""
+
+add name "Oceancarver",""
+
+add name "Gog's Ascendancy",""
+
+add name "Lamech's Millstone",""
+
+new namegroup "RG_Maces_1H_Rare_AMER"
+add name "Smasher",""
+
+add name "Malicecrush",""
+
+add name "Basher",""
+
+add name "Crownbruiser",""
+
+add name "Spinecracker",""
+
+add name "Bonecrusher",""
+
+add name "Fellhammer",""
+
+add name "Hatecudgel",""
+
+add name "Brigand Toesmasher",""
+
+add name "Splinterer",""
+
+add name "Beater",""
+
+add name "Fangblunter",""
+
+add name "Stonecrash",""
+
+new namegroup "RG_Maces_1H_Epic_AMER"
+add name "The Weight of Empire",""
+
+add name "Skullcrusher",""
+
+add name "Goldfist",""
+
+add name "Avenger",""
+
+add name "Brigand Toesmasher",""
+
+add name "Splinterer",""
+
+add name "Beater",""
+
+add name "Fanglunter",""
+
+add name "Stonecrash",""
+
+add name "Bloodstar",""
+
+add name "Sorrowslag",""
+
+new namegroup "RG_Maces_1H_Legendary"
+add name "Coldredeemer",""
+
+add name "Gravity Well",""
+
+add name "Skullcaver",""
+
+add name "The Crimson Autocrat",""
+
+add name "Ichorfist",""
+
+add name "Bloodstar",""
+
+add name "Sorrowslag",""
+
+new namegroup "RG_Maces_1H_Divine"
+add name "Coldredeemer",""
+
+add name "Gravity Well",""
+
+add name "Skullcaver",""
+
+add name "The Crimson Autocrat",""
+
+add name "Ichorfist",""
+
+add name "Lorn's Castigation",""
+
+add name "Nadir's Condemnation",""
+
+new namegroup "RG_Daggers_Rare_AMER"
+add name "Pixie Pick",""
+
+add name "Stinger",""
+
+add name "Razor",""
+
+add name "Carver",""
+
+add name "Nosecutter",""
+
+add name "Longshank",""
+
+add name "Fiddlers' Shiv",""
+
+add name "Silent Violence",""
+
+add name "Sharp Retort",""
+
+add name "Bayknot",""
+
+add name "Throatseeker",""
+
+add name "Tendon Cutter",""
+
+add name "The Flea",""
+
+add name "Hornetfury",""
+
+add name "Cleverpoint",""
+
+add name "Hero's End",""
+
+new namegroup "RG_Daggers_Epic_AMER"
+add name "Ripper",""
+
+add name "Fang",""
+
+add name "Dissector",""
+
+add name "Saboteur",""
+
+add name "Snakebite",""
+
+add name "Viper",""
+
+add name "Courtesan's Secret",""
+
+add name "Gutwrencher",""
+
+add name "Throatseeker",""
+
+add name "Tendon Cutter",""
+
+add name "The Flea",""
+
+add name "Hornetfury",""
+
+add name "Cleverpoint",""
+
+add name "Hero's End",""
+
+add name "Ashbite",""
+
+add name "The Quieter",""
+
+new namegroup "RG_Daggers_Legendary"
+add name "The Flenser",""
+
+add name "The Agonist",""
+
+add name "The Smiler",""
+
+add name "Soul Extractor",""
+
+add name "Milleniumplague",""
+
+add name "Marrowdrinker",""
+
+add name "Ashbite",""
+
+add name "The Quieter",""
+
+new namegroup "RG_Daggers_Divine"
+add name "The Flenser",""
+
+add name "The Agonist",""
+
+add name "The Smiler",""
+
+add name "Soul Extractor",""
+
+add name "Milleniumplague",""
+
+add name "Marrowdrinker",""
+
+add name "Centriol's Weaver",""
+
+add name "Iothric's Exorcism",""
+
+new namegroup "RG_LightHelmet_Rare_AMER"
+add name "Fine Coif",""
+
+add name "The Guardian Coif",""
+
+add name "Lookout Helmet",""
+
+add name "Patrolman's Helmet",""
+
+add name "Scout's Cap",""
+
+add name "Silent Watcher",""
+
+add name "Arming Cap",""
+
+add name "Observant Hood",""
+
+add name "Sentry's Helmet",""
+
+add name "Tanner's Calling",""
+
+add name "Cunning Helm",""
+
+add name "Greedskull",""
+
+add name "Darksight",""
+
+add name "Bramblebrow",""
+
+new namegroup "RG_LightHelmet_Epic_AMER"
+add name "Fate Beacon",""
+
+add name "Vigilance",""
+
+add name "Sentinel",""
+
+add name "Sinister Watch",""
+
+add name "Hawk's Eye",""
+
+add name "Eagle Eye",""
+
+add name "Leatherhead",""
+
+add name "Tanner's Calling",""
+
+add name "Cunning Helm",""
+
+add name "Greedskull",""
+
+add name "Darksight",""
+
+add name "Bramblebrow",""
+
+add name "Briermouth Hood",""
+
+new namegroup "RG_LightHelmet_Legendary"
+add name "Casque of Screams",""
+
+add name "Helm of a Thousand Voices",""
+
+add name "Wraithgaze",""
+
+add name "Corona of the Pirate King",""
+
+add name "Fletcher's Resplendence",""
+
+add name "Briermouth Hood",""
+
+new namegroup "RG_LightHelmet_Divine"
+add name "Casque of Screams",""
+
+add name "Helm of a Thousand Voices",""
+
+add name "Wraithgaze",""
+
+add name "Corona of the Pirate King",""
+
+add name "Fletcher's Resplendence",""
+
+add name "Firmian's Desperate Stratagem",""
+
+new namegroup "RG_LightGloves_Rare_AMER"
+add name "Duelist's Fists",""
+
+add name "Fistclench",""
+
+add name "Backhand Vambrace",""
+
+add name "Fencer's Gloves",""
+
+add name "Wrathclutch",""
+
+add name "Stranglegaunt",""
+
+add name "Bladeknuckle",""
+
+add name "Throat Crushers",""
+
+add name "Ghoulpalm",""
+
+add name "Carrionbandit",""
+
+add name "Outlaw Fist",""
+
+new namegroup "RG_LightGloves_Epic_AMER"
+add name "Torchlight Grips",""
+
+add name "Vice Grip",""
+
+add name "Backhand Vambrace",""
+
+add name "Wrathclutch",""
+
+add name "Grappling Gloves",""
+
+add name "Duelist's Fists",""
+
+add name "Wondrous Wraps",""
+
+add name "Bladeknuckle",""
+
+add name "Throat Crushers",""
+
+add name "Ghoulpalm",""
+
+add name "Carrionbandit",""
+
+add name "Outlaw Fist",""
+
+add name "Thronweave Guards",""
+
+new namegroup "RG_LightGloves_Legendary"
+add name "Grasp of the Struggler",""
+
+add name "Hangman's Grapple",""
+
+add name "The Marauder's Hubris",""
+
+add name "Breathstealer",""
+
+add name "Corsair's Will",""
+
+add name "Thronweave Guards",""
+
+new namegroup "RG_LightGloves_Divine"
+add name "Grasp of the Struggler",""
+
+add name "Hangman's Grapple",""
+
+add name "The Marauder's Hubris",""
+
+add name "Breathstealer",""
+
+add name "Corsair's Will",""
+
+add name "Gaspar's Ambition",""
+
+new namegroup "RG_LightArmour_Rare_AMER"
+add name "Light Brigandine",""
+
+add name "Light Metal Armour",""
+add namecool "Magical Metal Armour",""
+
+add name "Hauberk",""
+add namecool "Magical Hauberk",""
+
+add name "Sturdy Coat",""
+
+add name "Fine Jacket",""
+
+add name "Splendid Tunic",""
+
+add name "Exquisite Vest",""
+
+add name "Ward's Armour",""
+
+add name "Salvation Armour",""
+
+add name "Protective Armour",""
+
+add name "Trussock",""
+
+add name "Leatherback",""
+
+add name "Duskstalker",""
+
+add name "Snare Weaver's Tunic",""
+
+add name "Goldenhide",""
+
+add name "Enduring Wrap",""
+
+add name "Arrowthatch",""
+
+new namegroup "RG_LightArmour_Epic_AMER"
+add name "Deft Defense",""
+
+add name "Cover of the Guardian",""
+
+add name "Sublime Skin",""
+
+add name "Vest of Wonder",""
+
+add name "Gods Sent Armour",""
+
+add name "Solace",""
+
+add name "Calming Cover",""
+
+add name "Soothing Skins",""
+
+add name "The Adventurer's Boon",""
+
+add name "Duskstalker",""
+
+add name "Snare Weaver's Tunic",""
+
+add name "Goldenhide",""
+
+add name "Enduring Wrap",""
+
+add name "Arrowthatch",""
+
+add name "Soulskin",""
+
+new namegroup "RG_LightArmour_Legendary"
+add name "The Tanner's Opus",""
+
+add name "Mantle of Teeth",""
+
+add name "Steelweave Jack",""
+
+add name "Penumbra Coat",""
+
+add name "Primal Redoubt",""
+
+add name "Soulskin",""
+
+new namegroup "RG_LightArmour_Divine"
+add name "The Tanner's Opus",""
+
+add name "Mantle of Teeth",""
+
+add name "Steelweave Jack",""
+
+add name "Penumbra Coat",""
+
+add name "Primal Redoubt",""
+
+add name "Bron's Diamond Husk",""
+
+new namegroup "RG_LightPants_Rare_AMER"
+add name "Fey Leggings",""
+
+add name "Windrun",""
+
+add name "Courtier's Trousers",""
+
+add name "Deerslay Breeches",""
+
+add name "Farlight Chausses",""
+
+add name "Squire's Pants",""
+
+add name "Fiendshank Trousers",""
+
+add name "Swamp Waders",""
+
+add name "Muckplodders",""
+
+add name "Woodwalkers",""
+
+add name "Harrer Breeches",""
+
+add name "Longshanks",""
+
+new namegroup "RG_LightPants_Epic_AMER"
+add name "Breeches of Benevolence",""
+
+add name "Chausses of Clemency",""
+
+add name "Chausses of Mercy",""
+
+add name "Leggings of Lenience",""
+
+add name "Pants of Amnesty",""
+
+add name "Faulds of Empathy",""
+
+add name "Leathers of Beneficence",""
+
+add name "Wrappings of Amity",""
+
+add name "Cords of Benediction",""
+
+add name "Fiendshank Trousers",""
+
+add name "Swamp Waders",""
+
+add name "Muckplodders",""
+
+add name "Woodwalkers",""
+
+add name "Harrer Breeches",""
+
+add name "Longshanks",""
+
+add name "Larcenous Pantaloons",""
+
+new namegroup "RG_LightPants_Legendary"
+add name "Pantherprowl",""
+
+add name "Captain's Resolute Stride",""
+
+add name "Diamond Leg",""
+
+add name "Danse Macabre",""
+
+add name "Silentblade Leggings",""
+
+add name "Larcenous Pantaloons",""
+
+new namegroup "RG_LightPants_Divine"
+add name "Pantherprowl",""
+
+add name "Captain's Resolute Stride",""
+
+add name "Diamond Leg",""
+
+add name "Danse Macabre",""
+
+add name "Silentblade Leggings",""
+
+add name "Imran's Infinite Pursuit",""
+
+new namegroup "RG_LightBoots_Rare_AMER"
+add name "Sniper's Stance",""
+
+add name "Boots of Pursuit",""
+
+add name "Poacher's Tread",""
+
+add name "Birdstalkers ",""
+
+add name "Ranger's Boots",""
+
+add name "Houndmaster's Step",""
+
+add name "Cute Boots",""
+
+add name "Shadowkick",""
+
+add name "Bloodtoe",""
+
+add name "The Slinker",""
+
+add name "Direspur",""
+
+new namegroup "RG_LightBoots_Epic_AMER"
+add name "Phantomfoot",""
+
+add name "Tombseeker",""
+
+add name "Bloodhunter",""
+
+add name "Moor Prowlers",""
+
+add name "Tempest Roamers",""
+
+add name "Grim Rovers",""
+
+add name "Cruel Liberators",""
+
+add name "Doomcreep",""
+
+add name "Cute Boots",""
+
+add name "Shadowkick",""
+
+add name "Bloodtoe",""
+
+add name "The Slinker",""
+
+add name "Direspur",""
+
+add name "Ten Thousand League Trek",""
+
+new namegroup "RG_LightBoots_Legendary"
+add name "Soulprocession",""
+
+add name "Unseelie Step",""
+
+add name "Mercurial Sprint",""
+
+add name "Deathshead Dash",""
+
+add name "Falconrace",""
+
+add name "Ten Thousand League Trek",""
+
+new namegroup "RG_LightBoots_Divine"
+add name "Soulprocession",""
+
+add name "Unseelie Step",""
+
+add name "Mercurial Sprint",""
+
+add name "Deathshead Dash",""
+
+add name "Falconrace",""
+
+add name "Caliban's Progress",""
+
+new namegroup "RG_HeavyHelmet_Rare_AMER"
+add name "Warhelm",""
+
+add name "Helm of Protection",""
+
+add name "Red Knight's Helmet",""
+
+add name "Champion's Laurels",""
+
+add name "Ghoulcrown",""
+
+add name "Warrior's Peak",""
+
+add name "Ignoble Casque",""
+
+add name "Helm of Battle",""
+
+add name "Kettlehelm",""
+
+add name "Graniteskull",""
+
+add name "Leadscalp",""
+
+add name "Mountain Eye",""
+
+add name "Cruelbrow",""
+
+add name "Slaughter Crest",""
+
+new namegroup "RG_HeavyHelmet_Epic_AMER"
+add name "The Baron",""
+
+add name "Imperator",""
+
+add name "Face of Battle",""
+
+add name "Iron Dog",""
+
+add name "Korper",""
+
+add name "Rafnar",""
+
+add name "Shelter",""
+
+add name "Sanctuary",""
+
+add name "Knight's Spire",""
+
+add name "Rook",""
+
+add name "Graniteskull",""
+
+add name "Leadscalp",""
+
+add name "Mountain Eye",""
+
+add name "Cruelbrow",""
+
+add name "Slaughter Crest",""
+
+add name "Gutwrench Grin",""
+
+new namegroup "RG_HeavyHelmet_Legendary"
+add name "Coif of Troubled Destinies",""
+
+add name "The Butcher's Foreboding",""
+
+add name "The Iron Curtain",""
+
+add name "Visage of the Vampire Knight",""
+
+add name "Helm of Decimation",""
+
+add name "Gutwrench Grin",""
+
+new namegroup "RG_HeavyHelmet_Divine"
+add name "Coif of Troubled Destinies",""
+
+add name "The Butcher's Foreboding",""
+
+add name "The Iron Curtain",""
+
+add name "Visage of the Vampire Knight",""
+
+add name "Helm of Decimation",""
+
+add name "Ameranth's Iron Countenance",""
+
+add name "Veil of the Skull Knight",""
+
+new namegroup "RG_HeavyGloves_Rare_AMER"
+add name "Demonfinger Vambrace",""
+
+add name "Bonerivet Gauntlets",""
+
+add name "Hand of War",""
+
+add name "Gauntlets of Marvel",""
+
+add name "Miraclegrasp",""
+
+add name "Curious Gauntlets",""
+
+add name "Iron Fists",""
+
+add name "Throttlers",""
+
+add name "Rock Throwers",""
+
+add name "Loathsow",""
+
+add name "Rancorgrip",""
+
+add name "Bone Grinders",""
+
+new namegroup "RG_HeavyGloves_Epic_AMER"
+add name "Battlebound Gauntlets",""
+
+add name "Ravagers",""
+
+add name "Demolishers",""
+
+add name "Liverburst Mits",""
+
+add name "Headstrikers",""
+
+add name "Thundering Blows",""
+
+add name "Throttlers",""
+
+add name "Rock Throwers",""
+
+add name "Loathsow",""
+
+add name "Rancorgrip",""
+
+add name "Bone Grinders",""
+
+add name "Wrathlaw",""
+
+new namegroup "RG_HeavyGloves_Legendary"
+add name "Griefhold",""
+
+add name "Ironhand Keepers",""
+
+add name "Jawrip Vambraces",""
+
+add name "Five Cudgel Clasp",""
+
+add name "Templar's Radiant Vice",""
+
+add name "Wrathlaw",""
+
+new namegroup "RG_HeavyGloves_Divine"
+add name "Griefhold",""
+
+add name "Ironhand Keepers",""
+
+add name "Jawrip Vambraces",""
+
+add name "Five Cudgel Clasp",""
+
+add name "Templar's Radiant Vice",""
+
+add name "Alaric's Subjugating Command",""
+
+new namegroup "RG_HeavyArmour_Rare_AMER"
+add name "Gladiator's Solace",""
+
+add name "Breastplate of the Doomed Legion",""
+
+add name "Duskiron Cuirass",""
+
+add name "Fiend Harness",""
+
+add name "Bone Cuirass",""
+
+add name "Soldier's Reward",""
+
+add name "Greatwolf",""
+
+add name "Ironpelt",""
+
+add name "Steelcoat",""
+
+add name "Fiendstay",""
+
+add name "Clawcracker",""
+
+add name "The Iron Lung",""
+
+new namegroup "RG_HeavyArmour_Epic_AMER"
+add name "Carapace",""
+
+add name "Adamas",""
+
+add name "Storm",""
+
+add name "Gladiator's Solace",""
+
+add name "Safe Haven",""
+
+add name "Sanctum",""
+
+add name "The Temple",""
+
+add name "Warden",""
+
+add name "Doomed Breastplate of the Legion",""
+
+add name "Greatwolf",""
+
+add name "Ironpelt",""
+
+add name "Steelcoat",""
+
+add name "Fiendstay",""
+
+add name "Clawcracker",""
+
+add name "The Iron Lung",""
+
+add name "Skullfleece",""
+
+add name "Terrormail",""
+
+new namegroup "RG_HeavyArmour_Legendary"
+add name "Shaftstop",""
+
+add name "Doomheart",""
+
+add name "Transonic Fortress",""
+
+add name "Chains of Totemic Fury",""
+
+add name "Kraken Shell",""
+
+add name "Steelharvest Hauberk",""
+
+add name "Skullfleece",""
+
+add name "Terrormail",""
+
+new namegroup "RG_HeavyArmour_Divine"
+add name "Shaftstop",""
+
+add name "Doomheart",""
+
+add name "Transonic Fortress",""
+
+add name "Chains of Totemic Fury",""
+
+add name "Kraken Shell",""
+
+add name "Steelharvest Hauberk",""
+
+add name "Oblivionknight",""
+
+add name "Elric's Absolute",""
+
+new namegroup "RG_HeavyPants_Rare_AMER"
+add name "Bronzebane Cuisses",""
+
+add name "Greaves of Iron Will",""
+
+add name "Duskiron Greaves",""
+
+add name "Coldsteel Cuisses",""
+
+add name "Slayer Harness",""
+
+add name "Battlegird",""
+
+add name "Beastwander",""
+
+add name "Havocsprawl",""
+
+add name "Boulder Rush",""
+
+add name "Stonehaunch",""
+
+new namegroup "RG_HeavyPants_Epic_AMER"
+add name "The Disciple's Leg Armour",""
+
+add name "Leg Harness of the Mentor",""
+
+add name "Defender's Greaves",""
+
+add name "Partisan's Cuisses",""
+
+add name "Blessed Pilgrim's Tread",""
+
+add name "Battlegird",""
+
+add name "Beastwander",""
+
+add name "Havocsprawl",""
+
+add name "Boulder Rush",""
+
+add name "Stonehaunch",""
+
+add name "Demonbone Passage",""
+
+new namegroup "RG_HeavyPants_Legendary"
+add name "Realmstraddler Chausses",""
+
+add name "Bonesmith Apron",""
+
+add name "Hibernal Stance",""
+
+add name "Path of Illustrious Carnage",""
+
+add name "Bearing of the Bullsunderer",""
+
+add name "Demonbone Passage",""
+
+new namegroup "RG_HeavyPants_Divine"
+add name "Realmstraddler Chausses",""
+
+add name "Bonesmith Apron",""
+
+add name "Hibernal Stance",""
+
+add name "Path of Illustrious Carnage",""
+
+add name "Bearing of the Bullsunderer",""
+
+add name "The Black Emperor's Pilgrimage",""
+
+new namegroup "RG_HeavyShoes_Rare_AMER"
+add name "Sabatons of Vigor",""
+
+add name "Coldforged Sabatons",""
+
+add name "Desperate Charge",""
+
+add name "Bloodpact Sabatons",""
+
+add name "Imperial Marchers",""
+
+add name "Lion's Stride",""
+
+add name "Sellsword March",""
+
+add name "Legion's Advance",""
+
+add name "Warmongers",""
+
+add name "Dourtravel",""
+
+new namegroup "RG_HeavyShoes_Epic_AMER"
+add name "Rancor Rout",""
+
+add name "Tramplers",""
+
+add name "Tremor",""
+
+add name "Sellicha's Boots",""
+
+add name "Stoneheel",""
+
+add name "Lion's Stride",""
+
+add name "Sellsword March",""
+
+add name "Legion's Advance",""
+
+add name "Warmongers",""
+
+add name "Dourtravel",""
+
+add name "Endless Trek",""
+
+new namegroup "RG_HeavyShoes_Legendary"
+add name "Entrailburst Kick",""
+
+add name "Inexorable Tread",""
+
+add name "Broodcrushers",""
+
+add name "Gorebridge Walk",""
+
+add name "Hammerfoot Oppressor",""
+
+add name "Endless Trek",""
+
+new namegroup "RG_HeavyShoes_Divine"
+add name "Entrailburst Kick",""
+
+add name "Inexorable Tread",""
+
+add name "Broodcrushers",""
+
+add name "Gorebridge Walk",""
+
+add name "Hammerfoot Oppressor",""
+
+add name "Thurn's Tyrannical Step",""
+
+new namegroup "RG_MageHood_Rare_AMER"
+add name "Wizard's Mask",""
+
+add name "Mask of the Magus",""
+
+add name "Mahiole",""
+
+add name "Bewitched Hood",""
+
+add name "Runescalp",""
+
+add name "Diabolist's Skullcap",""
+
+add name "Crest of Spellcasting",""
+
+add name "Helm of Divination",""
+
+add name "Bonnet of Incantations",""
+
+add name "Shining Brow",""
+
+add name "Cindercap",""
+
+add name "Gloomfortune",""
+
+add name "Chapeau of Legerdemain",""
+
+add name "Esoteric Skullcap",""
+
+new namegroup "RG_MageHood_Epic_AMER"
+add name "Glare",""
+
+add name "Skald",""
+
+add name "Focus",""
+
+add name "Prodigy",""
+
+add name "Crown of the Sage",""
+
+add name "Hjerna",""
+
+add name "Shining Brow",""
+
+add name "Cindercap",""
+
+add name "Gloomfortune",""
+
+add name "Chapeau of Legerdemain",""
+
+add name "Esoteric Skullcap",""
+
+add name "Cowl of Tendrils",""
+
+new namegroup "RG_MageHood_Legendary"
+add name "Nest of Mordant Thoughts",""
+
+add name "Laurels of the Immaculate",""
+
+add name "Lightaugur",""
+
+add name "Vortex of Ephemera",""
+
+add name "Nameless Incantation",""
+
+add name "Cowl of Tendrils",""
+
+new namegroup "RG_MageHood_Divine"
+add name "Nest of Mordant Thoughts",""
+
+add name "Laurels of the Immaculate",""
+
+add name "Lightaugur",""
+
+add name "Vortex of Ephemera",""
+
+add name "Nameless Incantation",""
+
+add name "Barquiel's Oculus",""
+
+new namegroup "RG_MageGloves_Rare_AMER"
+add name "Mage's Touch",""
+
+add name "Gloves of the Black Arts",""
+
+add name "Hands of Prophecy",""
+
+add name "Sibyl's Gloves",""
+
+add name "Wizard Grasp",""
+
+add name "Oracle Palms",""
+
+add name "Mystical Gloves",""
+
+add name "Quillhold",""
+
+add name "Runehand",""
+
+add name "Cantor's Gesture",""
+
+add name "Shadesign",""
+
+add name "Glyph Signal",""
+
+new namegroup "RG_MageGloves_Epic_AMER"
+add name "Sibyl's Gloves",""
+
+add name "Fiendbroil",""
+
+add name "Glyphspun Wraps",""
+
+add name "Gloves of the Black Arts",""
+
+add name "Quiescent Pair",""
+
+add name "Quillhold",""
+
+add name "Runehand",""
+
+add name "Cantor's Gesture",""
+
+add name "Shadesign",""
+
+add name "Glyph Signal",""
+
+add name "Glyph Sower",""
+
+new namegroup "RG_MageGloves_Legendary"
+add name "Hand of Prophecy",""
+
+add name "Hierearch's Benediction",""
+
+add name "Worldshaping Talons",""
+
+add name "Fateforge Claw",""
+
+add name "Veilrender's Grasp",""
+
+add name "Glyph Sower",""
+
+new namegroup "RG_MageGloves_Divine"
+add name "Hand of Prophecy",""
+
+add name "Hierearch's Benediction",""
+
+add name "Worldshaping Talons",""
+
+add name "Fateforge Claw",""
+
+add name "Veilrender's Grasp",""
+
+add name "Chemosh's Forbidden Art",""
+
+new namegroup "RG_MageRobe_Rare_AMER"
+add name "Mantle of Magic",""
+
+add name "Sorcerer's Shell",""
+
+add name "Robe of Power",""
+
+add name "Wizard Mantle",""
+
+add name "Casper's Casting Coat",""
+
+add name "Sacrificial Mantle",""
+
+add name "Robe of Knowledge",""
+
+add name "Coat of Talent",""
+
+add name "Druid's Robe",""
+
+add name "Spellthreads",""
+
+add name "Manaweft",""
+
+add name "Crystalcore",""
+
+add name "Spiritmesh",""
+
+add name "Diabolist's Throe",""
+
+new namegroup "RG_MageRobe_Epic_AMER"
+add name "Moonlight",""
+
+add name "Equilibrium",""
+
+add name "Mercury",""
+
+add name "Umbra",""
+
+add name "The Fourth Moon",""
+
+add name "Hellsworn",""
+
+add name "Ad'Koshl",""
+
+add name "Cosmic Coat",""
+
+add name "Robe of Mystery",""
+
+add name "Robe of Rituals",""
+
+add name "Spellthreads",""
+
+add name "Manaweft",""
+
+add name "Crystalcore",""
+
+add name "Spiritmesh",""
+
+add name "Diabolist's Throe",""
+
+add name "Coffinpurge Bindings",""
+
+new namegroup "RG_MageRobe_Legendary"
+add name "The Anointed",""
+
+add name "The Ascension",""
+
+add name "The Matriarch's Finery",""
+
+add name "Enharmonic Radiance",""
+
+add name "Fiendmagus Mantle",""
+
+add name "Coffinpurge Bindings",""
+
+new namegroup "RG_MageRobe_Divine"
+add name "The Anointed",""
+
+add name "The Ascension",""
+
+add name "The Matriarch's Finery",""
+
+add name "Enharmonic Radiance",""
+
+add name "Fiendmagus Mantle",""
+
+add name "Vestments of the Pale Bishop",""
+
+new namegroup "RG_MagePants_Rare_AMER"
+add name "Pants of Magical Prowess",""
+
+add name "Trousers of Skill",""
+
+add name "Gifted Leggings",""
+
+add name "Breeches of the Arcane",""
+
+add name "Leggings of Insight",""
+
+add name "Breeches of Wisdom",""
+
+add name "Pagan Pants",""
+
+add name "Magestride",""
+
+add name "Conjuration Faulds",""
+
+add name "Sorcerous Pantaloons",""
+
+add name "Cinderbreeches",""
+
+add name "Ritual Cords",""
+
+new namegroup "RG_MagePants_Epic_AMER"
+add name "Blackbird Leggings",""
+
+add name "Cendrillia's Trousers",""
+
+add name "Pants of Midnight",""
+
+add name "Witching Trousers",""
+
+add name "Warlock's Leggings",""
+
+add name "The Panacea",""
+
+add name "Magestride",""
+
+add name "Conjuration Faulds",""
+
+add name "Sorcerous Pantaloons",""
+
+add name "Cinderbreeches",""
+
+add name "Ritual Cords",""
+
+add name "Magistrate's Journey",""
+
+new namegroup "RG_MagePants_Legendary"
+add name "Starbound Breeches",""
+
+add name "Cords of the Elder Rune",""
+
+add name "Arcane Passage",""
+
+add name "Ethereal Sojourn",""
+
+add name "Mindwalk Pinafore",""
+
+add name "Magistrate's Journey",""
+
+new namegroup "RG_MagePants_Divine"
+add name "Starbound Breeches",""
+
+add name "Cords of the Elder Rune",""
+
+add name "Arcane Passage",""
+
+add name "Ethereal Sojourn",""
+
+add name "Mindwalk Pinafore",""
+
+add name "Hyperborean Wanderers",""
+
+new namegroup "RG_MageBoots_Rare_AMER"
+add name "Black Altar Track",""
+
+add name "Whisper Treads",""
+
+add name "Doomfoot",""
+
+add name "Sandals of the Acolyte",""
+
+add name "Hareskin Boots",""
+
+add name "Initiate's Boots",""
+
+add name "Calmstep",""
+
+add name "Catpaw",""
+
+add name "Rabbit's Swift",""
+
+add name "Spellstride",""
+
+add name "Runewake",""
+
+new namegroup "RG_MageBoots_Epic_AMER"
+add name "Black Altar Track",""
+
+add name "Whisper Treads",""
+
+add name "Boots of the Coven",""
+
+add name "Sandals of the Acolyte",""
+
+add name "Isolda's Sandals",""
+
+add name "Shoes of the Sabbath",""
+
+add name "Solstice Sandals",""
+
+add name "Calmstep",""
+
+add name "Catpaw",""
+
+add name "Rabbit's Swift",""
+
+add name "Spellstride",""
+
+add name "Runewake",""
+
+add name "Voidfurrow",""
+
+new namegroup "RG_MageBoots_Legendary"
+add name "Ghost Odyssey",""
+
+add name "Ether Rift Climbers",""
+
+add name "Astral King's Anchor",""
+
+add name "Esoteric Accelerator",""
+
+add name "Starwalker's Quest",""
+
+add name "Voidfurrow",""
+
+new namegroup "RG_MageBoots_Divine"
+add name "Ghost Odyssey",""
+
+add name "Ether Rift Climbers",""
+
+add name "Astral King's Anchor",""
+
+add name "Esoteric Accelerator",""
+
+add name "Starwalker's Quest",""
+
+add name "Harrach's Boundless Horizon",""
+
+new namegroup "RG_Belts_Rare_AMER"
+add name "Belt of Virtue",""
+
+add name "Belt of Power",""
+
+add name "Nimble Cords",""
+
+add name "Shrewd Belt",""
+
+add name "Clever Belt",""
+
+add name "Snakestail",""
+
+add name "Sorrow Twine",""
+
+add name "Ashen Band",""
+
+add name "Secondspine",""
+
+add name "Wormwind",""
+
+add name "Heart Cord",""
+
+add name "Catgut",""
+
+add name "Coldbuckle",""
+
+add name "Moonstring",""
+
+add name "Dew Wrap",""
+
+add name "Woebind",""
+
+add name "Jawbone Strap",""
+
+new namegroup "RG_Belts_Epic_AMER"
+add name "Belt of Power",""
+
+add name "Goldbind Rope",""
+
+add name "Cord of Caution",""
+
+add name "Truthseer Twine",""
+
+add name "Waisted Wicker",""
+
+add name "Sorrow Twine",""
+
+add name "Ashen Band",""
+
+add name "Secondspine",""
+
+add name "Wormwind",""
+
+add name "Heart Cord",""
+
+add name "Catgut",""
+
+add name "Coldbuckle",""
+
+add name "Moonstring",""
+
+add name "Dew Wrap",""
+
+add name "Woebind",""
+
+add name "Jawbone Strap",""
+
+add name "Forefinger Cinture",""
+
+new namegroup "RG_Belts_Legendary"
+add name "Colossus Coil",""
+
+add name "The Immortal Coil",""
+
+add name "Sash of the Merciless",""
+
+add name "Astral Cord",""
+
+add name "Titanic Wrappings",""
+
+add name "Giant's Surfeit",""
+
+add name "Dying Star Cincture",""
+
+add name "Mammoth Winding",""
+
+add name "Viscerawrap",""
+
+add name "Essence Trap",""
+
+add name "Deathless Core",""
+
+add name "Forefinger Cinture",""
+
+new namegroup "RG_Belts_Divine"
+add name "Colossus Coil",""
+
+add name "The Immortal Coil",""
+
+add name "Sash of the Merciless",""
+
+add name "Astral Cord",""
+
+add name "Titanic Wrappings",""
+
+add name "Giant's Surfeit",""
+
+add name "Dying Star Cincture",""
+
+add name "Mammoth Winding",""
+
+add name "Viscerawrap",""
+
+add name "Essence Trap",""
+
+add name "Deathless Core",""
+
+add name "Blackfathom's Center",""
+
+new namegroup "RG_Rings_Rare_AMER"
+add name "Fiendshine Ring",""
+
+add name "Joyous Ring",""
+
+add name "Glorious Ring",""
+
+add name "Heinous Ring",""
+
+add name "Raucous Ring",""
+
+add name "Bleak Will",""
+
+add name "Blood Polished Ring",""
+
+add name "Bile Burnished Band",""
+
+add name "Ring of Dreams",""
+
+add name "Bloodspill",""
+
+add name "North Star",""
+
+add name "Ring of Fate",""
+
+add name "Ring of Glory",""
+
+add name "Skull Loop",""
+
+add name "Gazetrap",""
+
+add name "Glimmergrief",""
+
+add name "The Imp",""
+
+add name "Indelible Band",""
+
+add name "Obsidian Circuit",""
+
+add name "Ring of Depravity",""
+
+add name "Astrologist's Memento",""
+
+add name "Manacoil",""
+
+add name "Coalcrux",""
+
+add name "Incanter's Rainbow",""
+
+add name "Fever Dream",""
+
+add name "Scintillating Signet",""
+
+new namegroup "RG_Rings_Epic_AMER"
+add name "The Mist Descends",""
+
+add name "Longclaw",""
+
+add name "Sweet Mercy",""
+
+add name "Dragonclaw",""
+
+add name "Harridan's Clasp",""
+
+add name "Bride's Bane",""
+
+add name "Knight's Promise",""
+
+add name "Dragonstwine",""
+
+add name "Forged In Fire",""
+
+add name "The Prophecy",""
+
+add name "Divine Right",""
+
+add name "Skull Loop",""
+
+add name "Gazetrap",""
+
+add name "Glimmergrief",""
+
+add name "The Imp",""
+
+add name "Indelible Band",""
+
+add name "Obsidian Circuit",""
+
+add name "Ring of Depravity",""
+
+add name "Astrologist's Memento",""
+
+add name "Manacoil",""
+
+add name "Coalcrux",""
+
+add name "Incanter's Rainbow",""
+
+add name "Fever Dream",""
+
+add name "Scintillating Signet",""
+
+add name "Tenebrous Seal",""
+
+new namegroup "RG_Rings_Legendary"
+add name "Manticore Eye",""
+
+add name "Impious Seal",""
+
+add name "Ichorbound Signet",""
+
+add name "Sigil of Descecrated Tombs",""
+
+add name "Deathpact Seal",""
+
+add name "Ring of Unrectified Light",""
+
+add name "Circuit of Execration",""
+
+add name "Astral Expanse",""
+
+add name "Seraphic Token",""
+
+add name "Glyph of Buried Angels",""
+
+add name "Devil Enslaving Circuit",""
+
+add name "Curse Eater",""
+
+add name "Ghostbattery",""
+
+add name "Tenebrous Seal",""
+
+new namegroup "RG_Rings_Divine"
+add name "Manticore Eye",""
+
+add name "Impious Seal",""
+
+add name "Ichorbound Signet",""
+
+add name "Sigil of Descecrated Tombs",""
+
+add name "Deathpact Seal",""
+
+add name "Ring of Unrectified Light",""
+
+add name "Circuit of Execration",""
+
+add name "Astral Expanse",""
+
+add name "Seraphic Token",""
+
+add name "Glyph of Buried Angels",""
+
+add name "Devil Enslaving Circuit",""
+
+add name "Curse Eater",""
+
+add name "Ghostbattery",""
+
+add name "Primum Movens",""
+
+new namegroup "RG_Amulets_Rare_AMER"
+add name "Hunter's Talisman",""
+
+add name "Screaming Widow",""
+
+add name "Screaming Pendant",""
+
+add name "Millstone",""
+
+add name "Heartstring",""
+
+add name "Ancient Amulet",""
+
+add name "New-forged Amulet",""
+
+add name "Jeweler's Delight",""
+
+add name "Talisman of Trust",""
+
+add name "Widower's Locket",""
+
+add name "Stone From The Sun",""
+
+add name "The Fierce",""
+
+add name "The Wicked",""
+
+add name "Ghoul Talisman",""
+
+add name "The Bijou",""
+
+add name "Brighthope",""
+
+add name "Serpent Trophy",""
+
+add name "Bleakpearl",""
+
+add name "Forbidden Inquiry",""
+
+add name "Thoughtprism",""
+
+add name "Ether Module",""
+
+add name "Ashfossil",""
+
+add name "Obsidian Choker",""
+
+add name "Fairy Focus",""
+
+add name "Duskflower",""
+
+add name "Maggot Trinket",""
+
+new namegroup "RG_Amulets_Epic_AMER"
+add name "Shadow Of Fear",""
+
+add name "Dark Knowledge",""
+
+add name "Heathen's Curse",""
+
+add name "The Womb",""
+
+add name "King's Heart",""
+
+add name "Locket of the Lake",""
+
+add name "The First Sin",""
+
+add name "Griffin's Egg",""
+
+add name "Falcon's Eye",""
+
+add name "Royal Amulet",""
+
+add name "Majestic Necklace",""
+
+add name "Amulet of Paradise",""
+
+add name "Divine Necklace",""
+
+add name "The Bijou",""
+
+add name "Brighthope",""
+
+add name "Serpent Trophy",""
+
+add name "Bleakpearl",""
+
+add name "Forbidden Inquiry",""
+
+add name "Thoughtprism",""
+
+add name "Ether Module",""
+
+add name "Ashfossil",""
+
+add name "Obsidian Choker",""
+
+add name "Fairy Focus",""
+
+add name "Duskflower",""
+
+add name "Maggot Trinket",""
+
+add name "Sealed Fulminant",""
+
+add name "Alchemist's Incongruity",""
+
+new namegroup "RG_Amulets_Legendary"
+add name "The Sanguine Vow",""
+
+add name "Ganymede",""
+
+add name "Seven-Demon Sundial",""
+
+add name "Celestial Curio",""
+
+add name "Kraken's  Tooth",""
+
+add name "Futurist's Eye",""
+
+add name "Seventh Sun Portal",""
+
+add name "Lightbound Anomaly",""
+
+add name "Well of Lost Years",""
+
+add name "Gravity of the Voiceless",""
+
+add name "Wavering Radiant",""
+
+add name "Processional Oak Bauble",""
+
+add name "Sealed Fulminant",""
+
+add name "Alchemist's Incongruity",""
+
+new namegroup "RG_Amulets_Divine"
+add name "The Sanguine Vow",""
+
+add name "Ganymede",""
+
+add name "Seven-Demon Sundial",""
+
+add name "Celestial Curio",""
+
+add name "Kraken's  Tooth",""
+
+add name "Futurist's Eye",""
+
+add name "Seventh Sun Portal",""
+
+add name "Lightbound Anomaly",""
+
+add name "Well of Lost Years",""
+
+add name "Gravity of the Voiceless",""
+
+add name "Wavering Radiant",""
+
+add name "Processional Oak Bauble",""
+
+add name "Deep-Dweller's Rumination",""
+
+add name "Neera's Query",""
+
+new namegroup "AMER_UNI_Absence"
+add name "Absence",""
+
+new namegroup "AMER_UNI_Abyss"
+add name "Abyss",""
+
+new namegroup "AMER_UNI_Adamant"
+add name "Adamant",""
+
+new namegroup "AMER_UNI_AmaranthineBulwark"
+add name "Amaranthine Bulwark",""
+
+new namegroup "AMER_UNI_AngelsEgg"
+add name "Angel's Egg",""
+
+new namegroup "AMER_UNI_AntediluvianCarapace"
+add name "Antediluvian Carapace",""
+
+new namegroup "AMER_UNI_ApothecarysGuile"
+add name "Apothecary's Guile",""
+
+new namegroup "AMER_UNI_Arcturus"
+add name "Arcturus",""
+
+new namegroup "AMER_UNI_Austerity"
+add name "Austerity",""
+
+new namegroup "AMER_UNI_BlackglassBrand"
+add name "Blackglass Brand",""
+
+new namegroup "AMER_UNI_Bloodforge"
+add name "Bloodforge",""
+
+new namegroup "AMER_UNI_BountyHunter"
+add name "Bounty Hunter",""
+
+new namegroup "AMER_UNI_Carnality"
+add name "Carnality",""
+
+new namegroup "AMER_UNI_Cataclysm"
+add name "Cataclysm",""
+
+new namegroup "AMER_UNI_Charity"
+add name "Charity",""
+
+new namegroup "AMER_UNI_Consecration"
+add name "Consecration",""
+
+new namegroup "AMER_UNI_Convergence"
+add name "Convergence",""
+
+new namegroup "AMER_UNI_CoruscatingSilks"
+add name "Coruscating Silks",""
+
+new namegroup "AMER_UNI_Deck"
+add name "Anomaly",""
+
+new namegroup "AMER_UNI_Desperation"
+add name "Desperation",""
+
+new namegroup "AMER_UNI_Dominion"
+add name "Dominion",""
+
+new namegroup "AMER_UNI_Dread"
+add name "Dread",""
+
+new namegroup "AMER_UNI_DrogsLuck"
+add name "Drog's Luck",""
+
+new namegroup "AMER_UNI_Eclipse"
+add name "Eclipse",""
+
+new namegroup "AMER_UNI_EmpyreanVestments"
+add name "Empyrean Vestments",""
+
+new namegroup "AMER_UNI_EtherTide"
+add name "Ether Tide",""
+
+new namegroup "AMER_UNI_Exaltation"
+add name "Exaltation",""
+
+new namegroup "AMER_UNI_Expedition"
+add name "Expedition",""
+
+new namegroup "AMER_UNI_EyeOfTheStorm"
+add name "Eye of the Storm",""
+
+new namegroup "AMER_UNI_FaceOfTheFallen"
+add name "Face of the Fallen",""
+
+new namegroup "AMER_UNI_Famine"
+add name "Famine",""
+
+new namegroup "AMER_UNI_Fecundity"
+add name "Fecundity",""
+
+new namegroup "AMER_UNI_FistOfDecay"
+add name "Fist of Decay",""
+
+new namegroup "AMER_UNI_Ghostflame"
+add name "Ghostflame",""
+
+new namegroup "AMER_UNI_GiantsSkull"
+add name "Giant's Skull",""
+
+new namegroup "AMER_UNI_Glacier"
+add name "Glacier",""
+
+new namegroup "AMER_UNI_Gluttony"
+add name "Gluttony",""
+
+new namegroup "AMER_UNI_Godspeed"
+add name "Godspeed",""
+
+new namegroup "AMER_UNI_Goldforge"
+add name "Goldforge",""
+
+new namegroup "AMER_UNI_Golem"
+add name "Golem",""
+
+new namegroup "AMER_UNI_GramSwordOfGrief"
+add name "Gram, Sword of Grief",""
+
+new namegroup "AMER_UNI_Hibernaculum"
+add name "Hibernaculum",""
+
+new namegroup "AMER_UNI_Impetus"
+add name "Impetus",""
+
+new namegroup "AMER_UNI_InfernalContract"
+add name "Infernal Contract",""
+
+new namegroup "AMER_UNI_IronMaiden"
+add name "Iron Maiden",""
+
+new namegroup "AMER_UNI_Judgement"
+add name "Judgement",""
+
+new namegroup "AMER_UNI_Kudzu"
+add name "Kudzu",""
+
+new namegroup "AMER_UNI_LambentBlade"
+add name "Lambent Blade",""
+
+new namegroup "AMER_UNI_Leper"
+add name "Leper",""
+
+new namegroup "AMER_UNI_Leviathan"
+add name "Leviathan",""
+
+new namegroup "AMER_UNI_Lightspire"
+add name "Lightspire",""
+
+new namegroup "AMER_UNI_Malice"
+add name "Malice",""
+
+new namegroup "AMER_UNI_MalleusMaleficarum"
+add name "Malleus Maleficarum",""
+
+new namegroup "AMER_UNI_Mirage"
+add name "Mirage",""
+
+new namegroup "AMER_UNI_Misery"
+add name "Misery",""
+
+new namegroup "AMER_UNI_Momentum"
+add name "Momentum",""
+
+new namegroup "AMER_UNI_Mountain"
+add name "Mountain",""
+
+new namegroup "AMER_UNI_NecromancersRaiment"
+add name "Necromancer's Raiment",""
+
+new namegroup "AMER_UNI_Nemesis"
+add name "Nemesis",""
+
+new namegroup "AMER_UNI_Nightmare"
+add name "Nightmare",""
+
+new namegroup "AMER_UNI_Nihility"
+add name "Nihility",""
+
+new namegroup "AMER_UNI_Obelisk"
+add name "Obelisk",""
+
+new namegroup "AMER_UNI_Occam"
+add name "Occam",""
+
+new namegroup "AMER_UNI_Onslaught"
+add name "Onslaught",""
+
+new namegroup "AMER_UNI_Ouroboros"
+add name "Ouroboros",""
+
+new namegroup "AMER_UNI_Pariah"
+add name "Pariah",""
+
+new namegroup "AMER_UNI_Paragon"
+add name "Paragon",""
+
+new namegroup "AMER_UNI_Pestilence"
+add name "Pestilence",""
+
+new namegroup "AMER_UNI_PrismaticBarrier"
+add name "Prismatic Barrier",""
+
+new namegroup "AMER_UNI_Prophecy"
+add name "Prophecy",""
+
+new namegroup "AMER_UNI_Pyre"
+add name "Pyre",""
+
+new namegroup "AMER_UNI_Rapture"
+add name "Rapture",""
+
+new namegroup "AMER_UNI_RedOrison"
+add name "Red Orison",""
+
+new namegroup "AMER_UNI_RodOfAbeyance"
+add name "Rod of Abeyance",""
+
+new namegroup "AMER_UNI_RodOfCommand"
+add name "Rod of Command",""
+
+new namegroup "AMER_UNI_RodOfConviction"
+add name "Rod of Conviction",""
+
+new namegroup "AMER_UNI_Salamander"
+add name "Salamander",""
+
+new namegroup "AMER_UNI_SanguineHarvest"
+add name "Sanguine Harvest",""
+
+new namegroup "AMER_UNI_Seraph"
+add name "Seraph",""
+
+new namegroup "AMER_UNI_Serenity"
+add name "Serenity",""
+
+new namegroup "AMER_UNI_Silkclimb"
+add name "Silkclimb",""
+
+new namegroup "AMER_UNI_Smother"
+add name "Smother",""
+
+new namegroup "AMER_UNI_TheButchersDisciple"
+add name "The Butcher's Disciple",""
+
+new namegroup "AMER_UNI_TheButchersWill"
+add name "The Butcher's Will",""
+
+new namegroup "AMER_UNI_TheCannibal"
+add name "The Cannibal",""
+
+new namegroup "AMER_UNI_TheChthonian"
+add name "The Chthonian",""
+
+new namegroup "AMER_UNI_TheCrucible"
+add name "The Crucible",""
+
+new namegroup "AMER_UNI_TheJaguar"
+add name "The Jaguar",""
+
+new namegroup "AMER_UNI_TheLocustCrown"
+add name "The Locust Crown",""
+
+new namegroup "AMER_UNI_TheSavage"
+add name "The Savage",""
+
+new namegroup "AMER_UNI_TheVault"
+add name "The Vault",""
+
+new namegroup "AMER_UNI_Thirst"
+add name "Thirst",""
+
+new namegroup "AMER_UNI_ThornHalo"
+add name "Thorn Halo",""
+
+new namegroup "AMER_UNI_Trample"
+add name "Trample",""
+
+new namegroup "AMER_UNI_Tundra"
+add name "Tundra",""
+
+new namegroup "AMER_UNI_Urgency"
+add name "Urgency",""
+
+new namegroup "AMER_UNI_Vertigo"
+add name "Vertigo",""
+
+new namegroup "AMER_UNI_Vortex"
+add name "Vortex",""
+
+new namegroup "AMER_UNI_Wendigo"
+add name "Wendigo",""
+
+new namegroup "AMER_UNI_WintersGrasp"
+add name "Winter's Grasp",""
+
+new namegroup "AMER_UNI_Wraith"
+add name "Wraith",""
+
+new namegroup "AMER_UNI_Zeal"
+add name "Zeal",""
+
+new namegroup "AMER_UNI_Zenith"
+add name "Zenith",""
+
+new namegroup "AMER_UNI_Zodiac"
+add name "Zodiac",""
+

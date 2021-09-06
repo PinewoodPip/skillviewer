@@ -1,0 +1,12 @@
+new entry "DEMONIC_BARGAIN"
+type "StatusData"
+data "StatusType" "DEMONIC_BARGAIN"
+data "ForGameMaster" "No"
+data "InitiateCombat" "Yes"
+data "BringIntoCombat" "Yes"
+data "DisplayName" "DEMONIC_BARGAIN_DisplayName"
+data "DisplayNameRef" "Demonic Bargain"
+data "Icon" "Skill_Polymorph_DemonicBargain"
+data "SavingThrow" "PhysicalArmor"
+data "StatsId" "Stats_Demonic_Bargain"
+

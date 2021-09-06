@@ -1,0 +1,16 @@
+requirement "Raistlin",""
+
+requirement "LoneWolf",""
+
+requirement "Demon","FireSpecialist 1"
+
+requirement "IceKing","WaterSpecialist 1"
+
+requirement "AnimalEmpathy",""
+
+requirement "ExtraStatPoints","Level 5"
+
+requirement "ExtraSkillPoints","Level 5"
+
+requirement "NoAttackOfOpportunity",""
+
