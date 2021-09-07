@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/skillviewer/static/css/main.a7fcd585.chunk.css",
-    "main.js": "/skillviewer/static/js/main.2e869923.chunk.js",
-    "main.js.map": "/skillviewer/static/js/main.2e869923.chunk.js.map",
+    "main.js": "/skillviewer/static/js/main.95aa4b1f.chunk.js",
+    "main.js.map": "/skillviewer/static/js/main.95aa4b1f.chunk.js.map",
     "runtime-main.js": "/skillviewer/static/js/runtime-main.f3666c70.js",
     "runtime-main.js.map": "/skillviewer/static/js/runtime-main.f3666c70.js.map",
     "static/css/2.3ca2e7a5.chunk.css": "/skillviewer/static/css/2.3ca2e7a5.chunk.css",
@@ -100,6 +100,6 @@
     "static/css/2.3ca2e7a5.chunk.css",
     "static/js/2.252ee893.chunk.js",
     "static/css/main.a7fcd585.chunk.css",
-    "static/js/main.2e869923.chunk.js"
+    "static/js/main.95aa4b1f.chunk.js"
   ]
 }

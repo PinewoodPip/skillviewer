@@ -114,45 +114,70 @@ skillTypes = [
 ]
 # special skills, like the lizards's flame breath. You can use this tag to hide them in skillbook selection for example
 hiddenSkills = [
-    "Shout_InspireStart",
-    "Shout_FleshSacrifice",
-    "Cone_Flamebreath",
-    "Target_AMER_VampiricTouch",
-    "Dome_CircleOfProtection",
-    "Target_DemonicStare",
-    "Shout_BreakTheShackles",
-    "Target_MaddeningSong",
-    "Summon_SoulWolf",
-    "Target_Squall",
-    "Target_TimeWarp",
-    "Target_PetrifyingTouch",
-    
-    "Shout_AMER_Core_GenerateSource",
+    # "Shout_InspireStart",
+    # "Shout_FleshSacrifice",
+    # "Cone_Flamebreath",
+    # "Target_AMER_VampiricTouch",
 
-    "Shout_ElectricFence_NEW", # old closed circuit spell
-    "Target_DemonicBargain_Wealth",
-    "Summon_Cat",
-    "Summon_Condor",
-    "Summon_AMER_BoneshapedSkitterer",
-    "Summon_AMER_BoneshapedCrusher",
-    "Summon_Quest_SummonNewt",
-    "Shout_Ignition_Splendor",
-    "Summon_AMER_AccursedVessel",
+    # "Dome_CircleOfProtection",
+    # "Target_DemonicStare",
+    # "Shout_BreakTheShackles",
+    # "Target_MaddeningSong",
+    # "Summon_SoulWolf",
+    # "Target_Squall",
+    # "Target_TimeWarp",
+    # "Target_PetrifyingTouch",
+
+    "Storm_Ethereal",
     "Target_BloatedCorpse_TheSupplicant",
-    "Target_AMER_CorpseMastery",
-    "Projectile_BouncingShield_TheArena",
+    "Shout_AcclimateElectricFence",
+    "Shout_ElectricFence_NEW",
+    "Shout_MassCleanseWounds",
+    "Shout_VampiricHungerAura",
+    "Projectile_DustBlast",
+    "Shout_VenomousAura",
+    "Shout_MassOilyCarapace",
+    "Projectile_PyroclasticEruption",
+    "Target_Quest_PermanentSoulMate",
+    "Target_AMER_Artifact_Deck",
+    "Projectile_Grenade_ArmorPiercing_BoneHand",
+
+    # DERPY
+    "Cone_AcclimateShatter",
+    "Target_AcclimateFireWhip",
+    "Target_AcclimateWormTremor",
+    "ProjectileStrike_MalleusMaleficarum_DazingBolt",
+    "Projectile_Multishot_SI1",
+    "Projectile_DimensionalBolt_SI1",
+
+
+    
+    # "Shout_AMER_Core_GenerateSource",
+
+    # "Target_DemonicBargain_Wealth",
+    # "Summon_Cat",
+    # "Summon_Condor",
+    # "Summon_AMER_BoneshapedSkitterer",
+    # "Summon_AMER_BoneshapedCrusher",
+    # "Summon_Quest_SummonNewt",
+    # "Shout_Ignition_Splendor",
+    # "Summon_AMER_AccursedVessel",
+    # "Target_BloatedCorpse_TheSupplicant",
+    # "Target_AMER_CorpseMastery",
+    # "Projectile_BouncingShield_TheArena",
 
     # todo handle this properly. we cannot filter this one out the normal way because the Amer version of this spell has the same string in its name
-    "Storm_Ethereal",
 
 ]
 bannedStrings = [
+    # Derpy
+    "Derpy_StatusDamage",
+
     "Empowered",
     "Polymorph",
     "_Move",
     "Bane",
     "Enemy",
-    "Target_Quest_PermanentSoulMate",
     
     # vanilla leftovers
     "SmokeCover",
@@ -166,20 +191,12 @@ bannedStrings = [
     "JellyfishSkin",
     "PoisonousSkin",
     "DeployMassTraps",
-    "VampiricHungerAura",
     "BlessedSmokeCloud",
     "MasterOfSparks",
-    # "Storm_Blood",
-    # "Storm_Lightning",
-    "Shout_VenomousAura",
-    "Shout_OilyCarapace",
-    "Shout_MassOilyCarapace",
     "Target_Enrage",
-    "Shout_Taunt",
     "Shout_Cryotherapy",
     "ProjectileStrike_HailAttack",
     "Projectile_PyroclasticEruption",
-    "Projectile_DustBlast",
     "EvasiveAura",
     "Shout_BreathingBubble",
     "Target_MassSabotage",
@@ -211,6 +228,32 @@ bannedStrings = [
     "Debug",
     "Dummy",
     "NULLSKILL",
+]
+enemySkillExclude = [
+    "Projectile_Grenade_ArmorPiercing",
+    "Projectile_Grenade_Nailbomb",
+    "Projectile_Grenade_Flashbang",
+    "Projectile_Grenade_Molotov",
+    "Projectile_Grenade_CursedMolotov",
+    "Projectile_Grenade_Love",
+    "Projectile_Grenade_MindMaggot",
+    "Projectile_Grenade_ChemicalWarfare",
+    "Projectile_Grenade_Terror",
+    "Projectile_Grenade_Ice",
+    "Projectile_Grenade_BlessedIce",
+    "Projectile_Grenade_Holy",
+    "Projectile_Grenade_Tremor",
+    "Projectile_Grenade_Taser",
+    "Projectile_Grenade_WaterBalloon",
+    "Projectile_Grenade_WaterBlessedBalloon",
+    "Projectile_Grenade_SmokeBomb",
+    "Projectile_Grenade_MustardGas",
+    "Projectile_Grenade_OilFlask",
+    "Projectile_Grenade_BlessedOilFlask",
+    "Projectile_Grenade_PoisonFlask",
+    "Projectile_Grenade_CursedPoisonFlask",
+    "Projectile_Grenade_ArmorPiercing_BoneHand",
+
 ]
 
 def ParsePotions(folders):
@@ -646,7 +689,7 @@ def FilterSkills(allSkills, potions):
 
         allSkills[x]["Hidden"] = allSkills[x]["id"] in hiddenSkills
 
-        if not hasBannedString(x) and ("IsEnemySkill" not in allSkills[x].keys() or allSkills[x]["IsEnemySkill"] != "Yes" or allSkills[x]["id"] == "Dome_CircleOfProtection"):
+        if not hasBannedString(x) and ("IsEnemySkill" not in allSkills[x].keys() or allSkills[x]["IsEnemySkill"] != "Yes" or allSkills[x]["id"] == "Dome_CircleOfProtection" or x in enemySkillExclude):
             relevantSkills[x] = allSkills[x]
 
             keysToPop = []
@@ -688,6 +731,9 @@ def CastFields(relevantSkills):
         skill["ActionPoints"] = int(skill["ActionPoints"])
         skill["Cooldown"] = int(skill["Cooldown"])
         skill["UseWeaponDamage"] = True if skill["UseWeaponDamage"] == "Yes" else False
+
+        if ("Ability" not in skill):
+            skill["Ability"] = "None"
 
 
 # if SORT_BY_ABILITY:
