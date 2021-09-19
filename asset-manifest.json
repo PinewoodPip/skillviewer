@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/skillviewer/static/css/main.d41c5d42.chunk.css",
-    "main.js": "/skillviewer/static/js/main.84544df8.chunk.js",
-    "main.js.map": "/skillviewer/static/js/main.84544df8.chunk.js.map",
+    "main.js": "/skillviewer/static/js/main.3c9268ef.chunk.js",
+    "main.js.map": "/skillviewer/static/js/main.3c9268ef.chunk.js.map",
     "runtime-main.js": "/skillviewer/static/js/runtime-main.919c2e83.js",
     "runtime-main.js.map": "/skillviewer/static/js/runtime-main.919c2e83.js.map",
     "static/css/2.3ca2e7a5.chunk.css": "/skillviewer/static/css/2.3ca2e7a5.chunk.css",
-    "static/js/2.993f0a71.chunk.js": "/skillviewer/static/js/2.993f0a71.chunk.js",
-    "static/js/2.993f0a71.chunk.js.map": "/skillviewer/static/js/2.993f0a71.chunk.js.map",
+    "static/js/2.68e158cb.chunk.js": "/skillviewer/static/js/2.68e158cb.chunk.js",
+    "static/js/2.68e158cb.chunk.js.map": "/skillviewer/static/js/2.68e158cb.chunk.js.map",
     "static/js/3.49f4a470.chunk.js": "/skillviewer/static/js/3.49f4a470.chunk.js",
     "static/js/3.49f4a470.chunk.js.map": "/skillviewer/static/js/3.49f4a470.chunk.js.map",
     "index.html": "/skillviewer/index.html",
     "static/css/2.3ca2e7a5.chunk.css.map": "/skillviewer/static/css/2.3ca2e7a5.chunk.css.map",
     "static/css/main.d41c5d42.chunk.css.map": "/skillviewer/static/css/main.d41c5d42.chunk.css.map",
-    "static/js/2.993f0a71.chunk.js.LICENSE.txt": "/skillviewer/static/js/2.993f0a71.chunk.js.LICENSE.txt",
+    "static/js/2.68e158cb.chunk.js.LICENSE.txt": "/skillviewer/static/js/2.68e158cb.chunk.js.LICENSE.txt",
     "static/media/Ability_Aerotheurge.png": "/skillviewer/static/media/Ability_Aerotheurge.3ba18f65.png",
     "static/media/Ability_Bartering.png": "/skillviewer/static/media/Ability_Bartering.3ddcceee.png",
     "static/media/Ability_DualWielding.png": "/skillviewer/static/media/Ability_DualWielding.c2403085.png",
@@ -99,8 +99,8 @@
   "entrypoints": [
     "static/js/runtime-main.919c2e83.js",
     "static/css/2.3ca2e7a5.chunk.css",
-    "static/js/2.993f0a71.chunk.js",
+    "static/js/2.68e158cb.chunk.js",
     "static/css/main.d41c5d42.chunk.css",
-    "static/js/main.84544df8.chunk.js"
+    "static/js/main.3c9268ef.chunk.js"
   ]
 }

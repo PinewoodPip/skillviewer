@@ -47,6 +47,8 @@ potionTypes = [
     "Status_STANCE.txt",
     "Status_THROWN.txt",
     "Weapon.txt",
+    "BAAR_Potion.txt",
+    "BAAR_WeaponMods.txt",
 ]
 tieredStatuses = {
     "AMER_DECAYING_APPLY": re.compile("AMER_DECAYING_APPLY"),
@@ -111,6 +113,7 @@ skillTypes = [
     "Skill_Tornado.txt",
     "Skill_Wall.txt",
     "Skill_Zone.txt",
+    "SkillData.txt", # DOSEE
 ]
 # special skills, like the lizards's flame breath. You can use this tag to hide them in skillbook selection for example
 hiddenSkills = [
@@ -537,18 +540,27 @@ def replaceParamsInDescription(skills, skill, potions):
                             damage += "UNKNOWN DAMAGE TYPE"
                     realValues.append(damage)
                 elif param == "HealAmount":
-                    if realSource["HealType"] == "Percentage":
+                    if "HealType" in realSource and realSource["HealType"] == "Percentage":
                         baseString = "[1]% [2]"
                     else:
                         baseString = "([1] Qualifier) [2]"
                     
-                    healType = realSource["HealStat"]
-                    if healType == "PhysicalArmor":
-                        healType = "Physical Armor"
-                    elif healType == "MagicArmor":
-                        healType = "Magic Armor"
+                    healType = "Vitality"
+                    if "HealType" in realSource: # Does not exist in DOS1
+                        healType = realSource["HealStat"]
 
-                    baseString = format(baseString, [realSource["HealValue"], healType])
+                        if healType == "PhysicalArmor":
+                            healType = "Physical Armor"
+                        elif healType == "MagicArmor":
+                            healType = "Magic Armor"
+
+                    healAmount = "REPLACE"
+                    if "HealValue" in realSource:
+                        healAmount = realSource["HealValue"]
+                    elif "HealAmount" in realSource:
+                        healAmount = realSource["HealAmount"]
+
+                    baseString = format(baseString, [healAmount, healType])
                     realValues.append(baseString)
 
                 elif param in parametersWithDistance and param in realSource.keys():
@@ -730,7 +742,11 @@ def ParseSourceInfusions(skills):
         skill = skills[key]
 
         desc = skill["DescriptionRef"].split("Source Infusions:")
-        ability = abilityNames[skill["Ability"]]
+        ability = "Special"
+
+        abilityId = skill["Ability"]
+        if abilityId in abilityNames:
+            ability = abilityNames[abilityId]
 
         baseDescription = desc[0]
         infusions = {}

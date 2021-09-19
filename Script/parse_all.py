@@ -3,9 +3,19 @@ import json
 from skills import Parse
 
 mods = {
+    "DOSEE": {
+        "folders": ["DOSEE"],
+        "path": "Output/Data/Mods/DOSEE/skills.json",
+        "descriptionOverride": {},
+    },
     "EE_Core": {
         "folders": ["Larian", "Amer"],
         "path": "Output/Data/Mods/EE_Core/skills.json",
+        "descriptionOverride": {},
+    },
+    "EE1": {
+        "folders": ["DOSEE", "EE1"],
+        "path": "Output/Data/Mods/EE1/skills.json",
         "descriptionOverride": {},
     },
     "Derpy_Tweaks": {

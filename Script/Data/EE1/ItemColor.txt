@@ -1,0 +1,37 @@
+new itemcolor "Autunite","ffe651","918648","fff3b7"
+new itemcolor "Burnished Bronze","ad724b","76503c","dba776"
+new itemcolor "Chalcocite","00aac5","00768e","a4d7e2"
+new itemcolor "Cobalt","2a4fd7","273b89","637fb7"
+new itemcolor "Droxlerite","ad46c0","471450","b381bd"
+new itemcolor "Gold","e2bb00","8b6d00","ffdb7c"
+new itemcolor "Limonite","c95c18","853820","d4957a"
+new itemcolor "Malachite","24ac65","13613c","6ebb7b"
+new itemcolor "Mercury","909090","5b5b5b","c7c7c7"
+new itemcolor "Pure Mythril","ffffff","a4a4a4","ffffff"
+new itemcolor "Red Ore","a81010","590000","eb7474"
+new itemcolor "Tenebrium","121732","000000","3f354c"
+new itemcolor "Venom Stone","4a9c08","155019","84925a"
+new itemcolor "Cotton Candy","e674bf","ab2d71","ffc2ea"
+new itemcolor "Grumio's Petrolium Brand","9dd92c","229b23","e2d95b"
+new itemcolor "Grumio's Favorite Triade","cc3a1c","586aba","cab945"
+
+new itemcolor "Void","000000","000000","000000"
+new itemcolor "Stealth","000000","000000","392613"
+new itemcolor "Earth","392613","86592d","86592d"
+
+new itemcolor "Fog","006699","669999","669999"
+new itemcolor "Seafoam","ccffe6","b3ffd9","ccffe6"
+
+new itemcolor "Smoke","9494b8","e6ccb3","e6ccb3"
+
+new itemcolor "Verdure","006622","adebad","adebad"
+new itemcolor "Lichen","999966","999966","ebebe0"
+
+new itemcolor "Coral","cc3300","cc3300","ff8c66"
+new itemcolor "Clay","993300","993300","ffc6b3"
+
+new itemcolor "Saffron","996600","996600","cc9900"
+
+new itemcolor "Midnight","1a000d","4d0026","4d0026"
+new itemcolor "Abyss","000000","993300","993300"
+new itemcolor "Nemesis","993300","94b8b8","94b8b8"

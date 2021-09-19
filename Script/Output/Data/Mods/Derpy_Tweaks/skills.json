@@ -65,7 +65,7 @@
     "UseWeaponProperties": "Yes",
     "Icon": "Skill_Warrior_GroundSmash",
     "DisplayNameRef": "Battle Stomp",
-    "DescriptionRef": "Fissure the earth, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span> to enemies in a 25 degree, 10m long cone, and clearing non-cursed surfaces and clouds.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) and +25% damage (+4% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-warfare'>Warfare</span>): </font>+40% damage (+8% per <span class='text-warfare'>Warfare</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>3 (requires 9 <span class='text-warfare'>Warfare</span>): </font>Cast on all visible enemies within 10m. Recover 2<span class='text-ap'>AP</span>.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
+    "DescriptionRef": "Fissure the earth, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span> to enemies in a 25 degree, 10m long cone, and clearing non-cursed surfaces and clouds.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) and +25% damage (+4% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-warfare'>Warfare</span>): </font>+40% damage (+8% per <span class='text-warfare'>Warfare</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>3 (requires 9 <span class='text-warfare'>Warfare</span>): </font>Cast on all visible enemies within 10m.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
     "StatsDescriptionParams": "Damage;Range;Angle",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -83,7 +83,7 @@
     "SourceInfusions": {
       "1": " </font>+5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) and +25% damage (+4% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>",
       "2": " </font>+40% damage (+8% per <span class='text-warfare'>Warfare</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>",
-      "3": " </font>Cast on all visible enemies within 10m. Recover 2<span class='text-ap'>AP</span>.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
+      "3": " </font>Cast on all visible enemies within 10m.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
     }
   },
   "Cone_SteamLance": {
@@ -140,18 +140,24 @@
     "Ability": "Earth",
     "ActionPoints": 4,
     "Cooldown": 3,
-    "Damage Multiplier": "120",
+    "Damage Multiplier": "130",
     "Damage Range": "10",
     "DamageType": "Corrosive",
     "SkillProperties": {
       "BATTERED_MANIP_1": {
         "params": [
           "100",
-          "0ACID",
+          "0"
+        ],
+        "name": "1 Battered stack",
+        "prefixes": []
+      },
+      "ACID": {
+        "params": [
           "100",
           "2"
         ],
-        "name": "1 Battered stack",
+        "name": "Acid",
         "prefixes": []
       },
       "AMER_DECAYING_APPLY": {
@@ -170,7 +176,7 @@
     "UseWeaponProperties": "No",
     "Icon": "Skill_Skillcrafting_Earth_CorrosiveSpray",
     "DisplayNameRef": "Corrosive Spray",
-    "DescriptionRef": "Conjure a torrent of acid, destroying (120% Damage) <span class='text-dmg-armor-phys'>Physical Armor</span> on characters in a 35 degree, 7m long cone.  \n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+10% damage (+3% per <span class='text-geo'>Geomancer</span>) while casting. Apply Corroding for 1 turn.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Apply Disintegrating: Physical 25% (+2.5% per <span class='text-geo'>Geomancer</span>) for 1 turn: The Disintegrating target suffers the listed percent of all damage taken (while Disintegrating) again as Physical when Disintegrating expires. Repeat base effects, with Physical damage instead.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Disintegrating now lasts for 2 turns. +1% Disintegrate damage per <span class='text-geo'>Geomancer</span>. Repeat base effects, with Physical damage instead. Apply Suffocating for 2 turns.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
+    "DescriptionRef": "Conjure a torrent of acid, destroying (130% Damage) <span class='text-dmg-armor-phys'>Physical Armor</span> on characters in a 35 degree, 7m long cone.  \n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+10% damage (+3% per <span class='text-geo'>Geomancer</span>) while casting. Apply Corroding for 1 turn.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Apply Disintegrating: Physical 25% (+2.5% per <span class='text-geo'>Geomancer</span>) for 1 turn: The Disintegrating target suffers the listed percent of all damage taken (while Disintegrating) again as Physical when Disintegrating expires. Repeat base effects, with Physical damage instead.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Disintegrating now lasts for 2 turns. +1% Disintegrate damage per <span class='text-geo'>Geomancer</span>. Repeat base effects, with Physical damage instead. Apply Suffocating for 2 turns.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
     "StatsDescriptionParams": "Damage;Range;Angle",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -183,7 +189,7 @@
       "EarthSpecialist": 3,
       "Necromancy": 1
     },
-    "BaseDescription": "Conjure a torrent of acid, destroying (120% Damage) <span class='text-dmg-armor-phys'>Physical Armor</span> on characters in a 35 degree, 7m long cone.  \n\n\n\n<font color='46b195'>",
+    "BaseDescription": "Conjure a torrent of acid, destroying (130% Damage) <span class='text-dmg-armor-phys'>Physical Armor</span> on characters in a 35 degree, 7m long cone.  \n\n\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>+10% damage (+3% per <span class='text-geo'>Geomancer</span>) while casting. Apply Corroding for 1 turn.\n<font color='46b195'>",
       "2": " </font>Apply Disintegrating: Physical 25% (+2.5% per <span class='text-geo'>Geomancer</span>) for 1 turn: The Disintegrating target suffers the listed percent of all damage taken (while Disintegrating) again as Physical when Disintegrating expires. Repeat base effects, with Physical damage instead.\n<font color='46b195'>",
@@ -746,19 +752,8 @@
     "Ability": "Summoning",
     "ActionPoints": 4,
     "Cooldown": 1,
-    "Damage Multiplier": "120",
-    "Damage Range": "10",
-    "DamageType": "Chaos",
+    "ExplodeRadius": "1",
     "SkillProperties": {
-      "TargetCreateSurface": {
-        "params": [
-          "1",
-          "2",
-          "DamageType"
-        ],
-        "name": "TargetCreateSurface",
-        "prefixes": []
-      },
       "AMER_BLIND_APPLY": {
         "params": [
           "100",
@@ -771,25 +766,27 @@
     "TieredStatuses": [
       "AMER_BLIND_APPLY"
     ],
-    "ExplodeRadius": "1",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
     "Icon": "Skill_Summoning_DimensionalBolt",
     "DisplayNameRef": "Dimensional Bolt",
-    "DescriptionRef": "Fire a bolt of chaotic energy at target character, dealing 120%  damage of a random type and creating a corresponding surface in a 1m radius.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Fire three additional Dimensional Bolts, each dealing 40%  damage of a random type and creating corresponding surface in a 1m radius.\n<font color='46b195'>2 (requires 5 <span class='text-summon'>Summoning</span>): </font>Strike every enemy within 8m 4 times, dealing 60% <span class='text-dmg-earth'>Earth Damage</span>, 60% <span class='text-dmg-fire'>Fire Damage</span>, 60% <span class='text-dmg-water'>Water Damage</span> and 60% <span class='text-dmg-air'>Air Damage</span> in a 2m radius, applying corresponding statuses and creating corresponding surfaces.\n<font color='46b195'>3 (requires 9 <span class='text-summon'>Summoning</span>): </font>Detonate Brittle on every enemy within 8m. Gain Empowered Throw Dust, Empowered Fire Whip, Empowered Winter Blast and Empowered Chain Lightning for 1 turn. \n<font color='858580'  face='Averia Serif'>\n</font></font>",
-    "StatsDescriptionParams": "Damage;Skill:Projectile_DimensionalBolt_SI1:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Oil:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Fire:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Ice:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Zap:Damage",
+    "DescriptionRef": "Fire a bolt of chaotic energy at target character, dealing 120%  damage of a random type and creating a corresponding surface in a 1m radius.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Dimensional Bolts explodes 3 times, each dealing 40%  damage of a random type and creating corresponding surface in a 1m radius.\n<font color='46b195'>2 (requires 5 <span class='text-summon'>Summoning</span>): </font>Strike every enemy within 8m 4 times, dealing 60% <span class='text-dmg-earth'>Earth Damage</span>, 60% <span class='text-dmg-fire'>Fire Damage</span>, 60% <span class='text-dmg-water'>Water Damage</span> and 60% <span class='text-dmg-air'>Air Damage</span> in a 2m radius, applying corresponding statuses and creating corresponding surfaces.\n<font color='46b195'>3 (requires 9 <span class='text-summon'>Summoning</span>): </font>Detonate Brittle on every enemy within 8m. Gain Empowered Throw Dust, Empowered Fire Whip, Empowered Winter Blast and Empowered Chain Lightning for 1 turn. \n<font color='858580'  face='Averia Serif'>\n</font></font>",
+    "StatsDescriptionParams": "Skill:Projectile_DummyTooltip_DM:Damage;Skill:Projectile_DummyTooltip_DM_SI1:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Oil:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Fire:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Ice:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Zap:Damage",
     "MemorizationRequirements": "Summoning 1",
     "Memory Cost": "1",
     "Magic Cost": "0",
     "Hidden": false,
     "Stealth": "No",
+    "Damage Multiplier": "100",
+    "Damage Range": "10",
+    "DamageType": "None",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {
       "Summoning": 1
     },
     "BaseDescription": "Fire a bolt of chaotic energy at target character, dealing 120%  damage of a random type and creating a corresponding surface in a 1m radius.\n\n\n\n<font color='46b195'>",
     "SourceInfusions": {
-      "1": " </font>Fire three additional Dimensional Bolts, each dealing 40%  damage of a random type and creating corresponding surface in a 1m radius.\n<font color='46b195'>",
+      "1": " </font>Dimensional Bolts explodes 3 times, each dealing 40%  damage of a random type and creating corresponding surface in a 1m radius.\n<font color='46b195'>",
       "2": " </font>Strike every enemy within 8m 4 times, dealing 60% <span class='text-dmg-earth'>Earth Damage</span>, 60% <span class='text-dmg-fire'>Fire Damage</span>, 60% <span class='text-dmg-water'>Water Damage</span> and 60% <span class='text-dmg-air'>Air Damage</span> in a 2m radius, applying corresponding statuses and creating corresponding surfaces.\n<font color='46b195'>",
       "3": " </font>Detonate Brittle on every enemy within 8m. Gain Empowered Throw Dust, Empowered Fire Whip, Empowered Winter Blast and Empowered Chain Lightning for 1 turn. \n<font color='858580'  face='Averia Serif'>\n</font></font>"
     }
@@ -1088,40 +1085,30 @@
     "Ability": "Ranger",
     "ActionPoints": 4,
     "Cooldown": 3,
-    "Damage Multiplier": "60",
-    "ExplodeRadius": "2",
-    "SkillProperties": {
-      "TargetCreateSurface": {
-        "params": [
-          "2",
-          "2",
-          "DamageType"
-        ],
-        "name": "TargetCreateSurface",
-        "prefixes": []
-      }
-    },
+    "SkillProperties": {},
     "TieredStatuses": [],
-    "DamageType": "Chaos",
+    "ExplodeRadius": "2",
     "UseWeaponDamage": true,
     "UseWeaponProperties": "Yes",
     "Icon": "Skill_Ranger_Multishot",
     "DisplayNameRef": "Barrage",
-    "DescriptionRef": "Fire 3 volatile arrows, each dealing 60% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface in a 2m radius.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Fire an additional arrow at each location, dealing 40% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface.\n<font color='46b195'>2 (requires 5 <span class='text-huntsman'>Huntsman</span>): </font>Rain down a Fireball at each location.\n<font color='46b195'>3 (requires 9 <span class='text-huntsman'>Huntsman</span>): </font>Gain Inner Demon for 3 turns before firing then cast Impalement at each location.\n </font>",
-    "StatsDescriptionParams": "Damage;ProjectileCount;Skill:Projectile_Multishot_SI1:Damage",
+    "DescriptionRef": "Fire 3 volatile arrows, each exploding and dealing 60% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface in a 2m radius.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Each arrow explodes again, dealing 40% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface in a 2m radius.\n<font color='46b195'>2 (requires 5 <span class='text-huntsman'>Huntsman</span>): </font>Rain down a Fireball at each location.\n<font color='46b195'>3 (requires 9 <span class='text-huntsman'>Huntsman</span>): </font>Gain Inner Demon for 3 turns before firing then cast Impalement at each location.\n </font>",
+    "StatsDescriptionParams": "Skill:Projectile_DummyTooltip_Multishot:Damage;ProjectileCount;Skill:Projectile_DummyTooltip_Multishot_SI1:Damage",
     "MemorizationRequirements": "RangerLore 3",
     "Memory Cost": "1",
     "Magic Cost": "0",
     "Hidden": false,
     "Stealth": "No",
+    "Damage Multiplier": "100",
     "Damage Range": "10",
+    "DamageType": "None",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {
       "RangerLore": 3
     },
-    "BaseDescription": "Fire 3 volatile arrows, each dealing 60% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface in a 2m radius.</font>\n\n<font color='46b195'>",
+    "BaseDescription": "Fire 3 volatile arrows, each exploding and dealing 60% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface in a 2m radius.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
-      "1": " </font>Fire an additional arrow at each location, dealing 40% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface.\n<font color='46b195'>",
+      "1": " </font>Each arrow explodes again, dealing 40% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface in a 2m radius.\n<font color='46b195'>",
       "2": " </font>Rain down a Fireball at each location.\n<font color='46b195'>",
       "3": " </font>Gain Inner Demon for 3 turns before firing then cast Impalement at each location.\n </font>"
     }
@@ -1146,7 +1133,7 @@
     "UseWeaponProperties": "Yes",
     "Icon": "Skill_Ranger_SkyShot",
     "DisplayNameRef": "Sky Shot",
-    "DescriptionRef": "Vault into the air and unleash death on target character from above, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span>. <font color='c80030'>Pay up to 4 more <span class='text-ap'>AP</span>:</font> For each <span class='text-ap'>AP</span> you cannot pay in this way, apply 2 <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> to yourself.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+25% damage (+4% per <span class='text-huntsman'>Huntsman</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-huntsman'>Huntsman</span>): </font>+40% damage (+8% per <span class='text-huntsman'>Huntsman</span>) while casting. Cast Dazing Bolt twice on your target. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>3 (requires 9 <span class='text-huntsman'>Huntsman</span>): </font>Cast Dazing Bolt on every enemy within 13m. Recover 2<span class='text-ap'>AP</span>.\n </font>",
+    "DescriptionRef": "Vault into the air and unleash death on target character from above, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span>. <font color='c80030'>Pay up to 4 more <span class='text-ap'>AP</span>:</font> For each <span class='text-ap'>AP</span> you cannot pay in this way, apply 2 <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> to yourself.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+25% damage (+4% per <span class='text-huntsman'>Huntsman</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-huntsman'>Huntsman</span>): </font>+40% damage (+8% per <span class='text-huntsman'>Huntsman</span>) while casting. Cast Dazing Bolt on your target. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>3 (requires 9 <span class='text-huntsman'>Huntsman</span>): </font>Cast Dazing Bolt on every enemy within 13m. Recover 2<span class='text-ap'>AP</span>.\n </font>",
     "StatsDescriptionParams": "Damage",
     "MemorizationRequirements": "RangerLore 1; AirSpecialist 1",
     "Memory Cost": "1",
@@ -1163,7 +1150,7 @@
     "BaseDescription": "Vault into the air and unleash death on target character from above, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span>. <font color='c80030'>Pay up to 4 more <span class='text-ap'>AP</span>:</font> For each <span class='text-ap'>AP</span> you cannot pay in this way, apply 2 <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> to yourself.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>+25% damage (+4% per <span class='text-huntsman'>Huntsman</span>) while casting.\n<font color='46b195'>",
-      "2": " </font>+40% damage (+8% per <span class='text-huntsman'>Huntsman</span>) while casting. Cast Dazing Bolt twice on your target. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>",
+      "2": " </font>+40% damage (+8% per <span class='text-huntsman'>Huntsman</span>) while casting. Cast Dazing Bolt on your target. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>",
       "3": " </font>Cast Dazing Bolt on every enemy within 13m. Recover 2<span class='text-ap'>AP</span>.\n </font>"
     }
   },
@@ -1414,7 +1401,7 @@
     "Ability": "Air",
     "ActionPoints": 4,
     "Cooldown": 5,
-    "Damage Multiplier": "140",
+    "Damage Multiplier": "110",
     "Damage Range": "10",
     "DamageType": "Air",
     "SkillProperties": {
@@ -1432,7 +1419,7 @@
     "UseWeaponProperties": "No",
     "Icon": "Skill_Air_Superconductor",
     "DisplayNameRef": "Superconductor",
-    "DescriptionRef": "Fire arcs of lightning at all enemies within range, which chain once to another target within 8m, dealing 140% <span class='text-dmg-air'>Air Damage</span> to each target.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+25% damage (+4% per <span class='text-aero'>Aerotheurge</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-aero'>Aerotheurge</span>): </font>Before casting, apply Superconductor to yourself for 1 turn: When you are afflicted with Charged, remove Superconductor status, then emulate Superconductor as a free reaction.\n<font color='46b195'>3 (requires 9 <span class='text-aero'>Aerotheurge</span>): </font>Repeat base effects. Before casting, allies within 13m who have at least 1 <span class='text-aero'>Aerotheurge</span> try to cast Lightning Bolt on the enemy nearest you as a free ritual reaction; for each ritual participant, gain +3% damage per <span class='text-aero'>Aerotheurge</span> while casting.\n </font>",
+    "DescriptionRef": "Fire arcs of lightning at all enemies within range, which chain once to another target within 8m, dealing 110% <span class='text-dmg-air'>Air Damage</span> to each target.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+25% damage (+4% per <span class='text-aero'>Aerotheurge</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-aero'>Aerotheurge</span>): </font>+40% damage (+8% per <span class='text-aero'>Aerotheurge</span>) while casting.\n<font color='46b195'>3 (requires 9 <span class='text-aero'>Aerotheurge</span>): </font>Repeat base effects. Before casting, allies within 13m who have at least 1 <span class='text-aero'>Aerotheurge</span> try to cast Lightning Bolt on the enemy nearest you as a free ritual reaction; for each ritual participant, gain +3% damage per <span class='text-aero'>Aerotheurge</span> while casting.\n </font>",
     "StatsDescriptionParams": "Damage;AreaRadius",
     "MemorizationRequirements": "AirSpecialist 3",
     "Memory Cost": "1",
@@ -1444,10 +1431,10 @@
     "ParsedMemorizationRequirements": {
       "AirSpecialist": 3
     },
-    "BaseDescription": "Fire arcs of lightning at all enemies within range, which chain once to another target within 8m, dealing 140% <span class='text-dmg-air'>Air Damage</span> to each target.</font>\n\n<font color='46b195'>",
+    "BaseDescription": "Fire arcs of lightning at all enemies within range, which chain once to another target within 8m, dealing 110% <span class='text-dmg-air'>Air Damage</span> to each target.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>+25% damage (+4% per <span class='text-aero'>Aerotheurge</span>) while casting.\n<font color='46b195'>",
-      "2": " </font>Before casting, apply Superconductor to yourself for 1 turn: When you are afflicted with Charged, remove Superconductor status, then emulate Superconductor as a free reaction.\n<font color='46b195'>",
+      "2": " </font>+40% damage (+8% per <span class='text-aero'>Aerotheurge</span>) while casting.\n<font color='46b195'>",
       "3": " </font>Repeat base effects. Before casting, allies within 13m who have at least 1 <span class='text-aero'>Aerotheurge</span> try to cast Lightning Bolt on the enemy nearest you as a free ritual reaction; for each ritual participant, gain +3% damage per <span class='text-aero'>Aerotheurge</span> while casting.\n </font>"
     }
   },
@@ -1594,7 +1581,7 @@
     "Ability": "Rogue",
     "ActionPoints": 4,
     "Cooldown": 1,
-    "Damage Multiplier": "95",
+    "Damage Multiplier": "100",
     "SkillProperties": {
       "CanBackstab": {
         "params": [],
@@ -1608,7 +1595,7 @@
     "UseWeaponProperties": "Yes",
     "Icon": "Skill_Rogue_ThrowingKnife",
     "DisplayNameRef": "Throwing Knife",
-    "DescriptionRef": "Throw a knife at target character with lethal accuracy, dealing 95% <span class='text-dmg-phys'>Weapon Damage</span>. </font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+5% accuracy (+1% per <span class='text-rogue'>Scoundrel</span>) and +15% damage (+3% per <span class='text-rogue'>Scoundrel</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>2 (requires 5 <span class='text-rogue'>Scoundrel</span>): </font>Repeat base effects. If cast while Sneaking, gain +30% damage (+6% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>3 (requires 9 <span class='text-rogue'>Scoundrel</span>): </font>+4 more daggers thrown. If cast while Sneaking, gain a second Throwing Knife skill that deals 1.16x damage, costs 3<span class='text-ap'>AP</span> and has a 1 turn cooldown, for 3 turns.\n </font>",
+    "DescriptionRef": "Throw a knife at target character with lethal accuracy, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span>. </font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+5% accuracy (+1% per <span class='text-rogue'>Scoundrel</span>) and +15% damage (+3% per <span class='text-rogue'>Scoundrel</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>2 (requires 5 <span class='text-rogue'>Scoundrel</span>): </font>Repeat base effects. If cast while Sneaking, gain +30% damage (+6% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>3 (requires 9 <span class='text-rogue'>Scoundrel</span>): </font>+4 more daggers thrown. If cast while Sneaking, gain a second Throwing Knife skill that deals 1.20x damage, costs 3<span class='text-ap'>AP</span> and has a 1 turn cooldown, for 3 turns.\n </font>",
     "StatsDescriptionParams": "Damage",
     "MemorizationRequirements": "RogueLore 1",
     "Memory Cost": "1",
@@ -1621,11 +1608,11 @@
     "ParsedMemorizationRequirements": {
       "RogueLore": 1
     },
-    "BaseDescription": "Throw a knife at target character with lethal accuracy, dealing 95% <span class='text-dmg-phys'>Weapon Damage</span>. </font>\n\n<font color='46b195'>",
+    "BaseDescription": "Throw a knife at target character with lethal accuracy, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span>. </font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>+5% accuracy (+1% per <span class='text-rogue'>Scoundrel</span>) and +15% damage (+3% per <span class='text-rogue'>Scoundrel</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>",
       "2": " </font>Repeat base effects. If cast while Sneaking, gain +30% damage (+6% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>",
-      "3": " </font>+4 more daggers thrown. If cast while Sneaking, gain a second Throwing Knife skill that deals 1.16x damage, costs 3<span class='text-ap'>AP</span> and has a 1 turn cooldown, for 3 turns.\n </font>"
+      "3": " </font>+4 more daggers thrown. If cast while Sneaking, gain a second Throwing Knife skill that deals 1.20x damage, costs 3<span class='text-ap'>AP</span> and has a 1 turn cooldown, for 3 turns.\n </font>"
     }
   },
   "Projectile_FanOfKnives": {
@@ -1634,7 +1621,7 @@
     "Ability": "Rogue",
     "ActionPoints": 4,
     "Cooldown": 4,
-    "Damage Multiplier": "90",
+    "Damage Multiplier": "100",
     "SkillProperties": {
       "CanBackstab": {
         "params": [],
@@ -1643,12 +1630,12 @@
       }
     },
     "TieredStatuses": [],
-    "ExplodeRadius": "2",
+    "ExplodeRadius": "0",
     "UseWeaponDamage": true,
     "UseWeaponProperties": "Yes",
     "Icon": "Skill_Rogue_FanOfKnives",
     "DisplayNameRef": "Fan of Knives",
-    "DescriptionRef": "In a single deft motion, throw a dagger at each enemy in a 8m radius around you, dealing 90% <span class='text-dmg-phys'>Weapon Damage</span> in a 2m radius.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+5% accuracy (+1% per <span class='text-rogue'>Scoundrel</span>) while casting. +25% damage (+4% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-rogue'>Scoundrel</span>): </font>Repeat base effects. +40% damage (+8% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>3 (requires 9 <span class='text-rogue'>Scoundrel</span>): </font>Gain an Empowered Fan of Knives skill that deals 1.37x damage, costs 3<span class='text-ap'>AP</span> and has a 1 turn cooldown, for 3 turns. If cast while sneaking, become Invisible until the end of your turn and attempt to sneak.\n </font>",
+    "DescriptionRef": "In a single deft motion, throw a dagger at each enemy in a 8m radius around you, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span>.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+5% accuracy (+1% per <span class='text-rogue'>Scoundrel</span>) while casting. +25% damage (+4% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-rogue'>Scoundrel</span>): </font>Repeat base effects. +40% damage (+8% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>3 (requires 9 <span class='text-rogue'>Scoundrel</span>): </font>Gain an Empowered Fan of Knives skill that deals 1.5x damage, costs 3<span class='text-ap'>AP</span> and has a 1 turn cooldown, for 3 turns. If cast while sneaking, become Invisible until the end of your turn and attempt to sneak.\n </font>",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "MemorizationRequirements": "RogueLore 3",
     "Memory Cost": "1",
@@ -1661,11 +1648,11 @@
     "ParsedMemorizationRequirements": {
       "RogueLore": 3
     },
-    "BaseDescription": "In a single deft motion, throw a dagger at each enemy in a 8m radius around you, dealing 90% <span class='text-dmg-phys'>Weapon Damage</span> in a 2m radius.</font>\n\n<font color='46b195'>",
+    "BaseDescription": "In a single deft motion, throw a dagger at each enemy in a 8m radius around you, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span>.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>+5% accuracy (+1% per <span class='text-rogue'>Scoundrel</span>) while casting. +25% damage (+4% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>",
       "2": " </font>Repeat base effects. +40% damage (+8% per <span class='text-rogue'>Scoundrel</span>) while casting.\n<font color='46b195'>",
-      "3": " </font>Gain an Empowered Fan of Knives skill that deals 1.37x damage, costs 3<span class='text-ap'>AP</span> and has a 1 turn cooldown, for 3 turns. If cast while sneaking, become Invisible until the end of your turn and attempt to sneak.\n </font>"
+      "3": " </font>Gain an Empowered Fan of Knives skill that deals 1.5x damage, costs 3<span class='text-ap'>AP</span> and has a 1 turn cooldown, for 3 turns. If cast while sneaking, become Invisible until the end of your turn and attempt to sneak.\n </font>"
     }
   },
   "Projectile_Chloroform": {
@@ -1853,7 +1840,7 @@
       },
       "CreateSurface": {
         "params": [
-          "2",
+          "1",
           "2",
           "Poison",
           "100"
@@ -1863,12 +1850,12 @@
       }
     },
     "TieredStatuses": [],
-    "ExplodeRadius": "2",
+    "ExplodeRadius": "1",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
     "Icon": "Skill_Earth_PoisonDart",
     "DisplayNameRef": "Magical Poison Dart",
-    "DescriptionRef": "Fire a lethal poison dart at target point, which curves toward additional enemies and undead allies within a narrow angle from its original trajectory, dealing 110% Poison Damage and creating a poison surface in a 2m radius at each impact.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Apply up to <span class='text-slowed'>Slowed III</span> for 2 turns.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Repeat base effects. Apply Acid and Corroding for 2 turns.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Gain an Empowered Poison Dart spell that costs 3 <span class='text-ap'>AP</span>, has a 1 turn cooldown, and fires 3 projectiles, for 3 turns.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
+    "DescriptionRef": "Fire a lethal poison dart at target point, which curves toward additional enemies and undead allies within a narrow angle from its original trajectory, dealing 110% Poison Damage and creating a poison surface in a 1m radius at each impact.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Apply up to <span class='text-slowed'>Slowed III</span> for 2 turns.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Repeat base effects. Apply Acid and Corroding for 2 turns.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Gain an Empowered Poison Dart spell that costs 3 <span class='text-ap'>AP</span>, has a 1 turn cooldown, and fires 3 projectiles, for 3 turns.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "MemorizationRequirements": "EarthSpecialist 1",
     "Memory Cost": "1",
@@ -1879,7 +1866,7 @@
     "ParsedMemorizationRequirements": {
       "EarthSpecialist": 1
     },
-    "BaseDescription": "Fire a lethal poison dart at target point, which curves toward additional enemies and undead allies within a narrow angle from its original trajectory, dealing 110% Poison Damage and creating a poison surface in a 2m radius at each impact.</font>\n\n<font color='46b195'>",
+    "BaseDescription": "Fire a lethal poison dart at target point, which curves toward additional enemies and undead allies within a narrow angle from its original trajectory, dealing 110% Poison Damage and creating a poison surface in a 1m radius at each impact.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>Apply up to <span class='text-slowed'>Slowed III</span> for 2 turns.\n<font color='46b195'>",
       "2": " </font>Repeat base effects. Apply Acid and Corroding for 2 turns.\n<font color='46b195'>",
@@ -2210,49 +2197,34 @@
     "Ability": "None",
     "ActionPoints": 3,
     "Cooldown": 0,
+    "Damage Multiplier": "100",
+    "Damage Range": "10",
+    "DamageType": "Physical",
     "SkillProperties": {
-      "AMER_DECAYING_APPLY": {
-        "params": [],
-        "name": "Vulnerable III",
-        "prefixes": []
-      },
-      "ACID": {
+      "AMER_DECAYING_2": {
         "params": [
           "100",
           "2"
         ],
-        "name": "Acid",
-        "prefixes": []
-      },
-      "SUFFOCATING": {
-        "params": [
-          "100",
-          "2"
-        ],
-        "name": "Suffocating",
+        "name": "Vulnerable II",
         "prefixes": []
       }
     },
-    "TieredStatuses": [
-      "AMER_DECAYING_APPLY"
-    ],
-    "ExplodeRadius": "2",
+    "TieredStatuses": [],
+    "ExplodeRadius": "3",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
     "Icon": "Item_GRN_ChemicalWarfare",
     "DisplayNameRef": "Chemical Warfare Grenade",
-    "DescriptionRef": "Applies Acid, Suffocating and up to <span class='text-vulnerable'>Vulnerable III</span> on characters in a 2m radius.",
+    "DescriptionRef": "Deals 100% <span class='text-dmg-phys'>Physical Damage</span> and applies up to Vulnerable II on characters in a 3m radius.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
     "MemorizationRequirements": "",
     "Stealth": "No",
-    "Damage Multiplier": "100",
-    "Damage Range": "10",
-    "DamageType": "None",
     "Memory Cost": "0",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Applies Acid, Suffocating and up to <span class='text-vulnerable'>Vulnerable III</span> on characters in a 2m radius.",
+    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Physical Damage</span> and applies up to Vulnerable II on characters in a 3m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Terror": {
@@ -2445,6 +2417,14 @@
           "2"
         ],
         "name": "Calcifying",
+        "prefixes": []
+      },
+      "AMER_SLOWED_2": {
+        "params": [
+          "100",
+          "2"
+        ],
+        "name": "Slowed II",
         "prefixes": []
       }
     },
@@ -3378,7 +3358,7 @@
     "UseWeaponProperties": "Yes",
     "Icon": "Skill_Warrior_BatteringRam",
     "DisplayNameRef": "Battering Ram",
-    "DescriptionRef": "Charge forward to target point with savage force, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span> to enemies caught in your path.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) and +15% damage (+3% per <span class='text-warfare'>Warfare</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>2 (requires 5 <span class='text-warfare'>Warfare</span>): </font>Gain an Empowered Battering Ram spell that costs 0<span class='text-ap'>AP</span> and can be cast until the end of your turn. Recover 1<span class='text-ap'>AP</span> and 1SP.\n<font color='46b195'>3 (requires 9 <span class='text-warfare'>Warfare</span>): </font>Empowered Battering Ram can now be cast for 3 turns. Recover 2<span class='text-ap'>AP</span>.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
+    "DescriptionRef": "Charge forward to target point with savage force, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span> to enemies caught in your path.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) and +15% damage (+3% per <span class='text-warfare'>Warfare</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>2 (requires 5 <span class='text-warfare'>Warfare</span>): </font>Gain an Empowered Battering Ram spell that costs 0<span class='text-ap'>AP</span> and can be cast until the end of your turn. Recover 2<span class='text-ap'>AP</span> and 1SP.\n<font color='46b195'>3 (requires 9 <span class='text-warfare'>Warfare</span>): </font>Empowered Battering Ram can now be cast for 3 turns.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
     "StatsDescriptionParams": "Damage",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -3395,8 +3375,8 @@
     "BaseDescription": "Charge forward to target point with savage force, dealing 100% <span class='text-dmg-phys'>Weapon Damage</span> to enemies caught in your path.\n\n\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>+5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) and +15% damage (+3% per <span class='text-warfare'>Warfare</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>",
-      "2": " </font>Gain an Empowered Battering Ram spell that costs 0<span class='text-ap'>AP</span> and can be cast until the end of your turn. Recover 1<span class='text-ap'>AP</span> and 1SP.\n<font color='46b195'>",
-      "3": " </font>Empowered Battering Ram can now be cast for 3 turns. Recover 2<span class='text-ap'>AP</span>.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
+      "2": " </font>Gain an Empowered Battering Ram spell that costs 0<span class='text-ap'>AP</span> and can be cast until the end of your turn. Recover 2<span class='text-ap'>AP</span> and 1SP.\n<font color='46b195'>",
+      "3": " </font>Empowered Battering Ram can now be cast for 3 turns.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
     }
   },
   "Shout_SpiritVision": {
@@ -3749,24 +3729,11 @@
     "Ability": "None",
     "ActionPoints": 0,
     "Cooldown": 3,
-    "SkillProperties": {
-      "TargetCreateSurface": {
-        "params": [
-          "1",
-          "2",
-          "Blood",
-          "100"
-        ],
-        "name": "TargetCreateSurface",
-        "prefixes": []
-      }
-    },
-    "TieredStatuses": [],
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
     "Icon": "Skill_Decay_FleshSacrifice",
     "DisplayNameRef": "Flesh Sacrifice",
-    "DescriptionRef": "Suffer 10% of your maximum Vitality as Piercing damage in exchange for 1 <span class='text-ap'>AP</span> then create a blood puddle under yourself. This effect cannot grant <span class='text-ap'>AP</span> over your maximum.</font>",
+    "DescriptionRef": "Suffer 10% of your maximum Vitality as Piercing damage in exchange for 1 <span class='text-ap'>AP</span> and create a blood puddle under yourself. This effect cannot grant <span class='text-ap'>AP</span> over your maximum.</font>",
     "StatsDescriptionParams": "Potion:Stats_Flesh_Sacrifice:ActionPoints;Potion:Stats_Flesh_Sacrifice:DamageBoost;Potion:Stats_Flesh_Sacrifice:Constitution",
     "Memory Cost": "0",
     "Magic Cost": "0",
@@ -3776,10 +3743,12 @@
     "Damage Multiplier": "100",
     "Damage Range": "10",
     "DamageType": "None",
+    "SkillProperties": [],
+    "TieredStatuses": {},
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Suffer 10% of your maximum Vitality as Piercing damage in exchange for 1 <span class='text-ap'>AP</span> then create a blood puddle under yourself. This effect cannot grant <span class='text-ap'>AP</span> over your maximum.</font>",
+    "BaseDescription": "Suffer 10% of your maximum Vitality as Piercing damage in exchange for 1 <span class='text-ap'>AP</span> and create a blood puddle under yourself. This effect cannot grant <span class='text-ap'>AP</span> over your maximum.</font>",
     "SourceInfusions": {}
   },
   "Shout_Whirlwind": {
@@ -3905,7 +3874,7 @@
     "id": "Shout_Ignition",
     "SkillType": "Shout",
     "Ability": "Fire",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 2,
     "Damage Multiplier": "40",
     "Damage Range": "10",
@@ -4362,7 +4331,7 @@
     "MemorizationRequirements": "FireSpecialist 3",
     "Icon": "Skill_Fire_Supernova",
     "DisplayNameRef": "Supernova",
-    "DescriptionRef": "Before casting, gain +40% Fire resistance until the end of your turn. Manifest your relentless fury as a blistering shockwave, creating fire surface and dealing 200% <span class='text-dmg-fire'>Fire Damage</span> to yourself and characters that you can see in a 5m radius around you. If you die while casting, manifest a shockwave that deals 1000% <span class='text-dmg-fire'>Fire Damage</span> to enemies within 8m. </font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+25% damage (+4% per <span class='text-pyro'>Pyrokinetic</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-pyro'>Pyrokinetic</span>): </font>+40% damage (+8% per <span class='text-pyro'>Pyrokinetic</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>3 (requires 9 <span class='text-pyro'>Pyrokinetic</span>): </font>Cast again on every enemy within cast radius. This Supernova does damage in a 3m radius.\n </font>",
+    "DescriptionRef": "Before casting, gain +40% Fire resistance until the end of your turn. Manifest your relentless fury as a blistering shockwave, creating fire surface and dealing 200% <span class='text-dmg-fire'>Fire Damage</span> to yourself and characters that you can see in a 5m radius around you. If you die while casting, manifest a shockwave that deals 1000% <span class='text-dmg-fire'>Fire Damage</span> to characters within 8m. </font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+25% damage (+4% per <span class='text-pyro'>Pyrokinetic</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-pyro'>Pyrokinetic</span>): </font>+40% damage (+8% per <span class='text-pyro'>Pyrokinetic</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>3 (requires 9 <span class='text-pyro'>Pyrokinetic</span>): </font>Cast again on every enemy within cast radius. This Supernova does damage in a 3m radius.\n </font>",
     "StatsDescriptionParams": "Damage;AreaRadius;Skill:Projectile_Derpy_SCRIPT_SuicideSupernova:Damage",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -4373,7 +4342,7 @@
     "ParsedMemorizationRequirements": {
       "FireSpecialist": 3
     },
-    "BaseDescription": "Before casting, gain +40% Fire resistance until the end of your turn. Manifest your relentless fury as a blistering shockwave, creating fire surface and dealing 200% <span class='text-dmg-fire'>Fire Damage</span> to yourself and characters that you can see in a 5m radius around you. If you die while casting, manifest a shockwave that deals 1000% <span class='text-dmg-fire'>Fire Damage</span> to enemies within 8m. </font>\n\n<font color='46b195'>",
+    "BaseDescription": "Before casting, gain +40% Fire resistance until the end of your turn. Manifest your relentless fury as a blistering shockwave, creating fire surface and dealing 200% <span class='text-dmg-fire'>Fire Damage</span> to yourself and characters that you can see in a 5m radius around you. If you die while casting, manifest a shockwave that deals 1000% <span class='text-dmg-fire'>Fire Damage</span> to characters within 8m. </font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>+25% damage (+4% per <span class='text-pyro'>Pyrokinetic</span>) while casting.\n<font color='46b195'>",
       "2": " </font>+40% damage (+8% per <span class='text-pyro'>Pyrokinetic</span>) while casting. Recover 2<span class='text-ap'>AP</span>.\n<font color='46b195'>",
@@ -4496,7 +4465,7 @@
     "MemorizationRequirements": "WaterSpecialist 1",
     "Icon": "Skill_Water_SoothingCold",
     "DisplayNameRef": "Soothing Cold",
-    "DescriptionRef": "Apply Soothing Cold to yourself and allies within 5m of you. Soothing Cold instantly restores (30 Qualifier) <span class='text-dmg-armor-magic'>Magic Armor</span>, as well as at the start of the affected character's turn.\n<span class='text-cleanse'>Cleanses Poisoned, Scorched, Suffocating, and Brittle.</span></font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Restore 25% (+2.5% per <span class='text-water'>Hydrosophist</span>) of total <span class='text-dmg-armor-magic'>Magic Armor</span> on cast.\n<font color='46b195'>2 (requires 5 <span class='text-water'>Hydrosophist</span>): </font>Grants 30% missing <span class='text-dmg-armor-magic'>Magic Armor</span> regeneration (+2% per <span class='text-water'>Hydrosophist</span>). Grants 1 <span class='text-harried'>Harried</span> removal every turn.\n<font color='46b195'>3 (requires 9 <span class='text-water'>Hydrosophist</span>): </font>Grants 1 <span class='text-harried'>Harried</span> removal (+0.1 per <span class='text-water'>Hydrosophist</span>) every turn. Recover 1SP.\n </font>",
+    "DescriptionRef": "Apply Soothing Cold to yourself and allies within 7m of you. Soothing Cold instantly restores (40 Qualifier) <span class='text-dmg-armor-magic'>Magic Armor</span>, as well as at the start of the affected character's turn.\n<span class='text-cleanse'>Cleanses Poisoned, Scorched, Suffocating, and Brittle.</span></font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Restore 25% (+2.5% per <span class='text-water'>Hydrosophist</span>) of total <span class='text-dmg-armor-magic'>Magic Armor</span> on cast.\n<font color='46b195'>2 (requires 5 <span class='text-water'>Hydrosophist</span>): </font>Grants 30% missing <span class='text-dmg-armor-magic'>Magic Armor</span> regeneration (+2% per <span class='text-water'>Hydrosophist</span>). Grants 1 <span class='text-harried'>Harried</span> removal every turn.\n<font color='46b195'>3 (requires 9 <span class='text-water'>Hydrosophist</span>): </font>Grants 1 <span class='text-harried'>Harried</span> removal (+0.1 per <span class='text-water'>Hydrosophist</span>) every turn. Effect radius is increased to 10m. Recover 1SP.\n </font>",
     "StatsDescriptionParams": "StatusData:FROST_AURA:HealAmount;AreaRadius",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -4510,11 +4479,11 @@
     "ParsedMemorizationRequirements": {
       "WaterSpecialist": 1
     },
-    "BaseDescription": "Apply Soothing Cold to yourself and allies within 5m of you. Soothing Cold instantly restores (30 Qualifier) <span class='text-dmg-armor-magic'>Magic Armor</span>, as well as at the start of the affected character's turn.\n<span class='text-cleanse'>Cleanses Poisoned, Scorched, Suffocating, and Brittle.</span></font>\n\n<font color='46b195'>",
+    "BaseDescription": "Apply Soothing Cold to yourself and allies within 7m of you. Soothing Cold instantly restores (40 Qualifier) <span class='text-dmg-armor-magic'>Magic Armor</span>, as well as at the start of the affected character's turn.\n<span class='text-cleanse'>Cleanses Poisoned, Scorched, Suffocating, and Brittle.</span></font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>Restore 25% (+2.5% per <span class='text-water'>Hydrosophist</span>) of total <span class='text-dmg-armor-magic'>Magic Armor</span> on cast.\n<font color='46b195'>",
       "2": " </font>Grants 30% missing <span class='text-dmg-armor-magic'>Magic Armor</span> regeneration (+2% per <span class='text-water'>Hydrosophist</span>). Grants 1 <span class='text-harried'>Harried</span> removal every turn.\n<font color='46b195'>",
-      "3": " </font>Grants 1 <span class='text-harried'>Harried</span> removal (+0.1 per <span class='text-water'>Hydrosophist</span>) every turn. Recover 1SP.\n </font>"
+      "3": " </font>Grants 1 <span class='text-harried'>Harried</span> removal (+0.1 per <span class='text-water'>Hydrosophist</span>) every turn. Effect radius is increased to 10m. Recover 1SP.\n </font>"
     }
   },
   "Shout_FireBrand": {
@@ -4539,7 +4508,7 @@
     "MemorizationRequirements": "FireSpecialist 1; WarriorLore 1",
     "Icon": "Skill_Fire_FireBrand",
     "DisplayNameRef": "Fire Brand",
-    "DescriptionRef": "Apply Firebrand to yourself, granting a 8m aura that adds (Level-based) <span class='text-dmg-fire'>Fire Damage</span> (before modifiers) to weapon attacks for you and your allies.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Bonus damage increased by 25%. \n<font color='46b195'>2 (requires 5 <span class='text-pyro'>Pyrokinetic</span>): </font>Bonus damage increased by 55%. +1 turn duration.\n<font color='46b195'>3 (requires 9 <span class='text-pyro'>Pyrokinetic</span>): </font>Aura radius extended to 13m. Recover 1SP.\n </font>",
+    "DescriptionRef": "Apply Firebrand to yourself, granting a 8m aura that adds (Level-based) <span class='text-dmg-fire'>Fire Damage</span> (before modifiers) to weapon attacks for you and your allies.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Bonus damage increased by 85%. \n<font color='46b195'>2 (requires 5 <span class='text-pyro'>Pyrokinetic</span>): </font>Bonus damage increased by 85%. +1 turn duration.\n<font color='46b195'>3 (requires 9 <span class='text-pyro'>Pyrokinetic</span>): </font>Aura radius extended to 13m. Recover 1SP.\n </font>",
     "StatsDescriptionParams": "Weapon:Status_FireBrand:Damage;AreaRadius",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -4556,8 +4525,8 @@
     },
     "BaseDescription": "Apply Firebrand to yourself, granting a 8m aura that adds (Level-based) <span class='text-dmg-fire'>Fire Damage</span> (before modifiers) to weapon attacks for you and your allies.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
-      "1": " </font>Bonus damage increased by 25%. \n<font color='46b195'>",
-      "2": " </font>Bonus damage increased by 55%. +1 turn duration.\n<font color='46b195'>",
+      "1": " </font>Bonus damage increased by 85%. \n<font color='46b195'>",
+      "2": " </font>Bonus damage increased by 85%. +1 turn duration.\n<font color='46b195'>",
       "3": " </font>Aura radius extended to 13m. Recover 1SP.\n </font>"
     }
   },
@@ -4565,8 +4534,8 @@
     "id": "Shout_VacuumAura",
     "SkillType": "Shout",
     "Ability": "Air",
-    "ActionPoints": 4,
-    "Cooldown": 4,
+    "ActionPoints": 5,
+    "Cooldown": 5,
     "Damage Multiplier": "100",
     "Damage Range": "10",
     "DamageType": "Air",
@@ -4644,7 +4613,7 @@
     "MemorizationRequirements": "EarthSpecialist 1",
     "Icon": "Skill_Earth_MendMetal",
     "DisplayNameRef": "Mend Metal",
-    "DescriptionRef": "Apply Mend Metal to yourself and allies within 5m of you. Mend Metal instantly restores (30 Qualifier) <span class='text-dmg-armor-phys'>Physical Armor</span>, as well as at the start of the affected character's turn.\n<span class='text-cleanse'>Cleanses Calcifying, Charged, Acid and Bleeding.</span></font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Restore 25% <span class='text-dmg-armor-phys'>Physical Armor</span> (+2.5% per <span class='text-geo'>Geomancer</span>) on cast.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Restore 15% <span class='text-dmg-armor-phys'>Physical Armor</span> (+3% per <span class='text-geo'>Geomancer</span>) every turn. Remove 1 <span class='text-battered'>Battered</span> every turn.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Restore 25% <span class='text-dmg-armor-phys'>Physical Armor</span> (+2.5% per <span class='text-geo'>Geomancer</span>) on cast. Recover 1<span class='text-ap'>AP</span> and 1SP.\n </font>",
+    "DescriptionRef": "Apply Mend Metal to yourself and allies within 7m of you. Mend Metal instantly restores (40 Qualifier) <span class='text-dmg-armor-phys'>Physical Armor</span>, as well as at the start of the affected character's turn.\n<span class='text-cleanse'>Cleanses Calcifying, Charged, Acid and Bleeding.</span></font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Restore 25% <span class='text-dmg-armor-phys'>Physical Armor</span> (+2.5% per <span class='text-geo'>Geomancer</span>) on cast.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Restore 15% <span class='text-dmg-armor-phys'>Physical Armor</span> (+3% per <span class='text-geo'>Geomancer</span>) every turn. Effect radius is increased to 10m. Remove 1 <span class='text-battered'>Battered</span> every turn.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Restore 25% <span class='text-dmg-armor-phys'>Physical Armor</span> (+2.5% per <span class='text-geo'>Geomancer</span>) on cast. Recover 1<span class='text-ap'>AP</span> and 1SP.\n </font>",
     "StatsDescriptionParams": "StatusData:MEND_METAL:HealAmount;AreaRadius",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -4658,10 +4627,10 @@
     "ParsedMemorizationRequirements": {
       "EarthSpecialist": 1
     },
-    "BaseDescription": "Apply Mend Metal to yourself and allies within 5m of you. Mend Metal instantly restores (30 Qualifier) <span class='text-dmg-armor-phys'>Physical Armor</span>, as well as at the start of the affected character's turn.\n<span class='text-cleanse'>Cleanses Calcifying, Charged, Acid and Bleeding.</span></font>\n\n<font color='46b195'>",
+    "BaseDescription": "Apply Mend Metal to yourself and allies within 7m of you. Mend Metal instantly restores (40 Qualifier) <span class='text-dmg-armor-phys'>Physical Armor</span>, as well as at the start of the affected character's turn.\n<span class='text-cleanse'>Cleanses Calcifying, Charged, Acid and Bleeding.</span></font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>Restore 25% <span class='text-dmg-armor-phys'>Physical Armor</span> (+2.5% per <span class='text-geo'>Geomancer</span>) on cast.\n<font color='46b195'>",
-      "2": " </font>Restore 15% <span class='text-dmg-armor-phys'>Physical Armor</span> (+3% per <span class='text-geo'>Geomancer</span>) every turn. Remove 1 <span class='text-battered'>Battered</span> every turn.\n<font color='46b195'>",
+      "2": " </font>Restore 15% <span class='text-dmg-armor-phys'>Physical Armor</span> (+3% per <span class='text-geo'>Geomancer</span>) every turn. Effect radius is increased to 10m. Remove 1 <span class='text-battered'>Battered</span> every turn.\n<font color='46b195'>",
       "3": " </font>Restore 25% <span class='text-dmg-armor-phys'>Physical Armor</span> (+2.5% per <span class='text-geo'>Geomancer</span>) on cast. Recover 1<span class='text-ap'>AP</span> and 1SP.\n </font>"
     }
   },
@@ -4828,8 +4797,8 @@
     "MemorizationRequirements": "EarthSpecialist 1; Polymorph 1",
     "Icon": "Skill_Earth_SiphonPoison",
     "DisplayNameRef": "Siphon Poison",
-    "DescriptionRef": "Consume poison surfaces and clouds in a 8m radius around you, and add up to (Level-based) Poison Damage to your weapon, based on the size of the surface consumed.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Grants Immunity to Poisoned, +15% Poison resistance (+2% per <span class='text-geo'>Geomancer</span>), and you Poison those who attack you, for 3 turns.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Create an 8m solid circle of Poison around yourself before casting.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Recover 2<span class='text-ap'>AP</span> and 1SP.\n </font>",
-    "StatsDescriptionParams": "Weapon:Status_SiphonPoison:Damage;AreaRadius",
+    "DescriptionRef": "Coat your weapon with ill intent, adding (Level-based) Poison Damage to your weapon (before modifiers). Additionally, consume poison surfaces and clouds within 8m radius of you, gaining up to (Level-based) Poison Damage, based on the size of the surface and cloud consumed.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Grants Immunity to Poisoned, +15% Poison resistance (+2% per <span class='text-geo'>Geomancer</span>), and you Poison those who attack you, for 3 turns.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Create an 8m Poison cloud and surface around yourself before casting.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Recover 2<span class='text-ap'>AP</span> and 1SP.\n</font>  ",
+    "StatsDescriptionParams": "Weapon:Status_SiphonPoison:Damage;AreaRadius;Weapon:Status_Dummy_SiphonPoisonTooltip:Damage",
     "Memory Cost": "1",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4843,11 +4812,11 @@
       "EarthSpecialist": 1,
       "Polymorph": 1
     },
-    "BaseDescription": "Consume poison surfaces and clouds in a 8m radius around you, and add up to (Level-based) Poison Damage to your weapon, based on the size of the surface consumed.</font>\n\n<font color='46b195'>",
+    "BaseDescription": "Coat your weapon with ill intent, adding (Level-based) Poison Damage to your weapon (before modifiers). Additionally, consume poison surfaces and clouds within 8m radius of you, gaining up to (Level-based) Poison Damage, based on the size of the surface and cloud consumed.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>Grants Immunity to Poisoned, +15% Poison resistance (+2% per <span class='text-geo'>Geomancer</span>), and you Poison those who attack you, for 3 turns.\n<font color='46b195'>",
-      "2": " </font>Create an 8m solid circle of Poison around yourself before casting.\n<font color='46b195'>",
-      "3": " </font>Recover 2<span class='text-ap'>AP</span> and 1SP.\n </font>"
+      "2": " </font>Create an 8m Poison cloud and surface around yourself before casting.\n<font color='46b195'>",
+      "3": " </font>Recover 2<span class='text-ap'>AP</span> and 1SP.\n</font>  "
     }
   },
   "Shout_CloseTheDoor": {
@@ -5076,7 +5045,7 @@
     "MemorizationRequirements": "Polymorph 1",
     "Icon": "Skill_Polymorph_MedusaHead",
     "DisplayNameRef": "Aspect of the Gorgon",
-    "DescriptionRef": "Apply Aspect of the Gorgon to yourself, granting +40% earth resistance, an aura that applies Slowed I to enemies in a 8m radius, and Petrifying Visage. Petrifying Visage deals Earth damage to enemies in a 13m radius around you and applies Calcifying and up to Subjugated II. These effects are mutually exclusive with Aspect of the Bull.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+1 turn duration. Recover 1<span class='text-ap'>AP</span>.\n<font color='46b195'>2 (requires 5 <span class='text-poly'>Polymorph</span>): </font>Petrifying Visage occurs upon transforming. Petrifying Visage now costs 3 <span class='text-ap'>AP</span> and has a 1 turn cooldown. Recover 1SP.\n<font color='46b195'>3 (requires 9 <span class='text-poly'>Polymorph</span>): </font>Petrifying Visage occurs at the start of each turn. Petrifying Visage now costs 2 <span class='text-ap'>AP</span>. Recover 2<span class='text-ap'>AP</span>.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
+    "DescriptionRef": "Apply Aspect of the Gorgon to yourself, granting +40% earth resistance, an aura that applies Slowed I to enemies in a 8m radius, and Petrifying Visage. Petrifying Visage deals Earth damage to enemies in a 13m radius around you and applies Calcifying and up to Subjugated II. These effects are mutually exclusive with Aspect of the Bull.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Petrifying Visage occurs upon transforming.\n<font color='46b195'>2 (requires 5 <span class='text-poly'>Polymorph</span>): </font>+1 turn duration. Petrifying Visage now costs 3 <span class='text-ap'>AP</span> and has a 1 turn cooldown. Recover 1SP.\n<font color='46b195'>3 (requires 9 <span class='text-poly'>Polymorph</span>): </font>Petrifying Visage occurs at the start of each turn. Petrifying Visage now costs 2 <span class='text-ap'>AP</span>. Recover 2<span class='text-ap'>AP</span>.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
     "StatsDescriptionParams": "Potion:Stats_MedusaHead:EarthResistance;AreaRadius",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -5092,8 +5061,8 @@
     },
     "BaseDescription": "Apply Aspect of the Gorgon to yourself, granting +40% earth resistance, an aura that applies Slowed I to enemies in a 8m radius, and Petrifying Visage. Petrifying Visage deals Earth damage to enemies in a 13m radius around you and applies Calcifying and up to Subjugated II. These effects are mutually exclusive with Aspect of the Bull.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
-      "1": " </font>+1 turn duration. Recover 1<span class='text-ap'>AP</span>.\n<font color='46b195'>",
-      "2": " </font>Petrifying Visage occurs upon transforming. Petrifying Visage now costs 3 <span class='text-ap'>AP</span> and has a 1 turn cooldown. Recover 1SP.\n<font color='46b195'>",
+      "1": " </font>Petrifying Visage occurs upon transforming.\n<font color='46b195'>",
+      "2": " </font>+1 turn duration. Petrifying Visage now costs 3 <span class='text-ap'>AP</span> and has a 1 turn cooldown. Recover 1SP.\n<font color='46b195'>",
       "3": " </font>Petrifying Visage occurs at the start of each turn. Petrifying Visage now costs 2 <span class='text-ap'>AP</span>. Recover 2<span class='text-ap'>AP</span>.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
     }
   },
@@ -5144,15 +5113,15 @@
     "id": "Shout_Apotheosis",
     "SkillType": "Shout",
     "Ability": "Polymorph",
-    "ActionPoints": 4,
-    "Cooldown": 10,
+    "ActionPoints": 2,
+    "Cooldown": -1,
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
     "MemorizationRequirements": "Polymorph 3",
     "Icon": "Skill_Polymorph_Apotheosis",
     "DisplayNameRef": "Apotheosis",
     "DescriptionRef": "Apply Apotheosis to yourself for 2 turns, allowing you to continue Source Generation while active.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+1 turn duration (+0.1 per <span class='text-poly'>Polymorph</span>). Recover 1<span class='text-ap'>AP</span>.\n<font color='46b195'>2 (requires 5 <span class='text-poly'>Polymorph</span>): </font>+1 turn duration (+0.2 per <span class='text-poly'>Polymorph</span>). Recover 1<span class='text-ap'>AP</span>.\n<font color='46b195'>3 (requires 9 <span class='text-poly'>Polymorph</span>): </font>Source generation produces +1 SP each turn.\n </font>",
-    "Memory Cost": "2",
+    "Memory Cost": "1",
     "Magic Cost": "0",
     "Hidden": false,
     "Stealth": "No",
@@ -5753,7 +5722,7 @@
     "Ability": "Death",
     "ActionPoints": 4,
     "Cooldown": 5,
-    "MemorizationRequirements": "Necromancy 3; Summoning 1",
+    "MemorizationRequirements": "Necromancy 1; Summoning 1",
     "Memory Cost": "1",
     "Magic Cost": "0",
     "Icon": "Skill_Decay_RaiseBonePile",
@@ -5772,7 +5741,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {
-      "Necromancy": 3,
+      "Necromancy": 1,
       "Summoning": 1
     },
     "BaseDescription": "Raise an arachnid horror crafted from the bones of the fallen. The Bone Widow deals Physical damage with melee attacks, casts Burrow and Devour Corpse.</font>\n\n<font color='46b195'>",
@@ -5793,7 +5762,7 @@
     "Magic Cost": "0",
     "Icon": "Skill_Summoning_SummonIncarnate",
     "DisplayNameRef": "Conjure Incarnate",
-    "DescriptionRef": "Summon an Incarnate at target point and grant it a corresponding Infusion from the surface where it spawns, altering its attack damage type, resistances, and spells.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Incarnate gains 3 turns of Source Generation.\n<font color='46b195'>2 (requires 5 <span class='text-summon'>Summoning</span>): </font>Incarnate inherits your skill-ability scores and gains spells corresponding to its element: Vacuum Aura/ Dazing Bolt, Miasma/ Contamination, Fireball/ Ignition, Impalement/ Worm Tremor, Black Shroud/ Corpse Explosion, and Winter Blast/ Steam Lance. Incarnate is granted 1SP.\n<font color='46b195'>3 (requires 9 <span class='text-summon'>Summoning</span>): </font>Incarnate no longer counts against your summon limit. Incarnate is granted Source Vampirism and 1SP. Recover 1SP.\n </font>",
+    "DescriptionRef": "Summon an Incarnate at target point and grant it a corresponding Infusion from the surface where it spawns, altering its attack damage type, resistances, and spells.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Incarnate gains 3 turns of Source Generation.\n<font color='46b195'>2 (requires 5 <span class='text-summon'>Summoning</span>): </font>Incarnate inherits your skill-ability scores and gains spells corresponding to its element: Dazing Bolt/ Closed Circuit, Contamination/ Miasma, Fireball/ Spontaneous Combustion, Impalement/ Worm Tremor, Black Shroud/ Corpse Explosion, and Winter Blast/ Luminous Ritual. Incarnate is granted 1SP.\n<font color='46b195'>3 (requires 9 <span class='text-summon'>Summoning</span>): </font>Incarnate no longer counts against your summon limit. Incarnate is granted Source Vampirism and 1SP. Recover 1SP.\n </font>",
     "Hidden": false,
     "Stealth": "No",
     "UseWeaponDamage": false,
@@ -5812,7 +5781,7 @@
     "BaseDescription": "Summon an Incarnate at target point and grant it a corresponding Infusion from the surface where it spawns, altering its attack damage type, resistances, and spells.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>Incarnate gains 3 turns of Source Generation.\n<font color='46b195'>",
-      "2": " </font>Incarnate inherits your skill-ability scores and gains spells corresponding to its element: Vacuum Aura/ Dazing Bolt, Miasma/ Contamination, Fireball/ Ignition, Impalement/ Worm Tremor, Black Shroud/ Corpse Explosion, and Winter Blast/ Steam Lance. Incarnate is granted 1SP.\n<font color='46b195'>",
+      "2": " </font>Incarnate inherits your skill-ability scores and gains spells corresponding to its element: Dazing Bolt/ Closed Circuit, Contamination/ Miasma, Fireball/ Spontaneous Combustion, Impalement/ Worm Tremor, Black Shroud/ Corpse Explosion, and Winter Blast/ Luminous Ritual. Incarnate is granted 1SP.\n<font color='46b195'>",
       "3": " </font>Incarnate no longer counts against your summon limit. Incarnate is granted Source Vampirism and 1SP. Recover 1SP.\n </font>"
     }
   },
@@ -6523,7 +6492,7 @@
     "SkillProperties": {
       "Sabotage": {
         "params": [
-          "1"
+          "2"
         ],
         "name": "Sabotage",
         "prefixes": []
@@ -6553,7 +6522,7 @@
     "UseWeaponProperties": "No",
     "Icon": "AMER_Skill_Sabotage",
     "DisplayNameRef": "Sabotage",
-    "DescriptionRef": "Apply Sabotage to target character, which increases the cost of actions other than movement by 1 <span class='text-ap'>AP</span>.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+1 Sabotage turn duration. Attempt to sneak after casting.\n<font color='46b195'>2 (requires 5 <span class='text-rogue'>Scoundrel</span>): </font>Cast on all visible enemies within 13m. +1 exploded arrow or grenade per target.\n<font color='46b195'>3 (requires 9 <span class='text-rogue'>Scoundrel</span>): </font>Sabotage <span class='text-ap'>AP</span> cost increase +1. Recover 1SP.\n<font color='858580'  face=\"Averia Serif\">\n</font></font>",
+    "DescriptionRef": "Apply Sabotage to target character, which increases the cost of actions other than movement by 1 <span class='text-ap'>AP</span>. After Sabotage runs out, character gains Sabotage Immunity for 3 turns. During Sabotage Immunity the target is immune to the Sabotage status but grenades and arrows can still be exploded, and Dazzled can still be applied.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+2 exploded arrow or grenade per target. Attempt to sneak after casting.\n<font color='46b195'>2 (requires 5 <span class='text-rogue'>Scoundrel</span>): </font>Cast on all visible enemies within 13m. Recover 1SP.\n<font color='46b195'>3 (requires 9 <span class='text-rogue'>Scoundrel</span>): </font>+1 Sabotage turn duration. Sabotage <span class='text-ap'>AP</span> cost increase +1.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
     "Stealth": "Yes",
     "Hidden": false,
     "Damage Multiplier": "100",
@@ -6566,11 +6535,11 @@
       "FireSpecialist": 1,
       "RogueLore": 1
     },
-    "BaseDescription": "Apply Sabotage to target character, which increases the cost of actions other than movement by 1 <span class='text-ap'>AP</span>.</font>\n\n<font color='46b195'>",
+    "BaseDescription": "Apply Sabotage to target character, which increases the cost of actions other than movement by 1 <span class='text-ap'>AP</span>. After Sabotage runs out, character gains Sabotage Immunity for 3 turns. During Sabotage Immunity the target is immune to the Sabotage status but grenades and arrows can still be exploded, and Dazzled can still be applied.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
-      "1": " </font>+1 Sabotage turn duration. Attempt to sneak after casting.\n<font color='46b195'>",
-      "2": " </font>Cast on all visible enemies within 13m. +1 exploded arrow or grenade per target.\n<font color='46b195'>",
-      "3": " </font>Sabotage <span class='text-ap'>AP</span> cost increase +1. Recover 1SP.\n<font color='858580'  face=\"Averia Serif\">\n</font></font>"
+      "1": " </font>+2 exploded arrow or grenade per target. Attempt to sneak after casting.\n<font color='46b195'>",
+      "2": " </font>Cast on all visible enemies within 13m. Recover 1SP.\n<font color='46b195'>",
+      "3": " </font>+1 Sabotage turn duration. Sabotage <span class='text-ap'>AP</span> cost increase +1.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
     }
   },
   "Target_Farsight": {
@@ -6896,7 +6865,7 @@
       }
     },
     "TieredStatuses": [],
-    "MemorizationRequirements": "EarthSpecialist 1; Necromancy 1",
+    "MemorizationRequirements": "EarthSpecialist 1",
     "Memory Cost": "1",
     "Magic Cost": "0",
     "UseWeaponDamage": false,
@@ -6910,8 +6879,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {
-      "EarthSpecialist": 1,
-      "Necromancy": 1
+      "EarthSpecialist": 1
     },
     "BaseDescription": "Transmute metals to rust, destroying (110% Damage) <span class='text-dmg-armor-phys'>Physical Armor</span> on target character.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
@@ -7040,7 +7008,7 @@
     "UseWeaponProperties": "No",
     "Icon": "Skill_Fire_SpontaneousCombustion",
     "DisplayNameRef": "Spontaneous Combustion",
-    "DescriptionRef": "Flames that rack target character surge and explode, dealing 75% <span class='text-dmg-fire'>Fire Damage</span>. If the target is affected by Scorched, remove it and deal additional Fire damage for each turn of duration it had remaining to characters in a 2m radius.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Apply 1 stack of <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> for each turn of Scorched on the target.\n<font color='46b195'>2 (requires 5 <span class='text-pyro'>Pyrokinetic</span>): </font>Apply Scorched for 4 turns before casting. Apply Disintegrating: Fire 25% (+2.5% per <span class='text-pyro'>Pyrokinetic</span>) while casting: Target suffers the listed percent of all damage taken (while Disintegrating) again as Fire when Disintegrating expires.\n<font color='46b195'>3 (requires 9 <span class='text-pyro'>Pyrokinetic</span>): </font>Disintegrating lasts until the end of your turn and causes combustion (as per this spell) of Scorched when it is applied.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
+    "DescriptionRef": "Flames that rack target character surge and explode, dealing 75% <span class='text-dmg-fire'>Fire Damage</span>. If the target is affected by Scorched, remove it and deal additional Fire damage for each turn of duration it had remaining to characters in a 2m radius.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Apply 1 stack of <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> for each turn of Scorched on the target.\n<font color='46b195'>2 (requires 5 <span class='text-pyro'>Pyrokinetic</span>): </font>Apply Scorched for 4 turns before casting. Apply Disintegrating: Fire 25% (+2.5% per <span class='text-pyro'>Pyrokinetic</span>) while casting: Target suffers the listed percent of all damage taken (while Disintegrating) again as Fire when Disintegrating expires.\n<font color='46b195'>3 (requires 9 <span class='text-pyro'>Pyrokinetic</span>): </font>Disintegrating lasts for 1 turn and causes combustion (as per this spell) of Scorched when it is applied.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "Stealth": "No",
@@ -7053,7 +7021,7 @@
     "SourceInfusions": {
       "1": " </font>Apply 1 stack of <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> for each turn of Scorched on the target.\n<font color='46b195'>",
       "2": " </font>Apply Scorched for 4 turns before casting. Apply Disintegrating: Fire 25% (+2.5% per <span class='text-pyro'>Pyrokinetic</span>) while casting: Target suffers the listed percent of all damage taken (while Disintegrating) again as Fire when Disintegrating expires.\n<font color='46b195'>",
-      "3": " </font>Disintegrating lasts until the end of your turn and causes combustion (as per this spell) of Scorched when it is applied.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
+      "3": " </font>Disintegrating lasts for 1 turn and causes combustion (as per this spell) of Scorched when it is applied.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
     }
   },
   "Target_WinterBlast": {
@@ -7618,7 +7586,7 @@
     "Ability": "None",
     "ActionPoints": 2,
     "Cooldown": 3,
-    "Damage Multiplier": "100",
+    "Damage Multiplier": "110",
     "Damage Range": "10",
     "DamageType": "Earth",
     "SkillProperties": {
@@ -7648,7 +7616,7 @@
     "UseWeaponProperties": "No",
     "Icon": "Skill_Earth_Metamorph",
     "DisplayNameRef": "Petrifying Touch",
-    "DescriptionRef": "Rapidly calcify target character, dealing 100% <span class='text-dmg-earth'>Earth Damage</span>.\n\n<font color='858580'  face=\"Averia Serif\">\n</font>",
+    "DescriptionRef": "Rapidly calcify target character, dealing 110% <span class='text-dmg-earth'>Earth Damage</span>.\n\n<font color='858580'  face=\"Averia Serif\">\n</font>",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "MemorizationRequirements": "",
@@ -7656,7 +7624,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Rapidly calcify target character, dealing 100% <span class='text-dmg-earth'>Earth Damage</span>.\n\n<font color='858580'  face=\"Averia Serif\">\n</font>",
+    "BaseDescription": "Rapidly calcify target character, dealing 110% <span class='text-dmg-earth'>Earth Damage</span>.\n\n<font color='858580'  face=\"Averia Serif\">\n</font>",
     "SourceInfusions": {}
   },
   "Target_ShockingTouch": {
@@ -7907,13 +7875,13 @@
     },
     "TieredStatuses": [],
     "MemorizationRequirements": "Necromancy 3",
-    "Memory Cost": "2",
+    "Memory Cost": "1",
     "Magic Cost": "0",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
     "Icon": "Skill_Decay_ShacklesOfPain",
     "DisplayNameRef": "Shackles Of Pain",
-    "DescriptionRef": "Apply Shackles of Pain to target character. Whenever you receive damage, Shackles of Pain causes the affected character to receive damage of an equivalent amount and type.\n\n<font color=\"c80030\">While active, Shackles of Pain reduces the effect of your Power attribute by 75%.</font></font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Power attribute penalty is reduced by 5% per <span class='text-necro'>Necromancer</span>, to a minimum penalty of -25%.\n<font color='46b195'>2 (requires 5 <span class='text-necro'>Necromancer</span>): </font>Also cast on the nearest visible enemy to your target, that is within 13m.\n<font color='46b195'>3 (requires 9 <span class='text-necro'>Necromancer</span>): </font>Also cast on all other visible enemies within 13m.\n </font>",
+    "DescriptionRef": "Apply Shackles of Pain to target character. Whenever you receive damage, Shackles of Pain causes the affected character to receive damage of an equivalent amount and type. If the target ends their turn 13m or further away from the caster, the shackles break, ending their effects, but applying up to <span class='text-subjugated'>Subjugated III</span> to the target.\n\n<font color='c80030'>While active, Shackles of Pain reduces the effect of your Power attribute by 75%.</font></font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Power attribute penalty is reduced by 5% per <span class='text-necro'>Necromancer</span>, to a minimum penalty of -25%.\n<font color='46b195'>2 (requires 5 <span class='text-necro'>Necromancer</span>): </font>Also cast on the nearest visible enemy to your target, that is within 13m.\n<font color='46b195'>3 (requires 9 <span class='text-necro'>Necromancer</span>): </font>Also cast on all other visible enemies within 13m.\n </font>",
     "Hidden": false,
     "Stealth": "No",
     "Damage Multiplier": "100",
@@ -7925,7 +7893,7 @@
     "ParsedMemorizationRequirements": {
       "Necromancy": 3
     },
-    "BaseDescription": "Apply Shackles of Pain to target character. Whenever you receive damage, Shackles of Pain causes the affected character to receive damage of an equivalent amount and type.\n\n<font color=\"c80030\">While active, Shackles of Pain reduces the effect of your Power attribute by 75%.</font></font>\n\n<font color='46b195'>",
+    "BaseDescription": "Apply Shackles of Pain to target character. Whenever you receive damage, Shackles of Pain causes the affected character to receive damage of an equivalent amount and type. If the target ends their turn 13m or further away from the caster, the shackles break, ending their effects, but applying up to <span class='text-subjugated'>Subjugated III</span> to the target.\n\n<font color='c80030'>While active, Shackles of Pain reduces the effect of your Power attribute by 75%.</font></font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>Power attribute penalty is reduced by 5% per <span class='text-necro'>Necromancer</span>, to a minimum penalty of -25%.\n<font color='46b195'>",
       "2": " </font>Also cast on the nearest visible enemy to your target, that is within 13m.\n<font color='46b195'>",
@@ -8649,7 +8617,7 @@
     "SkillType": "Target",
     "Ability": "Air",
     "ActionPoints": 2,
-    "Cooldown": 4,
+    "Cooldown": 5,
     "SkillProperties": {
       "WIND_WALKER": {
         "params": [
@@ -8661,14 +8629,14 @@
       }
     },
     "TieredStatuses": [],
-    "MemorizationRequirements": "AirSpecialist 1",
+    "MemorizationRequirements": "AirSpecialist 3",
     "Memory Cost": "1",
     "Magic Cost": "0",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
     "Icon": "Skill_Air_WindWalker",
     "DisplayNameRef": "Erratic Wisp",
-    "DescriptionRef": "Apply Erratic Wisp to target character, granting +40% Air Resistance and causing them to teleport up to 10m in a random direction whenever they suffer weapon damage.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Grants +1.0 movement.\n<font color='46b195'>2 (requires 5 <span class='text-aero'>Aerotheurge</span>): </font>+1 turn duration. Caster and target are both affected.\n<font color='46b195'>3 (requires 9 <span class='text-aero'>Aerotheurge</span>): </font>Grants: when suffering stacks of <span class='text-battered'>Battered</span> or <span class='text-harried'>Harried</span>, reduce the number applied by 1. Apply to all allies within 13m.\n </font>",
+    "DescriptionRef": "Apply Erratic Wisp to target character, granting +40% Air Resistance, immunity to surfaces, and causing them to teleport up to 10m in a random direction whenever they suffer weapon damage.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Grants +1.0 movement.\n<font color='46b195'>2 (requires 5 <span class='text-aero'>Aerotheurge</span>): </font>+1 turn duration. Caster and target are both affected.\n<font color='46b195'>3 (requires 9 <span class='text-aero'>Aerotheurge</span>): </font>Grants: when suffering stacks of <span class='text-battered'>Battered</span> or <span class='text-harried'>Harried</span>, reduce the number applied by 1. Apply to all allies within 13m.\n </font>",
     "StatsDescriptionParams": "Potion:Stats_WindWalker:AirResistance",
     "Hidden": false,
     "Stealth": "No",
@@ -8678,9 +8646,9 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {
-      "AirSpecialist": 1
+      "AirSpecialist": 3
     },
-    "BaseDescription": "Apply Erratic Wisp to target character, granting +40% Air Resistance and causing them to teleport up to 10m in a random direction whenever they suffer weapon damage.</font>\n\n<font color='46b195'>",
+    "BaseDescription": "Apply Erratic Wisp to target character, granting +40% Air Resistance, immunity to surfaces, and causing them to teleport up to 10m in a random direction whenever they suffer weapon damage.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>Grants +1.0 movement.\n<font color='46b195'>",
       "2": " </font>+1 turn duration. Caster and target are both affected.\n<font color='46b195'>",
@@ -8735,7 +8703,7 @@
     "UseWeaponProperties": "Yes",
     "Icon": "Skill_Warrior_Onslaught",
     "DisplayNameRef": "Onslaught",
-    "DescriptionRef": "Assail target character with five reckless strikes, each dealing 50% <span class='text-dmg-phys'>Weapon Damage</span>.\n<font color='c80030'>Pay up to 3 more <span class='text-ap'>AP</span>:</font> For each <span class='text-ap'>AP</span> you cannot pay in this way, apply 2 <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> to yourself.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>You are left with at least 1<span class='text-ap'>AP</span> after casting. +5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-warfare'>Warfare</span>): </font>Failing to pay <span class='text-ap'>AP</span> no longer applies <span class='text-battered'>Battered</span> or <span class='text-harried'>Harried</span>. +35% damage (+7% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>3 (requires 9 <span class='text-warfare'>Warfare</span>): </font>Gain an Empowered Onslaught spell that costs 2 <span class='text-ap'>AP</span>, only requires payment of up to 2 more <span class='text-ap'>AP</span>, always leaves you with at least 1<span class='text-ap'>AP</span>, and has a 1 turn cooldown, for 3 turns.\n </font>",
+    "DescriptionRef": "Assail target character with five reckless strikes, each dealing 50% <span class='text-dmg-phys'>Weapon Damage</span>.\n<font color='c80030'>Pay up to 3 more <span class='text-ap'>AP</span>:</font> For each <span class='text-ap'>AP</span> you cannot pay in this way, apply 2 <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> to yourself.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>You are left with at least 1<span class='text-ap'>AP</span> after casting. +5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-warfare'>Warfare</span>): </font>Failing to pay <span class='text-ap'>AP</span> no longer applies <span class='text-battered'>Battered</span> or <span class='text-harried'>Harried</span>. +40% damage (+8% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>3 (requires 9 <span class='text-warfare'>Warfare</span>): </font>Gain an Empowered Onslaught spell that costs 2 <span class='text-ap'>AP</span>, only requires payment of up to 2 more <span class='text-ap'>AP</span>, always leaves you with at least 1<span class='text-ap'>AP</span>, and has a 1 turn cooldown, for 3 turns.\n </font>",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "Stealth": "No",
@@ -8751,7 +8719,7 @@
     "BaseDescription": "Assail target character with five reckless strikes, each dealing 50% <span class='text-dmg-phys'>Weapon Damage</span>.\n<font color='c80030'>Pay up to 3 more <span class='text-ap'>AP</span>:</font> For each <span class='text-ap'>AP</span> you cannot pay in this way, apply 2 <span class='text-battered'>Battered</span> and <span class='text-harried'>Harried</span> to yourself.</font>\n\n<font color='46b195'>",
     "SourceInfusions": {
       "1": " </font>You are left with at least 1<span class='text-ap'>AP</span> after casting. +5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>",
-      "2": " </font>Failing to pay <span class='text-ap'>AP</span> no longer applies <span class='text-battered'>Battered</span> or <span class='text-harried'>Harried</span>. +35% damage (+7% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>",
+      "2": " </font>Failing to pay <span class='text-ap'>AP</span> no longer applies <span class='text-battered'>Battered</span> or <span class='text-harried'>Harried</span>. +40% damage (+8% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>",
       "3": " </font>Gain an Empowered Onslaught spell that costs 2 <span class='text-ap'>AP</span>, only requires payment of up to 2 more <span class='text-ap'>AP</span>, always leaves you with at least 1<span class='text-ap'>AP</span>, and has a 1 turn cooldown, for 3 turns.\n </font>"
     }
   },
@@ -8922,8 +8890,8 @@
     "id": "Target_ChickenTouch",
     "SkillType": "Target",
     "Ability": "Polymorph",
-    "ActionPoints": 1,
-    "Cooldown": 2,
+    "ActionPoints": 2,
+    "Cooldown": 3,
     "MemorizationRequirements": "Polymorph 1",
     "Memory Cost": "1",
     "Magic Cost": "0",
@@ -9293,6 +9261,15 @@
     "ActionPoints": 1,
     "Cooldown": 2,
     "SkillProperties": {
+      "TargetCreateSurface": {
+        "params": [
+          "1",
+          "2",
+          "WaterElectrified"
+        ],
+        "name": "TargetCreateSurface",
+        "prefixes": []
+      },
       "AMER_ATAXIA_2": {
         "params": [
           "100",
@@ -9549,13 +9526,13 @@
     "id": "Wall_LivingWall",
     "SkillType": "Wall",
     "Ability": "Earth",
-    "ActionPoints": 2,
+    "ActionPoints": 5,
     "Cooldown": 5,
     "Icon": "Skill_Earth_LivingWall",
     "DisplayNameRef": "Living Wall",
     "DescriptionRef": "A wall of roots up to 7m long erupts from the earth, dealing 60% <span class='text-dmg-earth'>Earth Damage</span>, applying Calcifying for 2 turns, and up to <span class='text-slowed'>Slowed III</span> for 2 turns to those caught within. The wall blocks vision, projectiles, and movement, and lasts for 2 turns. Characters caught within the wall as it is created are able to move out of it.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+25% damage (+4% per <span class='text-geo'>Geomancer</span>) while casting.\n<font color='46b195'>2 (requires 5 <span class='text-geo'>Geomancer</span>): </font>Gain an Empowered Living Wall spell, until the end of your turn, that costs zero <span class='text-ap'>AP</span>.\n<font color='46b195'>3 (requires 9 <span class='text-geo'>Geomancer</span>): </font>Gain an Empowered Living Wall spell, for 3 turns, that costs 3<span class='text-ap'>AP</span> and has no cooldown. Recover 1SP.\n<font color='858580'  face='Averia Serif'>\n</font></font>",
     "StatsDescriptionParams": "Skill:Projectile_AMER_SCRIPT_LivingWall:Damage;MaxDistance;Lifetime",
-    "Memory Cost": "1",
+    "Memory Cost": "2",
     "Magic Cost": "0",
     "MemorizationRequirements": "EarthSpecialist 3",
     "Hidden": false,
@@ -9636,30 +9613,30 @@
     "id": "Jump_AMER_EscapistJump",
     "SkillType": "Jump",
     "Ability": "None",
-    "ActionPoints": 1,
+    "ActionPoints": 0,
     "Cooldown": 1,
-    "SkillProperties": {},
-    "TieredStatuses": [],
-    "Icon": "Skill_Ranger_TacticalRetreat",
+    "Icon": "EscapistNew",
     "DisplayNameRef": "Escapist",
-    "DescriptionRef": "Jump to target point within 4m. This ability can be used even while rendered immobile.",
+    "DescriptionRef": "Jump to target point within 5m. This ability can be used even while rendered immobile.",
     "Memory Cost": "0",
     "Magic Cost": "0",
-    "MemorizationRequirements": "RangerLore 3",
-    "StatsDescriptionParams": "TargetRadius",
+    "MemorizationRequirements": "RogueLore 3",
     "Stealth": "Yes",
+    "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
     "Damage Multiplier": "100",
     "Damage Range": "10",
     "DamageType": "None",
+    "SkillProperties": [],
+    "TieredStatuses": {},
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {
-      "RangerLore": 3
+      "RogueLore": 3
     },
-    "BaseDescription": "Jump to target point within 4m. This ability can be used even while rendered immobile.",
+    "BaseDescription": "Jump to target point within 5m. This ability can be used even while rendered immobile.",
     "SourceInfusions": {}
   },
   "Projectile_BouncingShield_TheArena": {
@@ -10169,13 +10146,13 @@
     "id": "Summon_AMER_BoneshapedCrusher",
     "SkillType": "Summon",
     "Ability": "Summoning",
-    "ActionPoints": 2,
+    "ActionPoints": 4,
     "Cooldown": 5,
     "Memory Cost": "0",
     "Magic Cost": "0",
     "Icon": "AMER_Skill_BoneCrusher",
     "DisplayNameRef": "Summon Boneshaped Crusher",
-    "DescriptionRef": "Raise a hulking construct of coalesced bones that can cast Battle Stomp, Battering Ram, Black Shroud, Bone Cage, Necrotheosis, and Corpse Explosion.\n\n<font color='858580'  face='Averia Serif'>This summon does not count against your summon limit.</font></font> ",
+    "DescriptionRef": "Raise a hulking construct of coalesced bones that can cast Battle Stomp, Battering Ram, Black Shroud, Bone Cage, Necrotheosis, and Corpse Explosion.\nBoneshaped Crusher starts with 2 turns of Source Generation and 1 Source Point.\n\n<font color='858580'  face='Averia Serif'>This summon does not count against your summon limit.</font></font> ",
     "Hidden": false,
     "MemorizationRequirements": "",
     "Stealth": "No",
@@ -10190,7 +10167,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Raise a hulking construct of coalesced bones that can cast Battle Stomp, Battering Ram, Black Shroud, Bone Cage, Necrotheosis, and Corpse Explosion.\n\n<font color='858580'  face='Averia Serif'>This summon does not count against your summon limit.</font></font> ",
+    "BaseDescription": "Raise a hulking construct of coalesced bones that can cast Battle Stomp, Battering Ram, Black Shroud, Bone Cage, Necrotheosis, and Corpse Explosion.\nBoneshaped Crusher starts with 2 turns of Source Generation and 1 Source Point.\n\n<font color='858580'  face='Averia Serif'>This summon does not count against your summon limit.</font></font> ",
     "SourceInfusions": {}
   },
   "Summon_AMER_AccursedVessel": {
@@ -10466,7 +10443,7 @@
     "UseWeaponProperties": "No",
     "Icon": "Skill_Water_HailStorm",
     "DisplayNameRef": "Blizzard",
-    "DescriptionRef": "Summon a boreal tempest that, when cast and at the end of each of your turns thereafter for 2 turns, causes 5 shards of ice to strike onto the 5m radius, preferring to directly strike enemies once each - any remaining strikes occur randomly within the radius. Each strike deals 50% <span class='text-dmg-water'>Water Damage</span> in a 3m radius to enemies.\n\n<font color='858580'  face='Averia Serif'>May be moved once each turn.</font></font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+1 turn duration.\n<font color='46b195'>2 (requires 5 <span class='text-water'>Hydrosophist</span>): </font>Ice shards now apply 1 stack of <span class='text-harried'>Harried</span>.\n<font color='46b195'>3 (requires 9 <span class='text-water'>Hydrosophist</span>): </font>+3 ice shards. Ice shards now apply Suffocating for 1 turn. Recover 1SP.\n </font>",
+    "DescriptionRef": "Summon a boreal tempest that, when cast and at the end of each of your turns thereafter for 2 turns, causes 5 shards of ice to strike onto the 5m radius, preferring to directly strike enemies once each - any remaining strikes occur randomly within the radius. Each strike deals 50% <span class='text-dmg-water'>Water Damage</span> in a 3m radius to enemies.\n\n<font color='858580'  face='Averia Serif'>May be moved once each turn.</font></font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>+1 turn duration.\n<font color='46b195'>2 (requires 5 <span class='text-water'>Hydrosophist</span>): </font>Ice shards now apply 1 stack of <span class='text-harried'>Harried</span>.\n<font color='46b195'>3 (requires 9 <span class='text-water'>Hydrosophist</span>): </font>+3 ice shards. Ice shards now apply up to <span class='text-slowed'>Slowed III</span>. Recover 1SP.\n </font>",
     "StatsDescriptionParams": "Skill:ProjectileStrike_AMER_SCRIPT_HailAttack:Damage;AreaRadius;Skill:ProjectileStrike_AMER_SCRIPT_HailAttack:ExplodeRadius",
     "Hidden": false,
     "Stealth": "No",
@@ -10484,14 +10461,14 @@
     "SourceInfusions": {
       "1": " </font>+1 turn duration.\n<font color='46b195'>",
       "2": " </font>Ice shards now apply 1 stack of <span class='text-harried'>Harried</span>.\n<font color='46b195'>",
-      "3": " </font>+3 ice shards. Ice shards now apply Suffocating for 1 turn. Recover 1SP.\n </font>"
+      "3": " </font>+3 ice shards. Ice shards now apply up to <span class='text-slowed'>Slowed III</span>. Recover 1SP.\n </font>"
     }
   },
   "Target_AMER_Storm_Ethereal": {
     "id": "Target_AMER_Storm_Ethereal",
     "SkillType": "Target",
     "Ability": "Summoning",
-    "ActionPoints": 6,
+    "ActionPoints": 5,
     "Cooldown": 5,
     "MemorizationRequirements": "Summoning 5",
     "Memory Cost": "2",
@@ -11072,104 +11049,6 @@
       "1": " </font>Until the end of your turn, applying Brittle will deal 50% <span class='text-dmg-water'>Water Damage</span>.\n<font color='46b195'>",
       "2": " </font>For 1 turn, applying Brittle will deal 50% <span class='text-dmg-water'>Water Damage</span>. Recover 3<span class='text-ap'>AP</span> and 1SP.\n<font color='46b195'>",
       "3": " </font>Instead of previous Source Infusion effects: For 3 turns, applying Brittle will deal 50% <span class='text-dmg-water'>Water Damage</span>. Repeat base effects and recover 4<span class='text-ap'>AP</span>.\n<font color='858580'  face='Averia Serif'>\n</font></font>"
-    }
-  },
-  "Projectile_DimensionalBolt_SI1": {
-    "id": "Projectile_DimensionalBolt_SI1",
-    "SkillType": "Projectile",
-    "Ability": "Summoning",
-    "ActionPoints": 4,
-    "Cooldown": 1,
-    "Damage Multiplier": "40",
-    "Damage Range": "10",
-    "DamageType": "Chaos",
-    "SkillProperties": {
-      "TargetCreateSurface": {
-        "params": [
-          "1",
-          "2",
-          "DamageType"
-        ],
-        "name": "TargetCreateSurface",
-        "prefixes": []
-      },
-      "AMER_BLIND_APPLY": {
-        "params": [
-          "100",
-          "2"
-        ],
-        "name": "Dazzled III",
-        "prefixes": []
-      }
-    },
-    "TieredStatuses": [
-      "AMER_BLIND_APPLY"
-    ],
-    "ExplodeRadius": "1",
-    "UseWeaponDamage": false,
-    "UseWeaponProperties": "No",
-    "Icon": "Skill_Summoning_DimensionalBolt",
-    "DisplayNameRef": "Dimensional Bolt",
-    "DescriptionRef": "Fire a bolt of chaotic energy at target character, dealing 40%  damage of a random type and creating a corresponding surface in a 1m radius.\n\n\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Fire three additional Dimensional Bolts, each dealing 40%  damage of a random type and creating corresponding surface in a 1m radius.\n<font color='46b195'>2 (requires 5 <span class='text-summon'>Summoning</span>): </font>Strike every enemy within 8m 4 times, dealing 60% <span class='text-dmg-earth'>Earth Damage</span>, 60% <span class='text-dmg-fire'>Fire Damage</span>, 60% <span class='text-dmg-water'>Water Damage</span> and 60% <span class='text-dmg-air'>Air Damage</span> in a 2m radius, applying corresponding statuses and creating corresponding surfaces.\n<font color='46b195'>3 (requires 9 <span class='text-summon'>Summoning</span>): </font>Detonate Brittle on every enemy within 8m. Gain Empowered Throw Dust, Empowered Fire Whip, Empowered Winter Blast and Empowered Chain Lightning for 1 turn. \n<font color='858580'  face='Averia Serif'>\n</font></font>",
-    "StatsDescriptionParams": "Damage;Skill:Projectile_DimensionalBolt_SI1:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Oil:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Fire:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Ice:Damage;Skill:Derpy_ProjectileStrike_Stormbolt_Zap:Damage",
-    "MemorizationRequirements": "Summoning 1",
-    "Memory Cost": "1",
-    "Magic Cost": "0",
-    "Hidden": true,
-    "Stealth": "No",
-    "IsEnemySkill": "No",
-    "ParsedMemorizationRequirements": {
-      "Summoning": 1
-    },
-    "BaseDescription": "Fire a bolt of chaotic energy at target character, dealing 40%  damage of a random type and creating a corresponding surface in a 1m radius.\n\n\n\n<font color='46b195'>",
-    "SourceInfusions": {
-      "1": " </font>Fire three additional Dimensional Bolts, each dealing 40%  damage of a random type and creating corresponding surface in a 1m radius.\n<font color='46b195'>",
-      "2": " </font>Strike every enemy within 8m 4 times, dealing 60% <span class='text-dmg-earth'>Earth Damage</span>, 60% <span class='text-dmg-fire'>Fire Damage</span>, 60% <span class='text-dmg-water'>Water Damage</span> and 60% <span class='text-dmg-air'>Air Damage</span> in a 2m radius, applying corresponding statuses and creating corresponding surfaces.\n<font color='46b195'>",
-      "3": " </font>Detonate Brittle on every enemy within 8m. Gain Empowered Throw Dust, Empowered Fire Whip, Empowered Winter Blast and Empowered Chain Lightning for 1 turn. \n<font color='858580'  face='Averia Serif'>\n</font></font>"
-    }
-  },
-  "Projectile_Multishot_SI1": {
-    "id": "Projectile_Multishot_SI1",
-    "SkillType": "Projectile",
-    "Ability": "Ranger",
-    "ActionPoints": 4,
-    "Cooldown": 3,
-    "Damage Multiplier": "40",
-    "ExplodeRadius": "2",
-    "SkillProperties": {
-      "TargetCreateSurface": {
-        "params": [
-          "2",
-          "2",
-          "DamageType"
-        ],
-        "name": "TargetCreateSurface",
-        "prefixes": []
-      }
-    },
-    "TieredStatuses": [],
-    "DamageType": "Chaos",
-    "UseWeaponDamage": true,
-    "UseWeaponProperties": "Yes",
-    "Icon": "Skill_Ranger_Multishot",
-    "DisplayNameRef": "Barrage",
-    "DescriptionRef": "Fire 3 volatile arrows, each dealing 40% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface in a 2m radius.</font>\n\n<font color='46b195'>Source Infusions:</font><font size='17'>\n<font color='46b195'>1: </font>Fire an additional arrow at each location, dealing 40% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface.\n<font color='46b195'>2 (requires 5 <span class='text-huntsman'>Huntsman</span>): </font>Rain down a Fireball at each location.\n<font color='46b195'>3 (requires 9 <span class='text-huntsman'>Huntsman</span>): </font>Gain Inner Demon for 3 turns before firing then cast Impalement at each location.\n </font>",
-    "StatsDescriptionParams": "Damage;ProjectileCount;Skill:Projectile_Multishot_SI1:Damage",
-    "MemorizationRequirements": "RangerLore 3",
-    "Memory Cost": "1",
-    "Magic Cost": "0",
-    "Hidden": true,
-    "Stealth": "No",
-    "Damage Range": "10",
-    "IsEnemySkill": "No",
-    "ParsedMemorizationRequirements": {
-      "RangerLore": 3
-    },
-    "BaseDescription": "Fire 3 volatile arrows, each dealing 40% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface in a 2m radius.</font>\n\n<font color='46b195'>",
-    "SourceInfusions": {
-      "1": " </font>Fire an additional arrow at each location, dealing 40% <span class='text-dmg-phys'>Weapon Damage</span> damage of a random type and creating corresponding surface.\n<font color='46b195'>",
-      "2": " </font>Rain down a Fireball at each location.\n<font color='46b195'>",
-      "3": " </font>Gain Inner Demon for 3 turns before firing then cast Impalement at each location.\n </font>"
     }
   },
   "ProjectileStrike_MalleusMaleficarum_DazingBolt": {
