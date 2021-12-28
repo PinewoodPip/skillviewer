@@ -4,4 +4,8 @@ key "CarryWeightBase","300000"
 
 key "TalentCivilAbilityPointsBonus","2"
 
-key "CharacterBaseMemoryCapacity","5"
+key "CharacterBaseMemoryCapacity","6"
+
+key "CharacterBaseMemoryCapacityGrowth","0.75"
+
+key "TalentMemoryBonus","5"
