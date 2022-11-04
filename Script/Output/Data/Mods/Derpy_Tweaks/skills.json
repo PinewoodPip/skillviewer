@@ -11553,7 +11553,7 @@
     "Damage Multiplier": "50",
     "Damage Range": "10",
     "DescriptionRef": "None",
-    "Hidden": false,
+    "Hidden": true,
     "Ability": "None",
     "ActionPoints": 0,
     "Cooldown": 0,

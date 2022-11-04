@@ -153,6 +153,7 @@ hiddenSkills = [
     "ProjectileStrike_MalleusMaleficarum_DazingBolt",
     "Projectile_Multishot_SI1",
     "Projectile_DimensionalBolt_SI1",
+    "Projectile_Derpy_SuckerPunch",
 
 
     
