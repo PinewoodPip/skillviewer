@@ -1917,7 +1917,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "100",
     "Damage Range": "10",
@@ -1945,7 +1945,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "10",
@@ -1982,7 +1982,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "AMER_BLIND_2": {
@@ -2019,7 +2019,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2066,7 +2066,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "120",
     "Damage Range": "30",
@@ -2095,7 +2095,7 @@
     "ExplodeRadius": "2",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_Molotov_Cursed",
+    "Icon": "Item_GRN_Molotov",
     "DisplayNameRef": "Cursed Firestorm Grenade",
     "DescriptionRef": "This cursed bottle deals 120% <span class='text-dmg-fire'>Fire Damage</span> and creates a cursed fire surface within target 2m radius.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
@@ -2113,7 +2113,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 2,
     "SkillProperties": {
       "AMER_ENTHRALLED_2": {
@@ -2150,7 +2150,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 2,
     "SkillProperties": {
       "AMER_ENTHRALLED_APPLY": {
@@ -2189,7 +2189,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2226,7 +2226,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 2,
     "SkillProperties": {
       "AMER_TERRIFIED_2": {
@@ -2263,7 +2263,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2315,7 +2315,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "HEALING": {
@@ -2341,7 +2341,7 @@
     "ExplodeRadius": "2",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_Ice_Blessed",
+    "Icon": "Item_GRN_Ice",
     "DisplayNameRef": "Blessed Ice Grenade",
     "DescriptionRef": "Creates a blessed frozen water surface and applies a healing effect to characters within 2m of target point for 2 turns. Heals (100 Qualifier) Vitality.",
     "StatsDescriptionParams": "StatusData:HEALING:HealAmount;ExplodeRadius",
@@ -2362,7 +2362,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "HolyGrenadeHeal": {
@@ -2399,7 +2399,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2436,7 +2436,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2478,7 +2478,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2530,7 +2530,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2561,7 +2561,7 @@
     "ExplodeRadius": "3",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_WaterBalloon_Blessed",
+    "Icon": "Item_GRN_WaterBalloon",
     "DisplayNameRef": "Blessed Water Balloon",
     "DescriptionRef": "Creates a blessed water surface within target 3m radius.",
     "StatsDescriptionParams": "ExplodeRadius",
@@ -2582,7 +2582,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "AMER_BLIND_2": {
@@ -2619,7 +2619,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2666,7 +2666,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2705,7 +2705,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2723,7 +2723,7 @@
     "ExplodeRadius": "2",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_OilFlask_Blessed",
+    "Icon": "Item_GRN_OilFlask",
     "DisplayNameRef": "Blessed Oil Flask",
     "DescriptionRef": "Creates a blessed oil surface within target 2m radius.",
     "StatsDescriptionParams": "ExplodeRadius",
@@ -2744,7 +2744,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2791,7 +2791,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "100",
     "Damage Range": "30",
@@ -3002,7 +3002,7 @@
     "id": "ProjectileStrike_Grenade_ClusterBomb",
     "SkillType": "ProjectileStrike",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "50",
     "Damage Range": "10",
@@ -3064,7 +3064,7 @@
     "id": "ProjectileStrike_Grenade_CursedClusterBomb",
     "SkillType": "ProjectileStrike",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "60",
     "Damage Range": "10",
@@ -3108,7 +3108,7 @@
     "ExplodeRadius": "1",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_ClusterBomb_Cursed",
+    "Icon": "Item_GRN_ClusterBomb",
     "DisplayNameRef": "Cursed Cluster Grenade",
     "DescriptionRef": "Throw a cursed fire grenade into the air. It will explode there and bring down cursed mayhem unto all, dealing 60% <span class='text-dmg-fire'>Fire Damage</span> damage or creating cursed fire surfaces in a 3m radius.",
     "StatsDescriptionParams": "Damage;AreaRadius",

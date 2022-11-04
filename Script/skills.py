@@ -1,5 +1,6 @@
 import re
 import json
+from collections import defaultdict
 
 REMOVE_HTML_FORMATTING = True
 REMOVE_SOURCE_INFUSIONS_TEXT = False
@@ -583,7 +584,11 @@ def replaceParamsInDescription(skills, skill, potions):
         return highlightKeywords(format(desc, realValues))
     return highlightKeywords(desc)
 
-def Parse(folders, descriptionOverrides):
+def Parse(folders, propOverrides):
+    propertyOverrides = defaultdict(dict)
+    for k,v in propOverrides.items():
+        propertyOverrides[k] = v
+
     potions = ParsePotions(folders)
     skills = {}
     currentSkill = None
@@ -618,10 +623,15 @@ def Parse(folders, descriptionOverrides):
                     param = paramSearch.groups()[0]
                     value = paramSearch.groups()[1]
 
-                    # filter out formatting from descriptions
-                    if param == "DescriptionRef":
-                        if currentSkill["id"] in descriptionOverrides:
-                            value = descriptionOverrides[currentSkill["id"]]
+                    overrides = propertyOverrides[currentSkill["id"]]
+
+                    if param == "DisplayNameRef":
+                        value = value if "DisplayName" not in overrides else overrides["DisplayName"]
+                    elif param == "DescriptionRef": # filter out formatting from descriptions
+                        # Use overwritten description if there is one, before prettifying
+                        if "Description" in propertyOverrides[currentSkill["id"]]:
+                            value = propertyOverrides[currentSkill["id"]]["Description"]
+
                         if descRegex.search(value) != None:
                             value = prettifySkillDescription(value)
                     

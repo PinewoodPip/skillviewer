@@ -84,7 +84,8 @@
       "1": " </font>+5% accuracy (+1% per <span class='text-warfare'>Warfare</span>) and +20% damage (+4% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>",
       "2": " </font>+40% damage (+8% per <span class='text-warfare'>Warfare</span>) while casting.\n<font color='46b195'>",
       "3": " </font>Cast on all visible enemies within 10m.\n<font color='858580'  face=\"Averia Serif\">\n</font></font>"
-    }
+    },
+    "Description": "<font size='19'>Fissure the earth, dealing [1] to enemies in a [3] degree, [2] long cone, and clearing non-cursed surfaces and clouds.<br><br><font color='b823cb'>Vulnerable III</font> consumes 7 Battered:<br>Target is easier to Batter or Harry, and suffers damage from healing.</font><br><br><font color='46b195'>Source Infusions:</font><font size='17'><br><font color='46b195'>1: </font>+5% accuracy (+1% per Warfare) and +20% damage (+4% per Warfare) while casting.<br><font color='46b195'>2 (requires 5 Warfare): </font>+40% damage (+8% per Warfare) while casting.<br><font color='46b195'>3 (requires 9 Warfare): </font>Cast on all visible enemies within 10m.<br><font color='858580' size='18' face=\"Averia Serif\"><br>Tiered statuses apply up to tier 3 and reduce resistances; see your journal for a full description.</font></font>"
   },
   "Cone_SteamLance": {
     "id": "Cone_SteamLance",
@@ -1534,7 +1535,8 @@
       "1": " </font>+5% accuracy (+1% per <span class='text-huntsman'>Huntsman</span>) and +20% (+4% per <span class='text-huntsman'>Huntsman</span>) damage while casting.\n<font color='46b195'>",
       "2": " </font>Repeat 1 time, targeting a random enemy within 5m of target.\n<font color='46b195'>",
       "3": " </font>Repeat 2 more times, targeting a random enemy within 5m of target.\n </font>"
-    }
+    },
+    "Description": "<font size='19'>Loose an arcane arrow at target character that chains to up to [3] enemies in [2] radius, dealing [1] to each target.</font><br><br><font color='46b195'>Source Infusions:</font><font size='17'><br><font color='46b195'>1: </font>+5% accuracy (+1% per Huntsman) and +20% (+4% per Huntsman) damage while casting.<br><font color='46b195'>2 (requires 5 Huntsman): </font>Repeat 1 time, targeting a random enemy within 5m of target.<br><font color='46b195'>3 (requires 9 Huntsman): </font>Repeat 2 more times, targeting a random enemy within 5m of target.<br> </font>"
   },
   "Projectile_BallisticShot": {
     "id": "Projectile_BallisticShot",
@@ -1917,7 +1919,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "100",
     "Damage Range": "10",
@@ -1945,7 +1947,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "10",
@@ -1982,7 +1984,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "AMER_BLIND_2": {
@@ -2019,7 +2021,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2066,7 +2068,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "120",
     "Damage Range": "30",
@@ -2095,7 +2097,7 @@
     "ExplodeRadius": "2",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_Molotov_Cursed",
+    "Icon": "Item_GRN_Molotov",
     "DisplayNameRef": "Cursed Firestorm Grenade",
     "DescriptionRef": "This cursed bottle deals 120% <span class='text-dmg-fire'>Fire Damage</span> and creates a cursed fire surface within target 2m radius.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
@@ -2113,7 +2115,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 2,
     "SkillProperties": {
       "AMER_ENTHRALLED_2": {
@@ -2150,7 +2152,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 2,
     "SkillProperties": {
       "AMER_ENTHRALLED_APPLY": {
@@ -2189,7 +2191,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2226,7 +2228,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 2,
     "SkillProperties": {
       "AMER_TERRIFIED_2": {
@@ -2263,7 +2265,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2315,7 +2317,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "HEALING": {
@@ -2341,7 +2343,7 @@
     "ExplodeRadius": "2",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_Ice_Blessed",
+    "Icon": "Item_GRN_Ice",
     "DisplayNameRef": "Blessed Ice Grenade",
     "DescriptionRef": "Creates a blessed frozen water surface and applies a healing effect to characters within 2m of target point for 2 turns. Heals (50 Qualifier) Vitality.",
     "StatsDescriptionParams": "StatusData:HEALING:HealAmount;ExplodeRadius",
@@ -2362,7 +2364,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "HolyGrenadeHeal": {
@@ -2399,7 +2401,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2436,7 +2438,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -2478,7 +2480,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2530,7 +2532,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2561,7 +2563,7 @@
     "ExplodeRadius": "3",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_WaterBalloon_Blessed",
+    "Icon": "Item_GRN_WaterBalloon",
     "DisplayNameRef": "Blessed Water Balloon",
     "DescriptionRef": "Creates a blessed water surface within target 3m radius.",
     "StatsDescriptionParams": "ExplodeRadius",
@@ -2582,7 +2584,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "AMER_BLIND_2": {
@@ -2619,7 +2621,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2666,7 +2668,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2705,7 +2707,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2723,7 +2725,7 @@
     "ExplodeRadius": "2",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_OilFlask_Blessed",
+    "Icon": "Item_GRN_OilFlask",
     "DisplayNameRef": "Blessed Oil Flask",
     "DescriptionRef": "Creates a blessed oil surface within target 2m radius.",
     "StatsDescriptionParams": "ExplodeRadius",
@@ -2744,7 +2746,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -2791,7 +2793,7 @@
     "SkillType": "Projectile",
     "IsEnemySkill": "Yes",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 2,
     "Cooldown": 0,
     "Damage Multiplier": "100",
     "Damage Range": "30",
@@ -3002,7 +3004,7 @@
     "id": "ProjectileStrike_Grenade_ClusterBomb",
     "SkillType": "ProjectileStrike",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "50",
     "Damage Range": "10",
@@ -3064,7 +3066,7 @@
     "id": "ProjectileStrike_Grenade_CursedClusterBomb",
     "SkillType": "ProjectileStrike",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "60",
     "Damage Range": "10",
@@ -3108,7 +3110,7 @@
     "ExplodeRadius": "1",
     "UseWeaponDamage": false,
     "UseWeaponProperties": "No",
-    "Icon": "Item_GRN_ClusterBomb_Cursed",
+    "Icon": "Item_GRN_ClusterBomb",
     "DisplayNameRef": "Cursed Cluster Grenade",
     "DescriptionRef": "Throw a cursed fire grenade into the air. It will explode there and bring down cursed mayhem unto all, dealing 60% <span class='text-dmg-fire'>Fire Damage</span> damage or creating cursed fire surfaces in a 3m radius.",
     "StatsDescriptionParams": "Damage;AreaRadius",
@@ -5139,7 +5141,8 @@
       "1": " </font>+1 turn duration (+0.1 per <span class='text-poly'>Polymorph</span>). Recover 1<span class='text-ap'>AP</span>.\n<font color='46b195'>",
       "2": " </font>+1 turn duration (+0.2 per <span class='text-poly'>Polymorph</span>). Recover 1<span class='text-ap'>AP</span>.\n<font color='46b195'>",
       "3": " </font>Instead of previous Source Infusion effects: Source generation produces +1 SP each turn, until it is depleted.\n </font>"
-    }
+    },
+    "Description": "<font size='19'>Apply Apotheosis to yourself for 2 turns, allowing you to continue Source Generation while active.</font><br><br><font color='46b195'>Source Infusions:</font><font size='17'><br><font color='46b195'>1: </font>+1 turn duration (+0.1 per Polymorph). Recover 1AP.<br><font color='46b195'>2 (requires 5 Polymorph): </font>+1 turn duration (+0.2 per Polymorph). Recover 1AP.<br><font color='46b195'>3 (requires 9 Polymorph): </font>Instead of previous Source Infusion effects: Source generation produces +1 SP each turn, until it is depleted.<br> </font>"
   },
   "Shout_BreakTheShackles": {
     "id": "Shout_BreakTheShackles",
@@ -5380,7 +5383,8 @@
       "1": " </font>Grants Immunity to Poisoned, +15% Poison resistance (+2% per <span class='text-geo'>Geomancer</span>), and you Poison those who attack you, for 3 turns.\n<font color='46b195'>",
       "2": " </font>Create an 8m solid circle of Poison around yourself before casting.\n<font color='46b195'>",
       "3": " </font>Recover 2<span class='text-ap'>AP</span> and 1SP.\n </font>"
-    }
+    },
+    "Description": "<font size='19'>Coat your weapon with ill intent, adding [3] to your weapon. Additionally, consume poison surfaces and clouds within [2] radius of you, gaining up to [1], based on the size of the surface consumed.</font><br><br><font color='46b195'>Source Infusions:</font><font size='17'><br><font color='46b195'>1: </font>Grants Immunity to Poisoned, +15% Poison resistance (+2% per Geomancer), and you Poison those who attack you, for 3 turns.<br><font color='46b195'>2 (requires 5 Geomancer): </font>Create an 8m solid circle of Poison around yourself before casting.<br><font color='46b195'>3 (requires 9 Geomancer): </font>Recover 2AP and 1SP.<br> </font>"
   },
   "Shout_VenomousAura": {
     "id": "Shout_VenomousAura",
@@ -8333,7 +8337,8 @@
       "1": " </font>Gain +15% damage (+4% per <span class='text-huntsman'>Huntsman</span>) while performing a Predator or Centurion reaction for 2 turns.\n<font color='46b195'>",
       "2": " </font>For 2 turns, your Predator and Centurion reactions cost 0 <span class='text-ap'>AP</span>.\n<font color='46b195'>",
       "3": " </font>Apply the effect of this spell's second Source Infusion to all allies within 13m. Recover 1SP.\n </font>"
-    }
+    },
+    "Description": "<font size='19'>Ready yourself to fire upon the first three enemies that enter target [1] radius, for the next 2 rounds. Reactive attacks performed with this skill deal damage equivalent to your basic weapon attacks.</font><br><br><font color='46b195'>Source Infusions:</font><font size='17'><br><font color='46b195'>1: </font>Gain +15% damage (+4% per Huntsman) while performing a Predator or Centurion reaction for 2 turns.<br><font color='46b195'>2 (requires 5 Huntsman): </font>For 2 turns, your Predator and Centurion reactions cost 0 AP.<br><font color='46b195'>3 (requires 9 Huntsman): </font>Apply the effect of this spell's second Source Infusion to all allies within 13m. Recover 1SP.<br> </font>"
   },
   "Target_Condense": {
     "id": "Target_Condense",
@@ -9974,7 +9979,8 @@
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
     "BaseDescription": "Tap the well of Source within you to generate an additional Source point, consuming 2 turns of Source Generation to do so. If you do not have enough turns of Source Generation or if you are already at maximum Source, extend the duration of your Source Generation by 1 turn instead.</font>",
-    "SourceInfusions": {}
+    "SourceInfusions": {},
+    "Description": "<font size='19'>Tap the well of Source within you to generate an additional Source point, consuming 2 turns of Source Generation to do so. If you do not have enough turns of Source Generation or if you are already at maximum Source, extend the duration of your Source Generation by 1 turn instead.</font>"
   },
   "Shout_AMER_Enrage": {
     "id": "Shout_AMER_Enrage",

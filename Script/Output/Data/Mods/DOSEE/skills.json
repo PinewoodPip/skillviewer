@@ -6079,7 +6079,7 @@
     "id": "Projectile_Grenade_ArmorPiercing",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "100",
     "Damage Range": "50",
@@ -6231,7 +6231,7 @@
     "id": "Projectile_Grenade_Nailbomb",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "80",
     "Damage Range": "40",
@@ -6305,7 +6305,7 @@
     "id": "Projectile_Grenade_Flashbang",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "Blind": {
@@ -6379,7 +6379,7 @@
     "id": "Projectile_Grenade_Molotov",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "80",
     "Damage Range": "50",
@@ -6529,7 +6529,7 @@
     "id": "Projectile_Grenade_Love",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "Charm": {
@@ -6603,7 +6603,7 @@
     "id": "Projectile_Grenade_ChemicalWarfare",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "Diseased": {
@@ -6677,7 +6677,7 @@
     "id": "Projectile_Grenade_Terror",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "Fear": {
@@ -6751,7 +6751,7 @@
     "id": "Projectile_Grenade_Ice",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "50",
     "Damage Range": "40",
@@ -7029,7 +7029,7 @@
     "id": "Projectile_Grenade_Tremor",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "70",
     "Damage Range": "20",
@@ -7103,7 +7103,7 @@
     "id": "Projectile_Grenade_Taser",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "50",
     "Damage Range": "20",
@@ -7195,7 +7195,7 @@
     "id": "Projectile_Grenade_WaterBalloon",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -7323,7 +7323,7 @@
     "id": "Projectile_Grenade_SmokeBomb",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -7421,7 +7421,7 @@
     "id": "Projectile_Grenade_MustardGas",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -7519,7 +7519,7 @@
     "id": "Projectile_Grenade_OilFlask",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -7617,7 +7617,7 @@
     "id": "Projectile_Grenade_PoisonFlask",
     "SkillType": "Projectile",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "SkillProperties": {
       "CreateSurface": {
@@ -7827,7 +7827,7 @@
     "id": "ProjectileStrike_Grenade_ClusterBomb",
     "SkillType": "ProjectileStrike",
     "Ability": "None",
-    "ActionPoints": 3,
+    "ActionPoints": 4,
     "Cooldown": 0,
     "Damage Multiplier": "50",
     "Damage Range": "30",

@@ -169,6 +169,11 @@ data "TargetCastEffect" "RS3_FX_Skills_Totem_Target_Nebula_01"
 data "TargetEffect" "RS3_FX_Skills_Totem_Target_Nebula_01"
 data "AiCalculationSkillOverride" "Target_DummyTargetSkill"
 
+new entry "Summon_Derpy_BoneshapedSkitterer"
+type "SkillData"
+data "SkillType" "Summon"
+using "Summon_AMER_BoneshapedSkitterer"
+
 new entry "Summon_AMER_BoneshapedCrusher"
 type "SkillData"
 data "SkillType" "Summon"

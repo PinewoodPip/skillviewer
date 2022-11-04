@@ -1,15 +1,20 @@
 import re
 import json
-
-patchedDescriptions = {}
+from collections import defaultdict
 
 statRegex = re.compile('local .* = Ext\.GetStat\("(.*)"\)')
 descriptionRegex = re.compile('.*\.Description = "(.*)"')
 
 statRegex2 = re.compile('    (.*) = {')
-descriptionRegex2 = re.compile('Description = "(.*)"')
+
+PROPERTIES = {
+    "Description": re.compile('Description = "(.*)"'),
+    "DisplayName": re.compile('DisplayName = "(.*)"'),
+}
 
 currentStat = None
+
+patchedProperties = defaultdict(dict)
 
 with open("SkillTextPatching.lua", "r") as f:
     for line in f.readlines():
@@ -19,26 +24,26 @@ with open("SkillTextPatching.lua", "r") as f:
         if match:
             stat = match.groups()[0]
             currentStat = stat
-            patchedDescriptions[stat] = {}
         elif descMatch:
             desc = descMatch.groups()[0]
-            patchedDescriptions[currentStat] = desc
+            patchedProperties[currentStat]["Description"] = desc
 
 # parse new file
 with open("SkillTextPatchingPartTwo.lua", "r") as f:
     for line in f.readlines():
         match = statRegex2.search(line)
-        descMatch = descriptionRegex2.search(line)
 
         if match:
             stat = match.groups()[0]
             currentStat = stat
-            patchedDescriptions[stat] = {}
-        elif descMatch:
-            desc = descMatch.groups()[0]
-            patchedDescriptions[currentStat] = desc
+        elif currentStat:
+            for prop,regex in PROPERTIES.items():
+                match = regex.search(line)
 
-print(patchedDescriptions)
+                if match:
+                    patchedProperties[currentStat][prop] = match.groups()[0]
+
+print(patchedProperties)
 
 with open("derpy_output.json", "w") as f:
-    f.write(json.dumps(patchedDescriptions, indent=2))
+    f.write(json.dumps(patchedProperties, indent=2))

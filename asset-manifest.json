@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/skillviewer/static/css/main.d41c5d42.chunk.css",
-    "main.js": "/skillviewer/static/js/main.18007d27.chunk.js",
-    "main.js.map": "/skillviewer/static/js/main.18007d27.chunk.js.map",
-    "runtime-main.js": "/skillviewer/static/js/runtime-main.825d4e3a.js",
-    "runtime-main.js.map": "/skillviewer/static/js/runtime-main.825d4e3a.js.map",
+    "main.js": "/skillviewer/static/js/main.426d96f0.chunk.js",
+    "main.js.map": "/skillviewer/static/js/main.426d96f0.chunk.js.map",
+    "runtime-main.js": "/skillviewer/static/js/runtime-main.28707c8d.js",
+    "runtime-main.js.map": "/skillviewer/static/js/runtime-main.28707c8d.js.map",
     "static/css/2.3ca2e7a5.chunk.css": "/skillviewer/static/css/2.3ca2e7a5.chunk.css",
-    "static/js/2.d2c254b0.chunk.js": "/skillviewer/static/js/2.d2c254b0.chunk.js",
-    "static/js/2.d2c254b0.chunk.js.map": "/skillviewer/static/js/2.d2c254b0.chunk.js.map",
-    "static/js/3.f6510529.chunk.js": "/skillviewer/static/js/3.f6510529.chunk.js",
-    "static/js/3.f6510529.chunk.js.map": "/skillviewer/static/js/3.f6510529.chunk.js.map",
+    "static/js/2.f7562e46.chunk.js": "/skillviewer/static/js/2.f7562e46.chunk.js",
+    "static/js/2.f7562e46.chunk.js.map": "/skillviewer/static/js/2.f7562e46.chunk.js.map",
+    "static/js/3.bd640ec9.chunk.js": "/skillviewer/static/js/3.bd640ec9.chunk.js",
+    "static/js/3.bd640ec9.chunk.js.map": "/skillviewer/static/js/3.bd640ec9.chunk.js.map",
     "index.html": "/skillviewer/index.html",
     "static/css/2.3ca2e7a5.chunk.css.map": "/skillviewer/static/css/2.3ca2e7a5.chunk.css.map",
     "static/css/main.d41c5d42.chunk.css.map": "/skillviewer/static/css/main.d41c5d42.chunk.css.map",
-    "static/js/2.d2c254b0.chunk.js.LICENSE.txt": "/skillviewer/static/js/2.d2c254b0.chunk.js.LICENSE.txt",
+    "static/js/2.f7562e46.chunk.js.LICENSE.txt": "/skillviewer/static/js/2.f7562e46.chunk.js.LICENSE.txt",
     "static/media/Ability_Aerotheurge.png": "/skillviewer/static/media/Ability_Aerotheurge.3ba18f65.png",
     "static/media/Ability_Bartering.png": "/skillviewer/static/media/Ability_Bartering.3ddcceee.png",
     "static/media/Ability_DualWielding.png": "/skillviewer/static/media/Ability_DualWielding.c2403085.png",
@@ -97,10 +97,10 @@
     "static/media/tooltip_middle.png": "/skillviewer/static/media/tooltip_middle.f8edb33a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.825d4e3a.js",
+    "static/js/runtime-main.28707c8d.js",
     "static/css/2.3ca2e7a5.chunk.css",
-    "static/js/2.d2c254b0.chunk.js",
+    "static/js/2.f7562e46.chunk.js",
     "static/css/main.d41c5d42.chunk.css",
-    "static/js/main.18007d27.chunk.js"
+    "static/js/main.426d96f0.chunk.js"
   ]
 }
