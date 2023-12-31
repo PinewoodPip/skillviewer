@@ -8,6 +8,8 @@ SORT_BY_ABILITY = False
 REMOVE_TIERED_EFFECT_HINT = True
 CUSTOM_HIGHLIGHTING = True
 
+parser = None # TODO! full script rewrite
+
 # todo show applied effects
 
 newDefRegex = re.compile('new entry "(.*)"')
@@ -66,11 +68,13 @@ relevantParams = {
     "id": "",
     "SkillType": "",
     "Ability": "None",
+    "FarandoleClass": "",
     "ActionPoints": 0,
     "Cooldown": "0",
     "Icon": "",
     "DisplayNameRef": "NO NAME",
     "DescriptionRef": "NO DESC",
+    "Description": "",
     "MemorizationRequirements": "",
     "Stealth": "No",
     "UseWeaponDamage": "No",
@@ -172,9 +176,6 @@ hiddenSkills = [
     # "Target_BloatedCorpse_TheSupplicant",
     # "Target_AMER_CorpseMastery",
     # "Projectile_BouncingShield_TheArena",
-
-    # todo handle this properly. we cannot filter this one out the normal way because the Amer version of this spell has the same string in its name
-
 ]
 
 # manually-overwritten properties, mostly for skills used from items.
@@ -446,11 +447,20 @@ def highlightKeywords(string):
 
     return newString
 
-def replaceParamsInDescription(skills, skill, potions):
+import json
+SKILL_DESCRIPTIONS = json.load(open("SkillDescriptions.json", "r"))
+
+def getSkillDescription(skill):
     if "DescriptionRef" not in skill.keys():
         return "None"
 
-    desc = skill["DescriptionRef"]
+    skillID = skill["id"]
+    if skillID in SKILL_DESCRIPTIONS:
+        return SKILL_DESCRIPTIONS[skillID]
+    return skill["DescriptionRef"]
+
+def replaceParamsInDescription(skills, skill, potions):
+    desc = getSkillDescription(skill)
 
     # params = skill["allParams"]
     params = skill
@@ -483,7 +493,6 @@ def replaceParamsInDescription(skills, skill, potions):
             p["param"] = p["temp"]
             paramList.append(p)
 
-        print(paramList)
         realValues = []
         for x in paramList:
             source = x["source"]
@@ -501,8 +510,9 @@ def replaceParamsInDescription(skills, skill, potions):
                         realSource = skills[source]
                         valid = True
             elif sourceType == "StatusData" or sourceType == "Potion" or sourceType == "Weapon":
-                realSource = potions[source]
-                valid = True
+                if source in potions:
+                    realSource = potions[source]
+                    valid = True
 
             if valid:
                 # remove spaces. property entries have spaces but formatting params do not
@@ -571,7 +581,7 @@ def replaceParamsInDescription(skills, skill, potions):
                     realValues.append(realSource[param] + "m")
 
                 elif param == "Armor":
-                    realValues.append("(" + realSource[param] + " Qualifier) Armor")
+                    realValues.append("(" + realSource[param] if param in realSource else "0" + " Qualifier) Armor")
                 elif param == "StealthDamageMultiplier":
                     realValues.append(realSource["Stealth Damage Multiplier"])
                 elif param == "DistanceDamageMultiplier":
@@ -587,7 +597,22 @@ def replaceParamsInDescription(skills, skill, potions):
         return highlightKeywords(format(desc, realValues))
     return highlightKeywords(desc)
 
+class Parser:
+    def __init__(self, folders):
+        self.is_farandole = False
+        if "Farandole" in folders:
+            self.is_farandole = True
+            self.farandole_skill_classes = json.load(open("FarandoleSkillClasses.json", "r"))
+
+    def set_farandole_classes(self, skills):
+        if self.is_farandole:
+            for skill in skills.values():
+                if skill["id"] in self.farandole_skill_classes:
+                    skill["FarandoleClass"] = self.farandole_skill_classes[skill["id"]]
+
 def Parse(folders, propOverrides):
+    global parser
+    parser = Parser(folders)
     propertyOverrides = defaultdict(dict)
     for k,v in propOverrides.items():
         propertyOverrides[k] = v
@@ -617,9 +642,12 @@ def Parse(folders, propOverrides):
                     search = usingSearch.search(line)
                     baseSkillId = search.groups()[0]
 
-                    for key in skills[baseSkillId]:
-                        if key != "id":
-                            currentSkill[key] = skills[baseSkillId][key]
+                    if baseSkillId in skills:
+                        for key in skills[baseSkillId]:
+                            if key != "id":
+                                currentSkill[key] = skills[baseSkillId][key]
+                    else:
+                        print("Skill is USING a non-existing one:", baseSkillId)
 
                 elif (paramRegex.search(line)):
                     paramSearch = paramRegex.search(line)
@@ -634,6 +662,8 @@ def Parse(folders, propOverrides):
                         # Use overwritten description if there is one, before prettifying
                         if "Description" in propertyOverrides[currentSkill["id"]]:
                             value = propertyOverrides[currentSkill["id"]]["Description"]
+                        elif currentSkill["id"] in SKILL_DESCRIPTIONS:
+                            value = SKILL_DESCRIPTIONS[currentSkill["id"]]
 
                         if descRegex.search(value) != None:
                             value = prettifySkillDescription(value)
@@ -641,7 +671,6 @@ def Parse(folders, propOverrides):
                     # status effect applications, surfaces actions, etc.
                     if param == "SkillProperties":
                         statuses = []
-                        print(line)
                         for key in tieredStatuses:
                             if tieredStatuses[key].search(line):
                                 statuses.append(key)
@@ -702,6 +731,7 @@ def Parse(folders, propOverrides):
     CastFields(skills)
 
     ParseSourceInfusions(skills)
+    parser.set_farandole_classes(skills)
 
     for skillId in skills:
         if skillId in propertyOverrides:
@@ -754,7 +784,8 @@ def ParseSourceInfusions(skills):
     for key in skills:
         skill = skills[key]
 
-        desc = skill["DescriptionRef"].split("Source Infusions:")
+        desc = skill["Description"]
+        desc = desc.split("Source Infusions:")
         ability = "Special"
 
         abilityId = skill["Ability"]
@@ -798,7 +829,7 @@ def FilterSkills(allSkills, potions):
     relevantSkills = {}
 
     for x in allSkills:
-        allSkills[x]["DescriptionRef"] = replaceParamsInDescription(allSkills, allSkills[x], potions)
+        allSkills[x]["Description"] = replaceParamsInDescription(allSkills, allSkills[x], potions)
 
         allSkills[x]["Hidden"] = allSkills[x]["id"] in hiddenSkills
 

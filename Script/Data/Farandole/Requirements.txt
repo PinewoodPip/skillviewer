@@ -1,0 +1,64 @@
+requirement "ExtraStatPoints","Level 2"
+
+requirement "ExtraSkillPoints","Level 2"
+
+requirement "Raistlin",""
+
+requirement "LoneWolf",""
+
+requirement "Demon","!TALENT_IceKing"
+
+requirement "IceKing","!TALENT_Demon"
+
+requirement "WarriorLoreNaturalHealth","!TALENT_FaroutDude;!TALENT_Stench"
+
+requirement "LivingArmor","!TALENT_FaroutDude;!TALENT_Stench"
+
+requirement "FaroutDude","!TALENT_LivingArmor;!TALENT_WarriorLoreNaturalHealth"
+
+requirement "Stench","!TALENT_LivingArmor;!TALENT_WarriorLoreNaturalHealth"
+
+requirement "Flanking",""
+
+requirement "ElementalRanger",""
+
+requirement "LightningRod",""
+
+requirement "WeatherProof",""
+
+requirement "FolkDancer",""
+
+requirement "SpillNoBlood",""
+
+requirement "WarriorLoreNaturalArmor",""
+
+requirement "WarriorLoreNaturalResistance",""
+
+requirement "RangerLoreEvasionBonus",""
+
+requirement "RangerLoreRangedAPBonus",""
+
+requirement "Sight",""
+
+requirement "NoAttackOfOpportunity",""
+
+requirement "RogueLoreDaggerAPBonus",""
+
+requirement "RogueLoreMovementBonus",""
+
+requirement "RogueLoreHoldResistance",""
+
+requirement "RogueLoreGrenadePrecision",""
+
+requirement "DualWieldingBlock",""
+
+requirement "Executioner",""
+
+requirement "QuickStep",""
+
+requirement "Courageous","!TALENT_Escapist"
+
+requirement "ExtraWandCharge","Wand 1"
+
+requirement "BeastMaster","Summoning 2"
+

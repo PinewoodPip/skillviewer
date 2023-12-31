@@ -1,0 +1,218 @@
+key "AttributeSoftCap","30"
+
+key "FreeMovementDistanceWhenAttacking","2"
+
+key "LeadershipRange","30"
+
+key "LeadershipDodgingBonus","0"
+
+key "LeadershipAllResBonus","1"
+
+key "CharacterBaseMemoryCapacity","10"
+
+key "CharacterBaseMemoryCapacityGrowth","0"
+
+key "WeaponAccuracyPenaltyPerLevel","-10"
+
+key "Flanked penalty","5"
+
+key "CivilAbilityLevelGrowth","0"
+
+key "CivilAbilityCap","5"
+
+key "TalentAttributePointsBonus","4"
+
+key "TalentMemoryBonus","8"
+
+key "TalentCombatAbilityPointsBonus","4"
+
+key "TalentCivilAbilityPointsBonus","0"
+
+key "TalentPointPerLevels","4"
+
+key "TalentSneakingDamageBonus","75"
+
+key "TalentWhatARushThreshold","60"
+
+key "TalentResistDeathVitalityPercentage","30"
+
+key "TalentPerfectionistAccuracyBonus","4"
+
+key "TalentPerfectionistCriticalChanceBonus","4"
+
+key "TalentExecutionerActionPointBonus","1"
+
+key "UnstableDamagePercentage","15"
+
+key "UnstableRadius","5"
+
+key "LivingArmorHealPercentage","0"
+
+key "CarryWeightBase","150000"
+
+key "CarryWeightPerStr","15000"
+
+key "PickpocketGoldValuePerPoint","100"
+
+key "PickpocketWeightPerPoint","1000"
+
+key "PickpocketRequirementDecreaseFromFinesse","1"
+
+key "PickpocketExperienceLevelsPerPoint","4"
+
+key "PhysicalArmourBoostFromAttribute","0"
+
+key "MagicArmourBoostFromAttribute","0"
+
+key "DodgingBoostFromAttribute","0"
+
+key "LowGroundBaseDamagePenalty","-0.2"
+
+key "IncarnateSummoningLevel","8"
+
+key "LoneWolfMaxAPBonus","2"
+
+key "LoneWolfAPBonus","3"
+
+key "LoneWolfMagicArmorBoostPercentage","0"
+
+key "LoneWolfArmorBoostPercentage","0"
+
+key "LoneWolfVitalityBoostPercentage","64"
+
+key "SkillAbilityLifeStealPerPoint","2"
+
+key "CriticalBonusFromWits","1"
+
+key "InitiativeBonusFromWits","1"
+
+key "SkillAbilityCritMultiplierPerPoint","3"
+
+key "TalentHumanCriticalChance","5"
+
+key "TalentHumanCriticalMultiplier","10"
+
+key "DualWieldingDamagePenalty","1"
+
+key "Once Per Combat Skill Realtime Cooldown","30"
+
+key "Skill Range Per Ability","2"
+
+key "HighGroundRangeMultiplier","2"
+
+key "VitalityToDamageRatio","6.6"
+
+key "VitalityToDamageRatioGrowth","0.04"
+
+key "DamageBoostFromAttribute","0.02"
+
+key "ExpectedDamageBoostFromAttributePerLevel","0.085"
+
+key "ExpectedDamageBoostFromSkillAbilityPerLevel","0.02"
+
+key "ExpectedDamageBoostFromWeaponAbilityPerLevel","0.035"
+
+key "HealToDamageRatio","0.5"
+
+key "CombatAbilityCap","16"
+
+key "CombatAbilityDamageBonus","2"
+
+key "SkillAbilityPhysicalDamageBoostPerPoint","1"
+
+key "SkillAbilityFireDamageBoostPerPoint","1"
+
+key "SkillAbilityAirDamageBoostPerPoint","1"
+
+key "SkillAbilityWaterDamageBoostPerPoint","1"
+
+key "SkillAbilityPoisonAndEarthDamageBoostPerPoint","1"
+
+key "SkillAbilitySulfuricDamageBoostPerPoint","1"
+
+key "CombatAbilityAccuracyBonus","2"
+
+key "SkillAbilityHighGroundBonusPerPoint","1"
+
+key "CombatAbilityCritMultiplierBonus","3"
+
+key "CombatAbilityDodgingBonus","1"
+
+key "SkillAbilityArmorRestoredPerPoint","0"
+
+key "SkillAbilityVitalityRestoredPerPoint","0"
+
+key "AbilityPerseveranceArmorPerPoint","1"
+
+key "CombatAbilityReflectionBonus","2"
+
+key "VitalityBoostFromAttribute","0.05"
+
+key "VitalityStartingAmount","25"
+
+key "VitalityExponentialGrowth","1"
+
+key "VitalityLinearGrowth","25"
+
+key "FirstVitalityLeapGrowth","1"
+
+key "SecondVitalityLeapGrowth","1"
+
+key "ThirdVitalityLeapGrowth","1"
+
+key "FourthVitalityLeapGrowth","1"
+
+key "ArmorHeadPercentage","0"
+
+key "ArmorUpperBodyPercentage","0"
+
+key "ArmorLowerBodyPercentage","0"
+
+key "ArmorShieldPercentage","0"
+
+key "ArmorHandsPercentage","0"
+
+key "ArmorFeetPercentage","0"
+
+key "ArmorBeltPercentage","0"
+
+key "ArmorAmuletPercentage","0"
+
+key "ArmorRingPercentage","0"
+
+key "FirstItemTypeShift","16"
+
+key "SecondItemTypeShift","18"
+
+key "PriceGrowth","1"
+
+key "FirstPriceLeapLevel","8"
+
+key "SecondPriceLeapLevel","12"
+
+key "ThirdPriceLeapLevel","16"
+
+key "FourthPriceLeapLevel","20"
+
+key "FirstPriceLeapGrowth","1"
+
+key "SecondPriceLeapGrowth","1"
+
+key "ThirdPriceLeapGrowth","1"
+
+key "FourthPriceLeapGrowth","1"
+
+key "PriceModCasualDifficulty","2.1"
+
+key "PriceModClassicDifficulty","2.1"
+
+key "PriceModHardcoreDifficulty","2.1"
+
+key "PriceBarterCoefficient","0.1"
+
+key "PriceAttitudeCoefficient","0.005"
+
+key "PriceRoundToFiveAfterAmount","100"
+
+key "PriceRoundToTenAfterAmount","1000"
+

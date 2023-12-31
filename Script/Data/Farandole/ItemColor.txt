@@ -1,0 +1,166 @@
+new itemcolor "Warrior","FF991818","FFFFD392","c0c0c0"
+
+new itemcolor "Warrior2","FF991818","FFC0C0C0","FFFFD392"
+
+new itemcolor "Warrior3","ffd392","FF991818","c0c0c0"
+
+new itemcolor "Warrior4","ffd392","FFC0C0C0","FF991818"
+
+new itemcolor "Warrior5","FFC0C0C0","FF991818","FFFFD392"
+
+new itemcolor "Warrior6","FFC0C0C0","FFFFD392","FF991818"
+
+new itemcolor "Priest","FFEDEDED","FF8B2E4C","FF825100"
+
+new itemcolor "Priest2","FF8B2E4C","FFEDEDED","FF825100"
+
+new itemcolor "Priest3","FF825100","FF8B2E4C","FFEDEDED"
+
+new itemcolor "Ranger","FF254739","FF876D61","eec07b"
+
+new itemcolor "Ranger2","FF254739","FFEEC07B","FF876D61"
+
+new itemcolor "Ranger3","876d61","254739","eec07b"
+
+new itemcolor "Ranger5","FFEEC07B","254739","FF876D61"
+
+new itemcolor "Wayfarer","FF354C31","FF5E5147","FF9B8C65"
+
+new itemcolor "Wayfarer2","FF354C31","FF9B8C65","FF5E5147"
+
+new itemcolor "Wayfarer3","FF5E5147","FF354C31","FF9B8C65"
+
+new itemcolor "Wayfarer4","FF5E5147","FF9B8C65","FF354C31"
+
+new itemcolor "Rogue","FF3B5572","FF602931","aaabb8"
+
+new itemcolor "Rogue2","FF3B5572","FFAAABB8","FF602931"
+
+new itemcolor "Rogue3","FF602931","3b5572","aaabb8"
+
+new itemcolor "Rogue5","FFAAABB8","FF3B5572","FF602931"
+
+new itemcolor "Illusionist","FF1D6E85","FFB8D6DE","FFA8A8A8"
+
+new itemcolor "Illusionist2","FF1D6E85","FFA8A8A8","FFB8D6DE"
+
+new itemcolor "Illusionist3","FFB8D6DE","FF1D6E85","FFA8A8A8"
+
+new itemcolor "Illusionist5","FFA8A8A8","FF1D6E85","FFB8D6DE"
+
+new itemcolor "Shapeshifter","FFB78B1B","FFAC9D80","FF696969"
+
+new itemcolor "Shapeshifter5","FF696969","FFB78B1B","ac9d80"
+
+new itemcolor "Transmuter","FFC3AE70","FF592E1C","ac9d80"
+
+new itemcolor "Transmuter2","FFC3AE70","FFAC9D80","FF592E1C"
+
+new itemcolor "Transmuter3","FF592E1C","FFC3AE70","ac9d80"
+
+new itemcolor "Transmuter4","FF592E1C","FFAC9D80","FFC3AE70"
+
+new itemcolor "Transmuter5","FFAC9D80","FFC3AE70","FF592E1C"
+
+new itemcolor "Transmuter6","FFAC9D80","FF592E1C","FFC3AE70"
+
+new itemcolor "Beastmaster","FF7A335F","FFB2ADA5","FF8C5037"
+
+new itemcolor "Beastmaster2","FF7A335F","FF8C5037","b2ada5"
+
+new itemcolor "Beastmaster3","FF8C5037","FF7A335F","b2ada5"
+
+new itemcolor "Beastmaster5","FFB2ADA5","FF7A335F","FF8C5037"
+
+new itemcolor "Conjurer","FF625271","FF96774A","b2ada5"
+
+new itemcolor "Conjurer3","96774a","625271","b2ada5"
+
+new itemcolor "DeathKnight","FF701A2E","FF000000","FF575F6A"
+
+new itemcolor "DeathKnight2","FF000000","FF701A2E","FF575F6A"
+
+new itemcolor "Necromancer","FF780C59","FF121212","FF575F6A"
+
+new itemcolor "Necromancer2","FF121212","FF780C59","FF575F6A"
+
+new itemcolor "Berserker","FFA82D10","FF591F00","FFC22323"
+
+new itemcolor "Pyrokinesist","FFAD4228","FF663013","FFF0F8FF"
+
+new itemcolor "Pyrokinesist4","FF663013","FFF0F8FF","FFAD4228"
+
+new itemcolor "Pyrokinesist6","FFF0F8FF","FF663013","FFAD4228"
+
+new itemcolor "Paladin","FFB7A23A","8b6d00","FFFFF9B5"
+
+new itemcolor "Paladin2","FFB7A23A","FFFFF9B5","FF8B6D00"
+
+new itemcolor "Paladin3","FF8B6D00","FFB7A23A","FFFFF0B9"
+
+new itemcolor "Paladin4","FF8B6D00","FFFFF9B5","FFB7A23A"
+
+new itemcolor "Paladin5","FFFFF9B5","FFB7A23A","FF8B6D00"
+
+new itemcolor "Paladin6","FFFFF9B5","FF8B6D00","FFB7A23A"
+
+new itemcolor "Hydrosophist","FF3686AD","0165a1","FFA9D5DE"
+
+new itemcolor "Hydrosophist2","FF3686AD","FFA9D5DE","FF0165A1"
+
+new itemcolor "Hydrosophist3","FF0165A1","FF3686AD","FFA9D5DE"
+
+new itemcolor "Hydrosophist4","FF0165A1","FFA9D5DE","FF3686AD"
+
+new itemcolor "Hydrosophist5","FFA9D5DE","FF3686AD","FF0165A1"
+
+new itemcolor "Hydrosophist6","FFA9D5DE","FF0165A1","FF3686AD"
+
+new itemcolor "Swashbuckler","FF505E8B","FF8FACEA","FFC1BADE"
+
+new itemcolor "Swashbuckler2","FF505E8B","FFC1BADE","FF8FACEA"
+
+new itemcolor "Swashbuckler3","FF8FACEA","FF505E8B","FFC1BADE"
+
+new itemcolor "Swashbuckler4","FF8FACEA","FFC1BADE","FF505E8B"
+
+new itemcolor "Swashbuckler5","FFC1BADE","FF505E8B","FF8FACEA"
+
+new itemcolor "Swashbuckler6","FFC1BADE","FF8FACEA","FF505E8B"
+
+new itemcolor "Aerotheurge","FF645F8B","FF6D7B9D","FFB8ACEA"
+
+new itemcolor "Aerotheurge2","FF645F8B","FFB8ACEA","FF6D7B9D"
+
+new itemcolor "Aerotheurge3","FF6D7B9D","FF645F8B","FFB8ACEA"
+
+new itemcolor "Aerotheurge4","FF6D7B9D","FFB8ACEA","FF645F8B"
+
+new itemcolor "Aerotheurge5","FFB8ACEA","FF645F8B","FF6D7B9D"
+
+new itemcolor "Aerotheurge6","FFB8ACEA","FF6D7B9D","FF645F8B"
+
+new itemcolor "Phalanx","FF63330D","FF9E6E4D","FFBDAC8D"
+
+new itemcolor "Phalanx2","FF63330D","FFBDAC8D","FF9E6E4D"
+
+new itemcolor "Phalanx3","FF9E6E4D","FF63330D","FFBDAC8D"
+
+new itemcolor "Phalanx4","FF9E6E4D","FFBDAC8D","FF63330D"
+
+new itemcolor "Phalanx5","FFBDAC8D","FF63330D","FF9E6E4D"
+
+new itemcolor "Phalanx6","FFBDAC8D","FF9E6E4D","FF63330D"
+
+new itemcolor "Earthcaller","594230","BE835A","FDD280"
+
+new itemcolor "Earthcaller2","594230","FFFDD280","FFBE835A"
+
+new itemcolor "Earthcaller3","FFBE835A","FF594230","FDD280"
+
+new itemcolor "Earthcaller4","FFBE835A","FFFDD280","FF594230"
+
+new itemcolor "Earthcaller5","FFFDD280","FF594230","FFBE835A"
+
+new itemcolor "Earthcaller6","FFFDD280","FFBE835A","FF594230"
+

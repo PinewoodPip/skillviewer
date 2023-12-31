@@ -1,0 +1,940 @@
+new namegroup "NAME_SET"
+
+new namegroup "ARM_UNIQUE_BraccusCursedRing"
+add name "Band of Braccus",""
+
+new namegroup "ARM_UNIQUE_BraccusUncursedRing"
+add name "Uncursed Band of Braccus",""
+
+new namegroup "ARM_UNIQUE_BraccusArmor_UpperBody"
+add name "Heart of the Tyrant","It will protect you when you're about to die."
+
+new namegroup "ARM_UNIQUE_BraccusArmor_LowerBody"
+add name "Tyrant's Stride",""
+
+new namegroup "ARM_UNIQUE_BraccusHelmet_Cured"
+add name "Tyrant's Helm",""
+
+new namegroup "ARM_UNIQUE_BraccusHelmet_Uncured"
+add name "Corrupted Tyrant's Helm",""
+
+new namegroup "ARM_UNIQUE_BraccusArmor_Arms"
+add name "The Hands of the Tyrant",""
+
+new namegroup "ARM_UNIQUE_BraccusArmor_Legs"
+add name "Tracks of the Tyrant",""
+
+new namegroup "ARM_UNIQUE_ARX_DoctorsVault_HeavyUpperbody"
+add name "Ancient knight's upper body armor",""
+
+new namegroup "ARM_UNIQUE_ARX_DoctorsVault_MediumLowerbody"
+add name "Lord Ruaney's Britches",""
+
+new namegroup "ARM_UNIQUE_ARX_DoctorsVault_HeavyHelmet"
+add name "Ancient knight's helmet",""
+
+new namegroup "ARM_UNIQUE_ARX_DoctorsVault_HeavyGloves"
+add name "Ancient knight's gloves",""
+
+new namegroup "ARM_UNIQUE_ARX_DoctorsVault_MediumBoots"
+add name "Lord Ruaney's Boots",""
+
+new namegroup "NAME_1HHAXE"
+
+new namegroup "Axes_1H"
+add name "One Handed Axe",""
+
+new namegroup "FTJ_Brute_Slug_Axe"
+add name "Slug's Axe",""
+
+new namegroup "Fendorax"
+add name "Fendorax",""
+
+new namegroup "FTJ_Trompdoy_Hatchet"
+add name "Trompdoy's Hatchet",""
+
+new namegroup "GeodeOpener"
+add name "Geode Opener",""
+
+new namegroup "NAME_1HMACE"
+
+new namegroup "Maces_1H"
+add name "One Handed Mace",""
+
+new namegroup "FTJ_TheSleeperPan"
+add name "The Sleeper's Pan","A gift from Stingtail"
+
+new namegroup "WPN_FTJ_UNIQUE_BraccusTorch"
+add name "The Illuminator",""
+
+new namegroup "ARX_UNIQUE_Mace_1H_SurfaceSwapper"
+add name "Glaoch Girt",""
+
+new namegroup "WPN_RC_UNIQUE_SourceMace"
+add name "Tideforger",""
+
+new namegroup "FTJ_Brute_Burro_Club"
+add name "Burro's Club",""
+
+new namegroup "UNI_Dallis_Stage2_Hammer"
+add name "Blazing Justice",""
+
+new namegroup "UNI_Dallis_Stage3_HammerA"
+add name "The Judge",""
+
+new namegroup "UNI_Dallis_Stage3_HammerB"
+add name "The Executioner",""
+
+new namegroup "NAME_1HSWORD"
+
+new namegroup "Swords_1H"
+add name "One Handed Sword",""
+
+new namegroup "FTJ_Kalias_Stunner_Sword"
+add name "Kalias' Saber",""
+
+new namegroup "WPN_RC_UNIQUE_MalevolentSword"
+add name "Malevolent",""
+
+new namegroup "FTJ_CorneringMagister_Sword"
+add name "Magister's Sword",""
+
+new namegroup "WPN_UNIQUE_WinterDragonFang"
+add name "Fang of the Winter Dragon",""
+
+new namegroup "WPN_RC_UNIQUE_DjinnsScimitar"
+add name "Djinn's Scimitar",""
+
+new namegroup "WPN_RC_UNIQUE_DjinnsScimitar2"
+add name "Djinn's Scimitar",""
+
+new namegroup "WPN_UNIQUE_Fragmentation"
+add name "Fragmentation",""
+
+new namegroup "WPN_FTJ_UNIQUE_AncientEmpireSword"
+add name "The Viper's Tongue",""
+
+new namegroup "ARX_UNIQUE_Sword_1H_Guardian"
+add name "Voor d'Aravel",""
+
+new namegroup "WPN_UNIQUE_CoS_EternalSword"
+add name "Eternal Stormblade",""
+
+new namegroup "ARX_UNIQUE_Sword_1H_ElvenRelic"
+add name "Truth Seeker",""
+
+new namegroup "WPN_RC_SlaverSword"
+add name "Thrall",""
+
+new namegroup "NAME_DAGGER"
+
+new namegroup "Daggers"
+add name "Dagger",""
+
+new namegroup "WPN_FTJ_UNIQUE_GriffsKitchenKnife"
+add name "Griff's Potato Peeler",""
+
+new namegroup "WPN_RC_FL_UNIQUE_GarethDadDagger"
+add name "Hunting Blade",""
+
+new namegroup "WPN_UNIQUE_CoS_BlackRingDagger"
+add name "Black Ring Sacrificial Dagger",""
+
+new namegroup "WPN_RC_UNIQUE_Chastity"
+add name "Chastity",""
+
+new namegroup "WPN_RC_UNIQUE_RichMerchant_Dagger_02"
+add name "Baran's Cooling Dagger",""
+
+new namegroup "WPN_RC_UNIQUE_RichMerchant_Dagger_01"
+add name "Baran's Electrifying Dagger",""
+
+new namegroup "ARX_UNIQUE_DaggerOfCruelty"
+add name "Domoh Dumora",""
+
+new namegroup "WPN_RC_UNIQUE_LoharDagger"
+add name "Lohar's dagger",""
+
+new namegroup "WPN_RC_UNIQUE_Abstinence"
+add name "Abstinence",""
+
+new namegroup "ARX_UNIQUE_Dagger_ElvenRelic"
+add name "Heartstealer",""
+
+new namegroup "WPN_RC_UNIQUE_DorotyaDagger_01"
+add name "Head",""
+
+new namegroup "WPN_RC_UNIQUE_DorotyaDagger_02"
+add name "Tail",""
+
+new namegroup "WPN_RC_UNIQUE_LoversQuarrel"
+add name "Lover's Quarrel",""
+
+new namegroup "NAME_RAPIER"
+
+new namegroup "Rapiers_1H"
+add name "Rapier",""
+
+new namegroup "WPN_FTJ_UNQIUE_HallornsBlade"
+add name "Hallorn's Blade",""
+
+new namegroup "NAME_1HSICKLE"
+
+new namegroup "Sickles_1H"
+add name "Sickle",""
+
+new namegroup "NAME_2HHAXE"
+
+new namegroup "Axes_2H"
+add name "Two Handed Axe",""
+
+new namegroup "WPN_RC_UNIQUE_SourceAxe"
+add name "Gluttony",""
+
+new namegroup "WPN_RC_UNIQUE_Axe"
+add name "Hanal Lechet",""
+
+new namegroup "WPN_RC_UNIQUE_ExecutorsAxe"
+add name "Executor Ninyan's Axe",""
+
+new namegroup "WPN_UNIQUE_Natalies_Fury"
+add name "Natalie's Fury",""
+
+new namegroup "WPN_RC_MIL_UNIQUE_DwarfWolfAxe"
+add name "Elven Axe",""
+
+new namegroup "ARX_UNIQUE_Axe_2H_ElvenRelic"
+add name "Plaguebringer",""
+
+new namegroup "WPN_RC_UNIQUE_ReaversAxe"
+add name "Reaver's Axe",""
+
+new namegroup "WPN_UNIQUE_ElfTempleAxe"
+add name "Elf Temple Axe",""
+
+new namegroup "NAME_2HMACE"
+
+new namegroup "Maces_2H"
+add name "Two Handed Mace",""
+
+new namegroup "FTJ_Magister_Orivand_2HMace"
+add name "Magister Orivand's Mace",""
+
+new namegroup "WPN_RC_UNIQUE_LoharsSourceHammer"
+add name "Lohar's Source Hammer",""
+
+new namegroup "WPN_RC_UNIQUE_DallisHammer"
+add name "The Reckoning",""
+
+new namegroup "WPN_RC_UNIQUE_MhordkanHammer"
+add name "Sacore Evdek",""
+
+new namegroup "ARX_UNIQUE_Mace_2H_Challenger"
+add name "Voor d'lamas",""
+
+new namegroup "WPN_UNIQUE_SentinelsShatterer"
+add name "Sentinel's Shatterer",""
+
+new namegroup "WPN_UNIQUE_ARX_GhostMace"
+add name "Ghostly Morningstar",""
+
+new namegroup "NAME_2HSWORD"
+
+new namegroup "Swords_2H"
+add name "Two Handed Sword",""
+
+new namegroup "FTJ_Magister_Trippel_2HSword"
+add name "Thrillseeker",""
+
+new namegroup "WPN_RC_DW_UNIQUE_SmugglingSword"
+add name "Soulforged Blade",""
+
+new namegroup "Hazirawn"
+add name "Hazirawn",""
+
+new namegroup "Thundaga3"
+add name "Thundaga",""
+
+new namegroup "WPN_RC_UNIQUE_TheAdvocate"
+add name "The Advocate",""
+
+new namegroup "WPN_UNIQUE_ARX_BrahmosSword_2H"
+add name "Brahmos' Sword",""
+
+new namegroup "WPN_UNIQUE_Godslayer"
+add name "Anathema","The spell inside that weapon seems to be a quick trigger one."
+
+new namegroup "NAME_2HSCYTHE"
+
+new namegroup "Scythes_2H"
+add name "Scythe",""
+
+new namegroup "SoulReaper"
+add name "Soul Reaper",""
+
+new namegroup "ARX_UNIQUE_Axe_2H_DeathsDoorScythe"
+add name "Falone",""
+
+new namegroup "WPN_UNIQUE_AtaraxianScythe"
+add name "The Promise Breaker",""
+
+new namegroup "NAME_SPEAR"
+
+new namegroup "Spears_2H"
+add name "Spear",""
+
+new namegroup "Vel"
+add name "Vel",""
+
+new namegroup "Maltet"
+add name "Maltet",""
+
+new namegroup "ARX_UNIQUE_Lizard_Spear"
+add name "Ancient Spear of Bloodletting",""
+
+new namegroup "ARX_UNIQUE_Spear_Sparks"
+add name "Ednet Voor",""
+
+new namegroup "WPN_UNIQUE_MaladySpear"
+add name "Calamity",""
+
+new namegroup "WPN_UNIQUE_MaladySpear_HorrorSleep"
+add name "Calamity",""
+
+new namegroup "WPN_RC_Weapon_WithermooreSpear"
+add name "Spear of Braccus Rex",""
+
+new namegroup "WPN_RC_SaheilaRewardSpear"
+add name "Spear of Foes",""
+
+new namegroup "UNI_WPN_ARX_Spear_Horrorsleep"
+add name "Horrorsleep Spear",""
+
+new namegroup "NAME_TRIDENT"
+
+new namegroup "Tridents_2H"
+add name "Trident",""
+
+new namegroup "WPN_RC_GY_UNIQUE_BrittleSpear"
+add name "Brittle Spear",""
+
+new namegroup "KingOfTheSeas"
+add name "King of the Seas",""
+
+new namegroup "KingOfTheSkies"
+add name "King Of The Skies",""
+
+new namegroup "NAME_STAFF"
+
+new namegroup "Staves_2H"
+add name "Staff",""
+
+new namegroup "WPN_FTJ_Chaostaff"
+add name "Chaostaff",""
+
+new namegroup "ARX_UNIQUE_Staff_Tornado"
+add name "Ancient Empire Banner",""
+
+new namegroup "ARX_UNIQUE_Staff_Divine"
+add name "Lucian's Divine Staff",""
+
+new namegroup "WPN_UNIQUE_LavaRepeller"
+add name "Lava Repeller",""
+
+new namegroup "UNI_ARX_LizardRelic_Staff"
+add name "Fiery Inferno",""
+
+new namegroup "WPN_RC_UNIQUE_SourceStaff"
+add name "Commander of the Tides",""
+
+new namegroup "WPN_RC_UNIQUE_IceStaff"
+add name "Ice Compeller",""
+
+new namegroup "WPN_UNIQUE_RC_MIL_Firewaters_Staff"
+add name "Firewater's Staff",""
+
+new namegroup "FTJ_Brute_Waltz_Staff"
+add name "Tornado Cutter",""
+
+new namegroup "WPN_UNIQUE_AlexandarStaff"
+add name "Divine Reckoning",""
+
+new namegroup "WPN_UNIQUE_AlexandarStaff_HorrorSleep"
+add name "Divine Horror Reckoning",""
+
+new namegroup "FTJ_Mountain_Crusher"
+add name "Mountain Crusher",""
+
+new namegroup "ARX_UNIQUE_Staff_ElvenRelic"
+add name "Three Warlords",""
+
+new namegroup "Life_Anihilator"
+add name "Life Anihilator",""
+
+new namegroup "WPN_RC_UNIQUE_LichStaff_01"
+add name "Xhaxh's Staff of Parasitic Decay",""
+
+new namegroup "WPN_RC_UNIQUE_LichStaff_02"
+add name "Xhaxh's Staff of Parasitic Decay",""
+
+new namegroup "WPN_UNIQUE_ResurrectionPreventionStaff"
+add name "Resurrection Prevention Staff",""
+
+new namegroup "NAME_WAND"
+
+new namegroup "Wands_1H"
+add name "Wand",""
+
+new namegroup "ARX_UNIQUE_Wand_SiphonPoison"
+add name "Soul Eater",""
+
+new namegroup "WPN_FTJ_UNIQUE_GrandJudgeWand"
+add name "Soul Shredder",""
+
+new namegroup "WPN_UNIQUE_CrestOfThePhoenix"
+add name "Crest of the Phoenix",""
+
+new namegroup "WPN_UNIQUE_DrakesHellfire"
+add name "Drakes Hellfire",""
+
+new namegroup "FTJ_Brute_Needle_Wand"
+add name "Rainstick",""
+
+new namegroup "FTJ_Radeka_Wand"
+add name "Radeka's Thorn",""
+
+new namegroup "ARX_UNIQUE_Wand_ElvenRelic"
+add name "Zip",""
+
+new namegroup "WPN_ARX_UNIQUE_GroomsWand"
+add name "Zap",""
+
+new namegroup "Ambar"
+add name "Ambar",""
+
+new namegroup "UNI_WPN_ARX_Wand_Loic"
+add name "Fossilizer",""
+
+new namegroup "FTJ_SpikedTurtle_Wand"
+add name "Turtle's Claw",""
+
+new namegroup "Venom"
+add name "Venom",""
+
+new namegroup "WPN_RC_UNIQUE_AirWand"
+add name "Chamore Doran",""
+
+new namegroup "WPN_RC_Unique_ElderOfPassing"
+add name "Wand of the Elder",""
+
+new namegroup "NAME_BOW"
+
+new namegroup "Bows"
+add name "Bow",""
+
+new namegroup "FTJ_BuriedTreasure_Bow"
+add name "Spiderkiss",""
+
+new namegroup "FTJ_Magister_Hollind_Bow"
+add name "Hollind's Bow",""
+
+new namegroup "ARX_UNIQUE_Bow_Mark"
+add name "Deiseis Riveil",""
+
+new namegroup "WPN_UNIQUE_RC_DW_Bow"
+add name "Vard d'Layal",""
+
+new namegroup "WPN_UNIQUE_DeerBow"
+add name "Deer Bow",""
+
+new namegroup "WPN_UNIQUE_LizardAssassinBow"
+add name "Assassin's Bow",""
+
+new namegroup "WPN_UNIQUE_DelorusBow"
+add name "Delorus Bow",""
+
+new namegroup "UNI_RC_MIL_CorbinsBow"
+add name "Morning's Light",""
+
+new namegroup "ARX_UNIQUE_Bow_ElvenRelic"
+add name "Dematerialising Bow",""
+
+new namegroup "WPN_RC_DW_LuthiersBow"
+add name "A Fingal Boyd's Limited Edition",""
+
+new namegroup "WPN_UNIQUE_Riftshot"
+add name "Riftshot",""
+
+new namegroup "NAME_CROSSBOW"
+
+new namegroup "Crossbows"
+add name "Crossbow",""
+
+new namegroup "ARX_UNIQUE_Crossbow_Cryotherapy"
+add name "Vord Emver",""
+
+new namegroup "WPN_UNIQUE_BurstCrossbow"
+add name "Burst",""
+
+new namegroup "WPN_RC_UNIQUE_IfansCrossbow"
+add name "Shadow's Eye",""
+
+new namegroup "WPN_RC_UNIQUE_HoundMasterCrossbow"
+add name "Houndmaster's Crossbow",""
+
+new namegroup "WPN_RC_MIL_Deadeye_Crossbow"
+add name "Deadeye's Signature Crossbow",""
+
+new namegroup "WPN_RC_DW_UNIQUE_SmugglingCrossbow"
+add name "Soulforged Crossbow",""
+
+new namegroup "FTJ_OutsideMagister_Crossbow"
+add name "Freezing Pulse",""
+
+new namegroup "WPN_RC_UNIQUE_SourceCrossbow"
+add name "Excruciating Echo",""
+
+new namegroup "NAME_SHIELD"
+
+new namegroup "Shields"
+add name "Shield",""
+
+new namegroup "FTJ_MagisterCarin_Shield"
+add name "Magister Carin's Shield",""
+
+new namegroup "RC_GY_Shield"
+add name "Metal Shield",""
+
+new namegroup "UNI_Dallis_Stage2_Shield"
+add name "Radiant Aegis",""
+
+new namegroup "NAME_BULWARK"
+
+new namegroup "Bulwarks"
+add name "Bulwark",""
+
+new namegroup "WPN_Phalanx_Shield"
+add name "Bulwark",""
+
+new namegroup "WPN_UNIQUE_ARX_WarriorsShield"
+add name "Cork's Bros Bulwark",""
+
+new namegroup "FTJ_Knaap_Shield"
+add name "Knaap Bulwark",""
+
+new namegroup "WPN_UNIQUE_ARX_TheOneShield"
+add name "An Maflin Bulwark",""
+
+new namegroup "WPN_UNIQUE_CrabShield"
+add name "Crab Bulwark",""
+
+new namegroup "WPN_UNIQUE_ARX_KemmsShield"
+add name "Paladin's Resolve Bulwark",""
+
+new namegroup "RC_DW_Unique_Shield"
+add name "Amadio Bulwark",""
+
+new namegroup "NAME_BUCKLER"
+
+new namegroup "Bucklers"
+add name "Buckler",""
+
+new namegroup "WPN_UNIQUE_SummonersBuckler"
+add name "Summoner's Buckler",""
+
+new namegroup "WPN_UNIQUE_RoundAbout"
+add name "Round About Buckler",""
+
+new namegroup "NAME_TARGE"
+
+new namegroup "Targes"
+add name "Targe",""
+
+new namegroup "RC_MIL_UNIQUE_LogRewardShield"
+add name "Livewood Targe",""
+
+new namegroup "WPN_Illusionist_Shield"
+add name "Targe",""
+
+new namegroup "WPN_Earthcaller_Shield"
+add name "Targe",""
+
+new namegroup "NAME_AMULET"
+
+new namegroup "Amulets"
+add name "Amulet",""
+
+new namegroup "ARM_UNIQUE_SaheilaSignet"
+add name "Saheila's Signet",""
+
+new namegroup "ARM_UNIQUE_SimplePendant"
+add name "Zanisima's Charm","No one can die during your watch."
+
+new namegroup "FTJ_SW_ShelterBackSalamander_Amulet"
+add name "Amulet of the Void",""
+
+new namegroup "FTJ_SW_VWBoss_VoidWoken_Amulet"
+add name "Amulet of the Deep",""
+
+new namegroup "ARM_UNIQUE_CaptainsCompass"
+add name "Captain's Compass",""
+
+new namegroup "ARM_UNIQUE_LoneWolfMark"
+add name "Lone Wolf Mark",""
+
+new namegroup "RC_WH_BottledWish_DjinnsGift"
+add name "Djinn's Gift",""
+
+new namegroup "ARM_UNIQUE_MordusAmulet"
+add name "Mordus' Amulet",""
+
+new namegroup "ARM_UNIQUE_AngelAmulet"
+add name "Angel of Death Amulet",""
+
+new namegroup "RC_FL_Lowlands_RainAmulet"
+add name "Rain Amulet",""
+
+new namegroup "QUEST_FTJ_SW_GarethAmulet"
+add name "Broken Source Collar Amulet",""
+
+new namegroup "ARM_FTJ_SW_UNIQUE_GarethAmulet"
+add name "Gareth's source collar",""
+
+new namegroup "ARM_UNIQUE_WatcherAmulet"
+add name "The Watcher's Amulet",""
+
+new namegroup "ARM_UNIQUE_ArxAmuletOfTheEarthMage"
+add name "Falone Girt",""
+
+new namegroup "ARM_UNIQUE_ArxAmuletOfThePolyMage"
+add name "Rutoma Rivelleis",""
+
+new namegroup "ARM_UNIQUE_SourceBatteryAmulet"
+add name "Source Battery",""
+
+new namegroup "ARM_FakeSourceCollar"
+add name "Counterfeit Source Collar",""
+
+new namegroup "NAME_RING"
+
+new namegroup "Rings"
+add name "Ring",""
+
+new namegroup "ARM_UNIQUE_AntiqueSpecialRing"
+add name "Old Antique Ring",""
+
+new namegroup "ARM_UNIQUE_ArxRingOfHealing"
+add name "Dritta Evyet",""
+
+new namegroup "ARM_UNIQUE_Astartes_Tears_Ring"
+add name "Astarte's Tears",""
+
+new namegroup "ARM_UNIQUE_FathersRing"
+add name "Migo's Wife Ring",""
+
+new namegroup "ARM_UNIQUE_MothersRing"
+add name "Migo's Ring",""
+
+new namegroup "ARM_UNIQUE_SalamanderRing_Int"
+add name "Salamander's Ring",""
+
+new namegroup "SeptasRing"
+add name "Septa's Ring",""
+
+new namegroup "RC_DW_Tavern_Baran_Leveres_Ring"
+add name "Baran Levere's Ring of Bartering",""
+
+new namegroup "ARM_Ring_UNIQUE_RC_DW_FishermanRing"
+add name "The Fisherman's Charm Wedding Ring",""
+
+new namegroup "ARM_UNIQUE_RC_DW_Barracks_Evidence"
+add name "Fire Sourcerer's Ring",""
+
+new namegroup "ARM_RC_FL_UNIQUE_GarethParentsRewardRing"
+add name "Hannag's Ring",""
+
+new namegroup "ARM_UNIQUE_AlmiraRing"
+add name "Almira's Ring",""
+
+new namegroup "ARM_UNIQUE_SpymasterSignet"
+add name "Spymaster's Signet",""
+
+new namegroup "ARM_UNIQUE_RedPrincessRing"
+add name "Red Princess's Ring",""
+
+new namegroup "NAME_BELT"
+
+new namegroup "Belts"
+add name "Belt",""
+
+new namegroup "ARM_UNIQUE_AntiqueSpecialBelt"
+add name "Old Antique Belt",""
+
+new namegroup "ARM_WithermooreGirdle"
+add name "Withermoore's Girdle",""
+
+new namegroup "UNI_ARX_LizardRelic_Belt"
+add name "Last One Standing",""
+
+new namegroup "ARM_DallisPanties"
+add name "Dallis' Panties",""
+
+new namegroup "FTJ_SwampBuildup_A_Undead_Belt"
+add name "Decomposing Pyromancer's Belt",""
+
+new namegroup "ARM_Belt_UNIQUE_Memorial"
+add name "Halla's Shiny Ribbon",""
+
+new namegroup "ARM_UNIQUE_RC_Belt"
+add name "An Mey Falin",""
+
+new namegroup "NAME_UPPERBODY"
+
+new namegroup "HeavyUpperBody"
+add name "Plate Armor",""
+
+new namegroup "ScaleUpperBody"
+add name "Scale Armor",""
+
+new namegroup "MailUpperBody"
+add name "Mail Armor",""
+
+new namegroup "LightUpperBody"
+add name "Leather Armor",""
+
+new namegroup "MageUpperBody"
+add name "Mage Armor",""
+
+new namegroup "ClothUpperBody"
+add name "Cloth Armor",""
+
+new namegroup "ARM_UNIQUE_ArxLightArmour"
+add name "Nazad Hunola",""
+
+new namegroup "ARM_UNIQUE_RC_LightUpperBody"
+add name "Racht Muvora",""
+
+new namegroup "ARM_UNIQUE_ArxMageArmour"
+add name "Ruvola",""
+
+new namegroup "ARM_Griff_LeatherShirt"
+add name "Griff's Leather Shirt",""
+
+new namegroup "FTJ_Gheist_Migo_UpperBody"
+add name "Migo's Breastplate",""
+
+new namegroup "ARM_UNIQUE_Hildurs_Plate_UpperBody"
+add name "Hildur's Plate",""
+
+new namegroup "ARM_UNIQUE_AirRobe"
+add name "Gawin's Robe",""
+
+new namegroup "FTJ_HarbourMagister_MageArmour"
+add name "Magister's Mantle",""
+
+new namegroup "FTJ_Alexandar_Armour"
+add name "Alexandar's Cloak",""
+
+new namegroup "ARM_UNIQUE_ArxHeavyArmour"
+add name "Dora Rav",""
+
+new namegroup "ARM_UNIQUE_RC_PossessedDwarf_UpperBody"
+add name "Stonecrusher Armour",""
+
+new namegroup "ARM_UNIQUE_WatcherUpperBody"
+add name "Very Silent Watcher's Leather Shirt",""
+
+new namegroup "ARM_UNIQUE_RC_MageUpperBody"
+add name "Danna Dumora",""
+
+new namegroup "UNI_RC_FL_Armor_Platemail_AncientTrophy"
+add name "Antique Armour",""
+
+new namegroup "ARM_UNIQUE_RC_HeavyUpperBody"
+add name "Emrach",""
+
+new namegroup "S_RC_OIL_EQ_Armor_Mage_WallBoss"
+add name "Magister's Cloak",""
+
+new namegroup "ARM_Heavy_UpperBody_Eternal_Crafted"
+add name "Armour of the Eternals",""
+
+new namegroup "ARM_UNIQUE_SallowManUpperBody"
+add name "Sallow Chainmail",""
+
+new namegroup "NAME_LOWERBODY"
+
+new namegroup "HeavyLowerBody"
+add name "Plate Lower",""
+
+new namegroup "ScaleLowerBody"
+add name "Scale Lower",""
+
+new namegroup "MailLowerBody"
+add name "Mail Lower",""
+
+new namegroup "LightLowerBody"
+add name "Leather Lower",""
+
+new namegroup "MageLowerBody"
+add name "Mage Lower",""
+
+new namegroup "ClothLowerBody"
+add name "Cloth Lower",""
+
+new namegroup "ARM_MonasLeatherPants"
+add name "Mona's Leather Pants","A gift from Mona"
+
+new namegroup "ARM_UNIQUE_ArxGloriousPantaloons"
+add name "Luronta Temva",""
+
+new namegroup "NAME_HELMET"
+
+new namegroup "HeavyHelmet"
+add name "Plate Helmet",""
+
+new namegroup "ScaleHelmet"
+add name "Scale Helmet",""
+
+new namegroup "MailHelmet"
+add name "Mail Helmet",""
+
+new namegroup "LightHelmet"
+add name "Leather Helmet",""
+
+new namegroup "MageHelmet"
+add name "Mage Helmet",""
+
+new namegroup "ClothHelmet"
+add name "Cloth Helmet",""
+
+new namegroup "UNI_ARX_LizardRelic_Helmet"
+add name "The Silent Path",""
+
+new namegroup "ARM_UNIQUE_ArxHelmetOfTheRanger"
+add name "Vo Charlen",""
+
+new namegroup "ARX_Barracks_ConfiscatedGoods_NobleHelmet"
+add name "Noble Hat",""
+
+new namegroup "ARM_AnatolesCap"
+add name "Anatole's Cap",""
+
+new namegroup "ARM_UNIQUE_SalamanderHelmet_Str"
+add name "Mask of Mind",""
+
+new namegroup "Parrots_Hat"
+add name "Parrot's Hat",""
+
+new namegroup "ARM_UNIQUE_SpiderCowl"
+add name "Spider Cowl",""
+
+new namegroup "RC_DW_Tavern_Captain_Ablewethers_Hat"
+add name "Captain Ablewether's Hat",""
+
+new namegroup "ARM_HeavyHelmet_UNIQUE_Memorial"
+add name "Visha's Helm",""
+
+new namegroup "ARM_UNIQUE_DwarfTempleHelmet"
+add name "Dwarf Temple Helmet",""
+
+new namegroup "ARM_UNIQUE_RC_NataliesAnguish"
+add name "Natalie's Anguish",""
+
+new namegroup "ARM_UNIQUE_DispelCowl"
+add name "Cowl of True Sight",""
+
+new namegroup "ARM_UNIQUE_BeastBicorne"
+add name "Fran the Bicorne","The parrot that's following you when you wear that hat is magnificient."
+
+new namegroup "NAME_GLOVES"
+
+new namegroup "HeavyGloves"
+add name "Plate Gloves",""
+
+new namegroup "ScaleGloves"
+add name "Scale Gloves",""
+
+new namegroup "MailGloves"
+add name "Mail Gloves",""
+
+new namegroup "LightGloves"
+add name "Leather Gloves",""
+
+new namegroup "MageGloves"
+add name "Mage Gloves",""
+
+new namegroup "ClothGloves"
+add name "Cloth Gloves",""
+
+new namegroup "ARM_UNIQUE_ArxGlovesOfSilencing"
+add name "Ave Layal",""
+
+new namegroup "ARX_UNIQUE_Gloves_ElvenRelic"
+add name "Peacemaker's Touch",""
+
+new namegroup "ARM_RobsMittens"
+add name "Rob's Mittens",""
+
+new namegroup "ARM_UNIQUE_TeleportationGloves"
+add name "Mitts of Manipulation",""
+
+new namegroup "ARM_UNIQUE_SalamanderGloves_Fin"
+add name "Second Skin",""
+
+new namegroup "ARM_UNIQUE_ThiefGloves"
+add name "Slippery Fingers",""
+
+new namegroup "ARM_RC_FL_UNIQUE_JonathanGloves"
+add name "Jonathan's gloves",""
+
+new namegroup "ARM_LightGloves_UNIQUE_Memorial"
+add name "Justinia's Favour",""
+
+new namegroup "ARM_UNIQUE_RC_BI_Destroyer_Gloves"
+add name "The Destroyer's Gloves",""
+
+new namegroup "ARM_UNIQUE_RC_GY_RykersSpider_Gloves"
+add name "Silk spider gloves",""
+
+new namegroup "ARM_UNIQUE_WizardTempleGloves"
+add name "Wizard Temple Gloves",""
+
+new namegroup "NAME_BOOTS"
+
+new namegroup "HeavyBoots"
+add name "Plate Boots",""
+
+new namegroup "ScaleBoots"
+add name "Scale Boots",""
+
+new namegroup "MailBoots"
+add name "Mail Boots",""
+
+new namegroup "LightBoots"
+add name "Leather Boots",""
+
+new namegroup "MageBoots"
+add name "Mage Boots",""
+
+new namegroup "ClothBoots"
+add name "Cloth Boots",""
+
+new namegroup "ARM_UNIQUE_SpiderWalk"
+add name "Spider Walk",""
+
+new namegroup "ARM_UNIQUE_ActarusBoots"
+add name "Actarus' Boots",""
+
+new namegroup "ARM_UNIQUE_AglaeBoots"
+add name "Aglae's Boots",""
+
+new namegroup "ARM_ClothBoots_UNIQUE_Memorial"
+add name "Flashing Footsteps",""
+
+new namegroup "ARM_UNIQUE_ArxBootsOfEscaping"
+add name "Kallisteis",""
+
+new namegroup "ARM_UNIQUE_OrcTempleBoots"
+add name "Orc Temple Boots",""
+

@@ -1,0 +1,12 @@
+new entry "HEAL_SHARING"
+type "StatusData"
+data "StatusType" "HEAL_SHARING"
+data "DisplayName" "HEAL_SHARING_DisplayName"
+data "DisplayNameRef" "Soul Mate"
+data "Description" "HEAL_SHARING_Description"
+data "DescriptionRef" "Character is receiving healing from linked character."
+data "Icon" "Skill_Summoning_SoulMate"
+data "FormatColor" "Green"
+data "StatsId" "Stats_HealSharing"
+data "StackId" "Stack_HealSharing"
+

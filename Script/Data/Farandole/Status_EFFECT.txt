@@ -1,0 +1,25 @@
+new entry "GHOST"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "StatusEffect" "Status_Ghost:Dummy_BodyFX;RS3_FX_Char_Ghosts_Generic_Trail_01:Dummy_OverheadFX"
+
+new entry "JADE"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "StatusEffect" "Status_Jadification"
+
+new entry "HOOKED"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "StatusEffect" "Status_Unbalanced,KeepRot:Dummy_NeckFX"
+
+new entry "UNSTABLE_EFFECT"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "StatusEffect" "Status_Unstable,KeepRot:Dummy_OverheadFX"
+
+new entry "HAUNTINGSTRIKES_STATUS"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "StatusEffect" "Status_HauntingStrikes"
+
