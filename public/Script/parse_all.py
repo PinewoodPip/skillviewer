@@ -47,6 +47,11 @@ mods = {
             },
         },
     },
+    "Farandole": {
+        "folders": ["Larian", "Farandole"],
+        "path": "Output/Data/Mods/Farandole/skills.json",
+        "descriptionOverride": {},
+    },
 }
 
 for modId in mods:

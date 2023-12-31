@@ -77,3 +77,10 @@ typings/
 # FuseBox cache
 .fusebox/
 *.pyc
+
+# Game data
+public/Script/Data
+src/images/
+public/Script/SkillDescriptions.json
+public/Script/Output
+public/Script/FarandoleSkillClasses.json
