@@ -30,6 +30,9 @@ export var data = {
         "Derpy_Tweaks",
       ]
     },
+    "Farandole": {
+      addons: []
+    },
   }
 };
 
@@ -49,21 +52,32 @@ class App extends React.Component {
 
       schools: ["Warrior", "Water", "Earth", "Death", "Rogue", "Ranger", "Fire", "Summoning", "Air", "Polymorph", "Summoning"],
     }
+    this.farandoleClasses = {} // Filled automatically while loading skills
   }
 
   isModActive(id) {
     return this.state.game == id || this.state.addons.includes(id)
   }
 
+  setGame(id) {
+    let schools = []
+    if (id == "Farandole") { // Set all Farandole classes to be visible
+      schools = schools.concat(Object.keys(this.farandoleClasses))
+    }
+    else { // Set vanilla schools to be visible
+      schools = schools.concat(miscData.schools)
+      schools.splice(schools.indexOf("Sourcery"))
+      schools.splice(schools.indexOf("Special"))
+    }
+    this.setState({game: id, schools: schools})
+  }
+
+  isFarandole() {
+    return this.state.game == "Farandole"
+  }
+
   toggleMod(id) {
-    const state = this.state.addons
-    if (state.includes(id)) {
-      state.splice(state.indexOf(id), 1)
-    }
-    else {
-      state.push(id)
-    }
-    this.setState({addons: state})
+    this.setGame(id) // TODO! consider addons better
   }
 
   getAddons(modId) {
@@ -82,9 +96,23 @@ class App extends React.Component {
     for (let skillId in mod.skills) {
       let skill = mod.skills[skillId]
       let ability = skill.Ability
+      let canShow = this.state.schools.includes(ability)
 
-      if (this.state.schools.includes(ability) && !skill.Hidden) {
+      // Only load non-hidden skills for each ability and exclude classed Farandole ones
+      if (canShow && !skill.Hidden && !skill.FarandoleClass && !this.isFarandole()) { // TODO show regular ability skills when using Farandole
         skills[ability][skillId] = skill
+      }
+
+      // Load Farandole skills per-class instead
+      if (this.isFarandole() && skill.FarandoleClass) {
+        // Initialize dict
+        if (!skills[skill.FarandoleClass]) {
+          skills[skill.FarandoleClass] = {}
+          this.farandoleClasses[skill.FarandoleClass] = skill.FarandoleClass.replace(new RegExp("^Class_", "i"), "")
+        }
+        if (this.state.schools.includes(skill.FarandoleClass)) {
+          skills[skill.FarandoleClass][skillId] = skill
+        }
       }
     }
     return skills
@@ -150,6 +178,8 @@ class App extends React.Component {
       RESOURCE_PREPPEND + "Script/Output/Data/Mods/DOSEE/skills.json",
       RESOURCE_PREPPEND + "Script/Output/Data/Mods/EE1/mod.json",
       RESOURCE_PREPPEND + "Script/Output/Data/Mods/EE1/skills.json",
+      RESOURCE_PREPPEND + "Script/Output/Data/Mods/Farandole/mod.json",
+      RESOURCE_PREPPEND + "Script/Output/Data/Mods/Farandole/skills.json",
     ]
     let promises = []
 
@@ -188,12 +218,26 @@ class App extends React.Component {
         data.mods["EE1"].metadata = responses[8].data
         data.mods["EE1"].skills = responses[9].data
 
+        data.mods["Farandole"] = {}
+        data.mods["Farandole"].metadata = responses[10].data
+        data.mods["Farandole"].skills = responses[11].data
+
         this.setState({initialized: true})
+        
+        let urlParams = new URLSearchParams(window.location.search)
+        const gameType = urlParams.get("game")
+        if (gameType) {
+          // Needs to be done twice to load Farandole classes... TODO improve
+          app.setGame(gameType)
+          app.loadSkills({}, data.mods[gameType])
+          app.setGame(gameType)
+        }
       }.bind(this))
       .catch((error) => {
         alert("The app did not load properly. Try refreshing.")
         throw error;
     });
+
   }
 
   render() {
@@ -218,12 +262,32 @@ class Sidebar extends React.Component {
   render() {
 
     let checkboxes = []
-    for (let index in miscData.schools) {
-      let school = miscData.schools[index]
 
-      checkboxes.push(<Tooltip content={"Right-click to show only this school."} placement={"right"} key={index}>
-        <FlairedCheckbox text={miscData.mappings.abilityNames[school]} ticked={this.props.app.state.schools.includes(school)} onChange={() => {this.props.app.toggleSchool(school)}} onContextMenu={() => {this.props.app.setSingleSchool(school)}}/>
-      </Tooltip>)
+    if (app.isFarandole()) {
+      let classes = []
+      for (let id in app.farandoleClasses) {
+        classes.push({id: id, name: app.farandoleClasses[id]})
+      }
+      classes.sort(function name(a, b) {
+        return a.name < b.name
+      })
+      for (let index in classes) {
+        let farandoleClass = classes[index]
+        let id = farandoleClass.id
+  
+        checkboxes.push(<Tooltip content={"Right-click to show only this class."} placement={"right"} key={index}>
+          <FlairedCheckbox text={farandoleClass.name} ticked={this.props.app.state.schools.includes(id)} onChange={() => {this.props.app.toggleSchool(id)}} onContextMenu={() => {this.props.app.setSingleSchool(id)}}/>
+        </Tooltip>)
+      }
+    }
+    else {
+      for (let index in miscData.schools) {
+        let school = miscData.schools[index]
+  
+        checkboxes.push(<Tooltip content={"Right-click to show only this school."} placement={"right"} key={index}>
+          <FlairedCheckbox text={miscData.mappings.abilityNames[school]} ticked={this.props.app.state.schools.includes(school)} onChange={() => {this.props.app.toggleSchool(school)}} onContextMenu={() => {this.props.app.setSingleSchool(school)}}/>
+        </Tooltip>)
+      }
     }
 
     let options = {}
@@ -239,11 +303,15 @@ class Sidebar extends React.Component {
       addons.push(<FlairedCheckbox text={addon.metadata.name} key={index} ticked={app.isModActive(addon.metadata.id)} onChange={() => {app.toggleMod(addon.metadata.id)}}/>)
     }
 
+    let onGameChanged = function(ev) {
+      this.props.app.setGame(ev.target.value)
+    }.bind(this)
+
     return (
       <div className="sidebar">
         <Text text="Mods"/>
 
-        <Dropdown options={options} selected={this.props.app.state.game}/>
+        <Dropdown options={options} selected={this.props.app.state.game} onChange={onGameChanged}/>
 
         <div className="checkboxes-container">
           {addons}

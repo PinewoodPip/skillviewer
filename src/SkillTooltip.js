@@ -159,12 +159,20 @@ function SkillFooter(props) {
 		</div>
 	}
 	
-	let schoolName = miscData.mappings.abilityNames[skill.Ability]
+	// For footer, use the Farandole class, or ability name otherwise
+	let abilityName = miscData.mappings.abilityNames[skill.Ability]
+	let schoolName;
+	if (skill.FarandoleClass) {
+		schoolName = skill.FarandoleClass.replace(new RegExp("^Class_", "i"), "")
+	}
+	else {
+		schoolName = abilityName
+	}
 
 	return (
 		<div className="tooltip-bottom flex-horizontal flex-align-centered">
 			<div className="tooltip-bottom-text flex-horizontal-small">
-				<Text overrideColor className={miscData.colorHighlighting[schoolName]} text={schoolName}/>
+				<Text overrideColor className={miscData.colorHighlighting[abilityName]} text={schoolName}/>
 				{memoryCost}
 			</div>
 		</div>
@@ -296,11 +304,19 @@ function CreateSkillPropertyLine(id, data) {
 	for (let i in data.prefixes) {
 		let prefix = data.prefixes[i]
 
+		// TODO consider skills with multiple conditions (&)
+		if (typeof prefix == "object") {
+			prefix = prefix.condition
+		}
+
 		if (prefix == "SELF") {
 			str += " on self"
 		}
 		else if (prefix == "TARGET") {
 			str += " on target"
+		}
+		else if (prefix == "Enemy") {
+			str += " on enemy"
 		}
 		else if (prefix.includes("SURFACEBOOST(")) {
 			str += ", receives bonuses from consumed surfaces"
