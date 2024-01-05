@@ -1,4 +1,4 @@
-import re
+import re, os
 import json
 from collections import defaultdict
 
@@ -309,6 +309,7 @@ def ParsePotions(folders):
     potion = None
 
     for folder in folders:
+        parser.current_mod_id = folder
         for doc in potionTypes:
             try:
                 d = open("Data/" + folder + "/" + doc)
@@ -447,20 +448,18 @@ def highlightKeywords(string):
 
     return newString
 
-import json
-SKILL_DESCRIPTIONS = json.load(open("SkillDescriptions.json", "r"))
-
-def getSkillDescription(skill):
+def getSkillDescription(mod, skill):
     if "DescriptionRef" not in skill.keys():
         return "None"
 
     skillID = skill["id"]
-    if skillID in SKILL_DESCRIPTIONS:
-        return SKILL_DESCRIPTIONS[skillID]
+    extracted_description = parser.get_skill_description(mod, skillID)
+    if extracted_description != None:
+        return extracted_description
     return skill["DescriptionRef"]
 
 def replaceParamsInDescription(skills, skill, potions):
-    desc = getSkillDescription(skill)
+    desc = getSkillDescription(parser.current_mod_id, skill)
 
     # params = skill["allParams"]
     params = skill
@@ -600,9 +599,22 @@ def replaceParamsInDescription(skills, skill, potions):
 class Parser:
     def __init__(self, folders):
         self.is_farandole = False
+        self.skill_descriptions = {} # Extracted skill descriptions for each folder.
+        for folder in folders:
+            path = "Data/" + folder + "/" + "SkillDescriptions.json"
+            if os.path.isfile(path):
+                file = open(path, "r")
+                self.skill_descriptions[folder] = json.load(file)
+        
+        # Load Farandole class data
         if "Farandole" in folders:
             self.is_farandole = True
             self.farandole_skill_classes = json.load(open("FarandoleSkillClasses.json", "r"))
+
+    def get_skill_description(self, mod, skill_id):
+        if mod in self.skill_descriptions and skill_id in self.skill_descriptions[mod]:
+            return self.skill_descriptions[mod][skill_id]
+        return None
 
     def set_farandole_classes(self, skills):
         if self.is_farandole:
@@ -662,8 +674,9 @@ def Parse(folders, propOverrides):
                         # Use overwritten description if there is one, before prettifying
                         if "Description" in propertyOverrides[currentSkill["id"]]:
                             value = propertyOverrides[currentSkill["id"]]["Description"]
-                        elif currentSkill["id"] in SKILL_DESCRIPTIONS:
-                            value = SKILL_DESCRIPTIONS[currentSkill["id"]]
+                        else: # Use description extracted from the game if available
+                            extracted_description = parser.get_skill_description(folder, currentSkill["id"])
+                            value = extracted_description if extracted_description != None else value
 
                         if descRegex.search(value) != None:
                             value = prettifySkillDescription(value)
@@ -821,8 +834,6 @@ def ParseSourceInfusions(skills):
 
         skill["BaseDescription"] = baseDescription
         skill["SourceInfusions"] = infusions
-
-
 
 def FilterSkills(allSkills, potions):
 
