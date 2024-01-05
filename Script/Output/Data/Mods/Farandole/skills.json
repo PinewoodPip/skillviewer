@@ -12700,7 +12700,7 @@
     "Icon": "Skill_Earth_PoisonousPlantMonster",
     "DisplayNameRef": "Summon Plant Monster",
     "Description": "Plant can lob acidic spores and emit cursed poison clouds.",
-    "DescriptionRef": "Plant can lob acidic spores and emit cursed poison clouds.",
+    "DescriptionRef": "|Plant can lob acidic spores and emit cursed poison clouds.|",
     "Hidden": false,
     "FarandoleClass": "",
     "Stealth": "No",

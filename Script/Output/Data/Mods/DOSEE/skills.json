@@ -12,8 +12,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Unique_StaffOfMagus",
     "DisplayNameRef": "Staff Of Magus",
-    "Description": "Shoot target enemy.<br>Deals 125% <span class='text-dmg-phys'>Weapon Damage</span>.",
-    "DescriptionRef": "Shoot target enemy.<br>Deals [1].",
+    "Description": "Launch a magical missile from your staff that deals 125% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Launch a magical missile from your staff that deals [1] damage.",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -26,7 +26,7 @@
     "TieredStatuses": {},
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot target enemy.<br>Deals 125% <span class='text-dmg-phys'>Weapon Damage</span>.",
+    "BaseDescription": "Launch a magical missile from your staff that deals 125% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_StaffOfMagus_1": {
@@ -42,8 +42,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Unique_StaffOfMagus",
     "DisplayNameRef": "Staff Of Magus",
-    "Description": "Shoot target enemy.<br>Deals 125% <span class='text-dmg-phys'>Weapon Damage</span>.",
-    "DescriptionRef": "Shoot target enemy.<br>Deals [1].",
+    "Description": "Launch a magical missile from your staff that deals 125% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Launch a magical missile from your staff that deals [1] damage.",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -56,7 +56,7 @@
     "TieredStatuses": {},
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot target enemy.<br>Deals 125% <span class='text-dmg-phys'>Weapon Damage</span>.",
+    "BaseDescription": "Launch a magical missile from your staff that deals 125% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_CorpseExplosion": {
@@ -175,8 +175,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Earth_PoisonDart",
     "DisplayNameRef": "Magical Poison Dart",
-    "Description": "Shoot a spot.<br>Deals 100% Poison Damage to enemies in a radius of 15m.<br>Creates a cursed poison surface.",
-    "DescriptionRef": "Shoot a spot.<br>Deals [1] to enemies in a radius of [2].<br>Creates a cursed poison surface.",
+    "Description": "Cast a magical poisonous dart that does 100% Poison Damage damage.",
+    "DescriptionRef": "Cast a magical poisonous dart that does [1] damage.",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -187,7 +187,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot a spot.<br>Deals 100% Poison Damage to enemies in a radius of 15m.<br>Creates a cursed poison surface.",
+    "BaseDescription": "Cast a magical poisonous dart that does 100% Poison Damage damage.",
     "SourceInfusions": {}
   },
   "Projectile_PoisonDartStart_6": {
@@ -224,8 +224,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Earth_PoisonDart",
     "DisplayNameRef": "Magical Poison Dart",
-    "Description": "Shoot a spot.<br>Deals 100% Poison Damage to enemies in a radius of 15m.<br>Creates a cursed poison surface.",
-    "DescriptionRef": "Shoot a spot.<br>Deals [1] to enemies in a radius of [2].<br>Creates a cursed poison surface.",
+    "Description": "Cast a magical poisonous dart that does 100% Poison Damage damage.",
+    "DescriptionRef": "Cast a magical poisonous dart that does [1] damage.",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -236,7 +236,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot a spot.<br>Deals 100% Poison Damage to enemies in a radius of 15m.<br>Creates a cursed poison surface.",
+    "BaseDescription": "Cast a magical poisonous dart that does 100% Poison Damage damage.",
     "SourceInfusions": {}
   },
   "Projectile_TrapOldFireball": {
@@ -1707,8 +1707,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_InfectiousFlame",
     "DisplayNameRef": "Infectious Flame",
-    "Description": "Shoot a target.<br>Deals 110% <span class='text-dmg-fire'>Fire Damage</span>.<br>Can bounce between 5 more enemies within 7m.<br>Creates a cursed fire surface.",
-    "DescriptionRef": "Shoot a target.<br>Deals [1].<br>Can bounce between [2] more enemies within [3].<br>Creates a cursed fire surface.",
+    "Description": "Cast a magical flame that forks on impact and does 110% <span class='text-dmg-fire'>Fire Damage</span> damage to each target.",
+    "DescriptionRef": "Cast a magical flame that forks on impact and does [1] damage to each target.",
     "StatsDescriptionParams": "Damage;MaxForkCount;AreaRadius;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -1719,7 +1719,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot a target.<br>Deals 110% <span class='text-dmg-fire'>Fire Damage</span>.<br>Can bounce between 5 more enemies within 7m.<br>Creates a cursed fire surface.",
+    "BaseDescription": "Cast a magical flame that forks on impact and does 110% <span class='text-dmg-fire'>Fire Damage</span> damage to each target.",
     "SourceInfusions": {}
   },
   "Projectile_InfectiousFlame_16": {
@@ -1774,8 +1774,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_InfectiousFlame",
     "DisplayNameRef": "Infectious Flame",
-    "Description": "Shoot a target.<br>Deals 110% <span class='text-dmg-fire'>Fire Damage</span>.<br>Can bounce between 5 more enemies within 7m.<br>Creates a cursed fire surface.",
-    "DescriptionRef": "Shoot a target.<br>Deals [1].<br>Can bounce between [2] more enemies within [3].<br>Creates a cursed fire surface.",
+    "Description": "Cast a magical flame that forks on impact and does 110% <span class='text-dmg-fire'>Fire Damage</span> damage to each target.",
+    "DescriptionRef": "Cast a magical flame that forks on impact and does [1] damage to each target.",
     "StatsDescriptionParams": "Damage;MaxForkCount;AreaRadius;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -1786,7 +1786,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot a target.<br>Deals 110% <span class='text-dmg-fire'>Fire Damage</span>.<br>Can bounce between 5 more enemies within 7m.<br>Creates a cursed fire surface.",
+    "BaseDescription": "Cast a magical flame that forks on impact and does 110% <span class='text-dmg-fire'>Fire Damage</span> damage to each target.",
     "SourceInfusions": {}
   },
   "Projectile_Fireball": {
@@ -1841,8 +1841,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_FireBall",
     "DisplayNameRef": "Small Fireball",
-    "Description": "Shoot a spot.<br>Deals 70% <span class='text-dmg-fire'>Fire Damage</span> to enemies in a radius of 3.5m.<br>Creates a fire surface.",
-    "DescriptionRef": "Shoot a spot.<br>Deals [1] to enemies in a radius of [2].<br>Creates a fire surface.",
+    "Description": "Cast an explosive ball of fire that does 70% <span class='text-dmg-fire'>Fire Damage</span> damage to anything within 3.5m from impact.",
+    "DescriptionRef": "Cast an explosive ball of fire that does [1] damage to anything within [2] from impact.",
     "StatsDescriptionParams": "Damage;ExplodeRadius;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -1853,7 +1853,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot a spot.<br>Deals 70% <span class='text-dmg-fire'>Fire Damage</span> to enemies in a radius of 3.5m.<br>Creates a fire surface.",
+    "BaseDescription": "Cast an explosive ball of fire that does 70% <span class='text-dmg-fire'>Fire Damage</span> damage to anything within 3.5m from impact.",
     "SourceInfusions": {}
   },
   "Projectile_Fireball_9": {
@@ -1908,8 +1908,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_FireBall",
     "DisplayNameRef": "Small Fireball",
-    "Description": "Shoot a spot.<br>Deals 70% <span class='text-dmg-fire'>Fire Damage</span> to enemies in a radius of 3.5m.<br>Creates a fire surface.",
-    "DescriptionRef": "Shoot a spot.<br>Deals [1] to enemies in a radius of [2].<br>Creates a fire surface.",
+    "Description": "Cast an explosive ball of fire that does 70% <span class='text-dmg-fire'>Fire Damage</span> damage to anything within 3.5m from impact.",
+    "DescriptionRef": "Cast an explosive ball of fire that does [1] damage to anything within [2] from impact.",
     "StatsDescriptionParams": "Damage;ExplodeRadius;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -1920,7 +1920,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot a spot.<br>Deals 70% <span class='text-dmg-fire'>Fire Damage</span> to enemies in a radius of 3.5m.<br>Creates a fire surface.",
+    "BaseDescription": "Cast an explosive ball of fire that does 70% <span class='text-dmg-fire'>Fire Damage</span> damage to anything within 3.5m from impact.",
     "SourceInfusions": {}
   },
   "Projectile_SplinterArrow": {
@@ -2125,8 +2125,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Water_IceShardStart",
     "DisplayNameRef": "Ice Shard",
-    "Description": "Shoot a spot.<br>Deals 50% <span class='text-dmg-water'>Water Damage</span> to enemies in a radius of 15m.<br>Freezes surfaces<br>May create an ice surface.",
-    "DescriptionRef": "Shoot a spot.<br>Deals [1] to enemies in a radius of [2].<br>Freezes surfaces<br>May create an ice surface.",
+    "Description": "Shoot a chilling shard of ice that deals 50% <span class='text-dmg-water'>Water Damage</span> damage.",
+    "DescriptionRef": "Shoot a chilling shard of ice that deals [1] damage.",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -2137,7 +2137,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot a spot.<br>Deals 50% <span class='text-dmg-water'>Water Damage</span> to enemies in a radius of 15m.<br>Freezes surfaces<br>May create an ice surface.",
+    "BaseDescription": "Shoot a chilling shard of ice that deals 50% <span class='text-dmg-water'>Water Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_IceShardStart_9": {
@@ -2184,8 +2184,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Water_IceShardStart",
     "DisplayNameRef": "Ice Shard",
-    "Description": "Shoot a spot.<br>Deals 50% <span class='text-dmg-water'>Water Damage</span> to enemies in a radius of 15m.<br>Freezes surfaces<br>May create an ice surface.",
-    "DescriptionRef": "Shoot a spot.<br>Deals [1] to enemies in a radius of [2].<br>Freezes surfaces<br>May create an ice surface.",
+    "Description": "Shoot a chilling shard of ice that deals 50% <span class='text-dmg-water'>Water Damage</span> damage.",
+    "DescriptionRef": "Shoot a chilling shard of ice that deals [1] damage.",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -2196,7 +2196,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot a spot.<br>Deals 50% <span class='text-dmg-water'>Water Damage</span> to enemies in a radius of 15m.<br>Freezes surfaces<br>May create an ice surface.",
+    "BaseDescription": "Shoot a chilling shard of ice that deals 50% <span class='text-dmg-water'>Water Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_BlitzBoltStart": {
@@ -2328,8 +2328,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Air_ChainLightning",
     "DisplayNameRef": "Chain Lightning",
-    "Description": "Shoot target enemy.<br>Deals 120% <span class='text-dmg-air'>Air Damage</span>.<br>Can bounce between 5 more enemies within 7m.<br>Electrifies surfaces.",
-    "DescriptionRef": "Shoot target enemy.<br>Deals [1].<br>Can bounce between [2] more enemies within [3].<br>Electrifies surfaces.",
+    "Description": "Shoot a stunning bolt of lightning that forks up to 5 times in a 7m radius and deals 120% <span class='text-dmg-air'>Air Damage</span> damage to each target.",
+    "DescriptionRef": "Shoot a stunning bolt of lightning that forks up to [2] times in a [3] radius and deals [1] damage to each target.",
     "StatsDescriptionParams": "Damage;ForkLevels;AreaRadius;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -2340,7 +2340,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot target enemy.<br>Deals 120% <span class='text-dmg-air'>Air Damage</span>.<br>Can bounce between 5 more enemies within 7m.<br>Electrifies surfaces.",
+    "BaseDescription": "Shoot a stunning bolt of lightning that forks up to 5 times in a 7m radius and deals 120% <span class='text-dmg-air'>Air Damage</span> damage to each target.",
     "SourceInfusions": {}
   },
   "Projectile_ChainLightning_13": {
@@ -2376,8 +2376,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Air_ChainLightning",
     "DisplayNameRef": "Chain Lightning",
-    "Description": "Shoot target enemy.<br>Deals 120% <span class='text-dmg-air'>Air Damage</span>.<br>Can bounce between 5 more enemies within 7m.<br>Electrifies surfaces.",
-    "DescriptionRef": "Shoot target enemy.<br>Deals [1].<br>Can bounce between [2] more enemies within [3].<br>Electrifies surfaces.",
+    "Description": "Shoot a stunning bolt of lightning that forks up to 5 times in a 7m radius and deals 120% <span class='text-dmg-air'>Air Damage</span> damage to each target.",
+    "DescriptionRef": "Shoot a stunning bolt of lightning that forks up to [2] times in a [3] radius and deals [1] damage to each target.",
     "StatsDescriptionParams": "Damage;ForkLevels;AreaRadius;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -2388,7 +2388,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot target enemy.<br>Deals 120% <span class='text-dmg-air'>Air Damage</span>.<br>Can bounce between 5 more enemies within 7m.<br>Electrifies surfaces.",
+    "BaseDescription": "Shoot a stunning bolt of lightning that forks up to 5 times in a 7m radius and deals 120% <span class='text-dmg-air'>Air Damage</span> damage to each target.",
     "SourceInfusions": {}
   },
   "Projectile_TrapChainLightning": {
@@ -2642,8 +2642,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Ranger_Ricochet",
     "DisplayNameRef": "Ricochet",
-    "Description": "Shoot target enemy.<br>Deals 4.<br>Can bounce between 8m more enemies within 100% <span class='text-dmg-phys'>Weapon Damage</span>.",
-    "DescriptionRef": "Shoot target enemy.<br>Deals [1].<br>Can bounce between [2] more enemies within [3].",
+    "Description": "Fire a normal arrow that deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage and then forks off to the next target up to 4 times within 8m.",
+    "DescriptionRef": "Fire a normal arrow that deals [3] damage and then forks off to the next target up to [1] times within [2].",
     "StatsDescriptionParams": "ForkLevels;AreaRadius;Damage;TargetRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -2656,7 +2656,7 @@
     "TieredStatuses": {},
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot target enemy.<br>Deals 4.<br>Can bounce between 8m more enemies within 100% <span class='text-dmg-phys'>Weapon Damage</span>.",
+    "BaseDescription": "Fire a normal arrow that deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage and then forks off to the next target up to 4 times within 8m.",
     "SourceInfusions": {}
   },
   "Projectile_Ricochet_2": {
@@ -2672,8 +2672,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Ranger_Ricochet",
     "DisplayNameRef": "Ricochet",
-    "Description": "Shoot target enemy.<br>Deals 4.<br>Can bounce between 8m more enemies within 100% <span class='text-dmg-phys'>Weapon Damage</span>.",
-    "DescriptionRef": "Shoot target enemy.<br>Deals [1].<br>Can bounce between [2] more enemies within [3].",
+    "Description": "Fire a normal arrow that deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage and then forks off to the next target up to 4 times within 8m.",
+    "DescriptionRef": "Fire a normal arrow that deals [3] damage and then forks off to the next target up to [1] times within [2].",
     "StatsDescriptionParams": "ForkLevels;AreaRadius;Damage;TargetRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -2686,7 +2686,7 @@
     "TieredStatuses": {},
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot target enemy.<br>Deals 4.<br>Can bounce between 8m more enemies within 100% <span class='text-dmg-phys'>Weapon Damage</span>.",
+    "BaseDescription": "Fire a normal arrow that deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage and then forks off to the next target up to 4 times within 8m.",
     "SourceInfusions": {}
   },
   "Projectile_Multishot": {
@@ -2702,8 +2702,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Ranger_Multishot",
     "DisplayNameRef": "Barrage",
-    "Description": "Shoot 15m target enemies.<br>Deals 75% <span class='text-dmg-phys'>Weapon Damage</span> to each.",
-    "DescriptionRef": "Shoot [2] target enemies.<br>Deals [1] to each.",
+    "Description": "Fire multiple arrows in a straight line, each dealing 75% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Fire multiple arrows in a straight line, each dealing [1] damage.",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -2716,7 +2716,7 @@
     "TieredStatuses": {},
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot 15m target enemies.<br>Deals 75% <span class='text-dmg-phys'>Weapon Damage</span> to each.",
+    "BaseDescription": "Fire multiple arrows in a straight line, each dealing 75% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_Multishot_12": {
@@ -2732,8 +2732,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Ranger_Multishot",
     "DisplayNameRef": "Barrage",
-    "Description": "Shoot 15m target enemies.<br>Deals 75% <span class='text-dmg-phys'>Weapon Damage</span> to each.",
-    "DescriptionRef": "Shoot [2] target enemies.<br>Deals [1] to each.",
+    "Description": "Fire multiple arrows in a straight line, each dealing 75% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Fire multiple arrows in a straight line, each dealing [1] damage.",
     "StatsDescriptionParams": "Damage;TargetRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -2746,7 +2746,7 @@
     "TieredStatuses": {},
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot 15m target enemies.<br>Deals 75% <span class='text-dmg-phys'>Weapon Damage</span> to each.",
+    "BaseDescription": "Fire multiple arrows in a straight line, each dealing 75% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_VampiricArrow": {
@@ -3024,8 +3024,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Stunning_A",
     "DisplayNameRef": "Stunning Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Electrifies surfaces.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Electrifies surfaces.",
+    "Description": "Stuns a target. Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage when targeted at a character.",
+    "DescriptionRef": "Stuns a target. Deals [1] damage when targeted at a character.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3036,7 +3036,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Electrifies surfaces.",
+    "BaseDescription": "Stuns a target. Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage when targeted at a character.",
     "SourceInfusions": {}
   },
   "Projectile_StunningArrow_-1": {
@@ -3072,8 +3072,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Stunning_A",
     "DisplayNameRef": "Stunning Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Electrifies surfaces.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Electrifies surfaces.",
+    "Description": "Stuns a target. Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage when targeted at a character.",
+    "DescriptionRef": "Stuns a target. Deals [1] damage when targeted at a character.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3084,7 +3084,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Electrifies surfaces.",
+    "BaseDescription": "Stuns a target. Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage when targeted at a character.",
     "SourceInfusions": {}
   },
   "Projectile_SteamCloudArrow": {
@@ -3131,8 +3131,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Steam_Cloud_A",
     "DisplayNameRef": "Steam Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a steam cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a steam cloud.",
+    "Description": "Creates a steam cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Creates a steam cloud. When targeting a character, deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3143,7 +3143,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a steam cloud.",
+    "BaseDescription": "Creates a steam cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_SteamCloudArrow_-1": {
@@ -3190,8 +3190,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Steam_Cloud_A",
     "DisplayNameRef": "Steam Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a steam cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a steam cloud.",
+    "Description": "Creates a steam cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Creates a steam cloud. When targeting a character, deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3202,7 +3202,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a steam cloud.",
+    "BaseDescription": "Creates a steam cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_PoisonedCloudArrow": {
@@ -3249,8 +3249,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Poison_Cloud_A",
     "DisplayNameRef": "Poison Cloud Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a poison cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a poison cloud.",
+    "Description": "Creates a poisonous cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Creates a poisonous cloud. When targeting a character, deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3261,7 +3261,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a poison cloud.",
+    "BaseDescription": "Creates a poisonous cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_PoisonedCloudArrow_-1": {
@@ -3308,8 +3308,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Poison_Cloud_A",
     "DisplayNameRef": "Poison Cloud Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a poison cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a poison cloud.",
+    "Description": "Creates a poisonous cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Creates a poisonous cloud. When targeting a character, deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3320,7 +3320,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a poison cloud.",
+    "BaseDescription": "Creates a poisonous cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_CharmingArrow": {
@@ -3503,8 +3503,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_KO_A",
     "DisplayNameRef": "Knock Out Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "Can knock down a target and deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Can knock down a target and deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3515,7 +3515,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
+    "BaseDescription": "Can knock down a target and deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_KnockedOutArrow_-1": {
@@ -3542,8 +3542,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_KO_A",
     "DisplayNameRef": "Knock Out Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "Can knock down a target and deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Can knock down a target and deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3554,7 +3554,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
+    "BaseDescription": "Can knock down a target and deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_SmokescreenArrow": {
@@ -3681,8 +3681,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Static_Cloud_A",
     "DisplayNameRef": "Static Cloud Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a static cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a static cloud.",
+    "Description": "Creates a static cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Creates a static cloud. When targeting a character, deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3693,7 +3693,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a static cloud.",
+    "BaseDescription": "Creates a static cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_StaticCloudArrow_-1": {
@@ -3740,8 +3740,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Static_Cloud_A",
     "DisplayNameRef": "Static Cloud Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a static cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a static cloud.",
+    "Description": "Creates a static cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Creates a static cloud. When targeting a character, deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3752,7 +3752,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a static cloud.",
+    "BaseDescription": "Creates a static cloud. When targeting a character, deals 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_FireArrow": {
@@ -3807,8 +3807,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Fire_A",
     "DisplayNameRef": "Fire Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a fire surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a fire surface.",
+    "Description": "Burn stuff. Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Burn stuff. Deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3819,7 +3819,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a fire surface.",
+    "BaseDescription": "Burn stuff. Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_FireArrow_-1": {
@@ -3874,8 +3874,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Fire_A",
     "DisplayNameRef": "Fire Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a fire surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a fire surface.",
+    "Description": "Burn stuff. Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Burn stuff. Deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3886,7 +3886,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a fire surface.",
+    "BaseDescription": "Burn stuff. Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_WaterArrow": {
@@ -3940,8 +3940,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Water_A",
     "DisplayNameRef": "Water Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a water surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a water surface.",
+    "Description": "Puts out fires or deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Puts out fires or deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -3952,7 +3952,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a water surface.",
+    "BaseDescription": "Puts out fires or deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_WaterArrow_-1": {
@@ -4006,8 +4006,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Water_A",
     "DisplayNameRef": "Water Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a water surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a water surface.",
+    "Description": "Puts out fires or deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Puts out fires or deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4018,7 +4018,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a water surface.",
+    "BaseDescription": "Puts out fires or deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_SlowDownArrow": {
@@ -4045,8 +4045,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Slowdown_A",
     "DisplayNameRef": "Sticky Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "Slows down a target and deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Slows down a target and deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4057,7 +4057,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
+    "BaseDescription": "Slows down a target and deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_SlowDownArrow_-1": {
@@ -4084,8 +4084,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Slowdown_A",
     "DisplayNameRef": "Sticky Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "Slows down a target and deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Slows down a target and deals [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4096,7 +4096,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
+    "BaseDescription": "Slows down a target and deals 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_FreezingArrow": {
@@ -4142,8 +4142,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Freezing_A",
     "DisplayNameRef": "Freezing Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "Can freeze a target and does 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Can freeze a target and does [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4154,7 +4154,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
+    "BaseDescription": "Can freeze a target and does 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_FreezingArrow_-1": {
@@ -4200,8 +4200,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Freezing_A",
     "DisplayNameRef": "Freezing Arrow",
-    "Description": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "Can freeze a target and does 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Can freeze a target and does [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4212,7 +4212,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.",
+    "BaseDescription": "Can freeze a target and does 100% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_SilverArrow": {
@@ -4240,8 +4240,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Silver_A",
     "DisplayNameRef": "Silver Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span>.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Breaks armour and does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Breaks armour and does [1] damage.",
     "StatsDescriptionParams": "Damage;Stats:SKILLBOOST_Sunder:ArmorBoost",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4252,7 +4252,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span>.",
+    "BaseDescription": "Breaks armour and does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_SilverArrow_-1": {
@@ -4280,8 +4280,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Silver_A",
     "DisplayNameRef": "Silver Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span>.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Breaks armour and does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Breaks armour and does [1] damage.",
     "StatsDescriptionParams": "Damage;Stats:SKILLBOOST_Sunder:ArmorBoost",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4292,7 +4292,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span>.",
+    "BaseDescription": "Breaks armour and does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_ExplosionArrow": {
@@ -4347,8 +4347,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Explosive_A",
     "DisplayNameRef": "Explosive Arrow",
-    "Description": "Deals 80% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Explodes and creates a fire surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Explodes and creates a fire surface.",
+    "Description": "Does 80% <span class='text-dmg-phys'>Weapon Damage</span> damage to all within 2m from impact.",
+    "DescriptionRef": "Does [1] damage to all within [2] from impact.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4359,7 +4359,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 80% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Explodes and creates a fire surface.",
+    "BaseDescription": "Does 80% <span class='text-dmg-phys'>Weapon Damage</span> damage to all within 2m from impact.",
     "SourceInfusions": {}
   },
   "Projectile_ExplosionArrow_-1": {
@@ -4414,8 +4414,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Explosive_A",
     "DisplayNameRef": "Explosive Arrow",
-    "Description": "Deals 80% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Explodes and creates a fire surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Explodes and creates a fire surface.",
+    "Description": "Does 80% <span class='text-dmg-phys'>Weapon Damage</span> damage to all within 2m from impact.",
+    "DescriptionRef": "Does [1] damage to all within [2] from impact.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4426,7 +4426,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 80% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Explodes and creates a fire surface.",
+    "BaseDescription": "Does 80% <span class='text-dmg-phys'>Weapon Damage</span> damage to all within 2m from impact.",
     "SourceInfusions": {}
   },
   "Projectile_PoisonArrow": {
@@ -4463,8 +4463,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Poison_A",
     "DisplayNameRef": "Poison Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a poison surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a poison surface.",
+    "Description": "Can poison a target. Does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Can poison a target. Does [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4475,7 +4475,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a poison surface.",
+    "BaseDescription": "Can poison a target. Does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_PoisonArrow_-1": {
@@ -4512,8 +4512,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Poison_A",
     "DisplayNameRef": "Poison Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a poison surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a poison surface.",
+    "Description": "Can poison a target. Does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Can poison a target. Does [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4524,7 +4524,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Creates a poison surface.",
+    "BaseDescription": "Can poison a target. Does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_DebuffAllArrow": {
@@ -4552,8 +4552,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Debuf_All_A",
     "DisplayNameRef": "Cursing Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Lowers target's primary stats by [REPLACE].",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Lowers target's primary stats by [2].",
+    "Description": "Lowers all of your target's primary stats. Does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Lowers all of your target's primary stats. Does [1] damage.",
     "StatsDescriptionParams": "Damage;Stats:SKILLBOOST_DebuffAll:Strength;Stats:SKILLBOOST_DebuffAll:Dexterity;Stats:SKILLBOOST_DebuffAll:Intelligence;Stats:SKILLBOOST_DebuffAll:Constitution;Stats:SKILLBOOST_DebuffAll:Speed;Stats:SKILLBOOST_DebuffAll:Perception",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4564,7 +4564,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Lowers target's primary stats by [REPLACE].",
+    "BaseDescription": "Lowers all of your target's primary stats. Does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_DebuffAllArrow_-1": {
@@ -4592,8 +4592,8 @@
     "UseWeaponDamage": true,
     "Icon": "Item_WPN_Arrow_Debuf_All_A",
     "DisplayNameRef": "Cursing Arrow",
-    "Description": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Lowers target's primary stats by [REPLACE].",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Lowers target's primary stats by [2].",
+    "Description": "Lowers all of your target's primary stats. Does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Lowers all of your target's primary stats. Does [1] damage.",
     "StatsDescriptionParams": "Damage;Stats:SKILLBOOST_DebuffAll:Strength;Stats:SKILLBOOST_DebuffAll:Dexterity;Stats:SKILLBOOST_DebuffAll:Intelligence;Stats:SKILLBOOST_DebuffAll:Constitution;Stats:SKILLBOOST_DebuffAll:Speed;Stats:SKILLBOOST_DebuffAll:Perception",
     "Magic Cost": "0",
     "Hidden": false,
@@ -4604,7 +4604,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-phys'>Weapon Damage</span> to all characters in radius.<br>Lowers target's primary stats by [REPLACE].",
+    "BaseDescription": "Lowers all of your target's primary stats. Does 50% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Projectile_TrapFireball": {
@@ -6364,8 +6364,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_ArmorPiercing",
     "DisplayNameRef": "Armor-Piercing Grenade",
-    "Description": "Deals 100% <span class='text-dmg-pierce'>Piercing Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "Releases shards that do 100% <span class='text-dmg-pierce'>Piercing Damage</span> damage and that may break armour, in a radius of 5.5m!",
+    "DescriptionRef": "Releases shards that do [1] damage and that may break armour, in a radius of [2]!",
     "StatsDescriptionParams": "Damage;ExplodeRadius;Stats:SKILLBOOST_Sunder:Armor",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6376,7 +6376,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-pierce'>Piercing Damage</span> to all characters in radius.",
+    "BaseDescription": "Releases shards that do 100% <span class='text-dmg-pierce'>Piercing Damage</span> damage and that may break armour, in a radius of 5.5m!",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_ArmorPiercing_-1": {
@@ -6404,8 +6404,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_ArmorPiercing",
     "DisplayNameRef": "Armor-Piercing Grenade",
-    "Description": "Deals 100% <span class='text-dmg-pierce'>Piercing Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "Releases shards that do 100% <span class='text-dmg-pierce'>Piercing Damage</span> damage and that may break armour, in a radius of 5.5m!",
+    "DescriptionRef": "Releases shards that do [1] damage and that may break armour, in a radius of [2]!",
     "StatsDescriptionParams": "Damage;ExplodeRadius;Stats:SKILLBOOST_Sunder:Armor",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6416,7 +6416,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 100% <span class='text-dmg-pierce'>Piercing Damage</span> to all characters in radius.",
+    "BaseDescription": "Releases shards that do 100% <span class='text-dmg-pierce'>Piercing Damage</span> damage and that may break armour, in a radius of 5.5m!",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_BreachingFire": {
@@ -6523,8 +6523,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Nailbomb",
     "DisplayNameRef": "Nailbomb Grenade",
-    "Description": "Deals 80% <span class='text-dmg-pierce'>Piercing Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "An explosive filled with nails that do 80% <span class='text-dmg-pierce'>Piercing Damage</span> damage and may inflict bleeding to everyone in a 5.5m radius.",
+    "DescriptionRef": "An explosive filled with nails that do [1] damage and may inflict bleeding to everyone in a [2] radius.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6535,7 +6535,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 80% <span class='text-dmg-pierce'>Piercing Damage</span> to all characters in radius.",
+    "BaseDescription": "An explosive filled with nails that do 80% <span class='text-dmg-pierce'>Piercing Damage</span> damage and may inflict bleeding to everyone in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Nailbomb_-1": {
@@ -6562,8 +6562,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Nailbomb",
     "DisplayNameRef": "Nailbomb Grenade",
-    "Description": "Deals 80% <span class='text-dmg-pierce'>Piercing Damage</span> to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "An explosive filled with nails that do 80% <span class='text-dmg-pierce'>Piercing Damage</span> damage and may inflict bleeding to everyone in a 5.5m radius.",
+    "DescriptionRef": "An explosive filled with nails that do [1] damage and may inflict bleeding to everyone in a [2] radius.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6574,7 +6574,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 80% <span class='text-dmg-pierce'>Piercing Damage</span> to all characters in radius.",
+    "BaseDescription": "An explosive filled with nails that do 80% <span class='text-dmg-pierce'>Piercing Damage</span> damage and may inflict bleeding to everyone in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Flashbang": {
@@ -6598,8 +6598,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Flashbang",
     "DisplayNameRef": "Flashbang Grenade",
-    "Description": "Deals 5.5m to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "A flashbang can inflict blind in a 5.5m radius.",
+    "DescriptionRef": "A flashbang can inflict blind in a [1] radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6613,7 +6613,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 5.5m to all characters in radius.",
+    "BaseDescription": "A flashbang can inflict blind in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Flashbang_-1": {
@@ -6637,8 +6637,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Flashbang",
     "DisplayNameRef": "Flashbang Grenade",
-    "Description": "Deals 5.5m to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "A flashbang can inflict blind in a 5.5m radius.",
+    "DescriptionRef": "A flashbang can inflict blind in a [1] radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6652,7 +6652,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 5.5m to all characters in radius.",
+    "BaseDescription": "A flashbang can inflict blind in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Molotov": {
@@ -6717,8 +6717,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Molotov",
     "DisplayNameRef": "Molotov Grenade",
-    "Description": "Deals 80% <span class='text-dmg-fire'>Fire Damage</span> to all characters in radius.<br>Creates a fire surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a fire surface.",
+    "Description": "This harmless looking bottle deals 80% <span class='text-dmg-fire'>Fire Damage</span> damage in a 4m radius.",
+    "DescriptionRef": "This harmless looking bottle deals [1] damage in a [2] radius.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6729,7 +6729,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 80% <span class='text-dmg-fire'>Fire Damage</span> to all characters in radius.<br>Creates a fire surface.",
+    "BaseDescription": "This harmless looking bottle deals 80% <span class='text-dmg-fire'>Fire Damage</span> damage in a 4m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Molotov_-1": {
@@ -6794,8 +6794,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Molotov",
     "DisplayNameRef": "Molotov Grenade",
-    "Description": "Deals 80% <span class='text-dmg-fire'>Fire Damage</span> to all characters in radius.<br>Creates a fire surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a fire surface.",
+    "Description": "This harmless looking bottle deals 80% <span class='text-dmg-fire'>Fire Damage</span> damage in a 4m radius.",
+    "DescriptionRef": "This harmless looking bottle deals [1] damage in a [2] radius.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6806,7 +6806,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 80% <span class='text-dmg-fire'>Fire Damage</span> to all characters in radius.<br>Creates a fire surface.",
+    "BaseDescription": "This harmless looking bottle deals 80% <span class='text-dmg-fire'>Fire Damage</span> damage in a 4m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Love": {
@@ -6830,8 +6830,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Love",
     "DisplayNameRef": "Love Grenade",
-    "Description": "Charm enemies.",
-    "DescriptionRef": "Charm enemies.",
+    "Description": "Will try to charm all in a 5.5m radius.",
+    "DescriptionRef": "Will try to charm all in a [1] radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6845,7 +6845,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Charm enemies.",
+    "BaseDescription": "Will try to charm all in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Love_-1": {
@@ -6869,8 +6869,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Love",
     "DisplayNameRef": "Love Grenade",
-    "Description": "Charm enemies.",
-    "DescriptionRef": "Charm enemies.",
+    "Description": "Will try to charm all in a 5.5m radius.",
+    "DescriptionRef": "Will try to charm all in a [1] radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6884,7 +6884,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Charm enemies.",
+    "BaseDescription": "Will try to charm all in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_ChemicalWarfare": {
@@ -6908,8 +6908,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_ChemicalWarfare",
     "DisplayNameRef": "Chemical Warfare Grenade",
-    "Description": "Deals 5.5m to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "A grenade that will try to make everyone in a 5.5m radius very sick.",
+    "DescriptionRef": "A grenade that will try to make everyone in a [1] radius very sick.",
     "StatsDescriptionParams": "ExplodeRadius;Stats:Stats_Diseased:Constitution;Stats:Stats_Diseased:BodyBuilding",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6923,7 +6923,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 5.5m to all characters in radius.",
+    "BaseDescription": "A grenade that will try to make everyone in a 5.5m radius very sick.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_ChemicalWarfare_-1": {
@@ -6947,8 +6947,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_ChemicalWarfare",
     "DisplayNameRef": "Chemical Warfare Grenade",
-    "Description": "Deals 5.5m to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "A grenade that will try to make everyone in a 5.5m radius very sick.",
+    "DescriptionRef": "A grenade that will try to make everyone in a [1] radius very sick.",
     "StatsDescriptionParams": "ExplodeRadius;Stats:Stats_Diseased:Constitution;Stats:Stats_Diseased:BodyBuilding",
     "Magic Cost": "0",
     "Hidden": false,
@@ -6962,7 +6962,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 5.5m to all characters in radius.",
+    "BaseDescription": "A grenade that will try to make everyone in a 5.5m radius very sick.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Terror": {
@@ -6986,8 +6986,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Terror",
     "DisplayNameRef": "Terror Grenade",
-    "Description": "Deals 5.5m to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "A grenade so terrific, it can scare off enemies in a 5.5m radius.",
+    "DescriptionRef": "A grenade so terrific, it can scare off enemies in a [1] radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7001,7 +7001,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 5.5m to all characters in radius.",
+    "BaseDescription": "A grenade so terrific, it can scare off enemies in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Terror_-1": {
@@ -7025,8 +7025,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Terror",
     "DisplayNameRef": "Terror Grenade",
-    "Description": "Deals 5.5m to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "A grenade so terrific, it can scare off enemies in a 5.5m radius.",
+    "DescriptionRef": "A grenade so terrific, it can scare off enemies in a [1] radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7040,7 +7040,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 5.5m to all characters in radius.",
+    "BaseDescription": "A grenade so terrific, it can scare off enemies in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Ice": {
@@ -7093,8 +7093,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Ice",
     "DisplayNameRef": "Frost Grenade",
-    "Description": "Deals 50% <span class='text-dmg-water'>Water Damage</span> to all characters in radius.<br>Creates an ice surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates an ice surface.",
+    "Description": "This grenade unleashes a chemical reaction that does 50% <span class='text-dmg-water'>Water Damage</span> damage in a 4m radius and can freeze all in range.",
+    "DescriptionRef": "This grenade unleashes a chemical reaction that does [1] damage in a [2] radius and can freeze all in range.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7105,7 +7105,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-water'>Water Damage</span> to all characters in radius.<br>Creates an ice surface.",
+    "BaseDescription": "This grenade unleashes a chemical reaction that does 50% <span class='text-dmg-water'>Water Damage</span> damage in a 4m radius and can freeze all in range.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Ice_-1": {
@@ -7158,8 +7158,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Ice",
     "DisplayNameRef": "Frost Grenade",
-    "Description": "Deals 50% <span class='text-dmg-water'>Water Damage</span> to all characters in radius.<br>Creates an ice surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates an ice surface.",
+    "Description": "This grenade unleashes a chemical reaction that does 50% <span class='text-dmg-water'>Water Damage</span> damage in a 4m radius and can freeze all in range.",
+    "DescriptionRef": "This grenade unleashes a chemical reaction that does [1] damage in a [2] radius and can freeze all in range.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7170,7 +7170,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-water'>Water Damage</span> to all characters in radius.<br>Creates an ice surface.",
+    "BaseDescription": "This grenade unleashes a chemical reaction that does 50% <span class='text-dmg-water'>Water Damage</span> damage in a 4m radius and can freeze all in range.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Holy": {
@@ -7196,8 +7196,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Holy",
     "DisplayNameRef": "Holy Hand Grenade",
-    "Description": "Heal allies.<br>Kills enemies below 20% life.",
-    "DescriptionRef": "Heal allies.<br>Kills enemies below 20% life.",
+    "Description": "The Holy Hand Grenade will significantly heal everyone in a 5.5m radius.",
+    "DescriptionRef": "The Holy Hand Grenade will significantly heal everyone in a [1] radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7211,7 +7211,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Heal allies.<br>Kills enemies below 20% life.",
+    "BaseDescription": "The Holy Hand Grenade will significantly heal everyone in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Holy_-1": {
@@ -7237,8 +7237,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Holy",
     "DisplayNameRef": "Holy Hand Grenade",
-    "Description": "Heal allies.<br>Kills enemies below 20% life.",
-    "DescriptionRef": "Heal allies.<br>Kills enemies below 20% life.",
+    "Description": "The Holy Hand Grenade will significantly heal everyone in a 5.5m radius.",
+    "DescriptionRef": "The Holy Hand Grenade will significantly heal everyone in a [1] radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7252,7 +7252,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Heal allies.<br>Kills enemies below 20% life.",
+    "BaseDescription": "The Holy Hand Grenade will significantly heal everyone in a 5.5m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_ScalesOfSteel": {
@@ -7357,8 +7357,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Tremor",
     "DisplayNameRef": "Tremor Grenade",
-    "Description": "Deals 70% Crushing Damage to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "A grenade that magically induces seismicity, causing 70% Crushing Damage damage to all within a 5.5m range.",
+    "DescriptionRef": "A grenade that magically induces seismicity, causing [1] damage to all within a [2] range.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7369,7 +7369,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 70% Crushing Damage to all characters in radius.",
+    "BaseDescription": "A grenade that magically induces seismicity, causing 70% Crushing Damage damage to all within a 5.5m range.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Tremor_-1": {
@@ -7396,8 +7396,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Tremor",
     "DisplayNameRef": "Tremor Grenade",
-    "Description": "Deals 70% Crushing Damage to all characters in radius.",
-    "DescriptionRef": "Deals [1] to all characters in radius.",
+    "Description": "A grenade that magically induces seismicity, causing 70% Crushing Damage damage to all within a 5.5m range.",
+    "DescriptionRef": "A grenade that magically induces seismicity, causing [1] damage to all within a [2] range.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7408,7 +7408,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 70% Crushing Damage to all characters in radius.",
+    "BaseDescription": "A grenade that magically induces seismicity, causing 70% Crushing Damage damage to all within a 5.5m range.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Taser": {
@@ -7444,8 +7444,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Taser",
     "DisplayNameRef": "Taser Grenade",
-    "Description": "Deals 50% <span class='text-dmg-air'>Air Damage</span> to all characters in radius.<br>Electrifies surfaces.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Electrifies surfaces.",
+    "Description": "Stun targets in a 4m radius and deal 50% <span class='text-dmg-air'>Air Damage</span> damage to them.",
+    "DescriptionRef": "Stun targets in a [2] radius and deal [1] damage to them.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7456,7 +7456,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-air'>Air Damage</span> to all characters in radius.<br>Electrifies surfaces.",
+    "BaseDescription": "Stun targets in a 4m radius and deal 50% <span class='text-dmg-air'>Air Damage</span> damage to them.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_Taser_-1": {
@@ -7492,8 +7492,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_Taser",
     "DisplayNameRef": "Taser Grenade",
-    "Description": "Deals 50% <span class='text-dmg-air'>Air Damage</span> to all characters in radius.<br>Electrifies surfaces.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Electrifies surfaces.",
+    "Description": "Stun targets in a 4m radius and deal 50% <span class='text-dmg-air'>Air Damage</span> damage to them.",
+    "DescriptionRef": "Stun targets in a [2] radius and deal [1] damage to them.",
     "StatsDescriptionParams": "Damage;ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7504,7 +7504,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-air'>Air Damage</span> to all characters in radius.<br>Electrifies surfaces.",
+    "BaseDescription": "Stun targets in a 4m radius and deal 50% <span class='text-dmg-air'>Air Damage</span> damage to them.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_WaterBalloon": {
@@ -7555,8 +7555,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_WaterBalloon",
     "DisplayNameRef": "Water Balloon",
-    "Description": "Deals 4m to all characters in radius.<br>Creates a water surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a water surface.",
+    "Description": "Creates a small water surface with a 4mm radius.",
+    "DescriptionRef": "Creates a small water surface with a [1]m radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7570,7 +7570,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 4m to all characters in radius.<br>Creates a water surface.",
+    "BaseDescription": "Creates a small water surface with a 4mm radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_WaterBalloon_-1": {
@@ -7621,8 +7621,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_WaterBalloon",
     "DisplayNameRef": "Water Balloon",
-    "Description": "Deals 4m to all characters in radius.<br>Creates a water surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a water surface.",
+    "Description": "Creates a small water surface with a 4mm radius.",
+    "DescriptionRef": "Creates a small water surface with a [1]m radius.",
     "StatsDescriptionParams": "ExplodeRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -7636,7 +7636,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 4m to all characters in radius.<br>Creates a water surface.",
+    "BaseDescription": "Creates a small water surface with a 4mm radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_SmokeBomb": {
@@ -7672,8 +7672,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_SmokeBomb",
     "DisplayNameRef": "Smoke Grenade",
-    "Description": "Deals [1] to all characters in radius.<br>Creates a smoke cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a smoke cloud.",
+    "Description": "Creates a smoke curtain with a 4m radius.",
+    "DescriptionRef": "Creates a smoke curtain with a 4m radius.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -7687,7 +7687,7 @@
     "IsEnemySkill": "No",
     "StatsDescriptionParams": "",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals [1] to all characters in radius.<br>Creates a smoke cloud.",
+    "BaseDescription": "Creates a smoke curtain with a 4m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_SmokeBomb_-1": {
@@ -7723,8 +7723,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_SmokeBomb",
     "DisplayNameRef": "Smoke Grenade",
-    "Description": "Deals [1] to all characters in radius.<br>Creates a smoke cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a smoke cloud.",
+    "Description": "Creates a smoke curtain with a 4m radius.",
+    "DescriptionRef": "Creates a smoke curtain with a 4m radius.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -7738,7 +7738,7 @@
     "IsEnemySkill": "No",
     "StatsDescriptionParams": "",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals [1] to all characters in radius.<br>Creates a smoke cloud.",
+    "BaseDescription": "Creates a smoke curtain with a 4m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_MustardGas": {
@@ -7774,8 +7774,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_MustardGas",
     "DisplayNameRef": "Poison Cloud Grenade",
-    "Description": "Deals [1] to all characters in radius.<br>Creates a poison cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a poison cloud.",
+    "Description": "Creates a poison cloud with a 4m radius.",
+    "DescriptionRef": "Creates a poison cloud with a 4m radius.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -7789,7 +7789,7 @@
     "IsEnemySkill": "No",
     "StatsDescriptionParams": "",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals [1] to all characters in radius.<br>Creates a poison cloud.",
+    "BaseDescription": "Creates a poison cloud with a 4m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_MustardGas_-1": {
@@ -7825,8 +7825,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_MustardGas",
     "DisplayNameRef": "Poison Cloud Grenade",
-    "Description": "Deals [1] to all characters in radius.<br>Creates a poison cloud.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a poison cloud.",
+    "Description": "Creates a poison cloud with a 4m radius.",
+    "DescriptionRef": "Creates a poison cloud with a 4m radius.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -7840,7 +7840,7 @@
     "IsEnemySkill": "No",
     "StatsDescriptionParams": "",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals [1] to all characters in radius.<br>Creates a poison cloud.",
+    "BaseDescription": "Creates a poison cloud with a 4m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_OilFlask": {
@@ -7875,8 +7875,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_OilFlask",
     "DisplayNameRef": "Oil Flask",
-    "Description": "Deals [1] to all characters in radius.<br>Creates an Oil surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates an Oil surface.",
+    "Description": "Creates a small oil puddle with a 1m radius.",
+    "DescriptionRef": "Creates a small oil puddle with a 1m radius.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -7891,7 +7891,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals [1] to all characters in radius.<br>Creates an Oil surface.",
+    "BaseDescription": "Creates a small oil puddle with a 1m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_OilFlask_-1": {
@@ -7926,8 +7926,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_OilFlask",
     "DisplayNameRef": "Oil Flask",
-    "Description": "Deals [1] to all characters in radius.<br>Creates an Oil surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates an Oil surface.",
+    "Description": "Creates a small oil puddle with a 1m radius.",
+    "DescriptionRef": "Creates a small oil puddle with a 1m radius.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -7942,7 +7942,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals [1] to all characters in radius.<br>Creates an Oil surface.",
+    "BaseDescription": "Creates a small oil puddle with a 1m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_PoisonFlask": {
@@ -7977,8 +7977,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_PoisonFlask",
     "DisplayNameRef": "Poison Flask",
-    "Description": "Deals [1] to all characters in radius.<br>Creates a poison surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a poison surface.",
+    "Description": "Creates a small ooze surface with a 1m radius.",
+    "DescriptionRef": "Creates a small ooze surface with a 1m radius.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -7993,7 +7993,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals [1] to all characters in radius.<br>Creates a poison surface.",
+    "BaseDescription": "Creates a small ooze surface with a 1m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Grenade_PoisonFlask_-1": {
@@ -8028,8 +8028,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_PoisonFlask",
     "DisplayNameRef": "Poison Flask",
-    "Description": "Deals [1] to all characters in radius.<br>Creates a poison surface.",
-    "DescriptionRef": "Deals [1] to all characters in radius.<br>Creates a poison surface.",
+    "Description": "Creates a small ooze surface with a 1m radius.",
+    "DescriptionRef": "Creates a small ooze surface with a 1m radius.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -8044,7 +8044,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals [1] to all characters in radius.<br>Creates a poison surface.",
+    "BaseDescription": "Creates a small ooze surface with a 1m radius.",
     "SourceInfusions": {}
   },
   "Projectile_Quest_ShamblingMoundKill": {
@@ -8229,8 +8229,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_ClusterBomb",
     "DisplayNameRef": "Cluster Grenade",
-    "Description": "Deals 50% <span class='text-dmg-fire'>Fire Damage</span>. Explode into 3m parts.",
-    "DescriptionRef": "Deals [1]. Explode into [2] parts.",
+    "Description": "Throw a grenade into the air where it will explode into six multiple balls of fiery mayhem and rain down again, dealing 50% <span class='text-dmg-fire'>Fire Damage</span> damage or creating fire surfaces in a 3m radius.",
+    "DescriptionRef": "Throw a grenade into the air where it will explode into six multiple balls of fiery mayhem and rain down again, dealing [1] damage or creating fire surfaces in a [2] radius.",
     "StatsDescriptionParams": "Damage;AreaRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -8241,7 +8241,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-fire'>Fire Damage</span>. Explode into 3m parts.",
+    "BaseDescription": "Throw a grenade into the air where it will explode into six multiple balls of fiery mayhem and rain down again, dealing 50% <span class='text-dmg-fire'>Fire Damage</span> damage or creating fire surfaces in a 3m radius.",
     "SourceInfusions": {}
   },
   "ProjectileStrike_Grenade_ClusterBomb_-1": {
@@ -8306,8 +8306,8 @@
     "UseWeaponDamage": false,
     "Icon": "Item_GRN_ClusterBomb",
     "DisplayNameRef": "Cluster Grenade",
-    "Description": "Deals 50% <span class='text-dmg-fire'>Fire Damage</span>. Explode into 3m parts.",
-    "DescriptionRef": "Deals [1]. Explode into [2] parts.",
+    "Description": "Throw a grenade into the air where it will explode into six multiple balls of fiery mayhem and rain down again, dealing 50% <span class='text-dmg-fire'>Fire Damage</span> damage or creating fire surfaces in a 3m radius.",
+    "DescriptionRef": "Throw a grenade into the air where it will explode into six multiple balls of fiery mayhem and rain down again, dealing [1] damage or creating fire surfaces in a [2] radius.",
     "StatsDescriptionParams": "Damage;AreaRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -8318,7 +8318,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 50% <span class='text-dmg-fire'>Fire Damage</span>. Explode into 3m parts.",
+    "BaseDescription": "Throw a grenade into the air where it will explode into six multiple balls of fiery mayhem and rain down again, dealing 50% <span class='text-dmg-fire'>Fire Damage</span> damage or creating fire surfaces in a 3m radius.",
     "SourceInfusions": {}
   },
   "ProjectileStrike_Grenade_EyeOfThePatriarch": {
@@ -8689,8 +8689,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_MeteorStrike",
     "DisplayNameRef": "Meteor Shower",
-    "Description": "Shoot 3.5m fireballs at enemies in a radius of 30.<br>Deals 140% <span class='text-dmg-fire'>Fire Damage</span> each.",
-    "DescriptionRef": "Shoot [2] fireballs at enemies in a radius of [3].<br>Deals [1] each.",
+    "Description": "30 fireballs come crashing from the sky. Each does 140% <span class='text-dmg-fire'>Fire Damage</span> damage to enemies within a 3.5m range from impact.",
+    "DescriptionRef": "[3] fireballs come crashing from the sky. Each does [1] damage to enemies within a [2] range from impact.",
     "StatsDescriptionParams": "Damage;ExplodeRadius;StrikeCount;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -8701,7 +8701,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot 3.5m fireballs at enemies in a radius of 30.<br>Deals 140% <span class='text-dmg-fire'>Fire Damage</span> each.",
+    "BaseDescription": "30 fireballs come crashing from the sky. Each does 140% <span class='text-dmg-fire'>Fire Damage</span> damage to enemies within a 3.5m range from impact.",
     "SourceInfusions": {}
   },
   "ProjectileStrike_MeteorShower_15": {
@@ -8756,8 +8756,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_MeteorStrike",
     "DisplayNameRef": "Meteor Shower",
-    "Description": "Shoot 3.5m fireballs at enemies in a radius of 30.<br>Deals 140% <span class='text-dmg-fire'>Fire Damage</span> each.",
-    "DescriptionRef": "Shoot [2] fireballs at enemies in a radius of [3].<br>Deals [1] each.",
+    "Description": "30 fireballs come crashing from the sky. Each does 140% <span class='text-dmg-fire'>Fire Damage</span> damage to enemies within a 3.5m range from impact.",
+    "DescriptionRef": "[3] fireballs come crashing from the sky. Each does [1] damage to enemies within a [2] range from impact.",
     "StatsDescriptionParams": "Damage;ExplodeRadius;StrikeCount;TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -8768,7 +8768,7 @@
     "Memory Cost": "0",
     "IsEnemySkill": "No",
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Shoot 3.5m fireballs at enemies in a radius of 30.<br>Deals 140% <span class='text-dmg-fire'>Fire Damage</span> each.",
+    "BaseDescription": "30 fireballs come crashing from the sky. Each does 140% <span class='text-dmg-fire'>Fire Damage</span> damage to enemies within a 3.5m range from impact.",
     "SourceInfusions": {}
   },
   "Target_Quest_ResurrectIcara": {
@@ -8938,8 +8938,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Earth_Fortify",
     "DisplayNameRef": "Fortify",
-    "Description": "Applies Defensive Stance and Rock Reaction to you.<br>Heals yourself.<br>Cures and immunes to Shoked, Stunned and Petrified.<br>Can be used to wound undeads.",
-    "DescriptionRef": "Applies Defensive Stance and Rock Reaction to you.<br>Heals yourself.<br>Cures and immunes to Shoked, Stunned and Petrified.<br>Can be used to wound undeads.",
+    "Description": "Give yourself or another target magical armor.",
+    "DescriptionRef": "Give yourself or another target magical armor.",
     "StatsDescriptionParams": "Stats:Stats_Fortified:Armor;TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -8951,7 +8951,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Applies Defensive Stance and Rock Reaction to you.<br>Heals yourself.<br>Cures and immunes to Shoked, Stunned and Petrified.<br>Can be used to wound undeads.",
+    "BaseDescription": "Give yourself or another target magical armor.",
     "SourceInfusions": {}
   },
   "Target_Fortify_6": {
@@ -8977,8 +8977,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Earth_Fortify",
     "DisplayNameRef": "Fortify",
-    "Description": "Applies Defensive Stance and Rock Reaction to you.<br>Heals yourself.<br>Cures and immunes to Shoked, Stunned and Petrified.<br>Can be used to wound undeads.",
-    "DescriptionRef": "Applies Defensive Stance and Rock Reaction to you.<br>Heals yourself.<br>Cures and immunes to Shoked, Stunned and Petrified.<br>Can be used to wound undeads.",
+    "Description": "Give yourself or another target magical armor.",
+    "DescriptionRef": "Give yourself or another target magical armor.",
     "StatsDescriptionParams": "Stats:Stats_Fortified:Armor;TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -8990,7 +8990,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Applies Defensive Stance and Rock Reaction to you.<br>Heals yourself.<br>Cures and immunes to Shoked, Stunned and Petrified.<br>Can be used to wound undeads.",
+    "BaseDescription": "Give yourself or another target magical armor.",
     "SourceInfusions": {}
   },
   "Target_DecayingTouch": {
@@ -9016,8 +9016,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Source_DecayingTouch",
     "DisplayNameRef": "Decaying Touch",
-    "Description": "Deals 5m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Make a target decay so that it cannot be healed by magic or potions anymore.",
+    "DescriptionRef": "Make a target decay so that it cannot be healed by magic or potions anymore.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -9029,7 +9029,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 5m.",
+    "BaseDescription": "Make a target decay so that it cannot be healed by magic or potions anymore.",
     "SourceInfusions": {}
   },
   "Target_DecayingTouch_4": {
@@ -9055,8 +9055,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Source_DecayingTouch",
     "DisplayNameRef": "Decaying Touch",
-    "Description": "Deals 5m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Make a target decay so that it cannot be healed by magic or potions anymore.",
+    "DescriptionRef": "Make a target decay so that it cannot be healed by magic or potions anymore.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -9068,7 +9068,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 5m.",
+    "BaseDescription": "Make a target decay so that it cannot be healed by magic or potions anymore.",
     "SourceInfusions": {}
   },
   "Target_Fatality": {
@@ -9084,8 +9084,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Rogue_Fatality",
     "DisplayNameRef": "Coup De Grace",
-    "Description": "Deals 1m.<br>+100% Damage from invisible.",
-    "DescriptionRef": "Deals [1].<br>+100% Damage from invisible.",
+    "Description": "Deal the killing blow to a target that's below 20% vitality.",
+    "DescriptionRef": "Deal the killing blow to a target that's below 20% vitality.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -9098,7 +9098,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 1m.<br>+100% Damage from invisible.",
+    "BaseDescription": "Deal the killing blow to a target that's below 20% vitality.",
     "SourceInfusions": {}
   },
   "Target_Fatality_18": {
@@ -9114,8 +9114,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Rogue_Fatality",
     "DisplayNameRef": "Coup De Grace",
-    "Description": "Deals 1m.<br>+100% Damage from invisible.",
-    "DescriptionRef": "Deals [1].<br>+100% Damage from invisible.",
+    "Description": "Deal the killing blow to a target that's below 20% vitality.",
+    "DescriptionRef": "Deal the killing blow to a target that's below 20% vitality.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -9128,7 +9128,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 1m.<br>+100% Damage from invisible.",
+    "BaseDescription": "Deal the killing blow to a target that's below 20% vitality.",
     "SourceInfusions": {}
   },
   "Target_CrawlingInfestation": {
@@ -9467,8 +9467,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Ranger_Farseer",
     "DisplayNameRef": "Farseer",
-    "Description": "Increase sight of target.",
-    "DescriptionRef": "Increase sight of target.",
+    "Description": "Grant a target improved sight and +[REPLACE] chance to hit with ranged weapons for [REPLACE] turns. Removes Blinded.",
+    "DescriptionRef": "Grant a target improved sight and +[2] chance to hit with ranged weapons for [3] turns. Removes Blinded.",
     "StatsDescriptionParams": "TargetRadius;Stats:SKILLBOOST_Farsight:ChanceToHitBoost;Stats:SKILLBOOST_Farsight:Duration",
     "Hidden": false,
     "FarandoleClass": "",
@@ -9480,7 +9480,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Increase sight of target.",
+    "BaseDescription": "Grant a target improved sight and +[REPLACE] chance to hit with ranged weapons for [REPLACE] turns. Removes Blinded.",
     "SourceInfusions": {}
   },
   "Target_Farsight_8": {
@@ -9507,8 +9507,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Ranger_Farseer",
     "DisplayNameRef": "Farseer",
-    "Description": "Increase sight of target.",
-    "DescriptionRef": "Increase sight of target.",
+    "Description": "Grant a target improved sight and +[REPLACE] chance to hit with ranged weapons for [REPLACE] turns. Removes Blinded.",
+    "DescriptionRef": "Grant a target improved sight and +[2] chance to hit with ranged weapons for [3] turns. Removes Blinded.",
     "StatsDescriptionParams": "TargetRadius;Stats:SKILLBOOST_Farsight:ChanceToHitBoost;Stats:SKILLBOOST_Farsight:Duration",
     "Hidden": false,
     "FarandoleClass": "",
@@ -9520,7 +9520,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Increase sight of target.",
+    "BaseDescription": "Grant a target improved sight and +[REPLACE] chance to hit with ranged weapons for [REPLACE] turns. Removes Blinded.",
     "SourceInfusions": {}
   },
   "Target_EndureElements": {
@@ -9950,8 +9950,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_ShacklesOfPain",
     "DisplayNameRef": "Shackles Of Pain",
-    "Description": "Target will receive same damages as you.",
-    "DescriptionRef": "Target will receive same damages as you.",
+    "Description": "Mark a target that will receive all of the damage you receive.",
+    "DescriptionRef": "Mark a target that will receive all of the damage you receive.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -9963,7 +9963,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Target will receive same damages as you.",
+    "BaseDescription": "Mark a target that will receive all of the damage you receive.",
     "SourceInfusions": {}
   },
   "Target_ShacklesOfPain_16": {
@@ -9989,8 +9989,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_ShacklesOfPain",
     "DisplayNameRef": "Shackles Of Pain",
-    "Description": "Target will receive same damages as you.",
-    "DescriptionRef": "Target will receive same damages as you.",
+    "Description": "Mark a target that will receive all of the damage you receive.",
+    "DescriptionRef": "Mark a target that will receive all of the damage you receive.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -10002,7 +10002,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Target will receive same damages as you.",
+    "BaseDescription": "Mark a target that will receive all of the damage you receive.",
     "SourceInfusions": {}
   },
   "Target_FirstAid": {
@@ -10026,8 +10026,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Ranger_FirstAid",
     "DisplayNameRef": "First Aid",
-    "Description": "Heal target character.<br>Cure and immune to Crippled, Weak and Knocked Down.",
-    "DescriptionRef": "Heal target character.<br>Cure and immune to Crippled, Weak and Knocked Down.",
+    "Description": "Cures bleeding, crippled and diseased. Heals target for 10%.",
+    "DescriptionRef": "Cures bleeding, crippled and diseased. Heals target for 10%.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -10042,7 +10042,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Heal target character.<br>Cure and immune to Crippled, Weak and Knocked Down.",
+    "BaseDescription": "Cures bleeding, crippled and diseased. Heals target for 10%.",
     "SourceInfusions": {}
   },
   "Target_FirstAid_3": {
@@ -10066,8 +10066,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Ranger_FirstAid",
     "DisplayNameRef": "First Aid",
-    "Description": "Heal target character.<br>Cure and immune to Crippled, Weak and Knocked Down.",
-    "DescriptionRef": "Heal target character.<br>Cure and immune to Crippled, Weak and Knocked Down.",
+    "Description": "Cures bleeding, crippled and diseased. Heals target for 10%.",
+    "DescriptionRef": "Cures bleeding, crippled and diseased. Heals target for 10%.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -10082,7 +10082,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Heal target character.<br>Cure and immune to Crippled, Weak and Knocked Down.",
+    "BaseDescription": "Cures bleeding, crippled and diseased. Heals target for 10%.",
     "SourceInfusions": {}
   },
   "Target_Doctor": {
@@ -10793,8 +10793,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Earth_OilSurface",
     "DisplayNameRef": "Midnight Oil",
-    "Description": "Creates an oil surface.",
-    "DescriptionRef": "Creates an oil surface.",
+    "Description": "Create an oil surface.",
+    "DescriptionRef": "Create an oil surface.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -10805,7 +10805,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Creates an oil surface.",
+    "BaseDescription": "Create an oil surface.",
     "SourceInfusions": {}
   },
   "Target_TargetedOilSurface_2": {
@@ -10844,8 +10844,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Earth_OilSurface",
     "DisplayNameRef": "Midnight Oil",
-    "Description": "Creates an oil surface.",
-    "DescriptionRef": "Creates an oil surface.",
+    "Description": "Create an oil surface.",
+    "DescriptionRef": "Create an oil surface.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -10856,7 +10856,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Creates an oil surface.",
+    "BaseDescription": "Create an oil surface.",
     "SourceInfusions": {}
   },
   "Target_TargetedDamageBoost": {
@@ -11454,8 +11454,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_Haste",
     "DisplayNameRef": "Wildfire",
-    "Description": "You or target ally is rujevenated<br>Cures Entangled.<br> Cures and immunes to Crippled and Slowed.",
-    "DescriptionRef": "You or target ally is rujevenated<br>Cures Entangled.<br> Cures and immunes to Crippled and Slowed.",
+    "Description": "Haste a target.",
+    "DescriptionRef": "Haste a target.",
     "StatsDescriptionParams": "Stats:Stats_Hasted:APMaximum;Stats:Stats_Hasted:APStart;Stats:Stats_Hasted:APRecovery;TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -11467,7 +11467,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "You or target ally is rujevenated<br>Cures Entangled.<br> Cures and immunes to Crippled and Slowed.",
+    "BaseDescription": "Haste a target.",
     "SourceInfusions": {}
   },
   "Target_Haste_5": {
@@ -11501,8 +11501,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_Haste",
     "DisplayNameRef": "Wildfire",
-    "Description": "You or target ally is rujevenated<br>Cures Entangled.<br> Cures and immunes to Crippled and Slowed.",
-    "DescriptionRef": "You or target ally is rujevenated<br>Cures Entangled.<br> Cures and immunes to Crippled and Slowed.",
+    "Description": "Haste a target.",
+    "DescriptionRef": "Haste a target.",
     "StatsDescriptionParams": "Stats:Stats_Hasted:APMaximum;Stats:Stats_Hasted:APStart;Stats:Stats_Hasted:APRecovery;TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -11514,7 +11514,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "You or target ally is rujevenated<br>Cures Entangled.<br> Cures and immunes to Crippled and Slowed.",
+    "BaseDescription": "Haste a target.",
     "SourceInfusions": {}
   },
   "Target_TargetedPerception": {
@@ -11610,8 +11610,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Source_BanishSummon",
     "DisplayNameRef": "Destroy Summon",
-    "Description": "Deals immense damage to a summoned creature.",
-    "DescriptionRef": "Deals immense damage to a summoned creature.",
+    "Description": "Deal immense damage to a summoned creature.",
+    "DescriptionRef": "Deal immense damage to a summoned creature.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -11624,7 +11624,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals immense damage to a summoned creature.",
+    "BaseDescription": "Deal immense damage to a summoned creature.",
     "SourceInfusions": {}
   },
   "Target_BanishSummon_8": {
@@ -11640,8 +11640,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Source_BanishSummon",
     "DisplayNameRef": "Destroy Summon",
-    "Description": "Deals immense damage to a summoned creature.",
-    "DescriptionRef": "Deals immense damage to a summoned creature.",
+    "Description": "Deal immense damage to a summoned creature.",
+    "DescriptionRef": "Deal immense damage to a summoned creature.",
     "StatsDescriptionParams": "TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -11654,7 +11654,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals immense damage to a summoned creature.",
+    "BaseDescription": "Deal immense damage to a summoned creature.",
     "SourceInfusions": {}
   },
   "Target_Immolate": {
@@ -11748,8 +11748,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Warrior_Flurry",
     "DisplayNameRef": "Flurry",
-    "Description": "5 attacks.<br>Deals 70% <span class='text-dmg-phys'>Weapon Damage</span> each.",
-    "DescriptionRef": "5 attacks.<br>Deals [1] each.",
+    "Description": "Attack with a flurry of your weapon and deal 70% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Attack with a flurry of your weapon and deal [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -11762,7 +11762,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "5 attacks.<br>Deals 70% <span class='text-dmg-phys'>Weapon Damage</span> each.",
+    "BaseDescription": "Attack with a flurry of your weapon and deal 70% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_Flurry_14": {
@@ -11778,8 +11778,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Warrior_Flurry",
     "DisplayNameRef": "Flurry",
-    "Description": "5 attacks.<br>Deals 70% <span class='text-dmg-phys'>Weapon Damage</span> each.",
-    "DescriptionRef": "5 attacks.<br>Deals [1] each.",
+    "Description": "Attack with a flurry of your weapon and deal 70% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Attack with a flurry of your weapon and deal [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -11792,7 +11792,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "5 attacks.<br>Deals 70% <span class='text-dmg-phys'>Weapon Damage</span> each.",
+    "BaseDescription": "Attack with a flurry of your weapon and deal 70% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_DaggersDrawn": {
@@ -11808,8 +11808,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Rogue_DaggersDrawn",
     "DisplayNameRef": "Daggers Drawn",
-    "Description": "5 attacks.<br>Deals 70% <span class='text-dmg-phys'>Weapon Damage</span> each.",
-    "DescriptionRef": "5 attacks.<br>Deals [1] each.",
+    "Description": "Erupt with a barrage of stabs and cuts and deal 70% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Erupt with a barrage of stabs and cuts and deal [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -11822,7 +11822,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "5 attacks.<br>Deals 70% <span class='text-dmg-phys'>Weapon Damage</span> each.",
+    "BaseDescription": "Erupt with a barrage of stabs and cuts and deal 70% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_DaggersDrawn_11": {
@@ -11838,8 +11838,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Rogue_DaggersDrawn",
     "DisplayNameRef": "Daggers Drawn",
-    "Description": "5 attacks.<br>Deals 70% <span class='text-dmg-phys'>Weapon Damage</span> each.",
-    "DescriptionRef": "5 attacks.<br>Deals [1] each.",
+    "Description": "Erupt with a barrage of stabs and cuts and deal 70% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Erupt with a barrage of stabs and cuts and deal [1] damage.",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -11852,7 +11852,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "5 attacks.<br>Deals 70% <span class='text-dmg-phys'>Weapon Damage</span> each.",
+    "BaseDescription": "Erupt with a barrage of stabs and cuts and deal 70% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_StunStart": {
@@ -12035,8 +12035,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Warrior_CripplingBlow",
     "DisplayNameRef": "Crippling Blow",
-    "Description": "Deals 130% <span class='text-dmg-phys'>Weapon Damage</span>.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Cripple a target. Deals 130% <span class='text-dmg-phys'>Weapon Damage</span> weapon damage.",
+    "DescriptionRef": "Cripple a target. Deals [1] weapon damage.",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12047,7 +12047,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 130% <span class='text-dmg-phys'>Weapon Damage</span>.",
+    "BaseDescription": "Cripple a target. Deals 130% <span class='text-dmg-phys'>Weapon Damage</span> weapon damage.",
     "SourceInfusions": {}
   },
   "Target_CripplingBlow_10": {
@@ -12074,8 +12074,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Warrior_CripplingBlow",
     "DisplayNameRef": "Crippling Blow",
-    "Description": "Deals 130% <span class='text-dmg-phys'>Weapon Damage</span>.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Cripple a target. Deals 130% <span class='text-dmg-phys'>Weapon Damage</span> weapon damage.",
+    "DescriptionRef": "Cripple a target. Deals [1] weapon damage.",
     "StatsDescriptionParams": "Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12086,7 +12086,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 130% <span class='text-dmg-phys'>Weapon Damage</span>.",
+    "BaseDescription": "Cripple a target. Deals 130% <span class='text-dmg-phys'>Weapon Damage</span> weapon damage.",
     "SourceInfusions": {}
   },
   "Target_PreciseIncision": {
@@ -12424,8 +12424,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Ranger_Infect",
     "DisplayNameRef": "Infect",
-    "Description": "Deals 10m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Plant an infectious disease on a nearby target.",
+    "DescriptionRef": "Plant an infectious disease on a nearby target.",
     "StatsDescriptionParams": "TargetRadius;Stats:Stats_Infectious_Diseased:Constitution;Stats:Stats_Infectious_Diseased:BodyBuilding",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12437,7 +12437,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 10m.",
+    "BaseDescription": "Plant an infectious disease on a nearby target.",
     "SourceInfusions": {}
   },
   "Target_Infect_10": {
@@ -12463,8 +12463,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Ranger_Infect",
     "DisplayNameRef": "Infect",
-    "Description": "Deals 10m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Plant an infectious disease on a nearby target.",
+    "DescriptionRef": "Plant an infectious disease on a nearby target.",
     "StatsDescriptionParams": "TargetRadius;Stats:Stats_Infectious_Diseased:Constitution;Stats:Stats_Infectious_Diseased:BodyBuilding",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12476,7 +12476,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 10m.",
+    "BaseDescription": "Plant an infectious disease on a nearby target.",
     "SourceInfusions": {}
   },
   "Target_ImmuneToFreeze": {
@@ -12823,8 +12823,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_BurningTouch",
     "DisplayNameRef": "Burning Touch",
-    "Description": "Deals 3m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Set fire to a nearby target, dealing 100% <span class='text-dmg-fire'>Fire Damage</span> damage.",
+    "DescriptionRef": "Set fire to a nearby target, dealing [2] damage.",
     "StatsDescriptionParams": "TargetRadius;Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12835,7 +12835,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 3m.",
+    "BaseDescription": "Set fire to a nearby target, dealing 100% <span class='text-dmg-fire'>Fire Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_BurningTouch_2": {
@@ -12862,8 +12862,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Fire_BurningTouch",
     "DisplayNameRef": "Burning Touch",
-    "Description": "Deals 3m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Set fire to a nearby target, dealing 100% <span class='text-dmg-fire'>Fire Damage</span> damage.",
+    "DescriptionRef": "Set fire to a nearby target, dealing [2] damage.",
     "StatsDescriptionParams": "TargetRadius;Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12874,7 +12874,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 3m.",
+    "BaseDescription": "Set fire to a nearby target, dealing 100% <span class='text-dmg-fire'>Fire Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_ShockingTouch": {
@@ -12901,8 +12901,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Air_ShockingTouch",
     "DisplayNameRef": "Shocking Touch",
-    "Description": "Deals 3m.<br>Electrifies surfaces.",
-    "DescriptionRef": "Deals [1].<br>Electrifies surfaces.",
+    "Description": "Electrify a target at an arm's distance. Deals 100% <span class='text-dmg-air'>Air Damage</span> damage.",
+    "DescriptionRef": "Electrify a target at an arm's distance. Deals [2] damage.",
     "StatsDescriptionParams": "TargetRadius;Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12913,7 +12913,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 3m.<br>Electrifies surfaces.",
+    "BaseDescription": "Electrify a target at an arm's distance. Deals 100% <span class='text-dmg-air'>Air Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_ShockingTouch_2": {
@@ -12940,8 +12940,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Air_ShockingTouch",
     "DisplayNameRef": "Shocking Touch",
-    "Description": "Deals 3m.<br>Electrifies surfaces.",
-    "DescriptionRef": "Deals [1].<br>Electrifies surfaces.",
+    "Description": "Electrify a target at an arm's distance. Deals 100% <span class='text-dmg-air'>Air Damage</span> damage.",
+    "DescriptionRef": "Electrify a target at an arm's distance. Deals [2] damage.",
     "StatsDescriptionParams": "TargetRadius;Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12952,7 +12952,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 3m.<br>Electrifies surfaces.",
+    "BaseDescription": "Electrify a target at an arm's distance. Deals 100% <span class='text-dmg-air'>Air Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_PetrifyingTouch": {
@@ -12979,8 +12979,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Earth_PetrifyingTouch",
     "DisplayNameRef": "Petrifying Touch",
-    "Description": "Deals 3m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Turn a nearby target to stone, dealing 100% <span class='text-dmg-earth'>Earth Damage</span> damage.",
+    "DescriptionRef": "Turn a nearby target to stone, dealing [2] damage.",
     "StatsDescriptionParams": "TargetRadius;Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -12991,7 +12991,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 3m.",
+    "BaseDescription": "Turn a nearby target to stone, dealing 100% <span class='text-dmg-earth'>Earth Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_PetrifyingTouch_8": {
@@ -13018,8 +13018,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Earth_PetrifyingTouch",
     "DisplayNameRef": "Petrifying Touch",
-    "Description": "Deals 3m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Turn a nearby target to stone, dealing 100% <span class='text-dmg-earth'>Earth Damage</span> damage.",
+    "DescriptionRef": "Turn a nearby target to stone, dealing [2] damage.",
     "StatsDescriptionParams": "TargetRadius;Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -13030,7 +13030,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 3m.",
+    "BaseDescription": "Turn a nearby target to stone, dealing 100% <span class='text-dmg-earth'>Earth Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_FreezingTouch": {
@@ -13057,8 +13057,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Water_FreezingTouch",
     "DisplayNameRef": "Freezing Touch",
-    "Description": "Deals 3m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Freeze a nearby target, dealing 100% <span class='text-dmg-water'>Water Damage</span> damage.",
+    "DescriptionRef": "Freeze a nearby target, dealing [2] damage.",
     "StatsDescriptionParams": "TargetRadius;Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -13069,7 +13069,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 3m.",
+    "BaseDescription": "Freeze a nearby target, dealing 100% <span class='text-dmg-water'>Water Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_FreezingTouch_2": {
@@ -13096,8 +13096,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Water_FreezingTouch",
     "DisplayNameRef": "Freezing Touch",
-    "Description": "Deals 3m.",
-    "DescriptionRef": "Deals [1].",
+    "Description": "Freeze a nearby target, dealing 100% <span class='text-dmg-water'>Water Damage</span> damage.",
+    "DescriptionRef": "Freeze a nearby target, dealing [2] damage.",
     "StatsDescriptionParams": "TargetRadius;Damage",
     "Hidden": false,
     "FarandoleClass": "",
@@ -13108,7 +13108,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 3m.",
+    "BaseDescription": "Freeze a nearby target, dealing 100% <span class='text-dmg-water'>Water Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Target_AttenberahKillingSpell": {
@@ -14585,8 +14585,8 @@
     "TieredStatuses": [],
     "Icon": "Skill_Earth_Earthquake",
     "DisplayNameRef": "Earthquake",
-    "Description": "Affects all enemies a zone.<br>Deals 100% <span class='text-dmg-earth'>Earth Damage</span>.<br>Leaves 15m oil surfaces in the radius.",
-    "DescriptionRef": "Affects all enemies a zone.<br>Deals [1].<br>Leaves [2] oil surfaces in the radius.",
+    "Description": "Knocks down characters, deals 100% <span class='text-dmg-earth'>Earth Damage</span> damage, and creates random oil surfaces.",
+    "DescriptionRef": "Knocks down characters, deals [1] damage, and creates random oil surfaces.",
     "StatsDescriptionParams": "Damage;AreaRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -14599,7 +14599,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Affects all enemies a zone.<br>Deals 100% <span class='text-dmg-earth'>Earth Damage</span>.<br>Leaves 15m oil surfaces in the radius.",
+    "BaseDescription": "Knocks down characters, deals 100% <span class='text-dmg-earth'>Earth Damage</span> damage, and creates random oil surfaces.",
     "SourceInfusions": {}
   },
   "Quake_Earthquake_15": {
@@ -14624,8 +14624,8 @@
     "TieredStatuses": [],
     "Icon": "Skill_Earth_Earthquake",
     "DisplayNameRef": "Earthquake",
-    "Description": "Affects all enemies a zone.<br>Deals 100% <span class='text-dmg-earth'>Earth Damage</span>.<br>Leaves 15m oil surfaces in the radius.",
-    "DescriptionRef": "Affects all enemies a zone.<br>Deals [1].<br>Leaves [2] oil surfaces in the radius.",
+    "Description": "Knocks down characters, deals 100% <span class='text-dmg-earth'>Earth Damage</span> damage, and creates random oil surfaces.",
+    "DescriptionRef": "Knocks down characters, deals [1] damage, and creates random oil surfaces.",
     "StatsDescriptionParams": "Damage;AreaRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -14638,7 +14638,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Affects all enemies a zone.<br>Deals 100% <span class='text-dmg-earth'>Earth Damage</span>.<br>Leaves 15m oil surfaces in the radius.",
+    "BaseDescription": "Knocks down characters, deals 100% <span class='text-dmg-earth'>Earth Damage</span> damage, and creates random oil surfaces.",
     "SourceInfusions": {}
   },
   "Storm_Lightning": {
@@ -14672,8 +14672,8 @@
     "TieredStatuses": [],
     "Icon": "Skill_Air_Storm",
     "DisplayNameRef": "Storm",
-    "Description": "Storm projectiles to enemies in a zone.<br>Seals 100% <span class='text-dmg-air'>Air Damage</span> each.<br>Electrifies surfaces.",
-    "DescriptionRef": "Storm projectiles to enemies in a zone.<br>Seals [1] each.<br>Electrifies surfaces.",
+    "Description": "Create a lightning storm that randomly picks 8 to 10 targets and deals 100% <span class='text-dmg-air'>Air Damage</span> damage.",
+    "DescriptionRef": "Create a lightning storm that randomly picks [4] to [5] targets and deals [1] damage.",
     "StatsDescriptionParams": "Damage;Lifetime;AreaRadius;MinHitsPerTurn;MaxHitsPerTurn;TargetRadius",
     "Hidden": true,
     "FarandoleClass": "",
@@ -14686,7 +14686,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Storm projectiles to enemies in a zone.<br>Seals 100% <span class='text-dmg-air'>Air Damage</span> each.<br>Electrifies surfaces.",
+    "BaseDescription": "Create a lightning storm that randomly picks 8 to 10 targets and deals 100% <span class='text-dmg-air'>Air Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Storm_Lightning_15": {
@@ -14720,8 +14720,8 @@
     "TieredStatuses": [],
     "Icon": "Skill_Air_Storm",
     "DisplayNameRef": "Storm",
-    "Description": "Storm projectiles to enemies in a zone.<br>Seals 100% <span class='text-dmg-air'>Air Damage</span> each.<br>Electrifies surfaces.",
-    "DescriptionRef": "Storm projectiles to enemies in a zone.<br>Seals [1] each.<br>Electrifies surfaces.",
+    "Description": "Create a lightning storm that randomly picks 8 to 10 targets and deals 100% <span class='text-dmg-air'>Air Damage</span> damage.",
+    "DescriptionRef": "Create a lightning storm that randomly picks [4] to [5] targets and deals [1] damage.",
     "StatsDescriptionParams": "Damage;Lifetime;AreaRadius;MinHitsPerTurn;MaxHitsPerTurn;TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -14734,7 +14734,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Storm projectiles to enemies in a zone.<br>Seals 100% <span class='text-dmg-air'>Air Damage</span> each.<br>Electrifies surfaces.",
+    "BaseDescription": "Create a lightning storm that randomly picks 8 to 10 targets and deals 100% <span class='text-dmg-air'>Air Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Rush_RushStart": {
@@ -14837,8 +14837,8 @@
     "TieredStatuses": [],
     "Icon": "Skill_Rogue_CloakAndDagger",
     "DisplayNameRef": "Cloak And Dagger",
-    "Description": "Jump to target location.<br>You become Invisible on each start of your turns.",
-    "DescriptionRef": "Jump to target location.<br>You become Invisible on each start of your turns.",
+    "Description": "Teleport, leaving behind a smokescreen.",
+    "DescriptionRef": "Teleport, leaving behind a smokescreen.",
     "StatsDescriptionParams": "TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -14854,7 +14854,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Jump to target location.<br>You become Invisible on each start of your turns.",
+    "BaseDescription": "Teleport, leaving behind a smokescreen.",
     "SourceInfusions": {}
   },
   "Jump_CloakAndDagger_10": {
@@ -14879,8 +14879,8 @@
     "TieredStatuses": [],
     "Icon": "Skill_Rogue_CloakAndDagger",
     "DisplayNameRef": "Cloak And Dagger",
-    "Description": "Jump to target location.<br>You become Invisible on each start of your turns.",
-    "DescriptionRef": "Jump to target location.<br>You become Invisible on each start of your turns.",
+    "Description": "Teleport, leaving behind a smokescreen.",
+    "DescriptionRef": "Teleport, leaving behind a smokescreen.",
     "StatsDescriptionParams": "TargetRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -14896,7 +14896,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Jump to target location.<br>You become Invisible on each start of your turns.",
+    "BaseDescription": "Teleport, leaving behind a smokescreen.",
     "SourceInfusions": {}
   },
   "Jump_LightHousePhoenixDive": {
@@ -14988,8 +14988,8 @@
     "DamageType": "None",
     "Icon": "Skill_Air_Tornado",
     "DisplayNameRef": "Tornado",
-    "Description": "Lauch a tornado.<br>Clears surfaces.<br>Reveals invisible characters.<br>Cures : Warm, Wet, Burning and Slowed.",
-    "DescriptionRef": "Lauch a tornado.<br>Clears surfaces.<br>Reveals invisible characters.<br>Cures : Warm, Wet, Burning and Slowed.",
+    "Description": "Removes surfaces from the battlefield, reveals invisible characters and clears Warm, Burning and Hastened.",
+    "DescriptionRef": "Removes surfaces from the battlefield, reveals invisible characters and clears Warm, Burning and Hastened.",
     "StatsDescriptionParams": "HitRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -15004,7 +15004,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Lauch a tornado.<br>Clears surfaces.<br>Reveals invisible characters.<br>Cures : Warm, Wet, Burning and Slowed.",
+    "BaseDescription": "Removes surfaces from the battlefield, reveals invisible characters and clears Warm, Burning and Hastened.",
     "SourceInfusions": {}
   },
   "Tornado_Air_12": {
@@ -15018,8 +15018,8 @@
     "DamageType": "None",
     "Icon": "Skill_Air_Tornado",
     "DisplayNameRef": "Tornado",
-    "Description": "Lauch a tornado.<br>Clears surfaces.<br>Reveals invisible characters.<br>Cures : Warm, Wet, Burning and Slowed.",
-    "DescriptionRef": "Lauch a tornado.<br>Clears surfaces.<br>Reveals invisible characters.<br>Cures : Warm, Wet, Burning and Slowed.",
+    "Description": "Removes surfaces from the battlefield, reveals invisible characters and clears Warm, Burning and Hastened.",
+    "DescriptionRef": "Removes surfaces from the battlefield, reveals invisible characters and clears Warm, Burning and Hastened.",
     "StatsDescriptionParams": "HitRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -15034,7 +15034,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Lauch a tornado.<br>Clears surfaces.<br>Reveals invisible characters.<br>Cures : Warm, Wet, Burning and Slowed.",
+    "BaseDescription": "Removes surfaces from the battlefield, reveals invisible characters and clears Warm, Burning and Hastened.",
     "SourceInfusions": {}
   },
   "Wall_Ice": {
@@ -15205,8 +15205,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Air_Teleportation",
     "DisplayNameRef": "Teleportation",
-    "Description": "Teleport a charatcter or item to target location.<br>Deals 100% Crushing Damage if the target is an enemy.",
-    "DescriptionRef": "Teleport a charatcter or item to target location.<br>Deals [1] if the target is an enemy.",
+    "Description": "Throw an item or character up high and drop it to the ground, dealing 100% Crushing Damage damage.",
+    "DescriptionRef": "Throw an item or character up high and drop it to the ground, dealing [1] damage.",
     "StatsDescriptionParams": "Damage;AreaRadius;TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -15220,7 +15220,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Teleport a charatcter or item to target location.<br>Deals 100% Crushing Damage if the target is an enemy.",
+    "BaseDescription": "Throw an item or character up high and drop it to the ground, dealing 100% Crushing Damage damage.",
     "SourceInfusions": {}
   },
   "Teleportation_FreeFall_3": {
@@ -15235,8 +15235,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Air_Teleportation",
     "DisplayNameRef": "Teleportation",
-    "Description": "Teleport a charatcter or item to target location.<br>Deals 100% Crushing Damage if the target is an enemy.",
-    "DescriptionRef": "Teleport a charatcter or item to target location.<br>Deals [1] if the target is an enemy.",
+    "Description": "Throw an item or character up high and drop it to the ground, dealing 100% Crushing Damage damage.",
+    "DescriptionRef": "Throw an item or character up high and drop it to the ground, dealing [1] damage.",
     "StatsDescriptionParams": "Damage;AreaRadius;TargetRadius",
     "Hidden": false,
     "FarandoleClass": "",
@@ -15250,7 +15250,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Teleport a charatcter or item to target location.<br>Deals 100% Crushing Damage if the target is an enemy.",
+    "BaseDescription": "Throw an item or character up high and drop it to the ground, dealing 100% Crushing Damage damage.",
     "SourceInfusions": {}
   },
   "Teleportation_Netherswap": {
@@ -15264,8 +15264,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Air_NetherSwap",
     "DisplayNameRef": "Netherswap",
-    "Description": "Swap locations of two characters (one of them can be you).",
-    "DescriptionRef": "Swap locations of two characters (one of them can be you).",
+    "Description": "Make two characters switch places.",
+    "DescriptionRef": "Make two characters switch places.",
     "Hidden": false,
     "FarandoleClass": "",
     "MemorizationRequirements": "",
@@ -15280,7 +15280,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Swap locations of two characters (one of them can be you).",
+    "BaseDescription": "Make two characters switch places.",
     "SourceInfusions": {}
   },
   "Teleportation_Netherswap_12": {
@@ -15294,8 +15294,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Air_NetherSwap",
     "DisplayNameRef": "Netherswap",
-    "Description": "Swap locations of two characters (one of them can be you).",
-    "DescriptionRef": "Swap locations of two characters (one of them can be you).",
+    "Description": "Make two characters switch places.",
+    "DescriptionRef": "Make two characters switch places.",
     "Hidden": false,
     "FarandoleClass": "",
     "MemorizationRequirements": "",
@@ -15310,7 +15310,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Swap locations of two characters (one of them can be you).",
+    "BaseDescription": "Make two characters switch places.",
     "SourceInfusions": {}
   },
   "Teleportation_Resurrect": {
@@ -15775,8 +15775,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Water_Rain",
     "DisplayNameRef": "Rain",
-    "Description": "Makes water fall from the sky.<br>Leaves water surfaces.<br>Douses flames.",
-    "DescriptionRef": "Makes water fall from the sky.<br>Leaves water surfaces.<br>Douses flames.",
+    "Description": "Create water surfaces.",
+    "DescriptionRef": "Create water surfaces.",
     "StatsDescriptionParams": "AreaRadius;Lifetime",
     "Magic Cost": "1",
     "Hidden": false,
@@ -15791,7 +15791,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Makes water fall from the sky.<br>Leaves water surfaces.<br>Douses flames.",
+    "BaseDescription": "Create water surfaces.",
     "SourceInfusions": {}
   },
   "Rain_Water_3": {
@@ -15824,8 +15824,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Water_Rain",
     "DisplayNameRef": "Rain",
-    "Description": "Makes water fall from the sky.<br>Leaves water surfaces.<br>Douses flames.",
-    "DescriptionRef": "Makes water fall from the sky.<br>Leaves water surfaces.<br>Douses flames.",
+    "Description": "Create water surfaces.",
+    "DescriptionRef": "Create water surfaces.",
     "StatsDescriptionParams": "AreaRadius;Lifetime",
     "Magic Cost": "1",
     "Hidden": false,
@@ -15840,7 +15840,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Makes water fall from the sky.<br>Leaves water surfaces.<br>Douses flames.",
+    "BaseDescription": "Create water surfaces.",
     "SourceInfusions": {}
   },
   "Rain_RainOfArrows": {
@@ -16152,8 +16152,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Earth_SummonWolf",
     "DisplayNameRef": "Summon Wolf",
-    "Description": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
-    "DescriptionRef": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
+    "Description": "Summon a level -1 wolf within a 5m radius for 4",
+    "DescriptionRef": "Summon a level [1] wolf within a [2] radius for [3]",
     "StatsDescriptionParams": "SummonLevel;TargetRadius;Lifetime",
     "Hidden": false,
     "FarandoleClass": "",
@@ -16170,7 +16170,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
+    "BaseDescription": "Summon a level -1 wolf within a 5m radius for 4",
     "SourceInfusions": {}
   },
   "Summon_Wolf_10": {
@@ -16182,8 +16182,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Earth_SummonWolf",
     "DisplayNameRef": "Summon Wolf",
-    "Description": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
-    "DescriptionRef": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
+    "Description": "Summon a level -1 wolf within a 5m radius for 4",
+    "DescriptionRef": "Summon a level [1] wolf within a [2] radius for [3]",
     "StatsDescriptionParams": "SummonLevel;TargetRadius;Lifetime",
     "Hidden": false,
     "FarandoleClass": "",
@@ -16200,7 +16200,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
+    "BaseDescription": "Summon a level -1 wolf within a 5m radius for 4",
     "SourceInfusions": {}
   },
   "Summon_Bloodswarm": {
@@ -16332,8 +16332,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Earth_SummonSpider",
     "DisplayNameRef": "Summon Spider",
-    "Description": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
-    "DescriptionRef": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
+    "Description": "Summon a level -1 spider in a 10m radius for 5",
+    "DescriptionRef": "Summon a level [1] spider in a [2] radius for [3]",
     "StatsDescriptionParams": "SummonLevel;TargetRadius;Lifetime",
     "Hidden": false,
     "FarandoleClass": "",
@@ -16350,7 +16350,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
+    "BaseDescription": "Summon a level -1 spider in a 10m radius for 5",
     "SourceInfusions": {}
   },
   "Summon_Spider_2": {
@@ -16362,8 +16362,8 @@
     "Magic Cost": "1",
     "Icon": "Skill_Earth_SummonSpider",
     "DisplayNameRef": "Summon Spider",
-    "Description": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
-    "DescriptionRef": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
+    "Description": "Summon a level -1 spider in a 10m radius for 5",
+    "DescriptionRef": "Summon a level [1] spider in a [2] radius for [3]",
     "StatsDescriptionParams": "SummonLevel;TargetRadius;Lifetime",
     "Hidden": false,
     "FarandoleClass": "",
@@ -16380,7 +16380,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Counts as a summon.<br>Can be infused, does not overrides weapon damage.<br>Absorbs friendly surfaces on appearance.",
+    "BaseDescription": "Summon a level -1 spider in a 10m radius for 5",
     "SourceInfusions": {}
   },
   "Summon_BomberSummon": {
@@ -19185,8 +19185,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_Taunt",
     "DisplayNameRef": "Taunt",
-    "Description": "Deals 8m to enemies.<br>May reveal invisible enemmies in area.",
-    "DescriptionRef": "Deals [1] to enemies.<br>May reveal invisible enemmies in area.",
+    "Description": "Taunt all enemies within 8m around you.. Provoke and tease them so that they want to attack you.",
+    "DescriptionRef": "Taunt all enemies within [1] around you.. Provoke and tease them so that they want to attack you.",
     "StatsDescriptionParams": "AreaRadius",
     "Magic Cost": "0",
     "Hidden": true,
@@ -19199,7 +19199,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 8m to enemies.<br>May reveal invisible enemmies in area.",
+    "BaseDescription": "Taunt all enemies within 8m around you.. Provoke and tease them so that they want to attack you.",
     "SourceInfusions": {}
   },
   "Shout_Taunt_8": {
@@ -19224,8 +19224,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_Taunt",
     "DisplayNameRef": "Taunt",
-    "Description": "Deals 8m to enemies.<br>May reveal invisible enemmies in area.",
-    "DescriptionRef": "Deals [1] to enemies.<br>May reveal invisible enemmies in area.",
+    "Description": "Taunt all enemies within 8m around you.. Provoke and tease them so that they want to attack you.",
+    "DescriptionRef": "Taunt all enemies within [1] around you.. Provoke and tease them so that they want to attack you.",
     "StatsDescriptionParams": "AreaRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -19238,7 +19238,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 8m to enemies.<br>May reveal invisible enemmies in area.",
+    "BaseDescription": "Taunt all enemies within 8m around you.. Provoke and tease them so that they want to attack you.",
     "SourceInfusions": {}
   },
   "Shout_TauntBySummon": {
@@ -19341,8 +19341,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Rogue_EtherealSoles",
     "DisplayNameRef": "Winged Feet",
-    "Description": "Makes you immune to surfaces, as if you were floating.",
-    "DescriptionRef": "Makes you immune to surfaces, as if you were floating.",
+    "Description": "Makes yourself immune to surfaces, as if you were floating.",
+    "DescriptionRef": "Makes yourself immune to surfaces, as if you were floating.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -19355,7 +19355,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Makes you immune to surfaces, as if you were floating.",
+    "BaseDescription": "Makes yourself immune to surfaces, as if you were floating.",
     "SourceInfusions": {}
   },
   "Shout_EtherealSoles_6": {
@@ -19380,8 +19380,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Rogue_EtherealSoles",
     "DisplayNameRef": "Winged Feet",
-    "Description": "Makes you immune to surfaces, as if you were floating.",
-    "DescriptionRef": "Makes you immune to surfaces, as if you were floating.",
+    "Description": "Makes yourself immune to surfaces, as if you were floating.",
+    "DescriptionRef": "Makes yourself immune to surfaces, as if you were floating.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -19394,7 +19394,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Makes you immune to surfaces, as if you were floating.",
+    "BaseDescription": "Makes yourself immune to surfaces, as if you were floating.",
     "SourceInfusions": {}
   },
   "Shout_Invulnerability": {
@@ -19419,8 +19419,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Source_Invulnerability",
     "DisplayNameRef": "Invulnerability",
-    "Description": "Make you invulnerable.",
-    "DescriptionRef": "Make you invulnerable.",
+    "Description": "Make yourself invulnerable.",
+    "DescriptionRef": "Make yourself invulnerable.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -19433,7 +19433,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Make you invulnerable.",
+    "BaseDescription": "Make yourself invulnerable.",
     "SourceInfusions": {}
   },
   "Shout_Invulnerability_18": {
@@ -19458,8 +19458,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Source_Invulnerability",
     "DisplayNameRef": "Invulnerability",
-    "Description": "Make you invulnerable.",
-    "DescriptionRef": "Make you invulnerable.",
+    "Description": "Make yourself invulnerable.",
+    "DescriptionRef": "Make yourself invulnerable.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -19472,7 +19472,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Make you invulnerable.",
+    "BaseDescription": "Make yourself invulnerable.",
     "SourceInfusions": {}
   },
   "Shout_FastTrack": {
@@ -19760,8 +19760,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_Inspire",
     "DisplayNameRef": "Encourage",
-    "Description": "You encourage yourself and allies.<br>+15m% Accuracy.<br>+[2]% Dodge.<br>[3]% Damage boost.<br>+[4]% Critical chances.<br>+[5] to Initiative.<br>+[6] to Movement.",
-    "DescriptionRef": "You encourage yourself and allies.<br>+[1]% Accuracy.<br>+[2]% Dodge.<br>[3]% Damage boost.<br>+[4]% Critical chances.<br>+[5] to Initiative.<br>+[6] to Movement.",
+    "Description": "Encourage allies around you.",
+    "DescriptionRef": "Encourage allies around you.",
     "StatsDescriptionParams": "AreaRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -19774,7 +19774,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "You encourage yourself and allies.<br>+15m% Accuracy.<br>+[2]% Dodge.<br>[3]% Damage boost.<br>+[4]% Critical chances.<br>+[5] to Initiative.<br>+[6] to Movement.",
+    "BaseDescription": "Encourage allies around you.",
     "SourceInfusions": {}
   },
   "Shout_InspireStart_2": {
@@ -19800,8 +19800,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_Inspire",
     "DisplayNameRef": "Encourage",
-    "Description": "You encourage yourself and allies.<br>+15m% Accuracy.<br>+[2]% Dodge.<br>[3]% Damage boost.<br>+[4]% Critical chances.<br>+[5] to Initiative.<br>+[6] to Movement.",
-    "DescriptionRef": "You encourage yourself and allies.<br>+[1]% Accuracy.<br>+[2]% Dodge.<br>[3]% Damage boost.<br>+[4]% Critical chances.<br>+[5] to Initiative.<br>+[6] to Movement.",
+    "Description": "Encourage allies around you.",
+    "DescriptionRef": "Encourage allies around you.",
     "StatsDescriptionParams": "AreaRadius",
     "Magic Cost": "0",
     "Hidden": false,
@@ -19814,7 +19814,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "You encourage yourself and allies.<br>+15m% Accuracy.<br>+[2]% Dodge.<br>[3]% Damage boost.<br>+[4]% Critical chances.<br>+[5] to Initiative.<br>+[6] to Movement.",
+    "BaseDescription": "Encourage allies around you.",
     "SourceInfusions": {}
   },
   "Shout_WaterOfLife": {
@@ -20197,8 +20197,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Rogue_WalkInShadows",
     "DisplayNameRef": "Walk In Shadows",
-    "Description": "You become one with the shadows.",
-    "DescriptionRef": "You become one with the shadows.",
+    "Description": "Become one with the shadows.",
+    "DescriptionRef": "Become one with the shadows.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -20213,7 +20213,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "You become one with the shadows.",
+    "BaseDescription": "Become one with the shadows.",
     "SourceInfusions": {}
   },
   "Shout_InvisibilitySelfRogue_2": {
@@ -20236,8 +20236,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Rogue_WalkInShadows",
     "DisplayNameRef": "Walk In Shadows",
-    "Description": "You become one with the shadows.",
-    "DescriptionRef": "You become one with the shadows.",
+    "Description": "Become one with the shadows.",
+    "DescriptionRef": "Become one with the shadows.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -20252,7 +20252,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "You become one with the shadows.",
+    "BaseDescription": "Become one with the shadows.",
     "SourceInfusions": {}
   },
   "Shout_InvisibilitySelf": {
@@ -20275,8 +20275,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Air_InvisibleSelf",
     "DisplayNameRef": "Invisibility",
-    "Description": "You become invisible for a short while.",
-    "DescriptionRef": "You become invisible for a short while.",
+    "Description": "Become invisible for a short while.",
+    "DescriptionRef": "Become invisible for a short while.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -20291,7 +20291,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "You become invisible for a short while.",
+    "BaseDescription": "Become invisible for a short while.",
     "SourceInfusions": {}
   },
   "Shout_InvisibilitySelf_8": {
@@ -20314,8 +20314,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Air_InvisibleSelf",
     "DisplayNameRef": "Invisibility",
-    "Description": "You become invisible for a short while.",
-    "DescriptionRef": "You become invisible for a short while.",
+    "Description": "Become invisible for a short while.",
+    "DescriptionRef": "Become invisible for a short while.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -20330,7 +20330,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "You become invisible for a short while.",
+    "BaseDescription": "Become invisible for a short while.",
     "SourceInfusions": {}
   },
   "Shout_NullResistanceStart": {
@@ -20754,8 +20754,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Warrior_Whirlwind",
     "DisplayNameRef": "Whirlwind",
-    "Description": "Deals 90% <span class='text-dmg-phys'>Weapon Damage</span> to enemies. <br>You keep on spinning for 1 turn, dealing damage to enemies on the start of their turn.<br>Clears surfaces.",
-    "DescriptionRef": "Deals [1] to enemies. <br>You keep on spinning for 1 turn, dealing damage to enemies on the start of their turn.<br>Clears surfaces.",
+    "Description": "Perform a whirlwind attack, hitting enemies around you for 90% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Perform a whirlwind attack, hitting enemies around you for [1] damage.",
     "StatsDescriptionParams": "Damage;AreaRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -20770,7 +20770,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 90% <span class='text-dmg-phys'>Weapon Damage</span> to enemies. <br>You keep on spinning for 1 turn, dealing damage to enemies on the start of their turn.<br>Clears surfaces.",
+    "BaseDescription": "Perform a whirlwind attack, hitting enemies around you for 90% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Shout_Whirlwind_7": {
@@ -20784,8 +20784,8 @@
     "UseWeaponDamage": true,
     "Icon": "Skill_Warrior_Whirlwind",
     "DisplayNameRef": "Whirlwind",
-    "Description": "Deals 90% <span class='text-dmg-phys'>Weapon Damage</span> to enemies. <br>You keep on spinning for 1 turn, dealing damage to enemies on the start of their turn.<br>Clears surfaces.",
-    "DescriptionRef": "Deals [1] to enemies. <br>You keep on spinning for 1 turn, dealing damage to enemies on the start of their turn.<br>Clears surfaces.",
+    "Description": "Perform a whirlwind attack, hitting enemies around you for 90% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
+    "DescriptionRef": "Perform a whirlwind attack, hitting enemies around you for [1] damage.",
     "StatsDescriptionParams": "Damage;AreaRadius",
     "Magic Cost": "1",
     "Hidden": false,
@@ -20800,7 +20800,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Deals 90% <span class='text-dmg-phys'>Weapon Damage</span> to enemies. <br>You keep on spinning for 1 turn, dealing damage to enemies on the start of their turn.<br>Clears surfaces.",
+    "BaseDescription": "Perform a whirlwind attack, hitting enemies around you for 90% <span class='text-dmg-phys'>Weapon Damage</span> damage.",
     "SourceInfusions": {}
   },
   "Shout_Rage": {
@@ -21222,8 +21222,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_ElementalTortoise",
     "DisplayNameRef": "Elemental Tortoise",
-    "Description": "Stance that lasts until cancelled or replaced by another stance.<br>+[REPLACE]% Fire, Water, Air and Earth Resistances.<br>[REPLACE]% Physical resistance.<br>[6]% Movement Speed.",
-    "DescriptionRef": "Stance that lasts until cancelled or replaced by another stance.<br>+[1]% Fire, Water, Air and Earth Resistances.<br>[5]% Physical resistance.<br>[6]% Movement Speed.",
+    "Description": "Improve elemental resistances, but movement is slowed. (Toggle Stance)",
+    "DescriptionRef": "Improve elemental resistances, but movement is slowed. (Toggle Stance)",
     "StatsDescriptionParams": "Stats:SKILLBOOST_ElementalTortoise:FireResistance;Stats:SKILLBOOST_ElementalTortoise:WaterResistance;Stats:SKILLBOOST_ElementalTortoise:AirResistance;Stats:SKILLBOOST_ElementalTortoise:EarthResistance;Stats:SKILLBOOST_ElementalTortoise:MovementSpeedBoost",
     "Magic Cost": "0",
     "Hidden": false,
@@ -21238,7 +21238,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Stance that lasts until cancelled or replaced by another stance.<br>+[REPLACE]% Fire, Water, Air and Earth Resistances.<br>[REPLACE]% Physical resistance.<br>[6]% Movement Speed.",
+    "BaseDescription": "Improve elemental resistances, but movement is slowed. (Toggle Stance)",
     "SourceInfusions": {}
   },
   "Shout_ElementalTortoise_11": {
@@ -21262,8 +21262,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_ElementalTortoise",
     "DisplayNameRef": "Elemental Tortoise",
-    "Description": "Stance that lasts until cancelled or replaced by another stance.<br>+[REPLACE]% Fire, Water, Air and Earth Resistances.<br>[REPLACE]% Physical resistance.<br>[6]% Movement Speed.",
-    "DescriptionRef": "Stance that lasts until cancelled or replaced by another stance.<br>+[1]% Fire, Water, Air and Earth Resistances.<br>[5]% Physical resistance.<br>[6]% Movement Speed.",
+    "Description": "Improve elemental resistances, but movement is slowed. (Toggle Stance)",
+    "DescriptionRef": "Improve elemental resistances, but movement is slowed. (Toggle Stance)",
     "StatsDescriptionParams": "Stats:SKILLBOOST_ElementalTortoise:FireResistance;Stats:SKILLBOOST_ElementalTortoise:WaterResistance;Stats:SKILLBOOST_ElementalTortoise:AirResistance;Stats:SKILLBOOST_ElementalTortoise:EarthResistance;Stats:SKILLBOOST_ElementalTortoise:MovementSpeedBoost",
     "Magic Cost": "0",
     "Hidden": false,
@@ -21278,7 +21278,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Stance that lasts until cancelled or replaced by another stance.<br>+[REPLACE]% Fire, Water, Air and Earth Resistances.<br>[REPLACE]% Physical resistance.<br>[6]% Movement Speed.",
+    "BaseDescription": "Improve elemental resistances, but movement is slowed. (Toggle Stance)",
     "SourceInfusions": {}
   },
   "Shout_BarbedCoat": {
@@ -21302,8 +21302,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_BarbedCoat",
     "DisplayNameRef": "Barbed Wire",
-    "Description": "Stance that lasts until cancelled or replaced by another stance.<br>Reflect 40% melee damage as Piercing damage.<br>[REPLACE]% Accuracy.<br>[2]% Dodge.",
-    "DescriptionRef": "Stance that lasts until cancelled or replaced by another stance.<br>Reflect 40% melee damage as Piercing damage.<br>[1]% Accuracy.<br>[2]% Dodge.",
+    "Description": "Reflect melee damage inflicted to you, but less chance to hit. (Toggle Stance)",
+    "DescriptionRef": "Reflect melee damage inflicted to you, but less chance to hit. (Toggle Stance)",
     "StatsDescriptionParams": "Stats:SKILLBOOST_BarbedCoat:ChanceToHitBoost",
     "Magic Cost": "0",
     "Hidden": false,
@@ -21318,7 +21318,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Stance that lasts until cancelled or replaced by another stance.<br>Reflect 40% melee damage as Piercing damage.<br>[REPLACE]% Accuracy.<br>[2]% Dodge.",
+    "BaseDescription": "Reflect melee damage inflicted to you, but less chance to hit. (Toggle Stance)",
     "SourceInfusions": {}
   },
   "Shout_BarbedCoat_8": {
@@ -21342,8 +21342,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Warrior_BarbedCoat",
     "DisplayNameRef": "Barbed Wire",
-    "Description": "Stance that lasts until cancelled or replaced by another stance.<br>Reflect 40% melee damage as Piercing damage.<br>[REPLACE]% Accuracy.<br>[2]% Dodge.",
-    "DescriptionRef": "Stance that lasts until cancelled or replaced by another stance.<br>Reflect 40% melee damage as Piercing damage.<br>[1]% Accuracy.<br>[2]% Dodge.",
+    "Description": "Reflect melee damage inflicted to you, but less chance to hit. (Toggle Stance)",
+    "DescriptionRef": "Reflect melee damage inflicted to you, but less chance to hit. (Toggle Stance)",
     "StatsDescriptionParams": "Stats:SKILLBOOST_BarbedCoat:ChanceToHitBoost",
     "Magic Cost": "0",
     "Hidden": false,
@@ -21358,7 +21358,7 @@
     "IsEnemySkill": "No",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Stance that lasts until cancelled or replaced by another stance.<br>Reflect 40% melee damage as Piercing damage.<br>[REPLACE]% Accuracy.<br>[2]% Dodge.",
+    "BaseDescription": "Reflect melee damage inflicted to you, but less chance to hit. (Toggle Stance)",
     "SourceInfusions": {}
   },
   "Shout_Adrenaline": {
@@ -21384,8 +21384,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Rogue_Adrenaline",
     "DisplayNameRef": "Adrenaline",
-    "Description": "Boosts you.<br>+3<span class='text-ap'>AP</span> now but -2<span class='text-ap'>AP</span> on next turn.<br>Cures Slowed, Entangled and Crippled.",
-    "DescriptionRef": "Boosts you.<br>+3AP now but -2AP on next turn.<br>Cures Slowed, Entangled and Crippled.",
+    "Description": "Borrow Action Points from your next turn.",
+    "DescriptionRef": "Borrow Action Points from your next turn.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -21400,7 +21400,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Boosts you.<br>+3<span class='text-ap'>AP</span> now but -2<span class='text-ap'>AP</span> on next turn.<br>Cures Slowed, Entangled and Crippled.",
+    "BaseDescription": "Borrow Action Points from your next turn.",
     "SourceInfusions": {}
   },
   "Shout_Adrenaline_4": {
@@ -21426,8 +21426,8 @@
     "UseWeaponDamage": false,
     "Icon": "Skill_Rogue_Adrenaline",
     "DisplayNameRef": "Adrenaline",
-    "Description": "Boosts you.<br>+3<span class='text-ap'>AP</span> now but -2<span class='text-ap'>AP</span> on next turn.<br>Cures Slowed, Entangled and Crippled.",
-    "DescriptionRef": "Boosts you.<br>+3AP now but -2AP on next turn.<br>Cures Slowed, Entangled and Crippled.",
+    "Description": "Borrow Action Points from your next turn.",
+    "DescriptionRef": "Borrow Action Points from your next turn.",
     "Magic Cost": "0",
     "Hidden": false,
     "FarandoleClass": "",
@@ -21442,7 +21442,7 @@
     "StatsDescriptionParams": "",
     "ExplodeRadius": 0,
     "ParsedMemorizationRequirements": {},
-    "BaseDescription": "Boosts you.<br>+3<span class='text-ap'>AP</span> now but -2<span class='text-ap'>AP</span> on next turn.<br>Cures Slowed, Entangled and Crippled.",
+    "BaseDescription": "Borrow Action Points from your next turn.",
     "SourceInfusions": {}
   },
   "Shout_InspireCYSHorror": {
