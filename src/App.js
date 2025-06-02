@@ -9,7 +9,7 @@ import * as miscData from "./miscData.js"
 // missing icons
 // missing statuses
 
-const axios = require('axios').default;
+import axios from 'axios'
 const RESOURCE_PREPPEND = "/skillviewer/"
 
 var app;

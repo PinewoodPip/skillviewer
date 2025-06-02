@@ -61,7 +61,7 @@ export function getImage(id) {
 
   let file = id + ".png"
   if (hasKey(data.icons, file))
-    return data.icons[file].default
+    return data.icons[file]
   else {
     // report missing/typo'd images
     console.log("Missing icon: " + file)
