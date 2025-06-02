@@ -77,7 +77,20 @@ class App extends React.Component {
   }
 
   toggleMod(id) {
-    this.setGame(id) // TODO! consider addons better
+    // Set main mod
+    if (data.coreMods[id]) {
+      this.setGame(id)
+    } else {
+      // Toggle add-on
+      const addons = [...this.state.addons]
+      const addonIndex = addons.indexOf(id)
+      if (addonIndex >= 0) {
+        addons.splice(addonIndex)
+      } else {
+        addons.push(id)
+      }
+      this.setState({addons: addons})
+    }
   }
 
   getAddons(modId) {
