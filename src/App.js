@@ -85,7 +85,7 @@ class App extends React.Component {
       const addons = [...this.state.addons]
       const addonIndex = addons.indexOf(id)
       if (addonIndex >= 0) {
-        addons.splice(addonIndex)
+        addons.splice(addonIndex, 1)
       } else {
         addons.push(id)
       }
